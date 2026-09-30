@@ -1,0 +1,19 @@
+# cs2-model-converter: sg556_xxi, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/sg556_xxi/sg556_xxi.vmdl
+# weapon: weapon_sg556
+# skeleton: animation/skeletons/weapons/sg556.vnmskel
+models/weapons/dj_ammo/djammo_white00_ak_vmat_g_tnormal_53b47c48.vtex
+models/weapons/dj_ammo/led_ammo_png_526694bf.vtex
+models/weapons/dj_ammo/led_ammo_png_5feeebe4.vtex
+models/weapons/dj_ammo/djammo_white00_ak.vmat
+models/weapons/dj_ammo/djammo_white0_ak_vmat_g_tnormal_53b47c48.vtex
+models/weapons/dj_ammo/djammo_white0_ak.vmat
+models/weapons/exg/tokyocold/sg556_xxi/aimpointcompm4s_normal_tga_638075dd.vtex
+models/weapons/exg/tokyocold/sg556_xxi/aimpointcompm4s_tga_11615caf.vtex
+models/weapons/exg/tokyocold/sg556_xxi/aimpointcompm4s_vmat_g_tselfillummask_4e2a9214.vtex
+models/weapons/exg/tokyocold/sg556_xxi/aimpointcompm4s.vmat
+models/weapons/exg/tokyocold/sg556_xxi/weapon_m4a1_dm_tga_c451d27f.vtex
+models/weapons/exg/tokyocold/sg556_xxi/weapon_m4a1_dm_vmat_g_tselfillummask_4e2a9214.vtex
+models/weapons/exg/tokyocold/sg556_xxi/weapon_m4a1_nm_tga_b3f9ca3a.vtex
+models/weapons/exg/tokyocold/sg556_xxi/weapon_m4a1_dm.vmat
+weapons/custom/sg556_xxi/sg556_xxi.vmdl

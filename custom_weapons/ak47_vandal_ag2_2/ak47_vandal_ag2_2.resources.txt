@@ -1,0 +1,9 @@
+# cs2-model-converter: ak47_vandal_ag2_2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/ak47_vandal_ag2_2/ak47_vandal_ag2_2.vmdl
+# weapon: weapon_ak47
+# skeleton: animation/skeletons/weapons/ak47.vnmskel
+weapons/moovik/ak47vandal/ak_ashen_v3_nm_1_png_71ce6cc0.vtex
+weapons/moovik/ak47vandal/gaia-vandal-orange-main-crystal_emissive_0_png_bb5a8a2.vtex
+weapons/moovik/ak47vandal/occlusion_png_8c6c0390.vtex
+weapons/moovik/ak47vandal/vandal_drevo.vmat
+weapons/custom/ak47_vandal_ag2_2/ak47_vandal_ag2_2.vmdl

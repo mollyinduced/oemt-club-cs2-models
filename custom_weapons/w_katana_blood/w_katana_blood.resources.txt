@@ -1,0 +1,13 @@
+# cs2-model-converter: w_katana_blood, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/w_katana_blood/w_katana_blood.vmdl
+# weapon: weapon_knife_m9_bayonet
+# skeleton: animation/skeletons/weapons/knife_m9.vnmskel
+models/weapons/exg/tokyocold/katana_blood/katana_blood_vmat_g_tambientocclusion_9782fd5c.vtex
+models/weapons/exg/tokyocold/katana_blood/katana_blood_vmat_g_tselfillummask_d0389da9.vtex
+models/weapons/exg/tokyocold/katana_blood/rivers_of_blood_n_tga_3c0589b7.vtex
+models/weapons/exg/tokyocold/katana_blood/rivers_of_blood_tga_7b61fcf4.vtex
+models/weapons/exg/tokyocold/katana_blood/katana_blood.vmat
+models/weapons/exg/tokyocold/katana_blood/blood_tga_2d7097b.vtex
+models/weapons/exg/tokyocold/katana_blood/katana_blood1_vmat_g_tambientocclusion_9782fd5c.vtex
+models/weapons/exg/tokyocold/katana_blood/katana_blood1.vmat
+weapons/custom/w_katana_blood/w_katana_blood.vmdl

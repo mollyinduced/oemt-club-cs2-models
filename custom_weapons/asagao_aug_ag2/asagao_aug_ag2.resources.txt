@@ -1,0 +1,15 @@
+# cs2-model-converter: asagao_aug_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/asagao_aug_ag2/asagao_aug_ag2.vmdl
+# weapon: weapon_aug
+# skeleton: animation/skeletons/weapons/aug.vnmskel
+weapons/deti00ykh/asagao_aug/materials/hanae_original_weapon_png_28e04f30.vtex
+weapons/deti00ykh/asagao_aug/materials/self_b_png_13b7c1f6.vtex
+weapons/deti00ykh/asagao_aug/materials/asagao.vmat
+weapons/deti00ykh/asagao_aug/materials/key1_vmat_g_tcolor_7ab53e0a.vtex
+weapons/deti00ykh/asagao_aug/materials/key1_vmat_g_tselfillummask_ff155607.vtex
+weapons/deti00ykh/asagao_aug/materials/key1.vmat
+weapons/deti00ykh/asagao_aug/materials/key2_vmat_g_tcolor_75c3063d.vtex
+weapons/deti00ykh/asagao_aug/materials/key2.vmat
+weapons/deti00ykh/asagao_aug/materials/outliner_vmat_g_tcolor_a1fefab2.vtex
+weapons/deti00ykh/asagao_aug/materials/outliner.vmat
+weapons/custom/asagao_aug_ag2/asagao_aug_ag2.vmdl

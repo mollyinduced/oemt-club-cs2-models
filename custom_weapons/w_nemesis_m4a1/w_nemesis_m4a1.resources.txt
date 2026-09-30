@@ -1,0 +1,13 @@
+# cs2-model-converter: w_nemesis_m4a1, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/w_nemesis_m4a1/w_nemesis_m4a1.vmdl
+# weapon: weapon_m4a1
+# skeleton: animation/skeletons/weapons/m4a4.vnmskel
+models/weapons/exg/tokyocold/nemesis/ads_tga_1ca9e7de.vtex
+models/weapons/exg/tokyocold/nemesis/ads_vmat_g_tselfillummask_2439da44.vtex
+models/weapons/exg/tokyocold/nemesis/ads.vmat
+models/weapons/exg/tokyocold/nemesis/h1_tga_a3936e3f.vtex
+models/weapons/exg/tokyocold/nemesis/h1n_tga_f4cefd79.vtex
+models/weapons/exg/tokyocold/nemesis/nemesis_lgnd_v22_ophitman_main_emissivetexture_png_f5209163.vtex
+models/weapons/exg/tokyocold/nemesis/nemesis_lgnd_v22_ophitman_main.vmat
+models/weapons/exg/tokyocold/nemesis/nemesis_lgnd_v22_ophitman_main2.vmat
+weapons/custom/w_nemesis_m4a1/w_nemesis_m4a1.vmdl

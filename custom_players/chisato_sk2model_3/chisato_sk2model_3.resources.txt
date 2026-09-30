@@ -1,0 +1,18 @@
+# cs2-model-converter: chisato_sk2model_3, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/hmn_sk2/chisato_sk2model.vmdl
+# first person: 0 3 12 15
+characters/models/hmn_sk2/lycoris_recoil/chisato/materials/chisato_cs2_vmat_g_tambientocclusion_9782fd5c.vtex
+characters/models/hmn_sk2/lycoris_recoil/chisato/materials/chisato_cs2_vmat_g_tdiffusefalloff_aa1e6fc8.vtex
+characters/models/hmn_sk2/lycoris_recoil/chisato/materials/chisato_cs2_vmat_g_tmetalness_1081f06e.vtex
+characters/models/hmn_sk2/lycoris_recoil/chisato/materials/chisato_cs2_vmat_g_tnormal_aed807f.vtex
+characters/models/hmn_sk2/lycoris_recoil/chisato/materials/chisato_png_61816cf.vtex
+materials/default/default_mask_tga_cac76a2f.vtex
+characters/models/hmn_sk2/lycoris_recoil/chisato/materials/chisato_cs2.vmat
+materials/characters/arms/arms_nail_png_6c9da8bc.vtex
+materials/characters/arms/arms_nail_vmat_g_tmetalness_cea5fc09_png_920cf645.vtex
+materials/characters/arms/arms_nail_vmat_g_tselfillummask_ff155607.vtex
+materials/default/stickers/squares_glitter_normal_tga_26be020f.vtex
+materials/characters/arms/arms_nail.vmat
+materials/characters/arms/body_arms_png_863a49d4.vtex
+materials/characters/arms/body_arms.vmat
+characters/models/hmn_sk2/chisato_sk2model.vmdl

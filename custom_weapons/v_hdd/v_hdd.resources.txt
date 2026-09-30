@@ -1,0 +1,15 @@
+# cs2-model-converter: v_hdd, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/v_hdd/v_hdd.vmdl
+# weapon: weapon_knife_butterfly
+# skeleton: animation/skeletons/weapons/knife_butterfly.vnmskel
+models/hudiedaoxianka/2_png_353db58c.vtex
+models/hudiedaoxianka/2_png_c06edb6e.vtex
+models/hudiedaoxianka/2_vmat_g_tambientocclusion_9782fd5c.vtex
+models/hudiedaoxianka/2_vmat_g_tnormal_2984f4a9.vtex
+materials/models/exg23/2.vmat
+models/hudiedaoxianka/melee_afterglow2_png_a44792e8.vtex
+models/hudiedaoxianka/melee_afterglow2_png_ebb4725a.vtex
+models/hudiedaoxianka/melee_afterglown_png_2af186eb.vtex
+models/hudiedaoxianka/melee_afterglown_png_e76a42b8.vtex
+materials/models/exg23/melee_afterglow2.vmat
+weapons/custom/v_hdd/v_hdd.vmdl

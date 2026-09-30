@@ -1,0 +1,11 @@
+# cs2-model-converter: awp_afterglow_ag2_3, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/awp_afterglow_ag2_3/awp_afterglow_ag2_3.vmdl
+# weapon: weapon_awp
+# skeleton: animation/skeletons/weapons/awp.vnmskel
+materials/models/custom_weapons/awp_afterglow_ag2_3/boltsniper_afterglow2_scope_v3_df_color_png_b2f09c04.vtex
+models/kolka/weapons/awp/boltsniper_afterglow2_scope_v3_df.vmat
+materials/models/custom_weapons/awp_afterglow_ag2_3/boltsniper_afterglow2_v3_df_color_png_4bac2be3.vtex
+models/kolka/weapons/awp/boltsniper_afterglow2_v3_df.vmat
+materials/models/custom_weapons/awp_afterglow_ag2_3/green_color_png_228c3b72.vtex
+models/kolka/weapons/awp/green.vmat
+weapons/custom/awp_afterglow_ag2_3/awp_afterglow_ag2_3.vmdl

@@ -1,0 +1,20 @@
+# cs2-model-converter: bizon_10025, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/bizon_10025/bizon_10025.vmdl
+# weapon: weapon_bizon
+# skeleton: animation/skeletons/weapons/bizon.vnmskel
+weapons/otakku/bizon/bizon_10025/materials/lightningsmg_charge_lightning_png_a08c60aa.vtex
+weapons/otakku/bizon/bizon_10025/materials/lightningsmg_charge_lightning_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/bizon/bizon_10025/materials/lightningsmg_charge_lightning_vmat_g_tnormal_2984f4a9.vtex
+weapons/otakku/bizon/bizon_10025/materials/lightningsmg_charge_lightning_vmat_g_tselfillummask_554b633a.vtex
+weapons/otakku/bizon/bizon_10025/materials/lightningsmg_charge_lightning.vmat
+weapons/otakku/bizon/bizon_10025/materials/lightningsmg_v_png_fecfec28.vtex
+weapons/otakku/bizon/bizon_10025/materials/lightningsmg_v_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/bizon/bizon_10025/materials/lightningsmg_v_vmat_g_tnormal_2984f4a9.vtex
+weapons/otakku/bizon/bizon_10025/materials/lightningsmg_v_vmat_g_tselfillummask_70f56fd7.vtex
+weapons/otakku/bizon/bizon_10025/materials/lightningsmg_v.vmat
+weapons/otakku/bizon/bizon_10025/materials/water_foam_normal_png_7b074821.vtex
+weapons/otakku/bizon/bizon_10025/materials/water_tank_clip_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/bizon/bizon_10025/materials/water_tank_clip_vmat_g_tcolor_a07bf229.vtex
+weapons/otakku/bizon/bizon_10025/materials/water_tank_clip_vmat_g_tselfillummask_ff155607.vtex
+weapons/otakku/bizon/bizon_10025/materials/water_tank_clip.vmat
+weapons/custom/bizon_10025/bizon_10025.vmdl

@@ -1,0 +1,36 @@
+# cs2-model-converter: cantarella, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/asmodeus/cantarella/cantarella.vmdl
+# first person: 0 1 2 3
+characters/models/asmodeus/cantarella/cantarella/body_vmorf.vtex
+characters/models/asmodeus/cantarella/materials/cantarella_bhair_png_66e46583.vtex
+characters/models/asmodeus/cantarella/materials/cantarella_bhair_png_797a696a.vtex
+characters/models/asmodeus/cantarella/materials/cantarella_bhair.vmat
+characters/models/asmodeus/cantarella/materials/cantarella_chest_png_af73078f.vtex
+characters/models/asmodeus/cantarella/materials/cantarella_chest_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/cantarella/materials/cantarella_chest.vmat
+characters/models/asmodeus/cantarella/materials/cantarella_cloth_png_aab716c8.vtex
+characters/models/asmodeus/cantarella/materials/cantarella_cloth_png_e0e5f12a.vtex
+characters/models/asmodeus/cantarella/materials/cantarella_cloth.vmat
+characters/models/asmodeus/cantarella/materials/cantarella_down_png_5a047c75.vtex
+characters/models/asmodeus/cantarella/materials/cantarella_down_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/cantarella/materials/cantarella_down.vmat
+characters/models/asmodeus/cantarella/materials/cantarella_down_png_8c61e6cb.vtex
+characters/models/asmodeus/cantarella/materials/cantarella_downb.vmat
+characters/models/asmodeus/cantarella/materials/cantarella_eye_png_23a22e19.vtex
+characters/models/asmodeus/cantarella/materials/cantarella_eye_png_5dcef75d.vtex
+characters/models/asmodeus/cantarella/materials/cantarella_eye.vmat
+characters/models/asmodeus/cantarella/materials/cantarella_eyeb_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/cantarella/materials/cantarella_eyeb.vmat
+characters/models/asmodeus/cantarella/materials/cantarella_eye_png_c2ff9fa2.vtex
+characters/models/asmodeus/cantarella/materials/cantarella_eyehi_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/cantarella/materials/cantarella_eyehi.vmat
+characters/models/asmodeus/cantarella/materials/cantarella_face_png_a07a5acf.vtex
+characters/models/asmodeus/cantarella/materials/cantarella_face_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/cantarella/materials/cantarella_face.vmat
+characters/models/asmodeus/cantarella/materials/cantarella_fhair_png_9c18146e.vtex
+characters/models/asmodeus/cantarella/materials/cantarella_fhair_png_feb5011f.vtex
+characters/models/asmodeus/cantarella/materials/cantarella_fhair.vmat
+characters/models/asmodeus/cantarella/materials/cantarella_skin_png_dcc0a0e7.vtex
+characters/models/asmodeus/cantarella/materials/cantarella_skin_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/cantarella/materials/cantarella_skin.vmat
+characters/models/asmodeus/cantarella/cantarella.vmdl

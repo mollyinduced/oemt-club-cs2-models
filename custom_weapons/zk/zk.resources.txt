@@ -1,0 +1,24 @@
+# cs2-model-converter: zk, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/zk/zk.vmdl
+# weapon: weapon_mp5sd
+# skeleton: animation/skeletons/weapons/mp5sd.vnmskel
+weapons/otakku/mp5sd/zk/materials/00000000ff4101a0_png_39854031.vtex
+weapons/otakku/mp5sd/zk/materials/00000000ff4101a0_png_42abb423.vtex
+weapons/otakku/mp5sd/zk/materials/00000000ff4101a0_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/mp5sd/zk/materials/00000000ff59e2e0_png_774ad30a.vtex
+weapons/otakku/mp5sd/zk/materials/00000000ff4101a0.vmat
+weapons/otakku/mp5sd/zk/materials/00000000ff595960_png_2d525221.vtex
+weapons/otakku/mp5sd/zk/materials/00000000ff595960_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/mp5sd/zk/materials/00000000ff59abe0_png_72bf8715.vtex
+weapons/otakku/mp5sd/zk/materials/00000000ff59b6e0_png_80d1ebf9.vtex
+weapons/otakku/mp5sd/zk/materials/00000000ff595960.vmat
+weapons/otakku/mp5sd/zk/materials/00000000ff595960_png_75b479fe.vtex
+weapons/otakku/mp5sd/zk/materials/00000000ff59cce0_png_a27c60c9.vtex
+weapons/otakku/mp5sd/zk/materials/00000000ff59cce0_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/mp5sd/zk/materials/00000000ff59cce0.vmat
+weapons/otakku/mp5sd/zk/materials/trans_czs2_zhongkang_3pshow_noise_05_png_214f8e0f.vtex
+weapons/otakku/mp5sd/zk/materials/trans_czs2_zhongkang_3pshow_noise_05_png_b8a74480.vtex
+weapons/otakku/mp5sd/zk/materials/txx_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/mp5sd/zk/materials/txx_vmat_g_tnormal_2984f4a9.vtex
+weapons/otakku/mp5sd/zk/materials/txx.vmat
+weapons/custom/zk/zk.vmdl

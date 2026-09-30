@@ -1,0 +1,8 @@
+# cs2-model-converter: ba_deagle_hinata, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/ba_deagle_hinata/ba_deagle_hinata.vmdl
+# weapon: weapon_deagle
+# skeleton: animation/skeletons/weapons/deagle.vnmskel
+phase2/weapons/7ychu5/slot2/ba_deagle_hinata/materials/default_obj_vmat_g_tnormal_53b47c48.vtex
+phase2/weapons/7ychu5/slot2/ba_deagle_hinata/materials/hinata_original_weapon_png_a710f0d.vtex
+phase2/weapons/7ychu5/slot2/ba_deagle_hinata/materials/default_obj.vmat
+weapons/custom/ba_deagle_hinata/ba_deagle_hinata.vmdl

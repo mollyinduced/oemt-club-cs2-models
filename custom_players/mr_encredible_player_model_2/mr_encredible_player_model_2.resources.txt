@@ -1,0 +1,10 @@
+# cs2-model-converter: mr_encredible_player_model_2, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/ag2/mr_encredible_player_model/mr_encredible_player_model.vmdl
+# first person: 0 2 12 15
+agents/models/ag2/mr_encredible_player_model/materials/body_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2/mr_encredible_player_model/materials/incredible_ao_png_8ab44ccb.vtex
+agents/models/ag2/mr_encredible_player_model/materials/incredible_png_54cafd97.vtex
+agents/models/ag2/mr_encredible_player_model/materials/body.vmat
+agents/models/ag2/mr_encredible_player_model/materials/outliner_vmat_g_tcolor_6b6e411d.vtex
+agents/models/ag2/mr_encredible_player_model/materials/outliner.vmat
+agents/models/ag2/mr_encredible_player_model/mr_encredible_player_model.vmdl

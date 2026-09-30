@@ -1,0 +1,9 @@
+# cs2-model-converter: carbon_m4a4_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/carbon_m4a4_ag2/carbon_m4a4_ag2.vmdl
+# weapon: weapon_m4a1
+# skeleton: animation/skeletons/weapons/m4a4.vnmskel
+weapons/nozb1/carbon_fiber/carbon_m4a4/materials/self_m4a4_png_456e4ba4.vtex
+weapons/nozb1/carbon_fiber/carbon_m4a4/materials/skin_carbon_fiber_normal_png_5add49c.vtex
+weapons/nozb1/carbon_fiber/carbon_m4a4/materials/skin_carbon_fiber_png_d4297cf5.vtex
+weapons/nozb1/carbon_fiber/carbon_m4a4/materials/carbonm4a4.vmat
+weapons/custom/carbon_m4a4_ag2/carbon_m4a4_ag2.vmdl

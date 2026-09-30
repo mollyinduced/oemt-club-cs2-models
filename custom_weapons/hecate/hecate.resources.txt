@@ -1,0 +1,17 @@
+# cs2-model-converter: hecate, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/hecate/hecate.vmdl
+# weapon: weapon_awp
+# skeleton: animation/skeletons/weapons/awp.vnmskel
+weapons/maoling/awp/hecate/chainsr_n_png_449c5ca3.vtex
+weapons/maoling/awp/hecate/chainsr_png_c9db1403.vtex
+weapons/maoling/awp/hecate/chainsr_v_vmat_g_tambientocclusion_2105c0a6.vtex
+weapons/maoling/awp/hecate/ggf_png_c7d71a10.vtex
+weapons/maoling/awp/hecate/chainsr_v.vmat
+weapons/maoling/awp/hecate/chainsrfx_png_6d9c8e2e.vtex
+weapons/maoling/awp/hecate/chainsrfx_png_a2ac90ae.vtex
+weapons/maoling/awp/hecate/chainsrfx.vmat
+weapons/maoling/awp/hecate/00000000_png_11231042.vtex
+weapons/maoling/awp/hecate/chainsrgodl_n_png_943846cd.vtex
+weapons/maoling/awp/hecate/chainsrgodl_png_4dd46182.vtex
+weapons/maoling/awp/hecate/chainsrgodl_v.vmat
+weapons/custom/hecate/hecate.vmdl

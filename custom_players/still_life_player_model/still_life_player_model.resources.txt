@@ -1,0 +1,11 @@
+# cs2-model-converter: still_life_player_model, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/deti00ykh/still_life_player_model/still_life_player_model.vmdl
+# first person: 0 2 12 15
+agents/models/deti00ykh/still_life_player_model/materials/bodys_vmat_g_tmetalness_b70f8f59.vtex
+agents/models/deti00ykh/still_life_player_model/materials/character_normal_png_89cdcb38.vtex
+agents/models/deti00ykh/still_life_player_model/materials/character_png_19f5bfb.vtex
+agents/models/deti00ykh/still_life_player_model/materials/bodys.vmat
+agents/models/deti00ykh/still_life_player_model/materials/head_png_291e661e.vtex
+agents/models/deti00ykh/still_life_player_model/materials/heads_vmat_g_tmetalness_b70f8f59.vtex
+agents/models/deti00ykh/still_life_player_model/materials/heads.vmat
+agents/models/deti00ykh/still_life_player_model/still_life_player_model.vmdl

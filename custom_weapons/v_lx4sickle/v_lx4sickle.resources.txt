@@ -1,0 +1,9 @@
+# cs2-model-converter: v_lx4sickle, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/v_lx4sickle/v_lx4sickle.vmdl
+# weapon: weapon_knife_t
+# skeleton: animation/skeletons/weapons/knife_default_t.vnmskel
+models/weapons/exg/tokyocold/lx4sickle/lx4sickle_vmat_g_tselfillummask_224743aa.vtex
+models/weapons/exg/tokyocold/lx4sickle/sickle_normal_tga_d1f8de53.vtex
+models/weapons/exg/tokyocold/lx4sickle/sickle_tga_ae5cec4a.vtex
+models/weapons/exg/tokyocold/lx4sickle/lx4sickle.vmat
+weapons/custom/v_lx4sickle/v_lx4sickle.vmdl

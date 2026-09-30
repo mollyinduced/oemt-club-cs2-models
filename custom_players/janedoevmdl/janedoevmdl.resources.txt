@@ -1,0 +1,29 @@
+# cs2-model-converter: janedoevmdl, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/mpink/cola/janedoe/janedoevmdl.vmdl
+# first person: 0 2 12 15
+agents/models/mpink/cola/janedoe/janedoetextures/body1_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/mpink/cola/janedoe/janedoetextures/body1_vmat_g_tmetalness_1081f06e.vtex
+agents/models/mpink/cola/janedoe/janedoetextures/body1_vmat_g_tnormal_d52512a9.vtex
+agents/models/mpink/cola/janedoe/janedoetextures/janedoe_body_map1_d_png_8c09f0d2.vtex
+agents/models/mpink/cola/janedoe/janedoetextures/body1.vmat
+agents/models/mpink/cola/janedoe/janedoetextures/body2_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/mpink/cola/janedoe/janedoetextures/body2_vmat_g_tmetalness_1081f06e.vtex
+agents/models/mpink/cola/janedoe/janedoetextures/body2_vmat_g_tnormal_d52512a9.vtex
+agents/models/mpink/cola/janedoe/janedoetextures/janedoe_body_map2_d_png_c89007fb.vtex
+agents/models/mpink/cola/janedoe/janedoetextures/body2.vmat
+agents/models/mpink/cola/janedoe/janedoetextures/eyeshadow_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/mpink/cola/janedoe/janedoetextures/eyeshadow_vmat_g_tmetalness_1081f06e.vtex
+agents/models/mpink/cola/janedoe/janedoetextures/eyeshadow_vmat_g_tnormal_2984f4a9.vtex
+agents/models/mpink/cola/janedoe/janedoetextures/t_common_eyeshadow_2_png_8e53a746.vtex
+agents/models/mpink/cola/janedoe/janedoetextures/eyeshadow.vmat
+agents/models/mpink/cola/janedoe/janedoetextures/face_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/mpink/cola/janedoe/janedoetextures/face_vmat_g_tmetalness_1081f06e.vtex
+agents/models/mpink/cola/janedoe/janedoetextures/face_vmat_g_tnormal_d52512a9.vtex
+agents/models/mpink/cola/janedoe/janedoetextures/janedoe_face_d_png_7320b5b0.vtex
+agents/models/mpink/cola/janedoe/janedoetextures/face.vmat
+agents/models/mpink/cola/janedoe/janedoetextures/janedoe_weapon_d_png_7f6de3e6.vtex
+agents/models/mpink/cola/janedoe/janedoetextures/weapon_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/mpink/cola/janedoe/janedoetextures/weapon_vmat_g_tmetalness_1081f06e.vtex
+agents/models/mpink/cola/janedoe/janedoetextures/weapon_vmat_g_tnormal_d52512a9.vtex
+agents/models/mpink/cola/janedoe/janedoetextures/weapon.vmat
+agents/models/mpink/cola/janedoe/janedoevmdl.vmdl

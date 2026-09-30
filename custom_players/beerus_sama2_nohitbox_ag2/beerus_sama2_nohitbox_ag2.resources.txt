@@ -1,0 +1,6 @@
+# cs2-model-converter: beerus_sama2_nohitbox_ag2, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: phase2/characters/models/otakku/beerus_sama/beerus_sama2_nohitbox_ag2.vmdl
+characters/models/otakku/beerus_sama/materials/body2_png_db2320a4.vtex
+characters/models/otakku/beerus_sama/materials/t_m_med_staminacat_body_n_png_4667e5f6.vtex
+characters/models/otakku/beerus_sama/materials/body_c.vmat
+phase2/characters/models/otakku/beerus_sama/beerus_sama2_nohitbox_ag2.vmdl

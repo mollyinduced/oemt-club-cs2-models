@@ -1,0 +1,9 @@
+# cs2-model-converter: the resources models/custom/wildberries_player_model/wildberries_player_model.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/wildberries_player_model/sale_icon_color_png_1e72865c.vtex
+materials/models/custom/wildberries_player_model/sale_icon.vmat
+materials/models/custom/wildberries_player_model/self_wb_color_png_28e7e17e.vtex
+materials/models/custom/wildberries_player_model/self_wb.vmat
+materials/models/custom/wildberries_player_model/wild_body_color_png_6303fb71.vtex
+materials/models/custom/wildberries_player_model/wild_body.vmat
+models/custom/wildberries_player_model/wildberries_player_model.vmdl

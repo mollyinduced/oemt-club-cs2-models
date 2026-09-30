@@ -1,0 +1,23 @@
+# cs2-model-converter: butterfly_print_ag2_2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/butterfly_print_ag2_2/butterfly_print_ag2_2.vmdl
+# weapon: weapon_knife_butterfly
+# skeleton: animation/skeletons/weapons/knife_butterfly.vnmskel
+materials/default/default_paintao_tga_5969a7df.vtex
+models/weapons/exg/tokyocold/apex_butterfly_print/apex_butterfly_print_vmat_g_tnormal_3fd873b1_png_d4f20c46.vtex
+models/weapons/exg/tokyocold/apex_butterfly_print/apex_butterfly_print_vmat_g_tselfillummask_2f34022a.vtex
+models/weapons/exg/tokyocold/apex_butterfly_print/print1440_png_2ebbe332.vtex
+models/weapons/exg/tokyocold/apex_butterfly_print/apex_butterfly_print.vmat
+materials/default/default_color_tga_659ded84.vtex
+models/weapons/exg/tokyocold/apex_butterfly_print/apex_butterfly_print_heirloomglass_vmat_g_tselfillummask_562af04c.vtex
+models/weapons/exg/tokyocold/apex_butterfly_print/water_foam_normal_png_9ff7003c.vtex
+models/weapons/exg/tokyocold/apex_butterfly_print/apex_butterfly_print_heirloomglass.vmat
+models/weapons/exg/tokyocold/apex_butterfly_print/apex_butterfly_print_heirloomglass1_vmat_g_tmetalness_11645eb2.vtex
+models/weapons/exg/tokyocold/apex_butterfly_print/apex_butterfly_print_heirloomglass1.vmat
+models/weapons/exg/tokyocold/apex_butterfly_print/bear_body_color_jpg_8d67f3ed_png_81c3b5de.vtex
+models/weapons/exg/tokyocold/apex_butterfly_print/butterflyapex_mb_vmat_g_tnormal_a1e47e21_png_435fa9b1.vtex
+models/weapons/exg/tokyocold/apex_butterfly_print/butterflyapex_mb_vmat_g_tselfillummask_749e8c49.vtex
+models/weapons/exg/tokyocold/apex_butterfly_print/butterflyapex_mb.vmat
+models/weapons/exg/tokyocold/apex_butterfly_print/butterflyapex_mb2_vmat_g_tnormal_a1e47e21_png_786fea96.vtex
+models/weapons/exg/tokyocold/apex_butterfly_print/butterflyapex_mb2_vmat_g_tselfillummask_202f2aa9.vtex
+models/weapons/exg/tokyocold/apex_butterfly_print/butterflyapex_mb2.vmat
+weapons/custom/butterfly_print_ag2_2/butterfly_print_ag2_2.vmdl

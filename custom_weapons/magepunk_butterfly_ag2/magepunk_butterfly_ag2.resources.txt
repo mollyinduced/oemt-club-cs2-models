@@ -1,0 +1,14 @@
+# cs2-model-converter: magepunk_butterfly_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/magepunk_butterfly_ag2/magepunk_butterfly_ag2.vmdl
+# weapon: weapon_knife_butterfly
+# skeleton: animation/skeletons/weapons/knife_butterfly.vnmskel
+weapons/nozb1/valogun/knife/magepunk_butterfly/materials/magedif_vmat_g_tnormal_61dacc89.vtex
+weapons/nozb1/valogun/knife/magepunk_butterfly/materials/melee_magepunk3_df_png_5452f61a.vtex
+weapons/nozb1/valogun/knife/magepunk_butterfly/materials/magedif.vmat
+weapons/nozb1/valogun/knife/magepunk_butterfly/materials/mageglass_vmat_g_tcolor_4fc2c986.vtex
+weapons/nozb1/valogun/knife/magepunk_butterfly/materials/mageglass_vmat_g_tnormal_a1e47e21.vtex
+weapons/nozb1/valogun/knife/magepunk_butterfly/materials/mageglass.vmat
+weapons/nozb1/valogun/knife/magepunk_butterfly/materials/mageimiss_vmat_g_tselfillummask_b1767fd1.vtex
+weapons/nozb1/valogun/knife/magepunk_butterfly/materials/magepunk_emissive_png_3646f0b9.vtex
+weapons/nozb1/valogun/knife/magepunk_butterfly/materials/mageimiss.vmat
+weapons/custom/magepunk_butterfly_ag2/magepunk_butterfly_ag2.vmdl

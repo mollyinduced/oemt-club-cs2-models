@@ -1,0 +1,28 @@
+# cs2-model-converter: mita_knife, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/mita_knife/mita_knife.vmdl
+# weapon: weapon_knife_tactical
+# skeleton: animation/skeletons/weapons/knife_tactical.vnmskel
+weapons/otakku/knife/knife_tactical/mita_knife/materials/lg_png_cdca4cb.vtex
+weapons/otakku/knife/knife_tactical/mita_knife/materials/lg_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/knife/knife_tactical/mita_knife/materials/lg_vmat_g_tmetalness_bf88ae37.vtex
+weapons/otakku/knife/knife_tactical/mita_knife/materials/lg_vmat_g_tnormal_f8264e14.vtex
+weapons/otakku/knife/knife_tactical/mita_knife/materials/lg.vmat
+weapons/otakku/knife/knife_tactical/mita_knife/materials/txe2_png_54b97107.vtex
+weapons/otakku/knife/knife_tactical/mita_knife/materials/mb.vmat
+weapons/otakku/knife/knife_tactical/mita_knife/materials/tx_png_dd29eb78.vtex
+weapons/otakku/knife/knife_tactical/mita_knife/materials/tx.vmat
+weapons/otakku/knife/knife_tactical/mita_knife/materials/tx2_png_c6cfedce.vtex
+weapons/otakku/knife/knife_tactical/mita_knife/materials/tx2.vmat
+weapons/otakku/knife/knife_tactical/mita_knife/materials/tx3_png_c3029f13.vtex
+weapons/otakku/knife/knife_tactical/mita_knife/materials/tx3.vmat
+weapons/otakku/knife/knife_tactical/mita_knife/materials/xmaterial_7931565d2ecfbe4_n_png_1fc143a.vtex
+weapons/otakku/knife/knife_tactical/mita_knife/materials/xmaterial_7931565d2ecfbe4_rgb_png_51faea7e.vtex
+weapons/otakku/knife/knife_tactical/mita_knife/materials/xmaterial_7931565d2ecfbe4_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/knife/knife_tactical/mita_knife/materials/xmaterial_7931565d2ecfbe4_vmat_g_tmetalness_ae030340.vtex
+weapons/otakku/knife/knife_tactical/mita_knife/materials/xmaterial_7931565d2ecfbe4.vmat
+weapons/otakku/knife/knife_tactical/mita_knife/materials/xmaterial_89631649b4513d8_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/knife/knife_tactical/mita_knife/materials/xmaterial_89631649b4513d8_vmat_g_tcolor_f51e5eff.vtex
+weapons/otakku/knife/knife_tactical/mita_knife/materials/xmaterial_89631649b4513d8_vmat_g_tmetalness_bf88ae37.vtex
+weapons/otakku/knife/knife_tactical/mita_knife/materials/xmaterial_89631649b4513d8_vmat_g_tnormal_f8264e14.vtex
+weapons/otakku/knife/knife_tactical/mita_knife/materials/xmaterial_89631649b4513d8.vmat
+weapons/custom/mita_knife/mita_knife.vmdl

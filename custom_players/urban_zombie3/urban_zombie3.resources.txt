@@ -1,0 +1,14 @@
+# cs2-model-converter: urban_zombie3, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/otakku/urban_zombie/urban_zombie3.vmdl
+# first person: 0 2 12 15
+agents/models/otakku/urban_zombie/materials/t_urbanzombie_body_albedo_png_7e3391a5.vtex
+agents/models/otakku/urban_zombie/materials/t_urbanzombie_body_ao_png_e2bcb264.vtex
+agents/models/otakku/urban_zombie/materials/t_urbanzombie_body_maskmap_png_94675b3b.vtex
+agents/models/otakku/urban_zombie/materials/t_urbanzombie_body_normal_png_9506dfd8.vtex
+agents/models/otakku/urban_zombie/materials/body_t.vmat
+agents/models/otakku/urban_zombie/materials/headcrab_classic_color_psd_8de3693a_png_f3bf4f84.vtex
+agents/models/otakku/urban_zombie/materials/headcrab_classic_normal_psd_39cc1af3_orm_350801383_png_7e9689b2.vtex
+agents/models/otakku/urban_zombie/materials/headcrab_classic_normal_psd_39cc1af3_png_4514a073.vtex
+agents/models/otakku/urban_zombie/materials/headcrab_classic_vmat_g_tmetalness_b99de324.vtex
+agents/models/otakku/urban_zombie/materials/headcrab_classic.vmat
+agents/models/otakku/urban_zombie/urban_zombie3.vmdl

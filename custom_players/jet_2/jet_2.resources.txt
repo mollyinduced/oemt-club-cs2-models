@@ -1,0 +1,9 @@
+# cs2-model-converter: the resources models/custom/jet_2/jet_2.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/jet_2/body_color_png_4500ee76.vtex
+materials/models/custom/jet_2/body.vmat
+materials/models/custom/jet_2/body_arms_bod_color_png_59c21863.vtex
+materials/models/custom/jet_2/body_arms_bod.vmat
+materials/models/custom/jet_2/hair_color_png_8fc5fe60.vtex
+materials/models/custom/jet_2/hair.vmat
+models/custom/jet_2/jet_2.vmdl

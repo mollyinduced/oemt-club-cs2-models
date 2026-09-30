@@ -1,0 +1,12 @@
+# cs2-model-converter: huojin, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/huojin/huojin.vmdl
+# weapon: weapon_hegrenade
+# skeleton: animation/skeletons/weapons/hegrenade.vnmskel
+weapons/models/exg/pullingcans/materials/huojin_vmat_g_tambientocclusion_4fccb7e0.vtex
+weapons/models/exg/pullingcans/materials/huojin_vmat_g_tnormal_8ec27d08.vtex
+weapons/models/exg/pullingcans/materials/label_huojini_png_370ace.vtex
+weapons/models/exg/pullingcans/materials/huojin.vmat
+weapons/models/exg/pullingcans/materials/metal_d_png_a44a5547.vtex
+weapons/models/exg/pullingcans/materials/metal_normal_png_9345f09a.vtex
+weapons/models/exg/pullingcans/materials/metal.vmat
+weapons/custom/huojin/huojin.vmdl

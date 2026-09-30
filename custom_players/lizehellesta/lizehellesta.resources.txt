@@ -1,0 +1,26 @@
+# cs2-model-converter: lizehellesta, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/kolka/lizehellesta/lizehellesta.vmdl
+# first person: 0 2 12 15
+characters/models/kolka/lizehellesta/mat/cloth01_png_fce1b72.vtex
+characters/models/kolka/lizehellesta/mat/cloth01_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/kolka/lizehellesta/mat/cloth01_vmat_g_tnormal_53b47c48.vtex
+characters/models/kolka/lizehellesta/mat/cloth01.vmat
+characters/models/kolka/lizehellesta/mat/cloth01_star_png_b32c230.vtex
+characters/models/kolka/lizehellesta/mat/star.vmat
+characters/models/kolka/lizehellesta/lizehellesta_arms.vmdl
+characters/models/kolka/lizehellesta/mat/face01_png_7e2a7883.vtex
+characters/models/kolka/lizehellesta/mat/face01_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/kolka/lizehellesta/mat/face01_vmat_g_tnormal_53b47c48.vtex
+characters/models/kolka/lizehellesta/mat/face01.vmat
+characters/models/kolka/lizehellesta/mat/hair_png_c9d3144f.vtex
+characters/models/kolka/lizehellesta/mat/hair_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/kolka/lizehellesta/mat/hair_vmat_g_tnormal_53b47c48.vtex
+characters/models/kolka/lizehellesta/mat/hair.vmat
+characters/models/kolka/lizehellesta/mat/monocle2_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/kolka/lizehellesta/mat/sebas01_png_7a57cf91.vtex
+characters/models/kolka/lizehellesta/mat/monocle2.vmat
+characters/models/kolka/lizehellesta/mat/sebas01_png_31bd7678.vtex
+characters/models/kolka/lizehellesta/mat/sebas01_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/kolka/lizehellesta/mat/sebas01_vmat_g_tnormal_53b47c48.vtex
+characters/models/kolka/lizehellesta/mat/sebas01.vmat
+characters/models/kolka/lizehellesta/lizehellesta.vmdl

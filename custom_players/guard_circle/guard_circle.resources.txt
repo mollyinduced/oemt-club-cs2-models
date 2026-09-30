@@ -1,0 +1,8 @@
+# cs2-model-converter: guard_circle, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/kolka/fix_skins/guard_circle.vmdl
+# first person: 0 1 2 3
+characters/models/kolka/yooma/guardcircle/mat/sq_guardscircle_basecolor_png_f26a6485.vtex
+characters/models/kolka/yooma/guardcircle/mat/sq_guardssquare_metallic_png_fd3a5b6d.vtex
+characters/models/kolka/yooma/guardcircle/mat/sq_guardssquare_normal_png_a22993dc.vtex
+characters/models/kolka/yooma/guardcircle/mat/triangle.vmat
+characters/models/kolka/fix_skins/guard_circle.vmdl

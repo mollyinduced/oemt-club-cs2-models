@@ -1,0 +1,9 @@
+# cs2-model-converter: sword_ag2_2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/sword_ag2_2/sword_ag2_2.vmdl
+# weapon: weapon_knife
+# skeleton: animation/skeletons/weapons/knife_default_ct.vnmskel
+weapons/moovik/sword/ambientocclusion_png_bb077368.vtex
+weapons/moovik/sword/minecraft_knife_png_d9a12688.vtex
+weapons/moovik/sword/normal1_png_e2e83fc8.vtex
+weapons/moovik/sword/sword_d.vmat
+weapons/custom/sword_ag2_2/sword_ag2_2.vmdl

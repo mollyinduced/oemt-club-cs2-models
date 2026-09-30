@@ -1,0 +1,8 @@
+# cs2-model-converter: obsigargoyle_player_model, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/ag2/obsigargoyle_player_model/obsigargoyle_player_model.vmdl
+# first person: 0 2 12 15
+agents/models/ag2/obsigargoyle_player_model/materials/t_obsidiangargoyle_d2_png_13cefb5c.vtex
+agents/models/ag2/obsigargoyle_player_model/materials/t_obsidiangargoyle_n_png_e89af1b.vtex
+agents/models/ag2/obsigargoyle_player_model/materials/t_obsidiangargoyle_s_png_83139de2.vtex
+agents/models/ag2/obsigargoyle_player_model/materials/1.vmat
+agents/models/ag2/obsigargoyle_player_model/obsigargoyle_player_model.vmdl

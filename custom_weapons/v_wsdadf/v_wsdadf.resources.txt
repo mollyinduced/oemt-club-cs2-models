@@ -1,0 +1,13 @@
+# cs2-model-converter: v_wsdadf, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/v_wsdadf/v_wsdadf.vmdl
+# weapon: weapon_knife_stiletto
+# skeleton: animation/skeletons/weapons/knife_stiletto.vnmskel
+materials/models/exg28/katana_n_png_b2aa197b.vtex
+materials/models/exg28/katana_png_2e8a78b3.vtex
+materials/models/exg28/katana_vmat_g_tselfillummask_d1e1d75b.vtex
+materials/models/exg28/katana.vmat
+materials/models/exg28/scabbard_n_png_7a3e0c2f.vtex
+materials/models/exg28/scabbard_png_ced328fd.vtex
+materials/models/exg28/scabbard_vmat_g_tselfillummask_d1e1d75b.vtex
+materials/models/exg28/scabbard.vmat
+weapons/custom/v_wsdadf/v_wsdadf.vmdl

@@ -1,0 +1,13 @@
+# cs2-model-converter: sukuna_player_model, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/deti00ykh/sukuna_player_model/sukuna_player_model.vmdl
+# first person: 0 2 12 15
+characters/models/deti00ykh/sukuna_player_model/materials/lgoo_png_4119ce8d.vtex
+characters/models/deti00ykh/sukuna_player_model/materials/logo_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/deti00ykh/sukuna_player_model/materials/logo.vmat
+characters/models/deti00ykh/sukuna_player_model/materials/body_suka_png_b55bce19.vtex
+characters/models/deti00ykh/sukuna_player_model/materials/sukubody_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/deti00ykh/sukuna_player_model/materials/sunun_normal_png_ca27a232.vtex
+characters/models/deti00ykh/sukuna_player_model/materials/sukubody.vmat
+characters/models/deti00ykh/sukuna_player_model/sukuna_player_model/arms_vmorf.vtex
+characters/models/deti00ykh/sukuna_player_model/sukuna_player_model/body_vmorf.vtex
+characters/models/deti00ykh/sukuna_player_model/sukuna_player_model.vmdl

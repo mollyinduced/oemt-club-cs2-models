@@ -1,0 +1,5 @@
+# cs2-model-converter: the resources models/custom/otakku_emotes/otakku_emotes.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/otakku_emotes/material_color_png_b200a797.vtex
+materials/models/custom/otakku_emotes/material.vmat
+models/custom/otakku_emotes/otakku_emotes.vmdl

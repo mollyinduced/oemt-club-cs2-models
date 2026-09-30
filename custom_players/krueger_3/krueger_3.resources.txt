@@ -1,0 +1,23 @@
+# cs2-model-converter: the resources models/custom/krueger_3/krueger_3.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/krueger_3/claw_metal_color_png_d02987cb.vtex
+materials/models/custom/krueger_3/claw_metal.vmat
+materials/models/custom/krueger_3/eyes_color_png_5ab39603.vtex
+materials/models/custom/krueger_3/eyes.vmat
+materials/models/custom/krueger_3/hat_color_png_8db64904.vtex
+materials/models/custom/krueger_3/hat.vmat
+materials/models/custom/krueger_3/metal_color_png_cd7011f.vtex
+materials/models/custom/krueger_3/metal.vmat
+materials/models/custom/krueger_3/mouth_color_png_f9dc0d11.vtex
+materials/models/custom/krueger_3/mouth.vmat
+materials/models/custom/krueger_3/pants_color_png_5d432d1c.vtex
+materials/models/custom/krueger_3/pants.vmat
+materials/models/custom/krueger_3/shoes_color_png_1a13c81.vtex
+materials/models/custom/krueger_3/shoes.vmat
+materials/models/custom/krueger_3/skin_color_png_d88973a0.vtex
+materials/models/custom/krueger_3/skin.vmat
+materials/models/custom/krueger_3/sweater_arms_color_png_3e8b3063.vtex
+materials/models/custom/krueger_3/sweater_arms.vmat
+materials/models/custom/krueger_3/sweater_red_color_png_3b8164d5.vtex
+materials/models/custom/krueger_3/sweater_red.vmat
+models/custom/krueger_3/krueger_3.vmdl

@@ -1,0 +1,18 @@
+# cs2-model-converter: haku, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/exg/haku/haku.vmdl
+# first person: 0 2 12 15
+characters/models/exg/haku/mat/haku_vmat_g_tmetalness_1081f06e.vtex
+characters/models/exg/haku/mat/haku_vmat_g_tnormal_f50e41ac.vtex
+characters/models/exg/haku/tex/a0n_jpg_5bcdd2ee_png_77eae8af.vtex
+characters/models/exg/haku/mat/haku.vmat
+characters/models/exg/haku/mat/s2_vmat_g_tnormal_ab72ac96.vtex
+characters/models/exg/haku/mat/s2_vmat_g_tselfillummask_ff155607.vtex
+characters/models/exg/haku/mat/s2.vmat
+characters/models/exg/haku/mat/s3_vmat_g_tnormal_ab72ac96.vtex
+characters/models/exg/haku/mat/s3_vmat_g_tselfillummask_ff155607.vtex
+characters/models/exg/haku/mat/s3.vmat
+characters/models/exg/haku/mat/zj_vmat_g_tnormal_ab72ac96.vtex
+characters/models/exg/haku/mat/zj_vmat_g_tselfillummask_ff155607.vtex
+characters/models/exg/haku/tex/a0n_jpg_5bcdd2ee_png_57c22f0d.vtex
+characters/models/exg/haku/mat/zj.vmat
+characters/models/exg/haku/haku.vmdl

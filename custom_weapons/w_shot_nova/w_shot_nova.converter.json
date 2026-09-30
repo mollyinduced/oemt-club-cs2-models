@@ -1,0 +1,48 @@
+{
+ "converter": "2.3",
+ "made": "2026-09-29 22:28:10",
+ "name": "w_shot_nova",
+ "mode": "rebuild",
+ "input": "C:\\Users\\mollyinduced\\Downloads\\models\\assault_3070594412",
+ "model": "models/weapons/w_shot_nova.vmdl_c",
+ "kind": "CS2 weapon model, no skeleton",
+ "weapon": "weapon_nova",
+ "options": {
+  "skin": 0,
+  "up": "auto",
+  "forward": "auto",
+  "rig": true,
+  "shader": "csgo_complex.vfx",
+  "texture_size": 4096,
+  "mode": "auto",
+  "jiggle": true,
+  "guess_jiggle": true,
+  "first_person": true,
+  "twist": true,
+  "arms": null,
+  "weapon": null,
+  "extra": [
+   "C:\\Users\\mollyinduced\\Downloads\\models\\homer_simpson_v3\\agents\\models\\otakku\\homer_simpson\\materials"
+  ],
+  "addon": "custom_models"
+ },
+ "stats": {
+  "triangles": 2059,
+  "bones": 7,
+  "on": "weapons/models/nova/weapon_shot_nova.vmdl",
+  "skeleton": "animation/skeletons/weapons/nova.vnmskel",
+  "moved": {
+   "r": [
+    22.977,
+    -41.286,
+    1.269,
+    125.4
+   ]
+  },
+  "parts": {
+   "weapon_pump": "pump",
+   "weapon_trigger": "trigger"
+  },
+  "left_out": 0
+ }
+}

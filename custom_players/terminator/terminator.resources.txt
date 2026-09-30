@@ -1,0 +1,15 @@
+# cs2-model-converter: the resources models/custom/terminator/terminator.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/terminator/m_med_powerfarmer_body_color_png_53f27f1c.vtex
+materials/models/custom/terminator/m_med_powerfarmer_body.vmat
+materials/models/custom/terminator/m_med_powerfarmer_eyes_color_png_2e46366c.vtex
+materials/models/custom/terminator/m_med_powerfarmer_eyes.vmat
+materials/models/custom/terminator/m_med_powerfarmer_faceacc_color_png_f52b24e0.vtex
+materials/models/custom/terminator/m_med_powerfarmer_faceacc.vmat
+materials/models/custom/terminator/m_med_powerfarmer_head_color_png_9355117b.vtex
+materials/models/custom/terminator/m_med_powerfarmer_head.vmat
+materials/models/custom/terminator/m_med_powerfarmer_lenses_color_png_fdc7a0fa.vtex
+materials/models/custom/terminator/m_med_powerfarmer_lenses.vmat
+materials/models/custom/terminator/metall_acc_color_png_a0fdc639.vtex
+materials/models/custom/terminator/metall_acc.vmat
+models/custom/terminator/terminator.vmdl

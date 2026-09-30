@@ -1,0 +1,12 @@
+# cs2-model-converter: esportsinvitational_red, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/esportsinvitational_red/esportsinvitational_red.vmdl
+# weapon: weapon_knife_ursus
+# skeleton: animation/skeletons/weapons/knife_ursus.vnmskel
+models/kolka/val/esportsinvitational/red_vmat_g_tcolor_f3418d1.vtex
+models/kolka/val/esportsinvitational/red_vmat_g_tselfillummask_99bddea2.vtex
+models/kolka/val/esportsinvitational/red.vmat
+models/kolka/val/esportsinvitational/melee_esportsinvitational_df_png_21ea0a15.vtex
+models/kolka/val/esportsinvitational/melee_esportsinvitational_nm_png_9d311b51.vtex
+models/kolka/val/esportsinvitational/self_png_1f07d20c.vtex
+models/kolka/val/esportsinvitational/valo.vmat
+weapons/custom/esportsinvitational_red/esportsinvitational_red.vmdl

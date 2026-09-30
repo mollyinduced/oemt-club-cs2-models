@@ -1,0 +1,7 @@
+# cs2-model-converter: the resources models/custom/the_monkey/the_monkey.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/the_monkey/the_monkey_color_png_de40d415.vtex
+materials/models/custom/the_monkey/the_monkey.vmat
+materials/models/custom/the_monkey/the_monkey_fur_color_png_3e7d8874.vtex
+materials/models/custom/the_monkey/the_monkey_fur.vmat
+models/custom/the_monkey/the_monkey.vmdl

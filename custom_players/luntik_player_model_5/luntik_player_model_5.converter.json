@@ -1,0 +1,46 @@
+{
+ "converter": "2.3",
+ "made": "2026-09-30 02:08:15",
+ "name": "luntik_player_model_5",
+ "mode": "as-is",
+ "input": "C:\\Users\\mollyinduced\\Downloads\\models\\interial_su_models_3726839993",
+ "model": "characters/models/nozb1/luntik_player_model/luntik_player_model.vmdl_c",
+ "kind": "CS2 model (AnimGraph2)",
+ "options": {
+  "skin": 0,
+  "up": "auto",
+  "forward": "auto",
+  "rig": true,
+  "shader": "csgo_complex.vfx",
+  "texture_size": 4096,
+  "mode": "auto",
+  "jiggle": true,
+  "guess_jiggle": true,
+  "first_person": true,
+  "twist": true,
+  "arms": null,
+  "weapon": null,
+  "extra": [
+   "C:\\Users\\mollyinduced\\Downloads\\models\\homer_simpson_v3\\agents\\models\\otakku\\homer_simpson\\materials"
+  ],
+  "addon": "custom_models"
+ },
+ "stats": {
+  "triangles": 4940,
+  "bones": 208,
+  "first_person": "its own",
+  "jiggle_bones": [
+   "jiggle_usi",
+   "jiggle_usi2",
+   "jiggle_usi3",
+   "jiggle_usi4",
+   "jiggle_usi_001",
+   "jiggle_usi2_001",
+   "jiggle_usi3_001",
+   "jiggle_usi4_001",
+   "jiggle_hvost1",
+   "jiggle_hvost2",
+   "jiggle_hvost3"
+  ]
+ }
+}

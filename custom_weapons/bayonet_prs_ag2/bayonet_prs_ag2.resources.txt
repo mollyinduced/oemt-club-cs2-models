@@ -1,0 +1,15 @@
+# cs2-model-converter: bayonet_prs_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/bayonet_prs_ag2/bayonet_prs_ag2.vmdl
+# weapon: weapon_bayonet
+# skeleton: animation/skeletons/weapons/knife_bayonet.vnmskel
+weapons/models/bayonet_prs/materials/weapons_models_knife_knife_bayonet_materials_weapon_knife_bayonet.vmat_base_color_png_5ea32bb9.vtex
+weapons/models/bayonet_prs/materials/weapons_models_knife_knife_bayonet_materials_weapon_knife_bayonet.vmat_base_colormask_png_fa831178.vtex
+weapons/models/bayonet_prs/materials/weapons_models_knife_knife_bayonet_materials_weapon_knife_bayonet.vmat_metallic_png_c2a26943.vtex
+weapons/models/bayonet_prs/materials/knife_body.vmat
+weapons/models/bayonet_prs/materials/7e94dbae734d410bb08584029397ce0b_png_16d272d9.vtex
+weapons/models/bayonet_prs/materials/mb_vmat_g_tselfillummask_ff155607.vtex
+weapons/models/bayonet_prs/materials/mb.vmat
+weapons/models/bayonet_prs/materials/7e94dbae734d410bb08584029397ce0b_png_e40fd7f0.vtex
+weapons/models/bayonet_prs/materials/star_png_b375c633.vtex
+weapons/models/bayonet_prs/materials/ring.vmat
+weapons/custom/bayonet_prs_ag2/bayonet_prs_ag2.vmdl

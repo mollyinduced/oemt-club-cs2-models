@@ -1,0 +1,30 @@
+# cs2-model-converter: fsin_player_model, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/nozb1/fsin_player_model/fsin_player_model.vmdl
+# first person: 0 2 12 15
+characters/models/nozb1/fsin_player_model/fsin_player_model/arms_vmorf.vtex
+characters/models/nozb1/fsin_player_model/fsin_player_model/body_vmorf.vtex
+characters/models/nozb1/fsin_player_model/materials/_omon_bala_black_0_png_955f19bb.vtex
+characters/models/nozb1/fsin_player_model/materials/balaklava_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/fsin_player_model/materials/balaklava.vmat
+characters/models/nozb1/fsin_player_model/materials/_flora_omon2_0_png_6bc8e61b.vtex
+characters/models/nozb1/fsin_player_model/materials/body_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/fsin_player_model/materials/body.vmat
+characters/models/nozb1/fsin_player_model/materials/_tacticalvest2_black_co_1_png_3875bf48.vtex
+characters/models/nozb1/fsin_player_model/materials/_tacticanormal_png_d689b119.vtex
+characters/models/nozb1/fsin_player_model/materials/bron_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/fsin_player_model/materials/bron.vmat
+characters/models/nozb1/fsin_player_model/materials/_hhl2_omon_0_png_188416ab.vtex
+characters/models/nozb1/fsin_player_model/materials/face_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/fsin_player_model/materials/face.vmat
+characters/models/nozb1/fsin_player_model/materials/_maska_glass_ca_0_png_feba57c5.vtex
+characters/models/nozb1/fsin_player_model/materials/glass_vmat_g_tmetalness_61acad34.vtex
+characters/models/nozb1/fsin_player_model/materials/glass_vmat_g_tnormal_a1e47e21.vtex
+characters/models/nozb1/fsin_player_model/materials/glass.vmat
+characters/models/nozb1/fsin_player_model/materials/_maska_black_co_0_png_44a9465f.vtex
+characters/models/nozb1/fsin_player_model/materials/helmet_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/fsin_player_model/materials/helmet_vmat_g_tnormal_42af17e4.vtex
+characters/models/nozb1/fsin_player_model/materials/helmet.vmat
+characters/models/nozb1/fsin_player_model/materials/_omon_pants_0_png_849f17fa.vtex
+characters/models/nozb1/fsin_player_model/materials/kalenki_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/fsin_player_model/materials/kalenki.vmat
+characters/models/nozb1/fsin_player_model/fsin_player_model.vmdl

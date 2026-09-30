@@ -1,0 +1,40 @@
+# cs2-model-converter: anon_2, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/exg/ruiyiwelkin/anon_chihaya/anon.vmdl
+# first person: 0 2 12 15
+characters/models/exg/ruiyiwelkin/al_tashkent/metal_vmat_g_tcolor_7ab53e0a.vtex
+characters/models/exg/ruiyiwelkin/al_tashkent/metal_vmat_g_tmetalness_bd906efe_png_d548354f.vtex
+characters/models/exg/ruiyiwelkin/al_tashkent/metal_vmat_g_tnormal_a1e47e21_png_74dee8a3.vtex
+characters/models/exg/ruiyiwelkin/al_tashkent/metal.vmat
+characters/models/exg/ruiyiwelkin/al_tashkent/rbg_png_20a55aec.vtex
+characters/models/exg/ruiyiwelkin/al_tashkent/rbg_vmat_g_tselfillummask_ff155607.vtex
+materials/default/default_normal_tga_5a869113.vtex
+characters/models/exg/ruiyiwelkin/al_tashkent/rbg.vmat
+characters/models/exg/ruiyiwelkin/anon_chihaya/anon/face1_vmorf.vtex
+characters/models/exg/ruiyiwelkin/anon_chihaya/body_png_f4264ea1.vtex
+characters/models/exg/ruiyiwelkin/anon_chihaya/body_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/exg/ruiyiwelkin/anon_chihaya/body.vmat
+characters/models/exg/ruiyiwelkin/anon_chihaya/cloth1_vmat_g_tmetalness_8a7cc089.vtex
+characters/models/exg/ruiyiwelkin/anon_chihaya/cltoh1_png_621891b3.vtex
+characters/models/exg/ruiyiwelkin/anon_chihaya/cloth1.vmat
+characters/models/exg/ruiyiwelkin/anon_chihaya/cloth2_png_dc3f473b.vtex
+characters/models/exg/ruiyiwelkin/anon_chihaya/cloth2_vmat_g_tmetalness_8a7cc089.vtex
+characters/models/exg/ruiyiwelkin/anon_chihaya/cloth2.vmat
+characters/models/exg/ruiyiwelkin/anon_chihaya/cloth4_png_a801fda8.vtex
+characters/models/exg/ruiyiwelkin/anon_chihaya/cloth4_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/exg/ruiyiwelkin/anon_chihaya/cloth4_vmat_g_tnormal_53b47c48.vtex
+characters/models/exg/ruiyiwelkin/anon_chihaya/cloth4.vmat
+characters/models/exg/ruiyiwelkin/anon_chihaya/face_mask_png_ad2030e7.vtex
+characters/models/exg/ruiyiwelkin/anon_chihaya/face_png_f7f156cb.vtex
+characters/models/exg/ruiyiwelkin/anon_chihaya/face.vmat
+characters/models/exg/ruiyiwelkin/anon_chihaya/hair_png_6278f175.vtex
+characters/models/exg/ruiyiwelkin/anon_chihaya/hair_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/exg/ruiyiwelkin/anon_chihaya/hair.vmat
+characters/models/exg/ruiyiwelkin/anon_chihaya/tran_vmat_g_tcolor_97ba0cc2.vtex
+characters/models/exg/ruiyiwelkin/anon_chihaya/tran_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/exg/ruiyiwelkin/anon_chihaya/tran_vmat_g_tnormal_53b47c48.vtex
+characters/models/exg/ruiyiwelkin/anon_chihaya/tran.vmat
+characters/models/exg/ruiyiwelkin/anon_chihaya/zhijia_png_7fedf83b.vtex
+characters/models/exg/ruiyiwelkin/anon_chihaya/zhijia_vmat_g_tnormal_e56bd506.vtex
+characters/models/exg/ruiyiwelkin/anon_chihaya/zhijia_vmat_g_tselfillummask_ff155607.vtex
+characters/models/exg/ruiyiwelkin/anon_chihaya/zhijia.vmat
+characters/models/exg/ruiyiwelkin/anon_chihaya/anon.vmdl

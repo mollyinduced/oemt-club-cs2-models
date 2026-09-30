@@ -1,0 +1,18 @@
+# cs2-model-converter: the resources models/custom/hoshino_swim/hoshino_swim.vmdl needs, loaded in this order by the SDK
+materials/models/custom/hoshino_swim/00_eye_color_png_e5ecd81.vtex
+materials/models/custom/hoshino_swim/00_eye.vmat
+materials/models/custom/hoshino_swim/00_face_color_png_56b4a146.vtex
+materials/models/custom/hoshino_swim/00_face.vmat
+materials/models/custom/hoshino_swim/00_halo_color_png_1d8cde7d.vtex
+materials/models/custom/hoshino_swim/00_halo.vmat
+materials/models/custom/hoshino_swim/c00_body_color_png_f736f13.vtex
+materials/models/custom/hoshino_swim/c00_body.vmat
+materials/models/custom/hoshino_swim/tf_color_png_da0dec9d.vtex
+materials/models/custom/hoshino_swim/tf.vmat
+materials/models/custom/hoshino_swim/water_color_png_a3a4986d.vtex
+materials/models/custom/hoshino_swim/water.vmat
+materials/models/custom/hoshino_swim/whale_color_png_2bbef310.vtex
+materials/models/custom/hoshino_swim/whale.vmat
+materials/models/custom/hoshino_swim/yz_color_png_685dbb2b.vtex
+materials/models/custom/hoshino_swim/yz.vmat
+models/custom/hoshino_swim/hoshino_swim.vmdl

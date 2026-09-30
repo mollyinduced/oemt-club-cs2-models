@@ -1,0 +1,25 @@
+# cs2-model-converter: satoru, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/kolka/satoru/satoru.vmdl
+# first person: 0 1 2 3
+characters/models/kolka/satoru/mat/cloth_png_a65eaa37.vtex
+characters/models/kolka/satoru/mat/cloth_vmat_g_tmetalness_10974e8a.vtex
+characters/models/kolka/satoru/mat/cloth_vmat_g_tnormal_53b47c48.vtex
+characters/models/kolka/satoru/mat/cloth.vmat
+characters/models/kolka/satoru/mat/eyes_png_ab2ca906.vtex
+characters/models/kolka/satoru/mat/eyes.vmat
+characters/models/kolka/satoru/mat/face_png_86daad67.vtex
+characters/models/kolka/satoru/mat/face_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/kolka/satoru/mat/face_vmat_g_tnormal_53b47c48.vtex
+characters/models/kolka/satoru/mat/face.vmat
+characters/models/kolka/satoru/mat/hair_png_1ad4af3a.vtex
+characters/models/kolka/satoru/mat/hair_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/kolka/satoru/mat/hair_vmat_g_tnormal_53b47c48.vtex
+characters/models/kolka/satoru/mat/hair.vmat
+characters/models/kolka/satoru/mat/glases_png_23184232.vtex
+characters/models/kolka/satoru/mat/lins_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/kolka/satoru/mat/lins.vmat
+characters/models/kolka/satoru/mat/metal_png_df4ad670.vtex
+characters/models/kolka/satoru/mat/metal_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/kolka/satoru/mat/metal.vmat
+characters/models/kolka/satoru/satoru_arms.vmdl
+characters/models/kolka/satoru/satoru.vmdl

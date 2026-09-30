@@ -1,0 +1,14 @@
+# cs2-model-converter: nosfearatu3, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/otakku/nosfearatu/nosfearatu3.vmdl
+# first person: 0 2 12 15
+agents/models/otakku/nosfearatu/materials/skin3/t_skin3_nosferatu_body_albedo_png_3635c0c7.vtex
+agents/models/otakku/nosfearatu/materials/skin3/t_skin3_nosferatu_body_metallic_png_a88830dc.vtex
+agents/models/otakku/nosfearatu/materials/skin3/t_skin3_nosferatu_body_normal_png_70a00233.vtex
+agents/models/otakku/nosfearatu/materials/skin3/t_skin3_nosferatu_body_occlusion_png_2dbe611d.vtex
+agents/models/otakku/nosfearatu/materials/skin3/t_skin3_nosferatu_body.vmat
+agents/models/otakku/nosfearatu/materials/skin3/t_skin3_nosferatu_cloth_albedo_png_72900b5.vtex
+agents/models/otakku/nosfearatu/materials/skin3/t_skin3_nosferatu_cloth_metallic_png_c6a9ecc2.vtex
+agents/models/otakku/nosfearatu/materials/skin3/t_skin3_nosferatu_cloth_normal_png_45466367.vtex
+agents/models/otakku/nosfearatu/materials/skin3/t_skin3_nosferatu_cloth_occlusion_png_6620ef49.vtex
+agents/models/otakku/nosfearatu/materials/skin3/t_skin3_nosferatu_cloth.vmat
+agents/models/otakku/nosfearatu/nosfearatu3.vmdl

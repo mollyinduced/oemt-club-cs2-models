@@ -1,0 +1,27 @@
+# cs2-model-converter: knife_aur1c, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/knife_aur1c/knife_aur1c.vmdl
+# weapon: weapon_knife_m9_bayonet
+# skeleton: animation/skeletons/weapons/knife_m9.vnmskel
+weapons/models/knife_aur1c/materials/ghast__hd_png_3b7695c5.vtex
+weapons/models/knife_aur1c/materials/ghost_vmat_g_tselfillummask_38bac7b9.vtex
+weapons/models/knife_aur1c/materials/ghost.vmat
+weapons/models/knife_aur1c/materials/knife_vmat_g_tselfillummask_38bac7b9.vtex
+weapons/models/knife_aur1c/materials/weapons_models_knife_knife_m9_materials_weapon_knife_m9.vmat_base_color_png_cb8b7576.vtex
+weapons/models/knife_aur1c/materials/weapons_models_knife_knife_m9_materials_weapon_knife_m9.vmat_metallic_png_185dbe3.vtex
+weapons/models/knife_aur1c/materials/weapons_models_knife_knife_m9_materials_weapon_knife_m9.vmat_normal_directx_png_ee517e51.vtex
+weapons/models/knife_aur1c/materials/knife.vmat
+weapons/models/knife_aur1c/materials/line_png_1892504.vtex
+weapons/models/knife_aur1c/materials/mb_vmat_g_tselfillummask_ff155607.vtex
+weapons/models/knife_aur1c/materials/mb.vmat
+weapons/models/knife_aur1c/materials/halo tex_png_fb7837bf.vtex
+weapons/models/knife_aur1c/materials/ring.vmat
+weapons/models/knife_aur1c/materials/defaultmaterial_base_color_png_5c23d624.vtex
+weapons/models/knife_aur1c/materials/star1.vmat
+weapons/models/knife_aur1c/materials/tesla_png_843a709e.vtex
+weapons/models/knife_aur1c/materials/tesla_vmat_g_tselfillummask_ff155607.vtex
+weapons/models/knife_aur1c/materials/tesla.vmat
+weapons/models/knife_aur1c/materials/zhuguan_vmat_g_tcolor_aa0b337a.vtex
+weapons/models/knife_aur1c/materials/zhuguan_vmat_g_tmetalness_9e463381.vtex
+weapons/models/knife_aur1c/materials/zhuguan_vmat_g_tselfillummask_38bac7b9.vtex
+weapons/models/knife_aur1c/materials/zhuguan.vmat
+weapons/custom/knife_aur1c/knife_aur1c.vmdl

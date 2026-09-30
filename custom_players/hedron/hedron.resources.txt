@@ -1,0 +1,13 @@
+# cs2-model-converter: hedron, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/touchskins/hedron/hedron.vmdl
+# first person: 1 1 8 12
+characters/models/touchskins/hedron/tex/black_vmat_g_tambientocclusion_9782fd5c.vtex
+characters/models/touchskins/hedron/tex/black_vmat_g_tmetalness_10974e8a.vtex
+characters/models/touchskins/hedron/tex/black_vmat_g_tnormal_53b47c48.vtex
+characters/models/touchskins/hedron/tex/black.vmat
+characters/models/touchskins/hedron/tex/body_vmat_g_tnormal_53b47c48.vtex
+characters/models/touchskins/hedron/tex/t_f_med_stars_m_png_67b689a4.vtex
+characters/models/touchskins/hedron/tex/t_f_med_stars_m_png_cfb7e6cd.vtex
+characters/models/touchskins/hedron/tex/body.vmat
+characters/models/touchskins/hedron/hedron_arms.vmdl
+characters/models/touchskins/hedron/hedron.vmdl

@@ -1,0 +1,8 @@
+# cs2-model-converter: tuvalet_pompasi_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/tuvalet_pompasi_ag2/tuvalet_pompasi_ag2.vmdl
+# weapon: weapon_knife_kukri
+# skeleton: animation/skeletons/weapons/knife_kukri.vnmskel
+weapons/phase2/poncikmarket/tuvalet_pompasi/materials/normal_png_12bb652e.vtex
+weapons/phase2/poncikmarket/tuvalet_pompasi/materials/plunger_d_png_8bde5fad.vtex
+weapons/phase2/poncikmarket/tuvalet_pompasi/materials/tuvalet_pompasi.vmat
+weapons/custom/tuvalet_pompasi_ag2/tuvalet_pompasi_ag2.vmdl

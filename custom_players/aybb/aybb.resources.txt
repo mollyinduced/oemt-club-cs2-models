@@ -1,0 +1,13 @@
+# cs2-model-converter: aybb, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/exg/mmy/jsmx/2/aybb.vmdl
+# first person: 0 1 2 3
+characters/models/exg/mmy/jsmx/2/vmat/body1_png_ec3e9777.vtex
+characters/models/exg/mmy/jsmx/2/vmat/body1_vmat_g_tmetalness_deedc9d6.vtex
+characters/models/exg/mmy/jsmx/2/vmat/body1_vmat_g_tnormal_53b47c48.vtex
+characters/models/exg/mmy/jsmx/2/vmat/body1.vmat
+phase2/characters/exg/aybb/aybb_new/aybb_new_vmat_g_tmetalness_d447af3f.vtex
+phase2/characters/exg/aybb/aybb_new/aybb_new_vmat_g_tselfillummask_9e9aea25.vtex
+phase2/characters/exg/aybb/aybb_new/aybb_new.vmat
+phase2/characters/exg/aybb/aybb_new/aybb_newbody_vmat_g_tnormal_53b47c48.vtex
+phase2/characters/exg/aybb/aybb_new/aybb_newbody.vmat
+characters/models/exg/mmy/jsmx/2/aybb.vmdl

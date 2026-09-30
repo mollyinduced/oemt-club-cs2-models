@@ -1,0 +1,18 @@
+# cs2-model-converter: ka_apex02_ag2_2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/ka_apex02_ag2_2/ka_apex02_ag2_2.vmdl
+# weapon: weapon_knife_widowmaker
+# skeleton: animation/skeletons/weapons/knife_talon.vnmskel
+materials/default/default_normal_tga_5a869113.vtex
+weapons/7ychu5/apex_karambit_cosmicmerc/materials/heirloom_karambit_v24_cosmicmerc_icon_4_vmat_g_tselfillummask_ff155607.vtex
+weapons/7ychu5/apex_karambit_cosmicmerc/materials/logo_4_png_238d3571.vtex
+weapons/7ychu5/apex_karambit_cosmicmerc/materials/heirloom_karambit_v24_cosmicmerc_icon_4.vmat
+weapons/7ychu5/apex_karambit_cosmicmerc/materials/heirloom_karambit_v24_cosmicmerc_holo_emissivetexture_png_23f46773.vtex
+weapons/7ychu5/apex_karambit_cosmicmerc/materials/holo_blue_vmat_g_tselfillummask_ff155607.vtex
+weapons/7ychu5/apex_karambit_cosmicmerc/materials/holo_blue.vmat
+weapons/7ychu5/apex_karambit_cosmicmerc/materials/heirloom_karambit_v24_cosmicmerc_main_emissive_png_6de96586.vtex
+weapons/7ychu5/apex_karambit_cosmicmerc/materials/heirloom_karambit_v24_cosmicmerc_main_normal_png_bbac04d9.vtex
+weapons/7ychu5/apex_karambit_cosmicmerc/materials/main_04d_png_5ec17ac9.vtex
+weapons/7ychu5/apex_karambit_cosmicmerc/materials/main_04.vmat
+weapons/7ychu5/apex_karambit_cosmicmerc/materials/heirloom_karambit_v24_cosmicmerc_smear_emissivemultiplytexture_png_1248f77d.vtex
+weapons/7ychu5/apex_karambit_cosmicmerc/materials/smear_04.vmat
+weapons/custom/ka_apex02_ag2_2/ka_apex02_ag2_2.vmdl

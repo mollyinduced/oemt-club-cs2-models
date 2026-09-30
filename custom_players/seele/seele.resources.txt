@@ -1,0 +1,13 @@
+# cs2-model-converter: seele, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/maoling/honkai_impact/seele/seele.vmdl
+characters/maoling/honkai_impact/seele/starchasm/materials/seele_textures_tga_73e4f1c5_png_c7534f35.vtex
+characters/maoling/honkai_impact/seele/starchasm/materials/seele_textures_vmat_g_tambientocclusion_83434f1c.vtex
+characters/maoling/honkai_impact/seele/starchasm/materials/seele_textures_vmat_g_tmetalness_92fa1f10.vtex
+characters/maoling/honkai_impact/seele/starchasm/materials/seele_textures_vmat_g_tnormal_9d01035b.vtex
+characters/maoling/honkai_impact/seele/starchasm/materials/seele_textures.vmat
+characters/maoling/honkai_impact/seele/starchasm/materials/seele_textures2_vmat_g_tambientocclusion_83434f1c.vtex
+characters/maoling/honkai_impact/seele/starchasm/materials/seele_textures2_vmat_g_tmetalness_c8e5d58a_png_fd9ff1c6.vtex
+characters/maoling/honkai_impact/seele/starchasm/materials/seele_textures2_vmat_g_tnormal_a521787a.vtex
+characters/maoling/honkai_impact/seele/starchasm/materials/seele_textures_tga_73e4f1c5_png_3b9a9000.vtex
+characters/maoling/honkai_impact/seele/starchasm/materials/seele_textures2.vmat
+characters/maoling/honkai_impact/seele/seele.vmdl

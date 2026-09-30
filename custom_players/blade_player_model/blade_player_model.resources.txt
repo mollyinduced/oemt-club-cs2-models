@@ -1,0 +1,6 @@
+# cs2-model-converter: blade_player_model, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/nozb1/blade_player_model/blade_player_model.vmdl
+agents/models/nozb1/blade_player_model/materials/body_png_f822bcaa.vtex
+agents/models/nozb1/blade_player_model/materials/body_vmat_g_tmetalness_b70f8f59.vtex
+agents/models/nozb1/blade_player_model/materials/body.vmat
+agents/models/nozb1/blade_player_model/blade_player_model.vmdl

@@ -1,0 +1,19 @@
+# cs2-model-converter: luffy_gear5_nohitbox, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/otakku/luffy_gear5/luffy_gear5_nohitbox.vmdl
+# first person: 0 2 12 15
+agents/models/otakku/luffy_gear5/materials/cloth_jpg_73967473.vtex
+agents/models/otakku/luffy_gear5/materials/cloth_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/otakku/luffy_gear5/materials/cloth_vmat_g_tmetalness_b99de324.vtex
+agents/models/otakku/luffy_gear5/materials/cloth_vmat_g_tnormal_2984f4a9.vtex
+agents/models/otakku/luffy_gear5/materials/cloth.vmat
+agents/models/otakku/luffy_gear5/materials/hair_jpg_c712bdee.vtex
+agents/models/otakku/luffy_gear5/materials/hair_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/otakku/luffy_gear5/materials/hair_vmat_g_tmetalness_b99de324.vtex
+agents/models/otakku/luffy_gear5/materials/hair_vmat_g_tnormal_2984f4a9.vtex
+agents/models/otakku/luffy_gear5/materials/hair.vmat
+agents/models/otakku/luffy_gear5/materials/skin_jpg_baa3f15e.vtex
+agents/models/otakku/luffy_gear5/materials/skin_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/otakku/luffy_gear5/materials/skin_vmat_g_tmetalness_b99de324.vtex
+agents/models/otakku/luffy_gear5/materials/skin_vmat_g_tnormal_2984f4a9.vtex
+agents/models/otakku/luffy_gear5/materials/skin.vmat
+agents/models/otakku/luffy_gear5/luffy_gear5_nohitbox.vmdl

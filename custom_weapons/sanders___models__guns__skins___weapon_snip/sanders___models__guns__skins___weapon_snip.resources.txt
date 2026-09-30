@@ -1,0 +1,15 @@
+# cs2-model-converter: sanders___models__guns__skins___weapon_snip, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/sanders___models__guns__skins___weapon_snip/sanders___models__guns__skins___weapon_snip.vmdl
+# weapon: weapon_awp
+# skeleton: animation/skeletons/weapons/awp.vnmskel
+materials/models/custom_weapons/sanders___models__guns__skins___weapon_snip/fade_color_png_6ebdc194.vtex
+weapons/exg/7ychu5/calabiyau_barrett/materials/fade.vmat
+materials/models/custom_weapons/sanders___models__guns__skins___weapon_snip/jade_color_png_c03e1f27.vtex
+weapons/exg/7ychu5/calabiyau_barrett/materials/jade.vmat
+materials/models/custom_weapons/sanders___models__guns__skins___weapon_snip/mi_weap_m82_01_108_color_png_32d07b33.vtex
+weapons/exg/7ychu5/calabiyau_barrett/materials/mi_weap_m82_01_108.vmat
+materials/models/custom_weapons/sanders___models__guns__skins___weapon_snip/mi_weap_m82_02_108_color_png_34bfa889.vtex
+weapons/exg/7ychu5/calabiyau_barrett/materials/mi_weap_m82_02_108.vmat
+materials/models/custom_weapons/sanders___models__guns__skins___weapon_snip/silk_color_png_e0362af0.vtex
+weapons/exg/7ychu5/calabiyau_barrett/materials/silk.vmat
+weapons/custom/sanders___models__guns__skins___weapon_snip/sanders___models__guns__skins___weapon_snip.vmdl

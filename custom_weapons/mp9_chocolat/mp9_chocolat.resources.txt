@@ -1,0 +1,42 @@
+# cs2-model-converter: mp9_chocolat, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/mp9_chocolat/mp9_chocolat.vmdl
+# weapon: weapon_mp9
+# skeleton: animation/skeletons/weapons/mp9.vnmskel
+weapons/models/mp9_chocolat/materials/attachment_vm_laser03_base_color_png_ffcb4c3c.vtex
+weapons/models/mp9_chocolat/materials/attachment_vmat_g_tselfillummask_f087270d.vtex
+weapons/models/mp9_chocolat/materials/attachment.vmat
+weapons/models/mp9_chocolat/materials/chocolat_vmat_g_tselfillummask_f087270d.vtex
+weapons/models/mp9_chocolat/materials/voxeldoll_chocolat_v2_png_2277ff52.vtex
+weapons/models/mp9_chocolat/materials/chocolat.vmat
+weapons/models/mp9_chocolat/materials/dot_png_e4947b2b.vtex
+weapons/models/mp9_chocolat/materials/dot_vmat_g_tselfillummask_ff155607.vtex
+weapons/models/mp9_chocolat/materials/dot.vmat
+weapons/models/mp9_chocolat/materials/gi1_base_color_png_84d39dc3.vtex
+weapons/models/mp9_chocolat/materials/gi1_vmat_g_tselfillummask_f087270d.vtex
+weapons/models/mp9_chocolat/materials/gi1.vmat
+weapons/models/mp9_chocolat/materials/gi2_base_color_png_d495e0a6.vtex
+weapons/models/mp9_chocolat/materials/gi2_vmat_g_tselfillummask_f087270d.vtex
+weapons/models/mp9_chocolat/materials/gi2.vmat
+weapons/models/mp9_chocolat/materials/glass_vmat_g_tcolor_37c55b5d.vtex
+weapons/models/mp9_chocolat/materials/glass.vmat
+weapons/models/mp9_chocolat/materials/keychain_vmat_g_tcolor_c581ea4c.vtex
+weapons/models/mp9_chocolat/materials/keychain_vmat_g_tselfillummask_f087270d.vtex
+weapons/models/mp9_chocolat/materials/keychain.vmat
+weapons/models/mp9_chocolat/materials/light_vmat_g_tcolor_f3810487.vtex
+weapons/models/mp9_chocolat/materials/light.vmat
+weapons/models/mp9_chocolat/materials/mb_fade_png_5f70748.vtex
+weapons/models/mp9_chocolat/materials/mb_vmat_g_tselfillummask_ff155607.vtex
+weapons/models/mp9_chocolat/materials/mb.vmat
+weapons/models/mp9_chocolat/materials/mp9_vmat_g_tselfillummask_f087270d.vtex
+weapons/models/mp9_chocolat/materials/weapons_models_mp9_materials_weapon_smg_mp9.vmat_base_color_png_56c3c1a6.vtex
+weapons/models/mp9_chocolat/materials/mp9.vmat
+weapons/models/mp9_chocolat/materials/muzzle_mp9_bt_supressor_mount_9x19_lod0_base_color_png_626c48ac.vtex
+weapons/models/mp9_chocolat/materials/muzzle_vmat_g_tselfillummask_f087270d.vtex
+weapons/models/mp9_chocolat/materials/muzzle.vmat
+weapons/models/mp9_chocolat/materials/silencer_mp9_bt_supressor_9x19_lod0_base_color_png_8a983e72.vtex
+weapons/models/mp9_chocolat/materials/silnecer_vmat_g_tselfillummask_f087270d.vtex
+weapons/models/mp9_chocolat/materials/silnecer.vmat
+weapons/models/mp9_chocolat/materials/tactical_all_surefire_x400_vis_laser_lod0_base_color_png_4eb8ec76.vtex
+weapons/models/mp9_chocolat/materials/tactical_vmat_g_tselfillummask_f087270d.vtex
+weapons/models/mp9_chocolat/materials/tactical.vmat
+weapons/custom/mp9_chocolat/mp9_chocolat.vmdl

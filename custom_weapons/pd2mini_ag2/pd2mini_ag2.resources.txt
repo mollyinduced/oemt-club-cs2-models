@@ -1,0 +1,21 @@
+# cs2-model-converter: pd2mini_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/pd2mini_ag2/pd2mini_ag2.vmdl
+# weapon: weapon_negev
+# skeleton: animation/skeletons/weapons/negev.vnmskel
+weapons/models/ub/pd2mini/materials/barrel_n_tga_6e219f13.vtex
+weapons/models/ub/pd2mini/materials/barrel_tga_b513319a.vtex
+weapons/models/ub/pd2mini/materials/1.vmat
+weapons/models/ub/pd2mini/materials/barrel_tga_b23f01a9.vtex
+weapons/models/ub/pd2mini/materials/2.vmat
+weapons/models/ub/pd2mini/materials/barrel_tga_bdb5a66a.vtex
+weapons/models/ub/pd2mini/materials/barrel.vmat
+weapons/models/ub/pd2mini/materials/base_n_tga_32f9fad1.vtex
+weapons/models/ub/pd2mini/materials/base_tga_41cc3a78.vtex
+weapons/models/ub/pd2mini/materials/base.vmat
+weapons/models/ub/pd2mini/materials/base2_n_tga_6b1d343e.vtex
+weapons/models/ub/pd2mini/materials/base2_tga_31cbda2a.vtex
+weapons/models/ub/pd2mini/materials/base2.vmat
+weapons/models/ub/pd2mini/materials/belt_n_tga_924b6e6a.vtex
+weapons/models/ub/pd2mini/materials/belt_tga_e83438c1.vtex
+weapons/models/ub/pd2mini/materials/belt.vmat
+weapons/custom/pd2mini_ag2/pd2mini_ag2.vmdl

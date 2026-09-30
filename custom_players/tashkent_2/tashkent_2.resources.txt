@@ -1,0 +1,18 @@
+# cs2-model-converter: the resources models/custom/tashkent_2/tashkent_2.vmdl needs, loaded in this order by the SDK
+materials/models/custom/tashkent_2/body_color_png_af83d1f3.vtex
+materials/models/custom/tashkent_2/body.vmat
+materials/models/custom/tashkent_2/cloth1_color_png_c68ca46d.vtex
+materials/models/custom/tashkent_2/cloth1.vmat
+materials/models/custom/tashkent_2/cloth4_color_png_cbb2a232.vtex
+materials/models/custom/tashkent_2/cloth4.vmat
+materials/models/custom/tashkent_2/face_color_png_cf13f58f.vtex
+materials/models/custom/tashkent_2/face.vmat
+materials/models/custom/tashkent_2/hair_color_png_9fb0b8c9.vtex
+materials/models/custom/tashkent_2/hair.vmat
+materials/models/custom/tashkent_2/light_blue_color_png_53dea1f4.vtex
+materials/models/custom/tashkent_2/light_blue.vmat
+materials/models/custom/tashkent_2/rbg_color_png_99a8fbf6.vtex
+materials/models/custom/tashkent_2/rbg.vmat
+materials/models/custom/tashkent_2/wing_color_png_6986539c.vtex
+materials/models/custom/tashkent_2/wing.vmat
+models/custom/tashkent_2/tashkent_2.vmdl

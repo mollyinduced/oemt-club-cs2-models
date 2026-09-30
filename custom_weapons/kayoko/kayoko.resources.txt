@@ -1,0 +1,9 @@
+# cs2-model-converter: kayoko, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/kayoko/kayoko.vmdl
+# weapon: weapon_usp_silencer
+# skeleton: animation/skeletons/weapons/usp_silencer.vnmskel
+weapons/models/ub/kayoko/materials/kayoko_original_weapon_png_ad0c8dd6.vtex
+weapons/models/ub/kayoko/materials/kayoko_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/models/ub/kayoko/materials/kayoko_vmat_g_tnormal_53b47c48.vtex
+weapons/models/ub/kayoko/materials/kayoko.vmat
+weapons/custom/kayoko/kayoko.vmdl

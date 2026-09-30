@@ -1,0 +1,13 @@
+# cs2-model-converter: w_shot_xm1014, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/w_shot_xm1014/w_shot_xm1014.vmdl
+# weapon: weapon_xm1014
+# skeleton: animation/skeletons/weapons/xm1014.vnmskel
+materials/default/default_bentnormal_tga_2023e987.vtex
+materials/models/weapons/shared/shells/shotgun/shell_shotgun_color_tga_d8083f7c.vtex
+models/weapons/shared/shells/shotgun/shell_shotgun_vmat_g_tmetalness_b7e45cfc.vtex
+models/weapons/shared/shells/shotgun/shell_shotgun.vmat
+materials/models/weapons/w_models/w_shot_xm1014/shot_xm1014_color_tga_675e9485.vtex
+materials/models/weapons/w_models/w_shot_xm1014/shot_xm1014_exponent_metal_tga_94f2c7ee.vtex
+materials/models/weapons/w_models/w_shot_xm1014/shot_xm1014_rough_tga_7b7be6a1.vtex
+models/weapons/w_models/w_shot_xm1014/shot_xm1014.vmat
+weapons/custom/w_shot_xm1014/w_shot_xm1014.vmdl

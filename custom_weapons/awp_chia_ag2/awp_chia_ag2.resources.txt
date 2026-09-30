@@ -1,0 +1,15 @@
+# cs2-model-converter: awp_chia_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/awp_chia_ag2/awp_chia_ag2.vmdl
+# weapon: weapon_awp
+# skeleton: animation/skeletons/weapons/awp.vnmskel
+weapons/onetake/awp_chia/materials/awp_png_4ec2555c.vtex
+weapons/onetake/awp_chia/materials/awp_self_png_76ee29b9.vtex
+weapons/onetake/awp_chia/materials/roughness_png_27185e12.vtex
+weapons/onetake/awp_chia/materials/awm_main.vmat
+weapons/onetake/awp_chia/materials/lens_png_f1c16e17.vtex
+weapons/onetake/awp_chia/materials/lens_vmat_g_tnormal_a1e47e21.vtex
+weapons/onetake/awp_chia/materials/lens.vmat
+weapons/onetake/awp_chia/materials/lgoo_vmat_g_tcolor_7ab53e0a.vtex
+weapons/onetake/awp_chia/materials/lgoo_vmat_g_tselfillummask_ff155607.vtex
+weapons/onetake/awp_chia/materials/lgoo.vmat
+weapons/custom/awp_chia_ag2/awp_chia_ag2.vmdl

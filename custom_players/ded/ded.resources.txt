@@ -1,0 +1,7 @@
+# cs2-model-converter: the resources models/custom/ded/ded.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/ded/1_color_png_20ba0f61.vtex
+materials/models/custom/ded/1.vmat
+materials/models/custom/ded/hr_concrete_wall_painted_002b_color_png_39abc177.vtex
+materials/models/custom/ded/hr_concrete_wall_painted_002b.vmat
+models/custom/ded/ded.vmdl

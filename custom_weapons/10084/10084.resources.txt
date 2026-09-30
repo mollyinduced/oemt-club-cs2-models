@@ -1,0 +1,29 @@
+# cs2-model-converter: 10084, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/10084/10084.vmdl
+# weapon: weapon_knife_karambit
+# skeleton: animation/skeletons/weapons/knife_karambit.vnmskel
+models/weapons/exg/tokyocold/butterm9/karam_b_base_color_png_c05fd1ab.vtex
+models/weapons/exg/tokyocold/butterm9/karam_ml_vmat_g_tnormal_e806a8cf.vtex
+models/weapons/exg/tokyocold/butterm9/karam_ml_vmat_g_tselfillummask_5effe21.vtex
+models/weapons/exg/tokyocold/butterm9/karam_ml.vmat
+models/weapons/exg/tokyocold/loba_mari/ch0273_body_tga_a4d1ac04.vtex
+models/weapons/exg/tokyocold/loba_mari/ch0273_body_vmat_g_tnormal_a018ae0c.vtex
+models/weapons/exg/tokyocold/loba_mari/ch0273_body_vmat_g_tselfillummask_debc4d5d.vtex
+models/weapons/exg/tokyocold/loba_mari/ch0273_body.vmat
+models/weapons/exg/tokyocold/loba_mari/ch0273_eyemouth_tga_c1f9de0d.vtex
+models/weapons/exg/tokyocold/loba_mari/ch0273_eyemouth_vmat_g_tnormal_a018ae0c.vtex
+models/weapons/exg/tokyocold/loba_mari/ch0273_eyemouth_vmat_g_tselfillummask_debc4d5d.vtex
+models/weapons/exg/tokyocold/loba_mari/ch0273_eyemouth.vmat
+models/weapons/exg/tokyocold/loba_mari/ch0273_face_tga_a453d436.vtex
+models/weapons/exg/tokyocold/loba_mari/ch0273_face_vmat_g_tnormal_a018ae0c.vtex
+models/weapons/exg/tokyocold/loba_mari/ch0273_face_vmat_g_tselfillummask_debc4d5d.vtex
+models/weapons/exg/tokyocold/loba_mari/ch0273_face.vmat
+models/weapons/exg/tokyocold/loba_mari/ch0273_hair_tga_9a3b9fa8.vtex
+models/weapons/exg/tokyocold/loba_mari/ch0273_hair_vmat_g_tnormal_53b47c48.vtex
+models/weapons/exg/tokyocold/loba_mari/ch0273_hair_vmat_g_tselfillummask_debc4d5d.vtex
+models/weapons/exg/tokyocold/loba_mari/ch0273_hair.vmat
+models/weapons/exg/tokyocold/loba_mari/mari_original_halo_tga_476aa35d.vtex
+models/weapons/exg/tokyocold/loba_mari/mari_original_halo_vmat_g_tnormal_a018ae0c.vtex
+models/weapons/exg/tokyocold/loba_mari/mari_original_halo_vmat_g_tselfillummask_853f49c1.vtex
+models/weapons/exg/tokyocold/loba_mari/mari_original_halo.vmat
+weapons/custom/10084/10084.vmdl

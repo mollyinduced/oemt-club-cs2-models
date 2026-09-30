@@ -1,0 +1,15 @@
+# cs2-model-converter: v_hdbjdscr, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/v_hdbjdscr/v_hdbjdscr.vmdl
+# weapon: weapon_knife_butterfly
+# skeleton: animation/skeletons/weapons/knife_butterfly.vnmskel
+materials/models/custom_weapons/v_hdbjdscr/summonknifeex_v_color_png_6a1f1612.vtex
+models/weapons/exg/tokyocold/xinghe/summonknifeex_v.vmat
+materials/models/custom_weapons/v_hdbjdscr/summonknifeex_v_blade_color_png_75d33492.vtex
+models/weapons/exg/tokyocold/xinghe/summonknifeex_v_blade.vmat
+models/weapons/exg/tokyocold/zhongcai/$0b_knife_png_49e57776.vtex
+models/weapons/exg/tokyocold/zhongcai/0b_knifeb.vmat
+models/weapons/exg/tokyocold/zhongcai/$0b_ef_blade01_png_e16ad5a2.vtex
+models/weapons/exg/tokyocold/zhongcai/ef_blade01_vmat_g_tnormal_a1e47e21.vtex
+models/weapons/exg/tokyocold/zhongcai/ef_blade01_vmat_g_tselfillummask_cab4d64f.vtex
+models/weapons/exg/tokyocold/zhongcai/ef_blade01.vmat
+weapons/custom/v_hdbjdscr/v_hdbjdscr.vmdl

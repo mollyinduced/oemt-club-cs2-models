@@ -1,0 +1,5 @@
+# cs2-model-converter: the resources models/custom/mr_krabs_player_model/mr_krabs_player_model.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/mr_krabs_player_model/mr_krabs_color_png_b9e4e465.vtex
+materials/models/custom/mr_krabs_player_model/mr_krabs.vmat
+models/custom/mr_krabs_player_model/mr_krabs_player_model.vmdl

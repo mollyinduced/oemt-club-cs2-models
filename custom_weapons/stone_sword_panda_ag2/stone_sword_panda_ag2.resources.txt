@@ -1,0 +1,8 @@
+# cs2-model-converter: stone_sword_panda_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/stone_sword_panda_ag2/stone_sword_panda_ag2.vmdl
+# weapon: weapon_knife_m9_bayonet
+# skeleton: animation/skeletons/weapons/knife_m9.vnmskel
+weapons/phase2/poncikmarket/mc_panda/materials/stone_vmat_g_tmetalness_bc5b06f6_png_72519984.vtex
+weapons/phase2/poncikmarket/mc_panda/materials/stonesword_basecolor_png_13465680.vtex
+weapons/phase2/poncikmarket/mc_panda/materials/stone.vmat
+weapons/custom/stone_sword_panda_ag2/stone_sword_panda_ag2.vmdl

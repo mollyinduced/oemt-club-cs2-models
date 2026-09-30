@@ -1,0 +1,9 @@
+# cs2-model-converter: skadi_knife_skeleton, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/skadi_knife_skeleton/skadi_knife_skeleton.vmdl
+# weapon: weapon_knife_skeleton
+# skeleton: animation/skeletons/weapons/knife_skeleton.vnmskel
+weapons/otakku/knife/knife_skeleton/skadi_knife_skeleton/materials/skadi_knife_skeleton_png_4ac9e6e6.vtex
+weapons/otakku/knife/knife_skeleton/skadi_knife_skeleton/materials/skadi_knife_skeleton_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/knife/knife_skeleton/skadi_knife_skeleton/materials/skadi_knife_skeleton_vmat_g_tnormal_a6a3c746.vtex
+weapons/otakku/knife/knife_skeleton/skadi_knife_skeleton/materials/skadi_knife_skeleton.vmat
+weapons/custom/skadi_knife_skeleton/skadi_knife_skeleton.vmdl

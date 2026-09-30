@@ -1,0 +1,37 @@
+{
+ "converter": "2.3",
+ "made": "2026-09-29 20:27:53",
+ "name": "trump",
+ "mode": "rebuild",
+ "input": "C:\\Users\\mollyinduced\\Downloads\\models\\misc_pack_cs2\\Gameserver\\game\\csgo",
+ "model": "models/kuristaja/player/trump/trump.vmdl_c",
+ "kind": "Source 2 model, no AnimGraph2 (old CS2)",
+ "options": {
+  "skin": 0,
+  "up": "auto",
+  "forward": "auto",
+  "rig": true,
+  "shader": "csgo_complex.vfx",
+  "texture_size": 4096,
+  "mode": "auto",
+  "jiggle": true,
+  "guess_jiggle": true,
+  "first_person": true,
+  "twist": true,
+  "arms": null,
+  "weapon": null,
+  "extra": [
+   "C:\\Users\\mollyinduced\\Downloads\\models\\homer_simpson_v3\\agents\\models\\otakku\\homer_simpson\\materials"
+  ],
+  "addon": "custom_models"
+ },
+ "stats": {
+  "triangles": 16292,
+  "first_person_triangles": 8166,
+  "bones": 88,
+  "kept_bones": [],
+  "jiggle_bones": [],
+  "first_person": "models/kuristaja/player/trump/arms/trump_arms.vmdl_c",
+  "materials": 3
+ }
+}

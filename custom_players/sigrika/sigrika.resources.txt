@@ -1,0 +1,32 @@
+# cs2-model-converter: sigrika, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/asmodeus/sigrika/sigrika.vmdl
+# first person: 0 1 2 3
+characters/models/asmodeus/sigrika/materials/sigrika_bhair_png_9f37fa7a.vtex
+characters/models/asmodeus/sigrika/materials/sigrika_bhair_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/sigrika/materials/sigrika_bhair.vmat
+characters/models/asmodeus/sigrika/materials/sigrika_cloth_png_d72c6ec7.vtex
+characters/models/asmodeus/sigrika/materials/sigrika_cloth_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/sigrika/materials/sigrika_cloth.vmat
+characters/models/asmodeus/sigrika/materials/sigrika_downbody_png_856f4cae.vtex
+characters/models/asmodeus/sigrika/materials/sigrika_downbody_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/sigrika/materials/sigrika_downbody.vmat
+characters/models/asmodeus/sigrika/materials/sigrika_eye_png_add27f0f.vtex
+characters/models/asmodeus/sigrika/materials/sigrika_eye_png_bc42c55f.vtex
+characters/models/asmodeus/sigrika/materials/sigrika_eye.vmat
+characters/models/asmodeus/sigrika/materials/sigrika_eyeb_png_d6135121.vtex
+characters/models/asmodeus/sigrika/materials/sigrika_eyeb_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/sigrika/materials/sigrika_eyeb.vmat
+characters/models/asmodeus/sigrika/materials/sigrika_eyehi_png_4623ff7e.vtex
+characters/models/asmodeus/sigrika/materials/sigrika_eyehi_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/sigrika/materials/sigrika_eyehi.vmat
+characters/models/asmodeus/sigrika/materials/sigrika_face_png_ee2c05e4.vtex
+characters/models/asmodeus/sigrika/materials/sigrika_face_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/sigrika/materials/sigrika_face.vmat
+characters/models/asmodeus/sigrika/materials/sigrika_fhair_png_9048f8b9.vtex
+characters/models/asmodeus/sigrika/materials/sigrika_fhair_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/sigrika/materials/sigrika_fhair.vmat
+characters/models/asmodeus/sigrika/materials/sigrika_upbody_png_1a7f91c6.vtex
+characters/models/asmodeus/sigrika/materials/sigrika_upbody_vmat_g_tmetalness_dc23d9ae.vtex
+characters/models/asmodeus/sigrika/materials/sigrika_upbody.vmat
+characters/models/asmodeus/sigrika/sigrika/body_vmorf.vtex
+characters/models/asmodeus/sigrika/sigrika.vmdl

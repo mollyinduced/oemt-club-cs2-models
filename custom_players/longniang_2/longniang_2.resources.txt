@@ -1,0 +1,8 @@
+# cs2-model-converter: longniang_2, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/maoling/honkai_impact/creation/long_niang/longniang.vmdl
+characters/maoling/honkai_impact/creation/long_niang/materials/longniang_textures_png_8a770f1.vtex
+characters/maoling/honkai_impact/creation/long_niang/materials/longniang_textures_vmat_g_tambientocclusion_34608cfa.vtex
+characters/maoling/honkai_impact/creation/long_niang/materials/longniang_textures_vmat_g_tmetalness_619f99fe_png_e60c445a.vtex
+characters/maoling/honkai_impact/creation/long_niang/materials/longniang_textures_vmat_g_tnormal_2a25a1b8.vtex
+characters/maoling/honkai_impact/creation/long_niang/materials/longniang_textures.vmat
+characters/maoling/honkai_impact/creation/long_niang/longniang.vmdl

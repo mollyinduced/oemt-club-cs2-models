@@ -1,0 +1,9 @@
+# cs2-model-converter: ak47_m_2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/ak47_m_2/ak47_m_2.vmdl
+# weapon: weapon_ak47
+# skeleton: animation/skeletons/weapons/ak47.vnmskel
+weapons/kxnrl/ak47/yunli/materials/wpn_p04_ar_akilo_xmag_762s_n_tga_51557d13.vtex
+weapons/kxnrl/ak47/yunli/materials/wpn_p04_ar_akilo_xmag_762s_v0_tga_f57572f1.vtex
+weapons/kxnrl/ak47/yunli/materials/wpn_p04_ar_akilo_xmag_762s_vmat_g_tselfillummask_ff155607.vtex
+weapons/kxnrl/ak47/yunli/materials/wpn_p04_ar_akilo_xmag_762s.vmat
+weapons/custom/ak47_m_2/ak47_m_2.vmdl

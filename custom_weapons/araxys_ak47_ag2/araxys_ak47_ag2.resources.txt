@@ -1,0 +1,11 @@
+# cs2-model-converter: araxys_ak47_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/araxys_ak47_ag2/araxys_ak47_ag2.vmdl
+# weapon: weapon_ak47
+# skeleton: animation/skeletons/weapons/ak47.vnmskel
+weapons/nozb1/valogun/araxys_bundle/araxys_ak47/materials/ara1_vmat_g_tcolor_7ab53e0a.vtex
+weapons/nozb1/valogun/araxys_bundle/araxys_ak47/materials/gradi_self_png_abbe0e39.vtex
+weapons/nozb1/valogun/araxys_bundle/araxys_ak47/materials/ara1.vmat
+weapons/nozb1/valogun/araxys_bundle/araxys_ak47/materials/ak_antares_df.tga_png_93bb96ea.vtex
+weapons/nozb1/valogun/araxys_bundle/araxys_ak47/materials/ak_antares_nm.tga_png_a889e745.vtex
+weapons/nozb1/valogun/araxys_bundle/araxys_ak47/materials/araxys_ak.vmat
+weapons/custom/araxys_ak47_ag2/araxys_ak47_ag2.vmdl

@@ -1,0 +1,16 @@
+# cs2-model-converter: physcannon_new_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/physcannon_new_ag2/physcannon_new_ag2.vmdl
+# weapon: weapon_p250
+# skeleton: animation/skeletons/weapons/p250.vnmskel
+phase2/weapons/exg/physcannon_new/fs_png_f72fde6.vtex
+phase2/weapons/exg/physcannon_new/v_physcannon_body1_vmat_g_tnormal_7e02665d.vtex
+phase2/weapons/exg/physcannon_new/v_superphyscannon_body_d_tga_fd5ba257.vtex
+phase2/weapons/exg/physcannon_new/v_physcannon_body1.vmat
+phase2/weapons/exg/physcannon_new/v_physcannon_body22_vmat_g_tnormal_520db33f.vtex
+phase2/weapons/exg/physcannon_new/v_physcannon_body22_vmat_g_tselfillummask_445bba9a.vtex
+phase2/weapons/exg/physcannon_new/v_superphyscannon_crystal_d_tga_912f671e.vtex
+phase2/weapons/exg/physcannon_new/v_physcannon_body22.vmat
+phase2/weapons/exg/physcannon_new/v_physcannon_glass_vmat_g_tnormal_a1e47e21.vtex
+phase2/weapons/exg/physcannon_new/v_physcannon_glass_vmat_g_tselfillummask_e750419.vtex
+phase2/weapons/exg/physcannon_new/v_physcannon_glass.vmat
+weapons/custom/physcannon_new_ag2/physcannon_new_ag2.vmdl

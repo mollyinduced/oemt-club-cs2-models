@@ -1,0 +1,3 @@
+# cs2-model-converter: homer_simpson_nohitbox_ag2, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: phase2/characters/models/otakku/homer_simpson/homer_simpson_nohitbox_ag2.vmdl
+phase2/characters/models/otakku/homer_simpson/homer_simpson_nohitbox_ag2.vmdl

@@ -1,0 +1,9 @@
+# cs2-model-converter: the resources models/custom/pepe_player_model/pepe_player_model.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/pepe_player_model/pepe_body_mat_color_png_d15a5cec.vtex
+materials/models/custom/pepe_player_model/pepe_body_mat.vmat
+materials/models/custom/pepe_player_model/pepe_eye_mat_color_png_56835342.vtex
+materials/models/custom/pepe_player_model/pepe_eye_mat.vmat
+materials/models/custom/pepe_player_model/pepe_head_mat_color_png_b0c76775.vtex
+materials/models/custom/pepe_player_model/pepe_head_mat.vmat
+models/custom/pepe_player_model/pepe_player_model.vmdl

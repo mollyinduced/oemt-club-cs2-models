@@ -1,0 +1,56 @@
+{
+ "converter": "2.3",
+ "made": "2026-09-30 01:04:31",
+ "name": "the_monkey",
+ "mode": "rebuild",
+ "input": "C:\\Users\\mollyinduced\\Downloads\\models\\deti00ykh_ru_files_3396529065",
+ "model": "models/props_gibraltar/the_monkey/the_monkey.vmdl_c",
+ "kind": "Source 2 model, no AnimGraph2 (old CS2)",
+ "options": {
+  "skin": 0,
+  "up": "auto",
+  "forward": "auto",
+  "rig": true,
+  "shader": "csgo_complex.vfx",
+  "texture_size": 4096,
+  "mode": "auto",
+  "jiggle": true,
+  "guess_jiggle": true,
+  "first_person": true,
+  "twist": true,
+  "arms": null,
+  "weapon": null,
+  "extra": [
+   "C:\\Users\\mollyinduced\\Downloads\\models\\homer_simpson_v3\\agents\\models\\otakku\\homer_simpson\\materials"
+  ],
+  "addon": "custom_models"
+ },
+ "stats": {
+  "triangles": 26125,
+  "first_person_triangles": 6654,
+  "bones": 97,
+  "kept_bones": [
+   "c_tail_00_x",
+   "c_tail_01_x",
+   "c_tail_02_x",
+   "c_tail_03_x",
+   "c_skull_02_x",
+   "c_ear_01_r",
+   "c_ear_01_l",
+   "c_ear_02_r",
+   "c_ear_02_l"
+  ],
+  "jiggle_bones": [
+   "c_ear_01_r",
+   "c_ear_02_r",
+   "c_ear_01_l",
+   "c_ear_02_l",
+   "c_tail_00_x",
+   "c_tail_01_x",
+   "c_tail_02_x",
+   "c_tail_03_x"
+  ],
+  "first_person": "cut out of the body",
+  "materials": 2
+ }
+}

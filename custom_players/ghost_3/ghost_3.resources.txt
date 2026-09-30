@@ -1,0 +1,17 @@
+# cs2-model-converter: the resources models/custom/ghost_3/ghost_3.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/ghost_3/body_color_png_3036c002.vtex
+materials/models/custom/ghost_3/body.vmat
+materials/models/custom/ghost_3/chemlight_color_png_c7fc8cef.vtex
+materials/models/custom/ghost_3/chemlight.vmat
+materials/models/custom/ghost_3/head_hero_admiral_eyes_c_h_color_png_ce10d5e1.vtex
+materials/models/custom/ghost_3/head_hero_admiral_eyes_c_h.vmat
+materials/models/custom/ghost_3/hero_ghost_face_a__color_png_c8bdbcf.vtex
+materials/models/custom/ghost_3/hero_ghost_face_a_.vmat
+materials/models/custom/ghost_3/hero_ghost_mask_color_png_bbdd1187.vtex
+materials/models/custom/ghost_3/hero_ghost_mask.vmat
+materials/models/custom/ghost_3/poncho_color_png_f1a470c2.vtex
+materials/models/custom/ghost_3/poncho.vmat
+materials/models/custom/ghost_3/radio_color_png_3f03eb2.vtex
+materials/models/custom/ghost_3/radio.vmat
+models/custom/ghost_3/ghost_3.vmdl

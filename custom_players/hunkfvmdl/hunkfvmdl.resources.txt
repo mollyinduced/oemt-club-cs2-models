@@ -1,0 +1,27 @@
+# cs2-model-converter: hunkfvmdl, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/mpink/cola/hunkf/hunkfvmdl.vmdl
+# first person: 0 2 12 15
+agents/models/mpink/cola/hunkf/hunkftextures/body_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/mpink/cola/hunkf/hunkftextures/body_vmat_g_tmetalness_85f9e3a3.vtex
+agents/models/mpink/cola/hunkf/hunkftextures/body_vmat_g_tnormal_f8abdf59.vtex
+agents/models/mpink/cola/hunkf/hunkftextures/pl11a0_skin_bm_png_d3db69eb.vtex
+agents/models/mpink/cola/hunkf/hunkftextures/body.vmat
+agents/models/mpink/cola/hunkf/hunkftextures/m_cola_albedo_png_730cf8f6.vtex
+agents/models/mpink/cola/hunkf/hunkftextures/m_cola_ao_png_859bb105.vtex
+agents/models/mpink/cola/hunkf/hunkftextures/m_cola_metallic_png_b8fc1268.vtex
+agents/models/mpink/cola/hunkf/hunkftextures/m_cola_normal_png_54563228.vtex
+agents/models/mpink/cola/hunkf/hunkftextures/cola.vmat
+agents/models/mpink/cola/hunkf/hunkftextures/m_cola_albedo_png_36d8f239.vtex
+agents/models/mpink/cola/hunkf/hunkftextures/colacap.vmat
+agents/models/mpink/cola/hunkf/hunkftextures/colatransparent.vmat
+agents/models/mpink/cola/hunkf/hunkftextures/face_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/mpink/cola/hunkf/hunkftextures/face_vmat_g_tmetalness_85f9e3a3.vtex
+agents/models/mpink/cola/hunkf/hunkftextures/face_vmat_g_tnormal_f8abdf59.vtex
+agents/models/mpink/cola/hunkf/hunkftextures/pl11a0_face_bm_png_2871c3bd.vtex
+agents/models/mpink/cola/hunkf/hunkftextures/face.vmat
+agents/models/mpink/cola/hunkf/hunkftextures/head_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/mpink/cola/hunkf/hunkftextures/head_vmat_g_tmetalness_85f9e3a3.vtex
+agents/models/mpink/cola/hunkf/hunkftextures/head_vmat_g_tnormal_f8abdf59.vtex
+agents/models/mpink/cola/hunkf/hunkftextures/pl11a0_hair_bm_png_b0c5215b.vtex
+agents/models/mpink/cola/hunkf/hunkftextures/head.vmat
+agents/models/mpink/cola/hunkf/hunkfvmdl.vmdl

@@ -1,0 +1,10 @@
+# cs2-model-converter: w_rif_galilar, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/w_rif_galilar/w_rif_galilar.vmdl
+# weapon: weapon_galilar
+# skeleton: animation/skeletons/weapons/galil.vnmskel
+materials/default/default_bentnormal_tga_2023e987.vtex
+materials/models/weapons/w_models/w_rif_galilar/rif_galilar_color_tga_afc88e8f.vtex
+materials/models/weapons/w_models/w_rif_galilar/rif_galilar_exponent_metal_tga_b5238bb8.vtex
+materials/models/weapons/w_models/w_rif_galilar/rif_galilar_rough_tga_a72f044b.vtex
+models/weapons/w_models/w_rif_galilar/rif_galilar.vmat
+weapons/custom/w_rif_galilar/w_rif_galilar.vmdl

@@ -1,0 +1,16 @@
+# cs2-model-converter: black_drun_player_model_2, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/nozb1/celebrity/black_drun_player_model/black_drun_player_model.vmdl
+# first person: 0 2 12 15
+characters/models/nozb1/celebrity/black_drun_player_model/black_drun_player_model/arms_vmorf.vtex
+characters/models/nozb1/celebrity/black_drun_player_model/black_drun_player_model/body_vmorf.vtex
+characters/models/nozb1/celebrity/black_drun_player_model/materials/body_png_8b0e24a1.vtex
+characters/models/nozb1/celebrity/black_drun_player_model/materials/drun_body_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/celebrity/black_drun_player_model/materials/drun_body_vmat_g_tnormal_a531fe.vtex
+characters/models/nozb1/celebrity/black_drun_player_model/materials/drun_body.vmat
+characters/models/nozb1/celebrity/black_drun_player_model/materials/drun_face_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/celebrity/black_drun_player_model/materials/face_png_929cbbbe.vtex
+characters/models/nozb1/celebrity/black_drun_player_model/materials/drun_face.vmat
+characters/models/nozb1/celebrity/black_drun_player_model/materials/drun_logo_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/celebrity/black_drun_player_model/materials/odnetake_png_f1bc722a.vtex
+characters/models/nozb1/celebrity/black_drun_player_model/materials/drun_logo.vmat
+characters/models/nozb1/celebrity/black_drun_player_model/black_drun_player_model.vmdl

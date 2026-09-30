@@ -1,0 +1,21 @@
+# cs2-model-converter: the resources models/custom/tokisaki_mio/tokisaki_mio.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/tokisaki_mio/eye_color_png_89291733.vtex
+materials/models/custom/tokisaki_mio/eye.vmat
+materials/models/custom/tokisaki_mio/face_color_png_cb34a1f1.vtex
+materials/models/custom/tokisaki_mio/face.vmat
+materials/models/custom/tokisaki_mio/hudiejie_color_png_6e1ca928.vtex
+materials/models/custom/tokisaki_mio/hudiejie.vmat
+materials/models/custom/tokisaki_mio/mio01_color_png_9fadc4e0.vtex
+materials/models/custom/tokisaki_mio/mio01.vmat
+materials/models/custom/tokisaki_mio/mio02_color_png_32754ce.vtex
+materials/models/custom/tokisaki_mio/mio02.vmat
+materials/models/custom/tokisaki_mio/mio03_color_png_a4ac2e7.vtex
+materials/models/custom/tokisaki_mio/mio03.vmat
+materials/models/custom/tokisaki_mio/mio04_color_png_abebe13d.vtex
+materials/models/custom/tokisaki_mio/mio04.vmat
+materials/models/custom/tokisaki_mio/mio_arms_color_png_28595ec0.vtex
+materials/models/custom/tokisaki_mio/mio_arms.vmat
+materials/models/custom/tokisaki_mio/mio_arms_hudiejie_color_png_74a9cbf1.vtex
+materials/models/custom/tokisaki_mio/mio_arms_hudiejie.vmat
+models/custom/tokisaki_mio/tokisaki_mio.vmdl

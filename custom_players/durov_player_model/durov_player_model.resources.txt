@@ -1,0 +1,22 @@
+# cs2-model-converter: durov_player_model, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/nozb1/durov_player_model/durov_player_model.vmdl
+# first person: 0 2 12 15
+characters/models/nozb1/durov_player_model/durov_player_model/arms_vmorf.vtex
+characters/models/nozb1/durov_player_model/durov_player_model/body_vmorf.vtex
+characters/models/nozb1/durov_player_model/materials/arms_vmat_g_tmetalness_10974e8a.vtex
+characters/models/nozb1/durov_player_model/materials/durov_assc_0_normal_png_db4fd874.vtex
+characters/models/nozb1/durov_player_model/materials/durov_assc_0_png_fee0aa5e.vtex
+characters/models/nozb1/durov_player_model/materials/arms.vmat
+characters/models/nozb1/durov_player_model/materials/body_vmat_g_tmetalness_10974e8a.vtex
+characters/models/nozb1/durov_player_model/materials/durov_body_0_normal_png_3741e9db.vtex
+characters/models/nozb1/durov_player_model/materials/durov_body_0_png_95a0d0c0.vtex
+characters/models/nozb1/durov_player_model/materials/body.vmat
+characters/models/nozb1/durov_player_model/materials/durov_head_0_normal_png_b7fa2ee5.vtex
+characters/models/nozb1/durov_player_model/materials/durov_head_0_png_1b25932a.vtex
+characters/models/nozb1/durov_player_model/materials/facee_vmat_g_tmetalness_10974e8a.vtex
+characters/models/nozb1/durov_player_model/materials/facee.vmat
+characters/models/nozb1/durov_player_model/materials/durov_lowr_0_normal_png_6a77d6d8.vtex
+characters/models/nozb1/durov_player_model/materials/durov_lowr_0_png_c10e41e3.vtex
+characters/models/nozb1/durov_player_model/materials/lbody_vmat_g_tmetalness_10974e8a.vtex
+characters/models/nozb1/durov_player_model/materials/lbody.vmat
+characters/models/nozb1/durov_player_model/durov_player_model.vmdl

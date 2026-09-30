@@ -1,0 +1,12 @@
+# cs2-model-converter: oni2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/oni2/oni2.vmdl
+# weapon: weapon_knife_butterfly
+# skeleton: animation/skeletons/weapons/knife_butterfly.vnmskel
+weapons/models/knife/knife_butterfly/oni2_materials/eye_vmat_g_tcolor_1a0485a9.vtex
+weapons/models/knife/knife_butterfly/oni2_materials/eye_vmat_g_tselfillummask_ff155607.vtex
+weapons/models/knife/knife_butterfly/oni2_materials/eye.vmat
+weapons/models/knife/knife_butterfly/oni2_materials/ao_png_aac9e1b9.vtex
+weapons/models/knife/knife_butterfly/oni2_materials/melee_oni2_df_png_b86eb7dc.vtex
+weapons/models/knife/knife_butterfly/oni2_materials/melee_oni2_nm_png_d79be36f.vtex
+weapons/models/knife/knife_butterfly/oni2_materials/mi.vmat
+weapons/custom/oni2/oni2.vmdl

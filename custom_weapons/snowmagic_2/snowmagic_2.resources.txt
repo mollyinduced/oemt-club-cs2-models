@@ -1,0 +1,11 @@
+# cs2-model-converter: snowmagic_2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/snowmagic_2/snowmagic_2.vmdl
+# weapon: weapon_knife_t
+# skeleton: animation/skeletons/weapons/knife_default_t.vnmskel
+weapons/kolkazadrot/knife/snowmagic/materials/melee_snowglobe_df_tga_68021f0f.vtex
+weapons/kolkazadrot/knife/snowmagic/materials/melee_snowglobe_nm_tga_516a8ed6.vtex
+weapons/kolkazadrot/knife/snowmagic/materials/melee_snowglobe.vmat
+weapons/kolkazadrot/knife/snowmagic/materials/snowglobe_insideprops_df_tga_9515298e.vtex
+weapons/kolkazadrot/knife/snowmagic/materials/snowglobe_insideprops_nm_tga_1c2f7905.vtex
+weapons/kolkazadrot/knife/snowmagic/materials/snowglobe_insideprops.vmat
+weapons/custom/snowmagic_2/snowmagic_2.vmdl

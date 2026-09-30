@@ -1,0 +1,12 @@
+# cs2-model-converter: zombie_classic_hitbox, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/poncikmarket/zombie_classic/zombie_classic_hitbox.vmdl
+# first person: 0 2 12 15
+agents/models/poncikmarket/zombie_classic/materials/crimsonheadhead_d_png_12206e31.vtex
+agents/models/poncikmarket/zombie_classic/materials/crimsonheadhead_d_vmat_g_tmetalness_b70f8f59_png_b1af1126.vtex
+agents/models/poncikmarket/zombie_classic/materials/crimsonheadhead_n_png_6ab281b7.vtex
+agents/models/poncikmarket/zombie_classic/materials/crimsonheadhead_d.vmat
+agents/models/poncikmarket/zombie_classic/materials/crimsonheadtorso_d_png_d76c3aa5.vtex
+agents/models/poncikmarket/zombie_classic/materials/crimsonheadtorso_d_vmat_g_tmetalness_b70f8f59_png_5fad3efa.vtex
+agents/models/poncikmarket/zombie_classic/materials/crimsonheadtorso_n_png_caa6625b.vtex
+agents/models/poncikmarket/zombie_classic/materials/crimsonheadtorso_d.vmat
+agents/models/poncikmarket/zombie_classic/zombie_classic_hitbox.vmdl

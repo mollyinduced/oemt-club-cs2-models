@@ -1,0 +1,14 @@
+# cs2-model-converter: glcok_carbine_mag, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/glcok_carbine_mag/glcok_carbine_mag.vmdl
+# weapon: weapon_glock
+# skeleton: animation/skeletons/weapons/glock18.vnmskel
+weapons/models/bluearchive_glock_carbine/materials/mb_vmat_g_tselfillummask_ff155607.vtex
+weapons/models/bluearchive_glock_carbine/materials/miaobian_png_5e63c3d9.vtex
+weapons/models/bluearchive_glock_carbine/materials/mb.vmat
+weapons/models/bluearchive_glock_carbine/materials/xmaterial_31202cc40a46724d_mag_png_f633f33.vtex
+weapons/models/bluearchive_glock_carbine/materials/xmaterial_31202cc40a46724d_mag_vmat_g_tmetalness_e007d70d.vtex
+weapons/models/bluearchive_glock_carbine/materials/xmaterial_31202cc40a46724d_mag.vmat
+weapons/models/bluearchive_glock_carbine/materials/xmaterial_3c99fbcea1e0e9d4_ammo_vmat_g_tmetalness_e007d70d.vtex
+weapons/models/bluearchive_glock_carbine/materials/xmaterial_3c99fbcea1e0e9d4_rgb_ammo_png_62863fcd.vtex
+weapons/models/bluearchive_glock_carbine/materials/xmaterial_3c99fbcea1e0e9d4_ammo.vmat
+weapons/custom/glcok_carbine_mag/glcok_carbine_mag.vmdl

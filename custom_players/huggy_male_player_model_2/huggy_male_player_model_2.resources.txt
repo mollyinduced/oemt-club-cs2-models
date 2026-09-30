@@ -1,0 +1,13 @@
+# cs2-model-converter: huggy_male_player_model_2, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/ag2/huggy_male_player_model/huggy_male_player_model.vmdl
+# first person: 0 2 12 15
+agents/models/ag2/huggy_male_player_model/materials/huggy_1_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2/huggy_male_player_model/materials/malehuggie_basecolor_png_ca970d0b.vtex
+agents/models/ag2/huggy_male_player_model/materials/malehuggie_normal_png_518c7afe.vtex
+agents/models/ag2/huggy_male_player_model/materials/malehuggie_occlusionroughnessmetallic_png_65884567.vtex
+agents/models/ag2/huggy_male_player_model/materials/huggy_1.vmat
+agents/models/ag2/huggy_male_player_model/materials/baketexture1_diffcolor_1001_png_e7dd8c1a.vtex
+agents/models/ag2/huggy_male_player_model/materials/baketexture1_n_1001_png_a8d2d130.vtex
+agents/models/ag2/huggy_male_player_model/materials/huggy_2_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2/huggy_male_player_model/materials/huggy_2.vmat
+agents/models/ag2/huggy_male_player_model/huggy_male_player_model.vmdl

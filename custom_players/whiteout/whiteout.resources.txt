@@ -1,0 +1,12 @@
+# cs2-model-converter: whiteout, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/kolka/2025/whiteout/whiteout.vmdl
+# first person: 0 1 2 3
+characters/models/kolka/2025/whiteout/mat/body_vmat_g_tmetalness_10974e8a.vtex
+characters/models/kolka/2025/whiteout/mat/srw_body_d_tga_a37be9b6.vtex
+characters/models/kolka/2025/whiteout/mat/srw_body_n_tga_477771f.vtex
+characters/models/kolka/2025/whiteout/mat/body.vmat
+characters/models/kolka/2025/whiteout/mat/1_png_bf2528ce.vtex
+characters/models/kolka/2025/whiteout/mat/srw_helmet_d_tga_c5da0615.vtex
+characters/models/kolka/2025/whiteout/mat/srw_helmet_n_tga_746b1d72.vtex
+characters/models/kolka/2025/whiteout/mat/helmet.vmat
+characters/models/kolka/2025/whiteout/whiteout.vmdl

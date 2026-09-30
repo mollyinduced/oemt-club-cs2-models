@@ -1,0 +1,23 @@
+# cs2-model-converter: w_yamato_ssr, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/w_yamato_ssr/w_yamato_ssr.vmdl
+# weapon: weapon_knife_m9_bayonet
+# skeleton: animation/skeletons/weapons/knife_m9.vnmskel
+models/weapons/exg/tokyocold/yamato/$0b_effect_gold_png_1cd4fee7.vtex
+models/weapons/exg/tokyocold/yamato/effect_gold.vmat
+models/weapons/exg/tokyocold/yamato/sheath_n_tga_20870467.vtex
+models/weapons/exg/tokyocold/yamato/sheath_tga_57861cbc.vtex
+models/weapons/exg/tokyocold/yamato/sheath.vmat
+models/weapons/exg/tokyocold/yamato/$0b_wing_ground02_png_75435945.vtex
+models/weapons/exg/tokyocold/yamato/wing_ground02_vmat_g_tselfillummask_d90aaaa5.vtex
+models/weapons/exg/tokyocold/yamato/wing_ground02.vmat
+models/weapons/exg/tokyocold/yamato/$0b_wing_ring001_png_f387c676.vtex
+models/weapons/exg/tokyocold/yamato/wing_ring001.vmat
+models/weapons/exg/tokyocold/yamato/$0b_wing_ring002_png_d312fa38.vtex
+models/weapons/exg/tokyocold/yamato/wing_ring002.vmat
+models/weapons/exg/tokyocold/yamato/$0b_wing_ring003_png_546235c9.vtex
+models/weapons/exg/tokyocold/yamato/wing_ring003.vmat
+models/weapons/exg/tokyocold/yamato/yamato_m_tga_cea8d6b1.vtex
+models/weapons/exg/tokyocold/yamato/yamato_n_tga_ff3c2b36.vtex
+models/weapons/exg/tokyocold/yamato/yamato_tga_d7614eb0.vtex
+models/weapons/exg/tokyocold/yamato/yamato.vmat
+weapons/custom/w_yamato_ssr/w_yamato_ssr.vmdl

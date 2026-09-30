@@ -1,0 +1,33 @@
+# cs2-model-converter: saitama, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/kolka/saitama/saitama.vmdl
+# first person: 0 1 2 3
+characters/models/kolka/saitama/mat/form_change_body_c_mdl1_png_bd2019e4.vtex
+characters/models/kolka/saitama/mat/form_change_body_c_mdl1_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/kolka/saitama/mat/form_change_body_n_mdl1_png_16266d02.vtex
+characters/models/kolka/saitama/mat/form_change_body_c_mdl1.vmat
+characters/models/kolka/saitama/mat/form_change_boots_c_mdl1_png_2f1cad3f.vtex
+characters/models/kolka/saitama/mat/form_change_boots_c_mdl1_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/kolka/saitama/mat/form_change_boots_n_mdl1_png_cdc3693.vtex
+characters/models/kolka/saitama/mat/form_change_boots_c_mdl1.vmat
+characters/models/kolka/saitama/mat/form_change_eyeball.001_mdl1_png_c40dde00.vtex
+characters/models/kolka/saitama/mat/form_change_eyeball.001_mdl1_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/kolka/saitama/mat/form_change_eyeball.001_mdl1_vmat_g_tnormal_40f3df6.vtex
+characters/models/kolka/saitama/mat/form_change_eyeball.001_mdl1.vmat
+characters/models/kolka/saitama/mat/form_change_face_c_mdl1_png_3373ec44.vtex
+characters/models/kolka/saitama/mat/form_change_face_c_mdl1_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/kolka/saitama/mat/form_change_face_c_mdl1_vmat_g_tnormal_1cf8ea9.vtex
+characters/models/kolka/saitama/mat/form_change_face_c_mdl1.vmat
+characters/models/kolka/saitama/mat/form_change_mant_c_mdl1_png_da67b4fd.vtex
+characters/models/kolka/saitama/mat/form_change_mant_c_mdl1_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/kolka/saitama/mat/form_change_mant_c_mdl1_vmat_g_tnormal_53b47c48.vtex
+characters/models/kolka/saitama/mat/form_change_mant_c_mdl1.vmat
+characters/models/kolka/saitama/mat/form_change_tooth1_c_mdl1_png_5e01e7b9.vtex
+characters/models/kolka/saitama/mat/form_change_tooth1_c_mdl1_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/kolka/saitama/mat/form_change_tooth1_c_mdl1_vmat_g_tnormal_53b47c48.vtex
+characters/models/kolka/saitama/mat/form_change_tooth1_c_mdl1.vmat
+characters/models/kolka/saitama/saitama/first_person_arms_vmorf.vtex
+characters/models/kolka/saitama/saitama/thirdperson_vmorf.vtex
+characters/models/kolka/saitama/saitama_arms.vmdl
+characters/models/kolka/shared/2b_vmat_g_tcolor_37c55b5d.vtex
+characters/models/kolka/shared/2b.vmat
+characters/models/kolka/saitama/saitama.vmdl

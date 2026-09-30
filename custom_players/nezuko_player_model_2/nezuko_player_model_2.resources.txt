@@ -1,0 +1,9 @@
+# cs2-model-converter: the resources models/custom/nezuko_player_model_2/nezuko_player_model_2.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/nezuko_player_model_2/nezuko_body_color_png_fbbb4f62.vtex
+materials/models/custom/nezuko_player_model_2/nezuko_body.vmat
+materials/models/custom/nezuko_player_model_2/nezuko_head_color_png_995856be.vtex
+materials/models/custom/nezuko_player_model_2/nezuko_head.vmat
+materials/models/custom/nezuko_player_model_2/outliner_color_png_87400ef9.vtex
+materials/models/custom/nezuko_player_model_2/outliner.vmat
+models/custom/nezuko_player_model_2/nezuko_player_model_2.vmdl

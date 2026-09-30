@@ -1,0 +1,24 @@
+# cs2-model-converter: claude_player_model, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/nozb1/claude_player_model/claude_player_model.vmdl
+# first person: 0 2 12 15
+characters/models/nozb1/claude_player_model/claude_player_model/body_vmorf.vtex
+characters/models/nozb1/claude_player_model/materials/acessor_vmat_g_tcolor_7893f834.vtex
+characters/models/nozb1/claude_player_model/materials/acessor_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/claude_player_model/materials/acessor_vmat_g_tnormal_18cf3a06.vtex
+characters/models/nozb1/claude_player_model/materials/acessor.vmat
+characters/models/nozb1/claude_player_model/materials/body_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/claude_player_model/materials/claude_playerclothes_bc_0_png_7e05f471.vtex
+characters/models/nozb1/claude_player_model/materials/claude_playerclothes_bc_normal_png_975c948.vtex
+characters/models/nozb1/claude_player_model/materials/body.vmat
+characters/models/nozb1/claude_player_model/materials/claude_playereyes_bc_0_png_2c6d37f0.vtex
+characters/models/nozb1/claude_player_model/materials/eye_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/claude_player_model/materials/eye.vmat
+characters/models/nozb1/claude_player_model/materials/claude_playerskin_bc_0_png_c87692af.vtex
+characters/models/nozb1/claude_player_model/materials/claude_playerskin_bc_normal_png_3bb07600.vtex
+characters/models/nozb1/claude_player_model/materials/face_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/claude_player_model/materials/face.vmat
+characters/models/nozb1/claude_player_model/materials/claude_playerhair_bc_0_png_d321b752.vtex
+characters/models/nozb1/claude_player_model/materials/claude_playerhair_bc_normal_png_8e9502b.vtex
+characters/models/nozb1/claude_player_model/materials/hair_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/claude_player_model/materials/hair.vmat
+characters/models/nozb1/claude_player_model/claude_player_model.vmdl

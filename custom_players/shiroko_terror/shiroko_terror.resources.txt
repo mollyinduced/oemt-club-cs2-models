@@ -1,0 +1,45 @@
+# cs2-model-converter: shiroko_terror, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/asmodeus/shiroko_terror/shiroko_terror.vmdl
+# first person: 0 1 2 3
+characters/models/asmodeus/shiroko_terror/materials/body_png_9b27a326.vtex
+characters/models/asmodeus/shiroko_terror/materials/body_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/shiroko_terror/materials/body.vmat
+characters/models/asmodeus/shiroko_terror/materials/cloth_png_d6e0af8f.vtex
+characters/models/asmodeus/shiroko_terror/materials/cloth_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/shiroko_terror/materials/cloth.vmat
+characters/models/asmodeus/shiroko_terror/materials/eyebrows_png_65dede77.vtex
+characters/models/asmodeus/shiroko_terror/materials/eyebrows_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/shiroko_terror/materials/eyebrows.vmat
+characters/models/asmodeus/shiroko_terror/materials/eyel_png_47b7bf38.vtex
+characters/models/asmodeus/shiroko_terror/materials/eyel_png_76802c8e.vtex
+characters/models/asmodeus/shiroko_terror/materials/eyel.vmat
+characters/models/asmodeus/shiroko_terror/materials/eyeline_png_b8405da0.vtex
+characters/models/asmodeus/shiroko_terror/materials/eyeline_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/shiroko_terror/materials/eyeline.vmat
+characters/models/asmodeus/shiroko_terror/materials/eyer_png_597a85a.vtex
+characters/models/asmodeus/shiroko_terror/materials/eyer_png_62bdab22.vtex
+characters/models/asmodeus/shiroko_terror/materials/eyer.vmat
+characters/models/asmodeus/shiroko_terror/materials/eyewhites_png_8e9d6f5c.vtex
+characters/models/asmodeus/shiroko_terror/materials/eyewhites_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/shiroko_terror/materials/eyewhites.vmat
+characters/models/asmodeus/shiroko_terror/materials/face_png_425ef60b.vtex
+characters/models/asmodeus/shiroko_terror/materials/face_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/shiroko_terror/materials/face.vmat
+characters/models/asmodeus/shiroko_terror/materials/gloves_png_8b45afba.vtex
+characters/models/asmodeus/shiroko_terror/materials/gloves_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/shiroko_terror/materials/gloves.vmat
+characters/models/asmodeus/shiroko_terror/materials/hair_b_png_1af489d4.vtex
+characters/models/asmodeus/shiroko_terror/materials/hair_b_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/shiroko_terror/materials/hair_b.vmat
+characters/models/asmodeus/shiroko_terror/materials/hair_f_png_2cd47d70.vtex
+characters/models/asmodeus/shiroko_terror/materials/hair_f_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/shiroko_terror/materials/hair_f.vmat
+characters/models/asmodeus/shiroko_terror/materials/panties_png_221e5fa6.vtex
+characters/models/asmodeus/shiroko_terror/materials/panties_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/shiroko_terror/materials/panties.vmat
+characters/models/asmodeus/shiroko_terror/materials/hair_b_png_5f616725.vtex
+characters/models/asmodeus/shiroko_terror/materials/ring.vmat
+characters/models/asmodeus/shiroko_terror/materials/skirt_png_1dcbbcd4.vtex
+characters/models/asmodeus/shiroko_terror/materials/skirt_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/shiroko_terror/materials/skirt.vmat
+characters/models/asmodeus/shiroko_terror/shiroko_terror.vmdl

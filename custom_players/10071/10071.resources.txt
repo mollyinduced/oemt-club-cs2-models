@@ -1,0 +1,42 @@
+# cs2-model-converter: 10071, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/exg/10071/10071.vmdl
+# first person: 0 2 12 15
+characters/models/exg/ruiyiwelkin/elaina/body_png_fbc24295.vtex
+characters/models/exg/ruiyiwelkin/elaina/body_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/exg/ruiyiwelkin/elaina/body_vmat_g_tnormal_6106b076.vtex
+characters/models/exg/ruiyiwelkin/elaina/body.vmat
+characters/models/exg/ruiyiwelkin/elaina/cloth2_png_6039e689.vtex
+characters/models/exg/ruiyiwelkin/elaina/cloth2_vmat_g_tmetalness_8a7cc089.vtex
+characters/models/exg/ruiyiwelkin/elaina/cloth2_vmat_g_tnormal_53b47c48.vtex
+characters/models/exg/ruiyiwelkin/elaina/cloth2.vmat
+characters/models/exg/ruiyiwelkin/elaina/cloth3_png_84f0e582.vtex
+characters/models/exg/ruiyiwelkin/elaina/cloth3_vmat_g_tmetalness_186644c.vtex
+characters/models/exg/ruiyiwelkin/elaina/cloth3_vmat_g_tnormal_53b47c48.vtex
+characters/models/exg/ruiyiwelkin/elaina/cloth3.vmat
+characters/models/exg/ruiyiwelkin/elaina/cloth4_png_ce70298c.vtex
+characters/models/exg/ruiyiwelkin/elaina/cloth4_vmat_g_tmetalness_8a7cc089.vtex
+characters/models/exg/ruiyiwelkin/elaina/cloth4_vmat_g_tnormal_53b47c48.vtex
+characters/models/exg/ruiyiwelkin/elaina/cloth4.vmat
+characters/models/exg/ruiyiwelkin/elaina/elaina_majo/face_vmorf.vtex
+characters/models/exg/ruiyiwelkin/elaina/eye_mask_png_182c233f.vtex
+characters/models/exg/ruiyiwelkin/elaina/face_png_dc4b93f5.vtex
+characters/models/exg/ruiyiwelkin/elaina/face.vmat
+characters/models/exg/ruiyiwelkin/elaina/hair_png_578a0c0a.vtex
+characters/models/exg/ruiyiwelkin/elaina/hair_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/exg/ruiyiwelkin/elaina/hair_vmat_g_tnormal_f8f55cab.vtex
+characters/models/exg/ruiyiwelkin/elaina/hair.vmat
+characters/models/exg/ruiyiwelkin/elaina/jk_png_4fafcc36.vtex
+characters/models/exg/ruiyiwelkin/elaina/jk_vmat_g_tmetalness_8a7cc089.vtex
+characters/models/exg/ruiyiwelkin/elaina/jk_vmat_g_tnormal_53b47c48.vtex
+characters/models/exg/ruiyiwelkin/elaina/jk.vmat
+characters/models/exg/ruiyiwelkin/elaina/ligth_vmat_g_tselfillummask_ff155607.vtex
+characters/models/exg/ruiyiwelkin/elaina/rbg_png_3c4ca218.vtex
+characters/models/exg/ruiyiwelkin/elaina/ligth.vmat
+characters/models/exg/ruiyiwelkin/elaina/fazhen_png_23b9d7bc.vtex
+characters/models/exg/ruiyiwelkin/elaina/magic_vmat_g_tselfillummask_ff155607.vtex
+characters/models/exg/ruiyiwelkin/elaina/magic.vmat
+characters/models/exg/ruiyiwelkin/elaina/yuyi_png_5ba2c714.vtex
+characters/models/exg/ruiyiwelkin/elaina/yuyi_vmat_g_tmetalness_8a7cc089.vtex
+characters/models/exg/ruiyiwelkin/elaina/yuyi_vmat_g_tnormal_53b47c48.vtex
+characters/models/exg/ruiyiwelkin/elaina/yuyi.vmat
+characters/exg/10071/10071.vmdl

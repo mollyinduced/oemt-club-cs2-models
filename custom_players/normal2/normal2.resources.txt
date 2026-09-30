@@ -1,0 +1,8 @@
+# cs2-model-converter: the resources models/custom/normal2/normal2.vmdl needs, loaded in this order by the SDK
+materials/models/custom/normal2/body_color_png_16c17042.vtex
+materials/models/custom/normal2/body.vmat
+materials/models/custom/normal2/face_color_png_646183c1.vtex
+materials/models/custom/normal2/face.vmat
+materials/models/custom/normal2/pifeng_color_png_48135227.vtex
+materials/models/custom/normal2/pifeng.vmat
+models/custom/normal2/normal2.vmdl

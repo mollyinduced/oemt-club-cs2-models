@@ -1,0 +1,17 @@
+# cs2-model-converter: v_jiguangjiandisan, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/v_jiguangjiandisan/v_jiguangjiandisan.vmdl
+# weapon: weapon_knife_t
+# skeleton: animation/skeletons/weapons/knife_default_t.vnmskel
+materials/models/exg8/$0bholy_sword_ef2_png_11d7d710.vtex
+materials/models/exg8/$0bholy_sword_ef2_png_4f912f6a.vtex
+materials/models/exg8/00000001992605f8_png_83d16bb0.vtex
+materials/models/exg8/bholy_sword_ef2.vmat
+materials/models/exg8/$0b_blueglow_png_98cfb99c.vtex
+materials/models/exg8/$0b_blueglow_png_b3f802fc.vtex
+materials/models/exg8/00000001992605f8_png_fd7f8d0a.vtex
+materials/models/exg8/blueglow.vmat
+materials/models/exg8/y22s2sfsword_v01_n_png_965ebbd9.vtex
+materials/models/exg8/y22s2sfsword_v01_png_793c4e9c.vtex
+materials/models/exg8/y22s2sfsword_v01_vmat_g_tselfillummask_ff155607.vtex
+materials/models/exg8/y22s2sfsword_v01.vmat
+weapons/custom/v_jiguangjiandisan/v_jiguangjiandisan.vmdl

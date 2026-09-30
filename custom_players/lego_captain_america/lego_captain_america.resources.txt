@@ -1,0 +1,12 @@
+# cs2-model-converter: lego_captain_america, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/nozb1/lego_pack_player_model/lego_captain_america_player_model/lego_captain_america.vmdl
+# first person: 0 2 12 15
+characters/models/nozb1/lego_pack_player_model/lego_captain_america_player_model/materials/body_mat1_normal_png_4b962b77.vtex
+characters/models/nozb1/lego_pack_player_model/lego_captain_america_player_model/materials/body_mat1_png_f62715c8.vtex
+characters/models/nozb1/lego_pack_player_model/lego_captain_america_player_model/materials/body_mat1_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/lego_pack_player_model/lego_captain_america_player_model/materials/body_mat1.vmat
+characters/models/nozb1/lego_pack_player_model/lego_captain_america_player_model/materials/shield_mat_normal_png_ccc41868.vtex
+characters/models/nozb1/lego_pack_player_model/lego_captain_america_player_model/materials/shield_mat_png_a3b6a18f.vtex
+characters/models/nozb1/lego_pack_player_model/lego_captain_america_player_model/materials/shield_mat_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/lego_pack_player_model/lego_captain_america_player_model/materials/shield_mat.vmat
+characters/models/nozb1/lego_pack_player_model/lego_captain_america_player_model/lego_captain_america.vmdl

@@ -1,0 +1,25 @@
+# cs2-model-converter: meika2_m4a1, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/meika2_m4a1/meika2_m4a1.vmdl
+# weapon: weapon_m4a1_silencer
+# skeleton: animation/skeletons/weapons/m4a1_silencer.vnmskel
+weapons/otakku/m4a1_silencer/meika2_m4a1/materials/ammo_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/m4a1_silencer/meika2_m4a1/materials/ammo_vmat_g_tcolor_20638b28.vtex
+weapons/otakku/m4a1_silencer/meika2_m4a1/materials/ammo_vmat_g_tnormal_2984f4a9.vtex
+weapons/otakku/m4a1_silencer/meika2_m4a1/materials/ammo.vmat
+weapons/otakku/m4a1_silencer/meika2_m4a1/materials/body_n_png_768ef14d.vtex
+weapons/otakku/m4a1_silencer/meika2_m4a1/materials/body_png_d0fd25f5.vtex
+weapons/otakku/m4a1_silencer/meika2_m4a1/materials/body_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/m4a1_silencer/meika2_m4a1/materials/body.vmat
+weapons/otakku/m4a1_silencer/meika2_m4a1/materials/mag_00_00_00_png_c13f326c.vtex
+weapons/otakku/m4a1_silencer/meika2_m4a1/materials/mag_n_00_00_00_png_d4596004.vtex
+weapons/otakku/m4a1_silencer/meika2_m4a1/materials/mag_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/m4a1_silencer/meika2_m4a1/materials/mag.vmat
+weapons/otakku/m4a1_silencer/meika2_m4a1/materials/peq_00_00_00_png_f999db94.vtex
+weapons/otakku/m4a1_silencer/meika2_m4a1/materials/peq_n_00_00_00_png_8de14d2e.vtex
+weapons/otakku/m4a1_silencer/meika2_m4a1/materials/peq_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/m4a1_silencer/meika2_m4a1/materials/peq.vmat
+weapons/otakku/m4a1_silencer/meika2_m4a1/materials/silenced_00_00_00_png_8d3a642b.vtex
+weapons/otakku/m4a1_silencer/meika2_m4a1/materials/silenced_n_00_00_00_png_71a40b74.vtex
+weapons/otakku/m4a1_silencer/meika2_m4a1/materials/silenced_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/m4a1_silencer/meika2_m4a1/materials/silenced.vmat
+weapons/custom/meika2_m4a1/meika2_m4a1.vmdl

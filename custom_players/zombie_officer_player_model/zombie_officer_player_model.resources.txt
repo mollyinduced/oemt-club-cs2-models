@@ -1,0 +1,11 @@
+# cs2-model-converter: the resources models/custom/zombie_officer_player_model/zombie_officer_player_model.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/zombie_officer_player_model/re_arm_color_png_12fefb45.vtex
+materials/models/custom/zombie_officer_player_model/re_arm.vmat
+materials/models/custom/zombie_officer_player_model/re_body_color_png_31f5f665.vtex
+materials/models/custom/zombie_officer_player_model/re_body.vmat
+materials/models/custom/zombie_officer_player_model/re_head_color_png_c4340e64.vtex
+materials/models/custom/zombie_officer_player_model/re_head.vmat
+materials/models/custom/zombie_officer_player_model/re_leg_color_png_7274c6d1.vtex
+materials/models/custom/zombie_officer_player_model/re_leg.vmat
+models/custom/zombie_officer_player_model/zombie_officer_player_model.vmdl

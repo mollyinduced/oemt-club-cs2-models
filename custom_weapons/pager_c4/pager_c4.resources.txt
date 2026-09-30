@@ -1,0 +1,11 @@
+# cs2-model-converter: pager_c4, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/pager_c4/pager_c4.vmdl
+# weapon: weapon_c4
+# skeleton: animation/skeletons/weapons/c4.vnmskel
+weapons/nozb1/pager/materials/main1_normal_png_1b6cbf0b.vtex
+weapons/nozb1/pager/materials/main1_png_6efa3727.vtex
+weapons/nozb1/pager/materials/main1.vmat
+weapons/nozb1/pager/materials/main_2_normal_png_e48d549.vtex
+weapons/nozb1/pager/materials/main_2_png_24c4400e.vtex
+weapons/nozb1/pager/materials/main2.vmat
+weapons/custom/pager_c4/pager_c4.vmdl

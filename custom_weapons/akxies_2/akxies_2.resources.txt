@@ -1,0 +1,10 @@
+# cs2-model-converter: akxies_2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/akxies_2/akxies_2.vmdl
+# weapon: weapon_ak47
+# skeleton: animation/skeletons/weapons/ak47.vnmskel
+models/akxies/akayfx_vmat_g_tselfillummask_ff155607.vtex
+models/akxies/akxefx_png_fdec5738.vtex
+models/akxies/akxswl_png_e250c701.vtex
+models/akxies/akxswl_upscayl_4x_realesrgan-x4plus_png_48c3a5fe.vtex
+models/akxies/akayfx.vmat
+weapons/custom/akxies_2/akxies_2.vmdl

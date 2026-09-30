@@ -1,0 +1,14 @@
+# cs2-model-converter: minima2_1_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/minima2_1_ag2/minima2_1_ag2.vmdl
+# weapon: weapon_knife_karambit
+# skeleton: animation/skeletons/weapons/knife_karambit.vnmskel
+weapons/phase2/poncikmarket/minima2/materials/melee_minima2_aem_png_38460932.vtex
+weapons/phase2/poncikmarket/minima2/materials/melee_minima2_df_png_a97c3056.vtex
+weapons/phase2/poncikmarket/minima2/materials/melee_minima2_nm_png_f3d56ee.vtex
+weapons/phase2/poncikmarket/minima2/materials/1.vmat
+weapons/phase2/poncikmarket/minima2/materials/2_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/phase2/poncikmarket/minima2/materials/2_vmat_g_tnormal_2984f4a9.vtex
+weapons/phase2/poncikmarket/minima2/materials/2_vmat_g_tselfillummask_ff155607.vtex
+weapons/phase2/poncikmarket/minima2/materials/rgb_png_7237f6f4.vtex
+weapons/phase2/poncikmarket/minima2/materials/2.vmat
+weapons/custom/minima2_1_ag2/minima2_1_ag2.vmdl

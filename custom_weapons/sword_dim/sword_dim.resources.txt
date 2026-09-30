@@ -1,0 +1,7 @@
+# cs2-model-converter: sword_dim, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/sword_dim/sword_dim.vmdl
+# weapon: weapon_knife_t
+# skeleton: animation/skeletons/weapons/knife_default_t.vnmskel
+models/sword/sword-04_00_00_00_png_c382faae.vtex
+models/sword/sword.vmat
+weapons/custom/sword_dim/sword_dim.vmdl

@@ -1,0 +1,24 @@
+# cs2-model-converter: momonga_player_model, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/nozb1/momonga_player_model/momonga_player_model.vmdl
+# first person: 0 2 12 15
+characters/models/nozb1/momonga_player_model/materials/cloth_diff_png_52b422df.vtex
+characters/models/nozb1/momonga_player_model/materials/cloth_nml_png_bb0d4314.vtex
+characters/models/nozb1/momonga_player_model/materials/cloth_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/momonga_player_model/materials/cloth.vmat
+characters/models/nozb1/momonga_player_model/materials/leather_diff_png_237677d2.vtex
+characters/models/nozb1/momonga_player_model/materials/leather_nml_png_482f51b2.vtex
+characters/models/nozb1/momonga_player_model/materials/leather_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/momonga_player_model/materials/leather.vmat
+characters/models/nozb1/momonga_player_model/materials/steel01_diff_png_cff1f9bf.vtex
+characters/models/nozb1/momonga_player_model/materials/steel01_nml_png_ce1b0bde.vtex
+characters/models/nozb1/momonga_player_model/materials/steel_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/momonga_player_model/materials/steel.vmat
+characters/models/nozb1/momonga_player_model/materials/longsword_diff_png_a6092f53.vtex
+characters/models/nozb1/momonga_player_model/materials/longsword_nml_png_20bfc9.vtex
+characters/models/nozb1/momonga_player_model/materials/sword_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/momonga_player_model/materials/sword.vmat
+characters/models/nozb1/momonga_player_model/materials/trim_diff_png_f69f4910.vtex
+characters/models/nozb1/momonga_player_model/materials/trim_nml_png_9f141c96.vtex
+characters/models/nozb1/momonga_player_model/materials/trimm_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/momonga_player_model/materials/trimm.vmat
+characters/models/nozb1/momonga_player_model/momonga_player_model.vmdl

@@ -1,0 +1,45 @@
+{
+ "converter": "2.3",
+ "made": "2026-09-29 22:28:14",
+ "name": "w_shot_xm1014",
+ "mode": "rebuild",
+ "input": "C:\\Users\\mollyinduced\\Downloads\\models\\assault_3070594412",
+ "model": "models/weapons/w_shot_xm1014.vmdl_c",
+ "kind": "CS2 weapon model, no skeleton",
+ "weapon": "weapon_xm1014",
+ "options": {
+  "skin": 0,
+  "up": "auto",
+  "forward": "auto",
+  "rig": true,
+  "shader": "csgo_complex.vfx",
+  "texture_size": 4096,
+  "mode": "auto",
+  "jiggle": true,
+  "guess_jiggle": true,
+  "first_person": true,
+  "twist": true,
+  "arms": null,
+  "weapon": null,
+  "extra": [
+   "C:\\Users\\mollyinduced\\Downloads\\models\\homer_simpson_v3\\agents\\models\\otakku\\homer_simpson\\materials"
+  ],
+  "addon": "custom_models"
+ },
+ "stats": {
+  "triangles": 3175,
+  "bones": 8,
+  "on": "weapons/models/xm1014/weapon_shot_xm1014.vmdl",
+  "skeleton": "animation/skeletons/weapons/xm1014.vnmskel",
+  "moved": {
+   "r": [
+    19.4,
+    -41.286,
+    0.528,
+    125.4
+   ]
+  },
+  "parts": {},
+  "left_out": 0
+ }
+}

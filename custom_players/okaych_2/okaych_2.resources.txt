@@ -1,0 +1,37 @@
+# cs2-model-converter: okaych_2, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/kolka/okaych/okaych.vmdl
+# first person: 0 2 12 15
+characters/models/kolka/okaych/mat/tex_metal01_png_f980fb1e.vtex
+characters/models/kolka/okaych/mat/tex_metal01_vmat_g_tmetalness_3bb3def4.vtex
+characters/models/kolka/okaych/mat/tex_metal01_vmat_g_tnormal_3a8b5230.vtex
+characters/models/kolka/okaych/mat/tex_metal01.vmat
+characters/models/kolka/okaych/mat/tex_okayu_body01_png_e02f5e75.vtex
+characters/models/kolka/okaych/mat/tex_okayu_body01_vmat_g_tmetalness_10974e8a.vtex
+characters/models/kolka/okaych/mat/tex_okayu_body01_vmat_g_tnormal_53b47c48.vtex
+characters/models/kolka/okaych/mat/tex_okayu_body01.vmat
+characters/models/kolka/okaych/mat/tex_okayu_eye_l1_png_fa2a8da1.vtex
+characters/models/kolka/okaych/mat/tex_okayu_eye_l1_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/kolka/okaych/mat/tex_okayu_eye_l1_vmat_g_tnormal_53b47c48.vtex
+characters/models/kolka/okaych/mat/tex_okayu_eye_l1.vmat
+characters/models/kolka/okaych/mat/tex_okayu_face_tga_c5f78525.vtex
+characters/models/kolka/okaych/mat/tex_okayu_face_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/kolka/okaych/mat/tex_okayu_face_vmat_g_tnormal_53b47c48.vtex
+characters/models/kolka/okaych/mat/tex_okayu_face.vmat
+characters/models/kolka/okaych/mat/tex_okayu_hairb01_tga_2f6a6030.vtex
+characters/models/kolka/okaych/mat/tex_okayu_hairb01_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/kolka/okaych/mat/tex_okayu_hairb01_vmat_g_tnormal_53b47c48.vtex
+characters/models/kolka/okaych/mat/tex_okayu_hairb01.vmat
+characters/models/kolka/okaych/mat/tex_okayu_hairf01_tga_7d0ab08f.vtex
+characters/models/kolka/okaych/mat/tex_okayu_hairf01_vmat_g_tmetalness_10974e8a.vtex
+characters/models/kolka/okaych/mat/tex_okayu_hairf01_vmat_g_tnormal_53b47c48.vtex
+characters/models/kolka/okaych/mat/tex_okayu_hairf01.vmat
+characters/models/kolka/okaych/mat/tex_okayu_pants01_png_9fd4750.vtex
+characters/models/kolka/okaych/mat/tex_okayu_pants01_vmat_g_tmetalness_10974e8a.vtex
+characters/models/kolka/okaych/mat/tex_okayu_pants01_vmat_g_tnormal_53b47c48.vtex
+characters/models/kolka/okaych/mat/tex_okayu_pants01.vmat
+characters/models/kolka/okaych/mat/tex_okayu_tops01_png_1f58f393.vtex
+characters/models/kolka/okaych/mat/tex_okayu_tops01_vmat_g_tmetalness_10974e8a.vtex
+characters/models/kolka/okaych/mat/tex_okayu_tops01_vmat_g_tnormal_53b47c48.vtex
+characters/models/kolka/okaych/mat/tex_okayu_tops01.vmat
+characters/models/kolka/okaych/okaych_arms.vmdl
+characters/models/kolka/okaych/okaych.vmdl

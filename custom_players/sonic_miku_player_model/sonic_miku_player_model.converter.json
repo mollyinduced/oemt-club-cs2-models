@@ -1,0 +1,45 @@
+{
+ "converter": "2.3",
+ "made": "2026-09-29 20:26:39",
+ "name": "sonic_miku_player_model",
+ "mode": "rebuild",
+ "input": "C:\\Users\\mollyinduced\\Downloads\\models\\miku_sonic_player_model",
+ "model": "characters/models/nozb1/sonic_miku_player_model/sonic_miku_player_model.vmdl_c",
+ "kind": "Source 2 model, no AnimGraph2 (old CS2)",
+ "options": {
+  "skin": 0,
+  "up": "auto",
+  "forward": "auto",
+  "rig": true,
+  "shader": "csgo_complex.vfx",
+  "texture_size": 4096,
+  "mode": "auto",
+  "jiggle": true,
+  "guess_jiggle": true,
+  "first_person": true,
+  "twist": true,
+  "arms": null,
+  "weapon": null,
+  "extra": [
+   "C:\\Users\\mollyinduced\\Downloads\\models\\homer_simpson_v3\\agents\\models\\otakku\\homer_simpson\\materials"
+  ],
+  "addon": "custom_models"
+ },
+ "stats": {
+  "triangles": 25823,
+  "first_person_triangles": 6612,
+  "bones": 91,
+  "kept_bones": [
+   "Jiggle_item",
+   "jiggle_head1",
+   "jiggle_head2"
+  ],
+  "jiggle_bones": [
+   "jiggle_head1",
+   "jiggle_head2",
+   "Jiggle_item"
+  ],
+  "first_person": "characters/models/nozb1/sonic_miku_player_model/sonic_miku_arm.vmdl_c",
+  "materials": 12
+ }
+}

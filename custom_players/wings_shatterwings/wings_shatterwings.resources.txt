@@ -1,0 +1,4 @@
+# cs2-model-converter: the resources models/custom/wings_shatterwings/wings_shatterwings.vmdl needs, loaded in this order by the SDK
+materials/models/custom/wings_shatterwings/sw1_color_png_fd506491.vtex
+materials/models/custom/wings_shatterwings/sw1.vmat
+models/custom/wings_shatterwings/wings_shatterwings.vmdl

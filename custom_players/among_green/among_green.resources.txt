@@ -1,0 +1,11 @@
+# cs2-model-converter: among_green, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/nozb1/among_us_player_model/among_green.vmdl
+# first person: 0 2 12 15
+characters/models/nozb1/among_us_player_model/materials/green_png_da55f97.vtex
+characters/models/nozb1/among_us_player_model/materials/green.vmat
+characters/models/nozb1/among_us_player_model/materials/green_1_png_eb26603f.vtex
+characters/models/nozb1/among_us_player_model/materials/green_1.vmat
+characters/models/nozb1/among_us_player_model/materials/outliner_mat_vmat_g_tcolor_6b6e411d.vtex
+characters/models/nozb1/among_us_player_model/materials/outliner_mat_vmat_g_tselfillummask_ff155607.vtex
+characters/models/nozb1/among_us_player_model/materials/outliner_mat.vmat
+characters/models/nozb1/among_us_player_model/among_green.vmdl

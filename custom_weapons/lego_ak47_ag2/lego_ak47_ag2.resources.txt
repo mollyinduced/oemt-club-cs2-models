@@ -1,0 +1,9 @@
+# cs2-model-converter: lego_ak47_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/lego_ak47_ag2/lego_ak47_ag2.vmdl
+# weapon: weapon_ak47
+# skeleton: animation/skeletons/weapons/ak47.vnmskel
+weapons/nozb1/lego_pack/lego_ak47/materials/ak47_lego_png_4759b957.vtex
+weapons/nozb1/lego_pack/lego_ak47/materials/legoak47.vmat
+weapons/nozb1/lego_pack/lego_ak47/materials/outlinerss_vmat_g_tcolor_6b6e411d.vtex
+weapons/nozb1/lego_pack/lego_ak47/materials/outlinerss.vmat
+weapons/custom/lego_ak47_ag2/lego_ak47_ag2.vmdl

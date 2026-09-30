@@ -1,0 +1,40 @@
+# cs2-model-converter: maki_q, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/maki/maki_q.vmdl
+# first person: 1 2 48 60
+characters/models/maki/maki_q/body_vmorf.vtex
+characters/models/maki/tex_q/body_png_59591e72.vtex
+characters/models/maki/tex_q/body_vmat_g_tambientocclusion_9782fd5c.vtex
+characters/models/maki/tex_q/body_vmat_g_tmetalness_1081f06e.vtex
+characters/models/maki/tex_q/body_vmat_g_tnormal_d52512a9.vtex
+characters/models/maki/tex_q/body.vmat
+characters/models/maki/tex_q/eyemouth_png_bc29b4a3.vtex
+characters/models/maki/tex_q/eyemouth_vmat_g_tambientocclusion_9782fd5c.vtex
+characters/models/maki/tex_q/eyemouth_vmat_g_tmetalness_1081f06e.vtex
+characters/models/maki/tex_q/eyemouth_vmat_g_tnormal_d52512a9.vtex
+characters/models/maki/tex_q/eyemouth.vmat
+characters/models/maki/tex_q/face_png_83d89c76.vtex
+characters/models/maki/tex_q/face_vmat_g_tambientocclusion_9782fd5c.vtex
+characters/models/maki/tex_q/face_vmat_g_tmetalness_1081f06e.vtex
+characters/models/maki/tex_q/face_vmat_g_tnormal_d52512a9.vtex
+characters/models/maki/tex_q/face.vmat
+characters/models/maki/tex_q/hair_png_870567c8.vtex
+characters/models/maki/tex_q/hair_vmat_g_tambientocclusion_9782fd5c.vtex
+characters/models/maki/tex_q/hair_vmat_g_tmetalness_1081f06e.vtex
+characters/models/maki/tex_q/hair_vmat_g_tnormal_d52512a9.vtex
+characters/models/maki/tex_q/hair.vmat
+characters/models/maki/tex_q/halo_png_abe25024.vtex
+characters/models/maki/tex_q/halo_vmat_g_tambientocclusion_9782fd5c.vtex
+characters/models/maki/tex_q/halo_vmat_g_tnormal_d715409f.vtex
+characters/models/maki/tex_q/halo_vmat_g_tselfillummask_ff155607.vtex
+characters/models/maki/tex_q/halo.vmat
+characters/models/public_girlhands/tex/public_girlhands_png_92b25ff.vtex
+characters/models/public_girlhands/tex/public_girlhands_vmat_g_tambientocclusion_9782fd5c.vtex
+characters/models/public_girlhands/tex/public_girlhands_vmat_g_tmetalness_1081f06e.vtex
+characters/models/public_girlhands/tex/public_girlhands_vmat_g_tnormal_d52512a9.vtex
+characters/models/public_girlhands/tex/public_girlhands.vmat
+characters/models/public_girlhands/tex/public_girlhands_nail_png_55d6743c.vtex
+characters/models/public_girlhands/tex/public_girlhands_nail_vmat_g_tambientocclusion_9782fd5c.vtex
+characters/models/public_girlhands/tex/public_girlhands_nail_vmat_g_tmetalness_1081f06e.vtex
+characters/models/public_girlhands/tex/public_girlhands_nail_vmat_g_tnormal_c7d146ff.vtex
+characters/models/public_girlhands/tex/public_girlhands_nail.vmat
+characters/models/maki/maki_q.vmdl

@@ -1,0 +1,10 @@
+# cs2-model-converter: the resources models/custom/416_2/416_2.vmdl needs, loaded in this order by the SDK
+materials/models/custom/416_2/body_color_png_41e3e1cc.vtex
+materials/models/custom/416_2/body.vmat
+materials/models/custom/416_2/eyes_color_png_f912262d.vtex
+materials/models/custom/416_2/eyes.vmat
+materials/models/custom/416_2/face_color_png_166b9582.vtex
+materials/models/custom/416_2/face.vmat
+materials/models/custom/416_2/hari_color_png_d6034d10.vtex
+materials/models/custom/416_2/hari.vmat
+models/custom/416_2/416_2.vmdl

@@ -1,0 +1,10 @@
+# cs2-model-converter: loba, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/loba/loba.vmdl
+# weapon: weapon_knife_butterfly
+# skeleton: animation/skeletons/weapons/knife_butterfly.vnmskel
+weapons/models/knife/knife_butterfly/materials/base2_png_f828f74c.vtex
+weapons/models/knife/knife_butterfly/materials/loba_heirloom_aotexture_png_e1a903be.vtex
+weapons/models/knife/knife_butterfly/materials/loba_heirloom_emissivetexture_png_7a850827.vtex
+weapons/models/knife/knife_butterfly/materials/loba_heirloom_normaltexture_png_87e6c240.vtex
+weapons/models/knife/knife_butterfly/materials/loba.vmat
+weapons/custom/loba/loba.vmdl

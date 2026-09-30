@@ -1,0 +1,18 @@
+# cs2-model-converter: nosmokecat_player_model, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/ag2/nosmokecat_player_model/nosmokecat_player_model.vmdl
+# first person: 0 2 12 15
+agents/models/ag2/nosmokecat_player_model/materials/cat_black_mat_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2/nosmokecat_player_model/materials/cat_black_mat.vmat
+agents/models/ag2/nosmokecat_player_model/materials/cat_panneau_mat_vmat_g_tcolor_d427d074.vtex
+agents/models/ag2/nosmokecat_player_model/materials/cat_panneau_mat_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2/nosmokecat_player_model/materials/cat_panneau_mat.vmat
+agents/models/ag2/nosmokecat_player_model/materials/cat_skin_mat_vmat_g_tcolor_6b6e411d.vtex
+agents/models/ag2/nosmokecat_player_model/materials/cat_skin_mat_vmat_g_tmetalness_b70f8f59.vtex
+agents/models/ag2/nosmokecat_player_model/materials/cat_skin_mat.vmat
+agents/models/ag2/nosmokecat_player_model/materials/cat_smoke_mat_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2/nosmokecat_player_model/materials/cigarette_png_2c7b7621.vtex
+agents/models/ag2/nosmokecat_player_model/materials/cat_smoke_mat.vmat
+agents/models/ag2/nosmokecat_player_model/materials/cat_smokee_mat_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2/nosmokecat_player_model/materials/panneau_cigarette1_png_80fa7924.vtex
+agents/models/ag2/nosmokecat_player_model/materials/cat_smokee_mat.vmat
+agents/models/ag2/nosmokecat_player_model/nosmokecat_player_model.vmdl

@@ -1,0 +1,10 @@
+# cs2-model-converter: he_doro_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/he_doro_ag2/he_doro_ag2.vmdl
+# weapon: weapon_hegrenade
+# skeleton: animation/skeletons/weapons/hegrenade.vnmskel
+weapons/models/he_doro/materials/ch_npc_dororog_a_png_84bd39f1.vtex
+weapons/models/he_doro/materials/he_doro_vmat_g_tselfillummask_38cf5b2.vtex
+weapons/models/he_doro/materials/he_doro.vmat
+weapons/models/he_doro/materials/mb_doro_vmat_g_tcolor_6b6e411d.vtex
+weapons/models/he_doro/materials/mb_doro.vmat
+weapons/custom/he_doro_ag2/he_doro_ag2.vmdl

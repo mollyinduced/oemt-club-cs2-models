@@ -1,0 +1,26 @@
+# cs2-model-converter: shinku, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/asmodeus/shinku/shinku.vmdl
+# first person: 0 1 2 3
+characters/models/asmodeus/shinku/materials/bantou_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/shinku/materials/eye_bantou_d_png_3077aec2.vtex
+characters/models/asmodeus/shinku/materials/bantou.vmat
+characters/models/asmodeus/shinku/materials/body_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/shinku/materials/t_player_076_shinku_01_d_png_7b7e6355.vtex
+characters/models/asmodeus/shinku/materials/body.vmat
+characters/models/asmodeus/shinku/materials/body2_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/shinku/materials/t_player_076_shinku_02_d_png_4082cfe7.vtex
+characters/models/asmodeus/shinku/materials/body2.vmat
+characters/models/asmodeus/shinku/materials/t_player_076_shinku_eyes_d_png_1cddbc83.vtex
+characters/models/asmodeus/shinku/materials/t_player_076_shinku_eyes_d_png_a0657339.vtex
+characters/models/asmodeus/shinku/materials/eye.vmat
+characters/models/asmodeus/shinku/materials/face_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/shinku/materials/t_player_076_shinku_face_d_png_300a42fd.vtex
+characters/models/asmodeus/shinku/materials/face.vmat
+characters/models/asmodeus/shinku/materials/hair_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/shinku/materials/t_player_076_shinku_hair_01_d_png_2af6e818.vtex
+characters/models/asmodeus/shinku/materials/hair.vmat
+characters/models/asmodeus/shinku/materials/haiw2_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/shinku/materials/t_player_076_shinku_hair_02_d_png_129bdbe2.vtex
+characters/models/asmodeus/shinku/materials/haiw2.vmat
+characters/models/asmodeus/shinku/shinku/body_vmorf.vtex
+characters/models/asmodeus/shinku/shinku.vmdl

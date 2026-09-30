@@ -1,0 +1,16 @@
+# cs2-model-converter: aquaman, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/reborn/aquaman/aquaman.vmdl
+# first person: 0 2 12 15
+agents/models/reborn/aquaman/materials/t_m_med_sandcastle_body_d_jpg_reborn_7a3d7b7d_png_b1e1246a.vtex
+agents/models/reborn/aquaman/t_m_med_sandcastle_body_d_vmat_g_tmetalness_10974e8a.vtex
+agents/models/reborn/aquaman/t_m_med_sandcastle_body_d_vmat_g_tnormal_53b47c48.vtex
+agents/models/reborn/aquaman/t_m_med_sandcastle_body_d.vmat
+agents/models/reborn/aquaman/materials/t_m_med_sandcastle_hair_d_jpg_80dcbb8d_png_26e88e66.vtex
+agents/models/reborn/aquaman/materials/t_m_med_sandcastle_hair_n_jpg_27493f16_png_c1efa8c1.vtex
+agents/models/reborn/aquaman/t_m_med_sandcastle_hair_d_vmat_g_tmetalness_10974e8a.vtex
+agents/models/reborn/aquaman/t_m_med_sandcastle_hair_d.vmat
+agents/models/reborn/aquaman/materials/t_m_med_sandcastle_head_d_jpg_6be6130d_png_21d52d97.vtex
+agents/models/reborn/aquaman/t_m_med_sandcastle_head_d_vmat_g_tmetalness_10974e8a.vtex
+agents/models/reborn/aquaman/t_m_med_sandcastle_head_d_vmat_g_tnormal_53b47c48.vtex
+agents/models/reborn/aquaman/t_m_med_sandcastle_head_d.vmat
+agents/models/reborn/aquaman/aquaman.vmdl

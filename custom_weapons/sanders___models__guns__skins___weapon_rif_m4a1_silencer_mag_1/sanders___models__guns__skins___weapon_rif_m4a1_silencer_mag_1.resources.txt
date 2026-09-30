@@ -1,0 +1,5 @@
+# cs2-model-converter: sanders___models__guns__skins___weapon_rif_m4a1_silencer_mag_1, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/sanders___models__guns__skins___weapon_rif_m4a1_silencer_mag_1/sanders___models__guns__skins___weapon_rif_m4a1_silencer_mag_1.vmdl
+# weapon: weapon_m4a1_silencer
+# skeleton: animation/skeletons/weapons/m4a1_silencer.vnmskel
+weapons/custom/sanders___models__guns__skins___weapon_rif_m4a1_silencer_mag_1/sanders___models__guns__skins___weapon_rif_m4a1_silencer_mag_1.vmdl

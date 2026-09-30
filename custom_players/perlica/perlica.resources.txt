@@ -1,0 +1,23 @@
+# cs2-model-converter: perlica, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/asmodeus/perlica/perlica.vmdl
+# first person: 0 1 2 3
+characters/models/asmodeus/perlica/materials/perlica_body_png_5189cf25.vtex
+characters/models/asmodeus/perlica/materials/perlica_body_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/perlica/materials/perlica_body.vmat
+characters/models/asmodeus/perlica/materials/perlica_cloth_png_7a314227.vtex
+characters/models/asmodeus/perlica/materials/perlica_cloth_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/perlica/materials/perlica_cloth.vmat
+characters/models/asmodeus/perlica/materials/perlica_eye_png_277d4d46.vtex
+characters/models/asmodeus/perlica/materials/perlica_eye_png_a7d0863f.vtex
+characters/models/asmodeus/perlica/materials/perlica_eye.vmat
+characters/models/asmodeus/perlica/materials/perlica_face_png_4bf51aca.vtex
+characters/models/asmodeus/perlica/materials/perlica_face_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/perlica/materials/perlica_face.vmat
+characters/models/asmodeus/perlica/materials/perlica_hair_png_37ce61a9.vtex
+characters/models/asmodeus/perlica/materials/perlica_hair_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/perlica/materials/perlica_hair.vmat
+characters/models/asmodeus/perlica/materials/perlica_skins_png_3f1ac117.vtex
+characters/models/asmodeus/perlica/materials/perlica_skins_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/perlica/materials/perlica_skins.vmat
+characters/models/asmodeus/perlica/perlica/body_vmorf.vtex
+characters/models/asmodeus/perlica/perlica.vmdl

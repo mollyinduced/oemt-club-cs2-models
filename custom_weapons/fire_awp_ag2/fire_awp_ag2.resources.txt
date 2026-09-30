@@ -1,0 +1,9 @@
+# cs2-model-converter: fire_awp_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/fire_awp_ag2/fire_awp_ag2.vmdl
+# weapon: weapon_awp
+# skeleton: animation/skeletons/weapons/awp.vnmskel
+materials/memni4ik/awp/fire/barret_feitu_n_jpg_1f2019fc.vtex
+materials/memni4ik/awp/fire/dd_jpg_e5874bce.vtex
+materials/memni4ik/awp/fire/fw_png_184a1131.vtex
+materials/memni4ik/awp/fire/dd.vmat
+weapons/custom/fire_awp_ag2/fire_awp_ag2.vmdl

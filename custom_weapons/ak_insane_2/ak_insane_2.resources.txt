@@ -1,0 +1,17 @@
+# cs2-model-converter: ak_insane_2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/ak_insane_2/ak_insane_2.vmdl
+# weapon: weapon_ak47
+# skeleton: animation/skeletons/weapons/ak47.vnmskel
+models/kolka/val_2/ak_insane/ak_demonstone_magazine_v1_df_png_eea873be.vtex
+models/kolka/val_2/ak_insane/ak_demonstone_magazine_v1_nm_png_8bd58438.vtex
+models/kolka/val_2/ak_insane/ak_demonstone_magazine_v1_df.vmat
+models/kolka/val_2/ak_insane/ak_demonstone_v1_df_png_b9b0d812.vtex
+models/kolka/val_2/ak_insane/ak_demonstone_v1_nm_png_a1e91ead.vtex
+models/kolka/val_2/ak_insane/ak_demonstone_v1_df.vmat
+models/kolka/val_2/ak_insane/demonstone_decals_df_png_587471fd.vtex
+models/kolka/val_2/ak_insane/demonstone_decals_df_png_6656c58d.vtex
+models/kolka/val_2/ak_insane/decals.vmat
+models/kolka/val_2/ak_insane/t_oni_tendrils_combined_vfx_png_dd52047a.vtex
+models/kolka/val_2/ak_insane/t_oni_tendrils_combined_vfx_vmat_g_tselfillummask_ff155607.vtex
+models/kolka/val_2/ak_insane/t_oni_tendrils_combined_vfx.vmat
+weapons/custom/ak_insane_2/ak_insane_2.vmdl

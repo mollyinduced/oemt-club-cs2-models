@@ -1,0 +1,26 @@
+# cs2-model-converter: nagiev_player_model_4, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/ag2/nagiev_player_model/nagiev_player_model.vmdl
+# first person: 0 2 12 15
+agents/models/ag2/nagiev_player_model/materials/arms_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2/nagiev_player_model/materials/nagiev_hands_0_png_de4c006f.vtex
+agents/models/ag2/nagiev_player_model/materials/arms.vmat
+agents/models/ag2/nagiev_player_model/materials/body1_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2/nagiev_player_model/materials/nagiev_body_0_png_679ef9f5.vtex
+agents/models/ag2/nagiev_player_model/materials/nagiev_body_normal_png_8c874b3c.vtex
+agents/models/ag2/nagiev_player_model/materials/body1.vmat
+agents/models/ag2/nagiev_player_model/materials/body2_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2/nagiev_player_model/materials/body2_vmat_g_tnormal_2f5f9b75.vtex
+agents/models/ag2/nagiev_player_model/materials/nagiev_feet_0_png_60f0f357.vtex
+agents/models/ag2/nagiev_player_model/materials/body2.vmat
+agents/models/ag2/nagiev_player_model/materials/eye_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2/nagiev_player_model/materials/nagiev_eyes_0_png_bf874368.vtex
+agents/models/ag2/nagiev_player_model/materials/eye.vmat
+agents/models/ag2/nagiev_player_model/materials/face_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2/nagiev_player_model/materials/nagiev_face_0_png_b3cd7503.vtex
+agents/models/ag2/nagiev_player_model/materials/nagiev_face_normal_png_49da3557.vtex
+agents/models/ag2/nagiev_player_model/materials/face.vmat
+agents/models/ag2/nagiev_player_model/materials/jeadns_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2/nagiev_player_model/materials/nagiev_lowr_0_png_4aa184b7.vtex
+agents/models/ag2/nagiev_player_model/materials/nagiev_lowr_normal_png_51626ea3.vtex
+agents/models/ag2/nagiev_player_model/materials/jeadns.vmat
+agents/models/ag2/nagiev_player_model/nagiev_player_model.vmdl

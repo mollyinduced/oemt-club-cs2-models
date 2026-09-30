@@ -1,0 +1,35 @@
+# cs2-model-converter: nico_sk2modellimitedcolision, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/hmn_ag2/zenless_zone_zero/nico/nico_sk2modellimitedcolision.vmdl
+# first person: 0 1 2 3
+agents/models/hmn_ag2/_versatility_arm/materials/hand_tex_png_9dffad3.vtex
+agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex_vmat_g_tmetalness_b99de324.vtex
+agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex_vmat_g_tnormal_aed807f.vtex
+agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex.vmat
+agents/models/hmn_ag2/zenless_zone_zero/nico/materials/body_tga_ae2dbaab.vtex
+agents/models/hmn_ag2/zenless_zone_zero/nico/materials/nico_body_cs2_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/hmn_ag2/zenless_zone_zero/nico/materials/nico_body_cs2_vmat_g_tdiffusefalloff_aa1e6fc8.vtex
+agents/models/hmn_ag2/zenless_zone_zero/nico/materials/nico_body_cs2_vmat_g_tmetalness_1081f06e.vtex
+agents/models/hmn_ag2/zenless_zone_zero/nico/materials/nico_body_cs2_vmat_g_tnormal_aed807f.vtex
+materials/default/default_mask_tga_cac76a2f.vtex
+agents/models/hmn_ag2/zenless_zone_zero/nico/materials/nico_body_cs2.vmat
+agents/models/hmn_ag2/zenless_zone_zero/nico/materials/face_tga_7b21bcc8.vtex
+agents/models/hmn_ag2/zenless_zone_zero/nico/materials/nico_face_cs2_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/hmn_ag2/zenless_zone_zero/nico/materials/nico_face_cs2_vmat_g_tdiffusefalloff_aa1e6fc8.vtex
+agents/models/hmn_ag2/zenless_zone_zero/nico/materials/nico_face_cs2_vmat_g_tmetalness_1081f06e.vtex
+agents/models/hmn_ag2/zenless_zone_zero/nico/materials/nico_face_cs2_vmat_g_tnormal_aed807f.vtex
+agents/models/hmn_ag2/zenless_zone_zero/nico/materials/nico_face_cs2.vmat
+agents/models/hmn_ag2/zenless_zone_zero/nico/materials/hair_tga_4c7bf262.vtex
+agents/models/hmn_ag2/zenless_zone_zero/nico/materials/nico_hair_cs2_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/hmn_ag2/zenless_zone_zero/nico/materials/nico_hair_cs2_vmat_g_tdiffusefalloff_aa1e6fc8.vtex
+agents/models/hmn_ag2/zenless_zone_zero/nico/materials/nico_hair_cs2_vmat_g_tmetalness_1081f06e.vtex
+agents/models/hmn_ag2/zenless_zone_zero/nico/materials/nico_hair_cs2_vmat_g_tnormal_aed807f.vtex
+agents/models/hmn_ag2/zenless_zone_zero/nico/materials/nico_hair_cs2.vmat
+agents/models/hmn_ag2/zenless_zone_zero/nico/materials/nico_skin_cs2_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/hmn_ag2/zenless_zone_zero/nico/materials/nico_skin_cs2_vmat_g_tdiffusefalloff_aa1e6fc8.vtex
+agents/models/hmn_ag2/zenless_zone_zero/nico/materials/nico_skin_cs2_vmat_g_tmetalness_1081f06e.vtex
+agents/models/hmn_ag2/zenless_zone_zero/nico/materials/nico_skin_cs2_vmat_g_tnormal_aed807f.vtex
+agents/models/hmn_ag2/zenless_zone_zero/nico/materials/skin_tga_bef4511d.vtex
+agents/models/hmn_ag2/zenless_zone_zero/nico/materials/nico_skin_cs2.vmat
+agents/models/hmn_ag2/zenless_zone_zero/nico/nico_sk2modellimitedcolision/body_vmorf.vtex
+agents/models/hmn_ag2/zenless_zone_zero/nico/nico_sk2modellimitedcolision.vmdl

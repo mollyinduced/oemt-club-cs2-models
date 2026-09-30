@@ -1,0 +1,17 @@
+# cs2-model-converter: ak47_rust_ag2_2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/ak47_rust_ag2_2/ak47_rust_ag2_2.vmdl
+# weapon: weapon_ak47
+# skeleton: animation/skeletons/weapons/ak47.vnmskel
+weapons/moovik/akrust/ak_combined_brl_diffuse_png_ef22ad8a.vtex
+weapons/moovik/akrust/ak_combined_brl_normal_png_78b2b72a.vtex
+weapons/moovik/akrust/1.vmat
+weapons/moovik/akrust/ak_combined_grip_diffuse_png_7c1faa7b.vtex
+weapons/moovik/akrust/ak_combined_grip_normal_png_90773954.vtex
+weapons/moovik/akrust/2.vmat
+weapons/moovik/akrust/ak_combined_main_diffuse_png_a633558d.vtex
+weapons/moovik/akrust/ak_combined_main_normal_png_169abf60.vtex
+weapons/moovik/akrust/3.vmat
+weapons/moovik/akrust/ak_combined_stock_diffuse_png_a9081055.vtex
+weapons/moovik/akrust/ak_combined_stock_normal_png_1f080f49.vtex
+weapons/moovik/akrust/4.vmat
+weapons/custom/ak47_rust_ag2_2/ak47_rust_ag2_2.vmdl

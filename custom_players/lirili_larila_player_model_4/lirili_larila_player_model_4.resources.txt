@@ -1,0 +1,16 @@
+# cs2-model-converter: lirili_larila_player_model_4, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/ag2_pt/lirili_larila_player_model/lirili_larila_player_model.vmdl
+# first person: 0 2 12 15
+agents/models/ag2_pt/lirili_larila_player_model/materials/body_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2_pt/lirili_larila_player_model/materials/material_base_color_png_ff77e184.vtex
+agents/models/ag2_pt/lirili_larila_player_model/materials/material_mixed_ao_png_801d23d3.vtex
+agents/models/ag2_pt/lirili_larila_player_model/materials/material_normal_opengl_png_ace70cd3.vtex
+agents/models/ag2_pt/lirili_larila_player_model/materials/body.vmat
+agents/models/ag2_pt/lirili_larila_player_model/materials/elephant_base_png_df7ac634.vtex
+agents/models/ag2_pt/lirili_larila_player_model/materials/elephant_normal_png_5038c941.vtex
+agents/models/ag2_pt/lirili_larila_player_model/materials/face_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2_pt/lirili_larila_player_model/materials/face.vmat
+agents/models/ag2_pt/lirili_larila_player_model/materials/eagles_png_f0690cff.vtex
+agents/models/ag2_pt/lirili_larila_player_model/materials/hair_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2_pt/lirili_larila_player_model/materials/hair.vmat
+agents/models/ag2_pt/lirili_larila_player_model/lirili_larila_player_model.vmdl

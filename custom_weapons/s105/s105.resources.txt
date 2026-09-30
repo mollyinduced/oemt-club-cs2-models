@@ -1,0 +1,17 @@
+# cs2-model-converter: s105, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/s105/s105.vmdl
+# weapon: weapon_ak47
+# skeleton: animation/skeletons/weapons/ak47.vnmskel
+models/exg/s105/materials/r_png_5611c8d0.vtex
+models/exg/s105/materials/t_weap_akm_01_105_d_png_2d5f4c81.vtex
+models/exg/s105/materials/t_weap_akm_01_105_n_png_b89ef1ad.vtex
+models/exg/s105/materials/1.vmat
+models/exg/s105/materials/r2_png_21754029.vtex
+models/exg/s105/materials/t_weap_akm_02_105_d_png_771f5928.vtex
+models/exg/s105/materials/t_weap_akm_02_105_n_png_742d155d.vtex
+models/exg/s105/materials/2.vmat
+models/exg/s105/materials/t_mask_csy_002_png_553754f4.vtex
+models/exg/s105/materials/t_mask_csy_003_png_7e9fa5d5.vtex
+models/exg/s105/materials/t_mask_nb_012_png_7a6ae5b4.vtex
+models/exg/s105/materials/3.vmat
+weapons/custom/s105/s105.vmdl

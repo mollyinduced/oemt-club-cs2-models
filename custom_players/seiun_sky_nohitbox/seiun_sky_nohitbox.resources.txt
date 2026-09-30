@@ -1,0 +1,20 @@
+# cs2-model-converter: seiun_sky_nohitbox, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/upkk/seiun_sky/seiun_sky_nohitbox.vmdl
+# first person: 0 2 12 15
+agents/models/upkk/seiun_sky/materials/mtl_bdy1020_90_vmat_g_tmetalness_503302c4.vtex
+agents/models/upkk/seiun_sky/materials/tex_bdy1020_90_diff_tga_40f6a3d5.vtex
+agents/models/upkk/seiun_sky/materials/mtl_bdy1020_90.vmat
+agents/models/upkk/seiun_sky/materials/mtl_chr1020_00_eye_vmat_g_tmetalness_b70f8f59.vtex
+agents/models/upkk/seiun_sky/materials/tex_chr1020_00_eye0_tga_3dca22f7.vtex
+agents/models/upkk/seiun_sky/materials/mtl_chr1020_00_eye.vmat
+agents/models/upkk/seiun_sky/materials/mtl_chr1020_00_hair_vmat_g_tmetalness_b70f8f59.vtex
+agents/models/upkk/seiun_sky/materials/tex_chr1020_00_hair_diff_tga_2554473d.vtex
+agents/models/upkk/seiun_sky/materials/mtl_chr1020_00_hair.vmat
+agents/models/upkk/seiun_sky/materials/mtl_chr1020_00_mayu_vmat_g_tmetalness_b70f8f59.vtex
+agents/models/upkk/seiun_sky/materials/tex_chr1020_00_face_diff_tga_703a93d5.vtex
+agents/models/upkk/seiun_sky/materials/mtl_chr1020_00_mayu.vmat
+agents/models/upkk/seiun_sky/materials/mtl_tail0001_00_vmat_g_tmetalness_b70f8f59.vtex
+agents/models/upkk/seiun_sky/materials/tex_tail0001_00_1020_diff_tga_53623629.vtex
+agents/models/upkk/seiun_sky/materials/mtl_tail0001_00.vmat
+agents/models/upkk/seiun_sky/seiun_sky_nohitbox/body_vmorf.vtex
+agents/models/upkk/seiun_sky/seiun_sky_nohitbox.vmdl

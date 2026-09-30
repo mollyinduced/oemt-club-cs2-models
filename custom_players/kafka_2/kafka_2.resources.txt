@@ -1,0 +1,5 @@
+# cs2-model-converter: the resources models/custom/kafka_2/kafka_2.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/kafka_2/kafka_textures_color_png_b02d3de3.vtex
+materials/models/custom/kafka_2/kafka_textures.vmat
+models/custom/kafka_2/kafka_2.vmdl

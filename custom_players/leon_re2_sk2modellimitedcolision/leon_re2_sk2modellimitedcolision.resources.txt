@@ -1,0 +1,30 @@
+# cs2-model-converter: leon_re2_sk2modellimitedcolision, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/hmn_ag2/biohazard/leon_re2/leon_re2_sk2modellimitedcolision.vmdl
+# first person: 0 1 2 3
+agents/models/hmn_ag2/biohazard/leon_re2/leon_re2_sk2modellimitedcolision/body_vmorf.vtex
+agents/models/hmn_ag2/biohazard/leon_re2/materials/body_d_png_99c14732.vtex
+agents/models/hmn_ag2/biohazard/leon_re2/materials/body_n_png_680227a9.vtex
+agents/models/hmn_ag2/biohazard/leon_re2/materials/leon_re2_body_cs2_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/hmn_ag2/biohazard/leon_re2/materials/leon_re2_body_cs2_vmat_g_tdiffusefalloff_aa1e6fc8.vtex
+agents/models/hmn_ag2/biohazard/leon_re2/materials/leon_re2_body_cs2_vmat_g_tmetalness_1081f06e.vtex
+materials/default/default_mask_tga_cac76a2f.vtex
+agents/models/hmn_ag2/biohazard/leon_re2/materials/leon_re2_body_cs2.vmat
+agents/models/hmn_ag2/biohazard/leon_re2/materials/face_d_png_33a3d6ed.vtex
+agents/models/hmn_ag2/biohazard/leon_re2/materials/face_n_png_2958bc0b.vtex
+agents/models/hmn_ag2/biohazard/leon_re2/materials/leon_re2_face_cs2_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/hmn_ag2/biohazard/leon_re2/materials/leon_re2_face_cs2_vmat_g_tdiffusefalloff_aa1e6fc8.vtex
+agents/models/hmn_ag2/biohazard/leon_re2/materials/leon_re2_face_cs2_vmat_g_tmetalness_1081f06e.vtex
+agents/models/hmn_ag2/biohazard/leon_re2/materials/leon_re2_face_cs2.vmat
+agents/models/hmn_ag2/biohazard/leon_re2/materials/hair_d_png_456e2372.vtex
+agents/models/hmn_ag2/biohazard/leon_re2/materials/hair_n_png_433d1729.vtex
+agents/models/hmn_ag2/biohazard/leon_re2/materials/leon_re2_hair_cs2_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/hmn_ag2/biohazard/leon_re2/materials/leon_re2_hair_cs2_vmat_g_tdiffusefalloff_aa1e6fc8.vtex
+agents/models/hmn_ag2/biohazard/leon_re2/materials/leon_re2_hair_cs2_vmat_g_tmetalness_1081f06e.vtex
+agents/models/hmn_ag2/biohazard/leon_re2/materials/leon_re2_hair_cs2.vmat
+agents/models/hmn_ag2/biohazard/leon_re2/materials/items_d_png_707ed6a7.vtex
+agents/models/hmn_ag2/biohazard/leon_re2/materials/items_n_png_79af3c6c.vtex
+agents/models/hmn_ag2/biohazard/leon_re2/materials/leon_re2_prop_cs2_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/hmn_ag2/biohazard/leon_re2/materials/leon_re2_prop_cs2_vmat_g_tdiffusefalloff_aa1e6fc8.vtex
+agents/models/hmn_ag2/biohazard/leon_re2/materials/leon_re2_prop_cs2_vmat_g_tmetalness_1081f06e.vtex
+agents/models/hmn_ag2/biohazard/leon_re2/materials/leon_re2_prop_cs2.vmat
+agents/models/hmn_ag2/biohazard/leon_re2/leon_re2_sk2modellimitedcolision.vmdl

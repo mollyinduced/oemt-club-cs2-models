@@ -1,0 +1,19 @@
+# cs2-model-converter: billy_nohitbox_2, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/otakku/billy/billy_nohitbox.vmdl
+# first person: 0 2 12 15
+agents/models/otakku/billy/materials/t_craneanchor_body_d_png_26d5ec3e.vtex
+agents/models/otakku/billy/materials/t_craneanchor_body_m_png_59360d5e.vtex
+agents/models/otakku/billy/materials/t_craneanchor_body_n_png_c24c645f.vtex
+agents/models/otakku/billy/materials/t_craneanchor_body_vmat_g_tmetalness_b99de324.vtex
+agents/models/otakku/billy/materials/t_craneanchor_body.vmat
+agents/models/otakku/billy/materials/t_craneanchor_faceacc_d_png_84df1934.vtex
+agents/models/otakku/billy/materials/t_craneanchor_faceacc_m_png_2760c63c.vtex
+agents/models/otakku/billy/materials/t_craneanchor_faceacc_n_png_2bc2e117.vtex
+agents/models/otakku/billy/materials/t_craneanchor_faceacc_vmat_g_tmetalness_b99de324.vtex
+agents/models/otakku/billy/materials/t_craneanchor_faceacc.vmat
+agents/models/otakku/billy/materials/t_craneanchor_head_d_png_77c4c4c0.vtex
+agents/models/otakku/billy/materials/t_craneanchor_head_m_png_4b58bd1e.vtex
+agents/models/otakku/billy/materials/t_craneanchor_head_n_png_fd972f99.vtex
+agents/models/otakku/billy/materials/t_craneanchor_head_vmat_g_tmetalness_b99de324.vtex
+agents/models/otakku/billy/materials/t_craneanchor_head.vmat
+agents/models/otakku/billy/billy_nohitbox.vmdl

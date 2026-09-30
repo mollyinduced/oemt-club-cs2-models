@@ -1,0 +1,19 @@
+# cs2-model-converter: inosuke, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/kolka/2025/inosuke/inosuke.vmdl
+# first person: 0 1 2 3
+characters/models/kolka/2025/inosuke/mat/boar_head_png_b1548b41.vtex
+characters/models/kolka/2025/inosuke/mat/boar_head_vmat_g_tmetalness_10974e8a.vtex
+characters/models/kolka/2025/inosuke/mat/boar_head.vmat
+characters/models/kolka/2025/inosuke/mat/body_png_dee22d90.vtex
+characters/models/kolka/2025/inosuke/mat/body_vmat_g_tmetalness_10974e8a.vtex
+characters/models/kolka/2025/inosuke/mat/body.vmat
+characters/models/kolka/2025/inosuke/mat/eye_png_fa833b84.vtex
+characters/models/kolka/2025/inosuke/mat/eye_vmat_g_tmetalness_10974e8a.vtex
+characters/models/kolka/2025/inosuke/mat/eye.vmat
+characters/models/kolka/2025/inosuke/mat/hand_png_9e517783.vtex
+characters/models/kolka/2025/inosuke/mat/hand_vmat_g_tmetalness_10974e8a.vtex
+characters/models/kolka/2025/inosuke/mat/hand.vmat
+characters/models/kolka/2025/inosuke/mat/pants22_png_8046249.vtex
+characters/models/kolka/2025/inosuke/mat/pants22_vmat_g_tmetalness_10974e8a.vtex
+characters/models/kolka/2025/inosuke/mat/pants22.vmat
+characters/models/kolka/2025/inosuke/inosuke.vmdl

@@ -1,0 +1,9 @@
+# cs2-model-converter: knife_king_fa, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/knife_king_fa/knife_king_fa.vmdl
+# weapon: weapon_knife_kukri
+# skeleton: animation/skeletons/weapons/knife_kukri.vnmskel
+models/knife/featanime/mat/1_jpg_38c94f58.vtex
+models/knife/featanime/mat/2_jpg_19d923ae.vtex
+models/knife/featanime/mat/sword1_jpg_d84df12c.vtex
+models/knife/featanime/mat/kings.vmat
+weapons/custom/knife_king_fa/knife_king_fa.vmdl

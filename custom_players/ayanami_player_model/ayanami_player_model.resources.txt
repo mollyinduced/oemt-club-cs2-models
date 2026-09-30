@@ -1,0 +1,24 @@
+# cs2-model-converter: ayanami_player_model, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/deti00ykh/ayanami_player_model/ayanami_player_model.vmdl
+# first person: 0 2 12 15
+characters/models/deti00ykh/ayanami_player_model/ayanami_player_model/arms_vmorf.vtex
+characters/models/deti00ykh/ayanami_player_model/ayanami_player_model/body_vmorf.vtex
+characters/models/deti00ykh/ayanami_player_model/materials/rei_3_lp_body_low_ao_png_39a839d7.vtex
+characters/models/deti00ykh/ayanami_player_model/materials/rei_3_lp_body_low_basecolor_png_2bd4bb8b.vtex
+characters/models/deti00ykh/ayanami_player_model/materials/rei_3_lp_body_low_metallic_png_1c6cca2b.vtex
+characters/models/deti00ykh/ayanami_player_model/materials/rei_3_lp_body_low_normal_png_d6d423d7.vtex
+characters/models/deti00ykh/ayanami_player_model/materials/body.vmat
+characters/models/deti00ykh/ayanami_player_model/materials/rei_3_lp_body_low_basecolor_png_6e0682a.vtex
+characters/models/deti00ykh/ayanami_player_model/materials/rei_3_lp_body_low_basecolor_png_acd977aa.vtex
+characters/models/deti00ykh/ayanami_player_model/materials/body_emiss.vmat
+characters/models/deti00ykh/ayanami_player_model/materials/hair_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/deti00ykh/ayanami_player_model/materials/rei_3_lp_hair_low_ao_png_300e0462.vtex
+characters/models/deti00ykh/ayanami_player_model/materials/rei_3_lp_hair_low_basecolor_png_3a76fc48.vtex
+characters/models/deti00ykh/ayanami_player_model/materials/rei_3_lp_hair_low_normal_png_c4cda24a.vtex
+characters/models/deti00ykh/ayanami_player_model/materials/hair.vmat
+characters/models/deti00ykh/ayanami_player_model/materials/rei_3_lp_head_low_ao_png_138a8796.vtex
+characters/models/deti00ykh/ayanami_player_model/materials/rei_3_lp_head_low_basecolor_png_ab72019a.vtex
+characters/models/deti00ykh/ayanami_player_model/materials/rei_3_lp_head_low_normal_png_ab5c2e6e.vtex
+characters/models/deti00ykh/ayanami_player_model/materials/rei_3_lp_head_low_sss_png_e2bae890.vtex
+characters/models/deti00ykh/ayanami_player_model/materials/head.vmat
+characters/models/deti00ykh/ayanami_player_model/ayanami_player_model.vmdl

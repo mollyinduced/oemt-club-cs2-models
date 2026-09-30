@@ -1,0 +1,24 @@
+# cs2-model-converter: 2, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/s2ze/ms/zombie/2/2.vmdl
+# first person: 0 1 2 3
+characters/models/exg/charple/vmat/c_arms_citizen_hands_vmat_g_tmetalness_186644c.vtex
+characters/models/exg/charple/vmat/c_arms_citizen_hands_vmat_g_tnormal_53b47c48.vtex
+characters/models/exg/charple/vtex/c_arms_citizen_infected_hands_png_ef132cfe.vtex
+characters/models/exg/charple/vmat/c_arms_citizen_hands.vmat
+characters/models/exg/charple/vmat/c_arms_citizen_sleeves_vmat_g_tmetalness_186644c.vtex
+characters/models/exg/charple/vmat/c_arms_citizen_sleeves_vmat_g_tnormal_53b47c48.vtex
+characters/models/exg/charple/vtex/c_arms_citizen_infected_sleeves_png_db5d3299.vtex
+characters/models/exg/charple/vmat/c_arms_citizen_sleeves.vmat
+characters/models/s2ze/ms/zombie/2/vmat/zombie_normalhost_body_normal_png_da35cbf9.vtex
+characters/models/s2ze/ms/zombie/2/vmat/zombie_normalhost_body_png_7e4c863.vtex
+characters/models/s2ze/ms/zombie/2/vmat/zombie_normalhost_body_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/s2ze/ms/zombie/2/vmat/zombie_normalhost_body.vmat
+characters/models/s2ze/ms/zombie/2/vmat/zombie_normalhost_hand_normal_png_18376858.vtex
+characters/models/s2ze/ms/zombie/2/vmat/zombie_normalhost_hand_png_26229167.vtex
+characters/models/s2ze/ms/zombie/2/vmat/zombie_normalhost_hand_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/s2ze/ms/zombie/2/vmat/zombie_normalhost_hand.vmat
+characters/models/s2ze/ms/zombie/2/vmat/zombie_normalhost_sign_normal_png_16045e7b.vtex
+characters/models/s2ze/ms/zombie/2/vmat/zombie_normalhost_sign_png_505c76ae.vtex
+characters/models/s2ze/ms/zombie/2/vmat/zombie_normalhost_sign_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/s2ze/ms/zombie/2/vmat/zombie_normalhost_sign.vmat
+characters/models/s2ze/ms/zombie/2/2.vmdl

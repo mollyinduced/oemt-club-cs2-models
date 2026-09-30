@@ -1,0 +1,13 @@
+# cs2-model-converter: santa_player_model_ct, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/nozb1/santa_player_model/santa_player_model_ct.vmdl
+# first person: 1 2 48 60
+characters/models/nozb1/santa_player_model/materials/boneka_mat_png_37cf6a3b.vtex
+characters/models/nozb1/santa_player_model/materials/boneka_mat_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/santa_player_model/materials/normal_boneka_png_344f890b.vtex
+characters/models/nozb1/santa_player_model/materials/boneka_mat.vmat
+characters/models/nozb1/santa_player_model/materials/santa_ct_png_450a0ec5.vtex
+characters/models/nozb1/santa_player_model/materials/santa_ct_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/santa_player_model/materials/santa_mat_normal_png_1577ec43.vtex
+characters/models/nozb1/santa_player_model/materials/santa_ct.vmat
+characters/models/nozb1/santa_player_model/santa_player_model_ct/body_vmorf.vtex
+characters/models/nozb1/santa_player_model/santa_player_model_ct.vmdl

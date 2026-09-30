@@ -1,0 +1,7 @@
+# cs2-model-converter: v_wljuncidisan, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/v_wljuncidisan/v_wljuncidisan.vmdl
+# weapon: weapon_knife_css
+# skeleton: animation/skeletons/weapons/knife_css.vnmskel
+materials/models/custom_weapons/v_wljuncidisan/juchi_color_png_8b2b8817.vtex
+models/weapons/exg/tokyocold/juchi/juchi.vmat
+weapons/custom/v_wljuncidisan/v_wljuncidisan.vmdl

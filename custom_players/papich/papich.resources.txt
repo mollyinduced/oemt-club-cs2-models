@@ -1,0 +1,13 @@
+# cs2-model-converter: the resources models/custom/papich/papich.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/papich/10_7_color_png_651c8239.vtex
+materials/models/custom/papich/10_7.vmat
+materials/models/custom/papich/image_14_color_png_33fd7854.vtex
+materials/models/custom/papich/image_14.vmat
+materials/models/custom/papich/image_3_4_color_png_471be289.vtex
+materials/models/custom/papich/image_3_4.vmat
+materials/models/custom/papich/image_6_14_color_png_5b1a9cf7.vtex
+materials/models/custom/papich/image_6_14.vmat
+materials/models/custom/papich/imamge_1_1_color_png_c6a9bfea.vtex
+materials/models/custom/papich/imamge_1_1.vmat
+models/custom/papich/papich.vmdl

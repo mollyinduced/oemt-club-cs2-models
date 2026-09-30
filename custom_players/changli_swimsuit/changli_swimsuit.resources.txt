@@ -1,0 +1,25 @@
+# cs2-model-converter: changli_swimsuit, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/asmodeus/changli_swimsuit/changli_swimsuit.vmdl
+# first person: 0 1 2 3
+characters/models/asmodeus/changli_swimsuit/changli_swimsuit/body_vmorf.vtex
+characters/models/asmodeus/changli_swimsuit/materials/changli_swimsuit_acc_png_9bbfc274.vtex
+characters/models/asmodeus/changli_swimsuit/materials/changli_swimsuit_acc_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/changli_swimsuit/materials/changli_swimsuit_acc.vmat
+characters/models/asmodeus/changli_swimsuit/materials/changli_swimsuit_body_png_f1299fb3.vtex
+characters/models/asmodeus/changli_swimsuit/materials/changli_swimsuit_body_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/changli_swimsuit/materials/changli_swimsuit_body.vmat
+characters/models/asmodeus/changli_swimsuit/materials/changli_swimsuit_cloth_png_8549ab40.vtex
+characters/models/asmodeus/changli_swimsuit/materials/changli_swimsuit_cloth_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/changli_swimsuit/materials/changli_swimsuit_cloth.vmat
+characters/models/asmodeus/changli_swimsuit/materials/changli_swimsuit_eye_png_8d9b18ca.vtex
+characters/models/asmodeus/changli_swimsuit/materials/changli_swimsuit_eye.vmat
+characters/models/asmodeus/changli_swimsuit/materials/changli_swimsuit_face_png_2b2c814a.vtex
+characters/models/asmodeus/changli_swimsuit/materials/changli_swimsuit_face_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/changli_swimsuit/materials/changli_swimsuit_face.vmat
+characters/models/asmodeus/changli_swimsuit/materials/changli_swimsuit_front_png_1fcac3f9.vtex
+characters/models/asmodeus/changli_swimsuit/materials/changli_swimsuit_front_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/changli_swimsuit/materials/changli_swimsuit_front.vmat
+characters/models/asmodeus/changli_swimsuit/materials/changli_swimsuit_hair_png_96277637.vtex
+characters/models/asmodeus/changli_swimsuit/materials/changli_swimsuit_hair_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/changli_swimsuit/materials/changli_swimsuit_hair.vmat
+characters/models/asmodeus/changli_swimsuit/changli_swimsuit.vmdl

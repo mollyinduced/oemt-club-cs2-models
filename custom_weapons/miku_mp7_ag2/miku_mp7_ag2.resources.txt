@@ -1,0 +1,41 @@
+# cs2-model-converter: miku_mp7_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/miku_mp7_ag2/miku_mp7_ag2.vmdl
+# weapon: weapon_mp7
+# skeleton: animation/skeletons/weapons/mp7.vnmskel
+models/jiye/miku_mp7/materials/cd_png_ac956bd9.vtex
+models/jiye/miku_mp7/materials/cd_png_cec3419.vtex
+models/jiye/miku_mp7/materials/cd.vmat
+models/jiye/miku_mp7/materials/geci_png_58ca404d.vtex
+models/jiye/miku_mp7/materials/geci_vmat_g_tselfillummask_ff155607.vtex
+models/jiye/miku_mp7/materials/geci.vmat
+models/jiye/miku_mp7/materials/lg_vmat_g_tselfillummask_ff155607.vtex
+models/jiye/miku_mp7/materials/star_png_1ce731d.vtex
+models/jiye/miku_mp7/materials/lg.vmat
+models/jiye/miku_mp7/materials/miku_mp7_png_8022bcc.vtex
+models/jiye/miku_mp7/materials/miku_mp7_vmat_g_tselfillummask_f01d52c8.vtex
+models/jiye/miku_mp7/materials/miku_mp7.vmat
+models/jiye/miku_mp7/materials/miku_silencer_png_78e148d5.vtex
+models/jiye/miku_mp7/materials/miku_silencer_vmat_g_tselfillummask_f01d52c8.vtex
+models/jiye/miku_mp7/materials/miku_silencer.vmat
+models/jiye/miku_mp7/materials/miku_tiao_png_feeccfc1.vtex
+models/jiye/miku_mp7/materials/miku_tiao_vmat_g_tselfillummask_f01d52c8.vtex
+models/jiye/miku_mp7/materials/miku_tiao.vmat
+models/jiye/miku_mp7/materials/mp3_png_d1e1381c.vtex
+models/jiye/miku_mp7/materials/mp3_png_fe59482c.vtex
+models/jiye/miku_mp7/materials/mp3.vmat
+models/jiye/miku_mp7/materials/neizi_vmat_g_tcolor_8c46f83.vtex
+models/jiye/miku_mp7/materials/neizi_vmat_g_tselfillummask_ff155607.vtex
+models/jiye/miku_mp7/materials/neizi.vmat
+models/jiye/miku_mp7/materials/ring1_vmat_g_tcolor_8fb41846.vtex
+models/jiye/miku_mp7/materials/ring1_vmat_g_tselfillummask_ff155607.vtex
+models/jiye/miku_mp7/materials/ring1.vmat
+models/jiye/miku_mp7/materials/ring2_vmat_g_tselfillummask_ff155607.vtex
+models/jiye/miku_mp7/materials/starq_png_1deae673.vtex
+models/jiye/miku_mp7/materials/ring2.vmat
+models/jiye/miku_mp7/materials/ring2_jpg_41c1adc3.vtex
+models/jiye/miku_mp7/materials/ring3_vmat_g_tselfillummask_ff155607.vtex
+models/jiye/miku_mp7/materials/ring3.vmat
+models/jiye/miku_mp7/materials/waikuang_vmat_g_tcolor_fab5b119.vtex
+models/jiye/miku_mp7/materials/waikuang_vmat_g_tselfillummask_ff155607.vtex
+models/jiye/miku_mp7/materials/waikuang.vmat
+weapons/custom/miku_mp7_ag2/miku_mp7_ag2.vmdl

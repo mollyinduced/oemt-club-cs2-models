@@ -1,0 +1,89 @@
+# cs2-model-converter: m4a1_v, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/m4a1_v/m4a1_v.vmdl
+# weapon: weapon_m4a1
+# skeleton: animation/skeletons/weapons/m4a4.vnmskel
+weapons/kxnrl/m4a1/starchasm/materials/att_ammo_545s_n_tga_d03c682e.vtex
+weapons/kxnrl/m4a1/starchasm/materials/att_ammo_545s_tga_35d36826.vtex
+weapons/kxnrl/m4a1/starchasm/materials/att_ammo_545s_vmat_g_tselfillummask_ff155607.vtex
+weapons/kxnrl/m4a1/starchasm/materials/att_ammo_545s.vmat
+weapons/kxnrl/m4a1/starchasm/materials/attachment_vm_angledgrip_c_tga_fd38ae8e.vtex
+weapons/kxnrl/m4a1/starchasm/materials/attachment_vm_angledgrip_n_tga_597583ad.vtex
+weapons/kxnrl/m4a1/starchasm/materials/attachment_vm_angledgrip_vmat_g_tselfillummask_ff155607.vtex
+weapons/kxnrl/m4a1/starchasm/materials/attachment_vm_angledgrip.vmat
+weapons/kxnrl/m4a1/starchasm/materials/charge_ar15_radian_raptor_ambidextrous_charging_handle_lod0_diff_tga_1c5290c8.vtex
+weapons/kxnrl/m4a1/starchasm/materials/charge_ar15_radian_raptor_ambidextrous_charging_handle_lod0_nrm_tga_1b2b0866.vtex
+weapons/kxnrl/m4a1/starchasm/materials/charge_ar15_radian_raptor_ambidextrous_charging_handle_lod0_vmat_g_tselfillummask_ff155607.vtex
+weapons/kxnrl/m4a1/starchasm/materials/charge_ar15_radian_raptor_ambidextrous_charging_handle_lod0.vmat
+weapons/kxnrl/m4a1/starchasm/materials/hk 416 skin1_n_tga_84be1057.vtex
+weapons/kxnrl/m4a1/starchasm/materials/hk 416 skin1_tga_b83ec952.vtex
+weapons/kxnrl/m4a1/starchasm/materials/hk_416_skin1_vmat_g_tselfillummask_ff155607.vtex
+weapons/kxnrl/m4a1/starchasm/materials/hk_416_skin1.vmat
+weapons/kxnrl/m4a1/starchasm/materials/hk 416 skin2_n_tga_4970cc69.vtex
+weapons/kxnrl/m4a1/starchasm/materials/hk 416 skin2_tga_f321597d.vtex
+weapons/kxnrl/m4a1/starchasm/materials/hk_416_skin2_vmat_g_tselfillummask_ff155607.vtex
+weapons/kxnrl/m4a1/starchasm/materials/hk_416_skin2.vmat
+weapons/kxnrl/m4a1/starchasm/materials/hk 416 skin3_n_tga_2ee08653.vtex
+weapons/kxnrl/m4a1/starchasm/materials/hk 416 skin3_tga_982437b4.vtex
+weapons/kxnrl/m4a1/starchasm/materials/hk_416_skin3_vmat_g_tselfillummask_ff155607.vtex
+weapons/kxnrl/m4a1/starchasm/materials/hk_416_skin3.vmat
+weapons/kxnrl/m4a1/starchasm/materials/hk 416 skin4_tga_7c4a0abe.vtex
+weapons/kxnrl/m4a1/starchasm/materials/hk_416_skin4_vmat_g_tselfillummask_ff155607.vtex
+weapons/kxnrl/m4a1/starchasm/materials/hk_416_skin4.vmat
+weapons/kxnrl/m4a1/starchasm/materials/hk 416 skin5_tga_8b3ce8d.vtex
+weapons/kxnrl/m4a1/starchasm/materials/hk_416_skin5_vmat_g_tselfillummask_ff155607.vtex
+weapons/kxnrl/m4a1/starchasm/materials/hk_416_skin5.vmat
+weapons/kxnrl/m4a1/starchasm/materials/hk_416 skin interior_n_tga_c008eaba.vtex
+weapons/kxnrl/m4a1/starchasm/materials/hk_416 skin interior_tga_e055a6aa.vtex
+weapons/kxnrl/m4a1/starchasm/materials/hk_416_skin_interior_vmat_g_tselfillummask_ff155607.vtex
+weapons/kxnrl/m4a1/starchasm/materials/hk_416_skin_interior.vmat
+weapons/kxnrl/m4a1/starchasm/materials/hk_416_skin_interior_picatinny_rail_and_stock_vmat_g_tselfillummask_ff155607.vtex
+weapons/kxnrl/m4a1/starchasm/materials/hk_416_skin_interior_picatinny_rail_and_stock.vmat
+weapons/kxnrl/m4a1/starchasm/materials/hs_tga_93dab8e1.vtex
+weapons/kxnrl/m4a1/starchasm/materials/hs_vmat_g_tselfillummask_ff155607.vtex
+weapons/kxnrl/m4a1/starchasm/materials/hs.vmat
+weapons/kxnrl/m4a1/starchasm/materials/kobra_lense_nm_tga_b7d935f1.vtex
+weapons/kxnrl/m4a1/starchasm/materials/kobra_lense_tga_c7b1b37c.vtex
+weapons/kxnrl/m4a1/starchasm/materials/kobra_lense.vmat
+weapons/kxnrl/m4a1/starchasm/materials/las_minireddot_01_n_tga_bef93028.vtex
+weapons/kxnrl/m4a1/starchasm/materials/las_minireddot_01_rgb_tga_23ccaa14.vtex
+weapons/kxnrl/m4a1/starchasm/materials/las_minireddot_01_vmat_g_tselfillummask_ff155607.vtex
+weapons/kxnrl/m4a1/starchasm/materials/las_minireddot_01.vmat
+weapons/kxnrl/m4a1/starchasm/materials/mag_stanag_magpul_pmag_gen_m3_556x45_30_lod0_diff_tga_2b9f59d1.vtex
+weapons/kxnrl/m4a1/starchasm/materials/mag_stanag_magpul_pmag_gen_m3_556x45_30_lod0_nrm_tga_1dc30457.vtex
+weapons/kxnrl/m4a1/starchasm/materials/mag_stanag_magpul_pmag_gen_m3_556x45_30_lod0_vmat_g_tselfillummask_ff155607.vtex
+weapons/kxnrl/m4a1/starchasm/materials/mag_stanag_magpul_pmag_gen_m3_556x45_30_lod0.vmat
+weapons/kxnrl/m4a1/starchasm/materials/mb3_tga_cb78dd76.vtex
+weapons/kxnrl/m4a1/starchasm/materials/mb3_vmat_g_tselfillummask_ff155607.vtex
+weapons/kxnrl/m4a1/starchasm/materials/mb3.vmat
+weapons/kxnrl/m4a1/starchasm/materials/muzzle_all_dd_wave_muzzle_brake_multi_lod0_diff_tga_538e10dc.vtex
+weapons/kxnrl/m4a1/starchasm/materials/muzzle_all_dd_wave_muzzle_brake_multi_lod0_nrm_tga_80efb88b.vtex
+weapons/kxnrl/m4a1/starchasm/materials/muzzle_all_dd_wave_muzzle_brake_multi_lod0_vmat_g_tselfillummask_ff155607.vtex
+weapons/kxnrl/m4a1/starchasm/materials/muzzle_all_dd_wave_muzzle_brake_multi_lod0.vmat
+weapons/kxnrl/m4a1/starchasm/materials/silencer_wave_dd_wave_qd_supressor_multi_lod0_diff_tga_c77d9133.vtex
+weapons/kxnrl/m4a1/starchasm/materials/silencer_wave_dd_wave_qd_supressor_multi_lod0_nrm_tga_f802a472.vtex
+weapons/kxnrl/m4a1/starchasm/materials/silencer_wave_dd_wave_qd_supressor_multi_lod0_vmat_g_tselfillummask_ff155607.vtex
+weapons/kxnrl/m4a1/starchasm/materials/silencer_wave_dd_wave_qd_supressor_multi_lod0.vmat
+weapons/kxnrl/m4a1/starchasm/materials/stock_ar15_fab_defense_gl_core_lod0_diff_tga_6de0727f.vtex
+weapons/kxnrl/m4a1/starchasm/materials/stock_ar15_fab_defense_gl_core_lod0_nrm_tga_d4efbb9.vtex
+weapons/kxnrl/m4a1/starchasm/materials/stock_ar15_fab_defense_gl_core_lod0_vmat_g_tselfillummask_ff155607.vtex
+weapons/kxnrl/m4a1/starchasm/materials/stock_ar15_fab_defense_gl_core_lod0.vmat
+weapons/kxnrl/m4a1/starchasm/materials/stock_ar15_strike_industries_advanced_receiver_extension_lod0_nrm_tga_236a9629.vtex
+weapons/kxnrl/m4a1/starchasm/materials/stock_ar15_strike_industries_advanced_receiver_extension_lod0_tga_62620dac.vtex
+weapons/kxnrl/m4a1/starchasm/materials/stock_ar15_strike_industries_advanced_receiver_extension_lod0_vmat_g_tselfillummask_ff155607.vtex
+weapons/kxnrl/m4a1/starchasm/materials/stock_ar15_strike_industries_advanced_receiver_extension_lod0.vmat
+weapons/kxnrl/m4a1/starchasm/materials/weapon_kb_m4_mag_c_tga_2b358ee5.vtex
+weapons/kxnrl/m4a1/starchasm/materials/weapon_kb_m4_mag_n_tga_99806b39.vtex
+weapons/kxnrl/m4a1/starchasm/materials/weapon_kb_m4_mag_vmat_g_tselfillummask_ff155607.vtex
+weapons/kxnrl/m4a1/starchasm/materials/weapon_kb_m4_mag.vmat
+weapons/kxnrl/m4a1/starchasm/materials/wpn_p05_ar_scharlie_stocktac_chkrest_v0_n_tga_ac8831dc.vtex
+weapons/kxnrl/m4a1/starchasm/materials/wpn_p05_ar_scharlie_stocktac_chkrest_v0_rgb_tga_57cd56cd.vtex
+weapons/kxnrl/m4a1/starchasm/materials/wpn_p05_ar_scharlie_stocktac_chkrest_v0_vmat_g_tselfillummask_ff155607.vtex
+weapons/kxnrl/m4a1/starchasm/materials/wpn_p05_ar_scharlie_stocktac_chkrest_v0.vmat
+weapons/kxnrl/m4a1/starchasm/materials/xmaterial_6a1802febcf8e16_n_tga_e47b3f90.vtex
+weapons/kxnrl/m4a1/starchasm/materials/xmaterial_6a1802febcf8e16_rgb_tga_2de4208.vtex
+weapons/kxnrl/m4a1/starchasm/materials/xmaterial_6a1802febcf8e16_vmat_g_tselfillummask_ff155607.vtex
+weapons/kxnrl/m4a1/starchasm/materials/xmaterial_6a1802febcf8e16.vmat
+weapons/kxnrl/m4a1/starchasm/materials/zx_tga_38798232.vtex
+weapons/kxnrl/m4a1/starchasm/materials/zx_tga_a611db90.vtex
+weapons/kxnrl/m4a1/starchasm/materials/zx.vmat
+weapons/custom/m4a1_v/m4a1_v.vmdl

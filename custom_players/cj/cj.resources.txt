@@ -1,0 +1,16 @@
+# cs2-model-converter: cj, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/reborn/cj/cj.vmdl
+# first person: 0 2 12 15
+characters/models/nuclearsilo/gta/cj/materials/face_png_26745e53.vtex
+characters/models/nuclearsilo/gta/cj/materials/face_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nuclearsilo/gta/cj/materials/face.vmat
+characters/models/nuclearsilo/gta/cj/materials/jeans_png_d18dc4e2.vtex
+characters/models/nuclearsilo/gta/cj/materials/jeans_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nuclearsilo/gta/cj/materials/jeans.vmat
+characters/models/nuclearsilo/gta/cj/materials/sneaker_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nuclearsilo/gta/cj/materials/sneakerbincblk_png_4c86c8e8.vtex
+characters/models/nuclearsilo/gta/cj/materials/sneaker.vmat
+characters/models/nuclearsilo/gta/cj/materials/vest_png_61c74552.vtex
+characters/models/nuclearsilo/gta/cj/materials/vest_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nuclearsilo/gta/cj/materials/vest.vmat
+agents/models/reborn/cj/cj.vmdl

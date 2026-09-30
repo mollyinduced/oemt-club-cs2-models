@@ -1,0 +1,15 @@
+# cs2-model-converter: flatline_heat_mag, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/flatline_heat_mag/flatline_heat_mag.vmdl
+# weapon: weapon_ak47
+# skeleton: animation/skeletons/weapons/ak47.vnmskel
+weapons/models/rif_ak47/materials/flatline_heat_ao_png_93e8b265.vtex
+weapons/models/rif_ak47/materials/flatline_heat_assim_color_png_81c7af46.vtex
+weapons/models/rif_ak47/materials/flatline_heat_normal_png_2d42960.vtex
+weapons/models/rif_ak47/materials/flatline_heat_normal_png_6b8edc2.vtex
+weapons/models/rif_ak47/materials/flatline_heat_selfillum_png_fbaaf0fe.vtex
+weapons/models/rif_ak47/materials/flatline_heat_assim.vmat
+weapons/models/rif_ak47/materials/flatline_heat_normal_png_49493cd4.vtex
+weapons/models/rif_ak47/materials/flatline_heat_normal_png_551eada9.vtex
+weapons/models/rif_ak47/materials/flatline_heat_piston_color_png_40d04bcf.vtex
+weapons/models/rif_ak47/materials/flatline_heat_piston.vmat
+weapons/custom/flatline_heat_mag/flatline_heat_mag.vmdl

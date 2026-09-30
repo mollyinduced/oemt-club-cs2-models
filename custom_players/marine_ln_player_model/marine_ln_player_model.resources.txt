@@ -1,0 +1,18 @@
+# cs2-model-converter: marine_ln_player_model, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/ag2/marine_ln_player_model/marine_ln_player_model.vmdl
+# first person: 0 2 12 15
+agents/models/ag2/marine_ln_player_model/materials/coat_cloath_mat_vmat_g_tambientocclusion_e724fdff.vtex
+agents/models/ag2/marine_ln_player_model/materials/coat_cloath_mat_vmat_g_tmetalness_41ce2e5a.vtex
+agents/models/ag2/marine_ln_player_model/materials/tex_six_coat_d_normal_png_a264ac16.vtex
+agents/models/ag2/marine_ln_player_model/materials/tex_six_coat_d_png_bc9982d2.vtex
+agents/models/ag2/marine_ln_player_model/materials/coat_cloath_mat.vmat
+agents/models/ag2/marine_ln_player_model/materials/hair_mat_vmat_g_tambientocclusion_46e128b1.vtex
+agents/models/ag2/marine_ln_player_model/materials/hair_mat_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2/marine_ln_player_model/materials/hair_mat_vmat_g_tnormal_47660df.vtex
+agents/models/ag2/marine_ln_player_model/materials/tex_six_hair_d_png_7bb86421.vtex
+agents/models/ag2/marine_ln_player_model/materials/hair_mat.vmat
+agents/models/ag2/marine_ln_player_model/materials/player_body_mat_vmat_g_tambientocclusion_c245ed7b.vtex
+agents/models/ag2/marine_ln_player_model/materials/player_body_mat_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2/marine_ln_player_model/materials/tex_six_bodypr_d_png_ecc2653d.vtex
+agents/models/ag2/marine_ln_player_model/materials/player_body_mat.vmat
+agents/models/ag2/marine_ln_player_model/marine_ln_player_model.vmdl

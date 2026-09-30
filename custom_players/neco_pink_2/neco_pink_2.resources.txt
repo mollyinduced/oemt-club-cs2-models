@@ -1,0 +1,9 @@
+# cs2-model-converter: neco_pink_2, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/nozb1/necoarc_player_model/neco_pink.vmdl
+# first person: 0 2 12 15
+characters/models/nozb1/necoarc_player_model/materials/neco_blyat_vmat_g_tcolor_809ec856.vtex
+characters/models/nozb1/necoarc_player_model/materials/neco_blyat.vmat
+characters/models/nozb1/necoarc_player_model/materials/neco_pink_png_b11f7fc3.vtex
+characters/models/nozb1/necoarc_player_model/materials/pink.vmat
+characters/models/nozb1/necoarc_player_model/neco_pink/body_vmorf.vtex
+characters/models/nozb1/necoarc_player_model/neco_pink.vmdl

@@ -1,0 +1,13 @@
+# cs2-model-converter: the resources models/custom/player_kalmar_2/player_kalmar_2.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/player_kalmar_2/charles01_body01_au_d_color_png_62e3c68.vtex
+materials/models/custom/player_kalmar_2/charles01_body01_au_d.vmat
+materials/models/custom/player_kalmar_2/charles01_head01_au_d_color_png_755239e2.vtex
+materials/models/custom/player_kalmar_2/charles01_head01_au_d.vmat
+materials/models/custom/player_kalmar_2/eye_color_png_a9e127e5.vtex
+materials/models/custom/player_kalmar_2/eye.vmat
+materials/models/custom/player_kalmar_2/hair01_au_d_color_png_3b787ef5.vtex
+materials/models/custom/player_kalmar_2/hair01_au_d.vmat
+materials/models/custom/player_kalmar_2/sg_playeruniform_basecolor_color_png_2b73e446.vtex
+materials/models/custom/player_kalmar_2/sg_playeruniform_basecolor.vmat
+models/custom/player_kalmar_2/player_kalmar_2.vmdl

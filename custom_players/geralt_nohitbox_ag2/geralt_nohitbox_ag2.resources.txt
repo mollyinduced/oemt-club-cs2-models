@@ -1,0 +1,18 @@
+# cs2-model-converter: geralt_nohitbox_ag2, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: phase2/characters/models/otakku/geralt/geralt_nohitbox_ag2.vmdl
+characters/models/otakku/geralt/materials/chainmail_d01_tga_aab646a7_png_248a5cbb.vtex
+characters/models/otakku/geralt/materials/chainmail_d01_vmat_g_tambientocclusion_9782fd5c.vtex
+characters/models/otakku/geralt/materials/chainmail_d01_vmat_g_tmetalness_b99de324.vtex
+characters/models/otakku/geralt/materials/chainmail_d01_vmat_g_tnormal_2984f4a9.vtex
+characters/models/otakku/geralt/materials/chainmail_d01.vmat
+characters/models/otakku/geralt/materials/g_01_mg__viper_d01_tga_9ac05e9a_png_d81e2ac0.vtex
+characters/models/otakku/geralt/materials/g_01_mg__viper_d01_vmat_g_tambientocclusion_9782fd5c.vtex
+characters/models/otakku/geralt/materials/g_01_mg__viper_d01_vmat_g_tmetalness_b99de324.vtex
+characters/models/otakku/geralt/materials/g_01_mg__viper_d01_vmat_g_tnormal_2984f4a9.vtex
+characters/models/otakku/geralt/materials/g_01_mg__viper_d01.vmat
+characters/models/otakku/geralt/materials/t_01_mg__viper_d01_tga_3f69388f_png_4dab59b9.vtex
+characters/models/otakku/geralt/materials/t_01_mg__viper_d01_vmat_g_tambientocclusion_9782fd5c.vtex
+characters/models/otakku/geralt/materials/t_01_mg__viper_d01_vmat_g_tmetalness_b99de324.vtex
+characters/models/otakku/geralt/materials/t_01_mg__viper_d01_vmat_g_tnormal_2984f4a9.vtex
+characters/models/otakku/geralt/materials/t_01_mg__viper_d01.vmat
+phase2/characters/models/otakku/geralt/geralt_nohitbox_ag2.vmdl

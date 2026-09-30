@@ -1,0 +1,25 @@
+# cs2-model-converter: r301_mp5_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/r301_mp5_ag2/r301_mp5_ag2.vmdl
+# weapon: weapon_mp5sd
+# skeleton: animation/skeletons/weapons/mp5sd.vnmskel
+weapons/models/r301/materials/lasma_vmat_g_tmetalness_e2bceb0.vtex
+weapons/models/r301/materials/r301_epic_epic04_main_emissivetexture_png_445fc8d8.vtex
+weapons/models/r301/materials/r301_epic_epic04_main_emissivetexture_png_5cc423a8.vtex
+weapons/models/r301/materials/lasma.vmat
+weapons/models/r301/materials/r301_epic_epic04_main_aotexture_png_83081845.vtex
+weapons/models/r301/materials/r301_epic_epic04_main_cavitytexture_png_ff860158.vtex
+weapons/models/r301/materials/r301_epic_epic04_main_normaltexture_png_307f5afb.vtex
+weapons/models/r301/materials/r301_epic_epic04_main_spectexture_png_2c2dbf5a.vtex
+weapons/models/r301/materials/main_body.vmat
+weapons/models/r301/materials/plasma_vmat_g_tmetalness_e2bceb0.vtex
+weapons/models/r301/materials/plasma.vmat
+weapons/models/r301/materials/acgs_r5_albedotexturelow_png_4ffc266c.vtex
+weapons/models/r301/materials/acgs_r5_normaltexturelow_png_e1bfd8ec.vtex
+weapons/models/r301/materials/r301holo_vmat_g_tmetalness_c662d62e.vtex
+weapons/models/r301/materials/r301holo.vmat
+weapons/models/r301/materials/suppressors_aotexture_png_859453e7.vtex
+weapons/models/r301/materials/suppressors_glosstexture_png_4c226d1c.vtex
+weapons/models/r301/materials/suppressors_normaltexture_png_66dbc90a.vtex
+weapons/models/r301/materials/suppressors_spectexture_png_6824cdf4.vtex
+weapons/models/r301/materials/suppressors.vmat
+weapons/custom/r301_mp5_ag2/r301_mp5_ag2.vmdl

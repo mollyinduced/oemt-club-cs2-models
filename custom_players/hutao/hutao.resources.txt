@@ -1,0 +1,8 @@
+# cs2-model-converter: hutao, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/kolka/2026/hutao/hutao.vmdl
+# first person: 0 2 12 15
+characters/models/kolka/2026/hutao/mat/body_vmat_g_tmetalness_10974e8a.vtex
+characters/models/kolka/2026/hutao/mat/body_vmat_g_tnormal_53b47c48.vtex
+characters/models/kolka/2026/hutao/mat/hutao_atlasmat01_tga_be827249.vtex
+characters/models/kolka/2026/hutao/mat/body.vmat
+characters/models/kolka/2026/hutao/hutao.vmdl

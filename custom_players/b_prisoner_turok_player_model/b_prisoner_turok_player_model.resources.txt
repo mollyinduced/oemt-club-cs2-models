@@ -1,0 +1,12 @@
+# cs2-model-converter: b_prisoner_turok_player_model, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/ag2/b_prisoner_turok_player_model/b_prisoner_turok_player_model.vmdl
+# first person: 0 2 12 15
+agents/models/ag2/b_prisoner_turok_player_model/materials/b_prisonerturok_body_vmat_g_tmetalness_10974e8a.vtex
+agents/models/ag2/b_prisoner_turok_player_model/materials/prisonerturok2_d_png_916fe407.vtex
+agents/models/ag2/b_prisoner_turok_player_model/materials/prisonerturok_n_png_e9ba2989.vtex
+agents/models/ag2/b_prisoner_turok_player_model/materials/b_prisonerturok_body.vmat
+agents/models/ag2/b_prisoner_turok_player_model/materials/b_prisonerturok_hair_vmat_g_tambientocclusion_5790d72.vtex
+agents/models/ag2/b_prisoner_turok_player_model/materials/prisoner_hair_png_12b4f664.vtex
+agents/models/ag2/b_prisoner_turok_player_model/materials/prisoner_hair_trans_png_4425d58b.vtex
+agents/models/ag2/b_prisoner_turok_player_model/materials/b_prisonerturok_hair.vmat
+agents/models/ag2/b_prisoner_turok_player_model/b_prisoner_turok_player_model.vmdl

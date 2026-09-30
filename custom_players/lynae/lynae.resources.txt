@@ -1,0 +1,30 @@
+# cs2-model-converter: lynae, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/asmodeus/lynae/lynae.vmdl
+# first person: 0 1 2 3
+characters/models/asmodeus/lynae/lynae/body_vmorf.vtex
+characters/models/asmodeus/lynae/materials/lynae_acc_png_b9c65c9a.vtex
+characters/models/asmodeus/lynae/materials/lynae_acc_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/lynae/materials/lynae_acc.vmat
+characters/models/asmodeus/lynae/materials/lynae_acc1_png_2ef4af5c.vtex
+characters/models/asmodeus/lynae/materials/lynae_acc1_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/lynae/materials/lynae_acc1.vmat
+characters/models/asmodeus/lynae/materials/lynae_down_png_cdbcfe6f.vtex
+characters/models/asmodeus/lynae/materials/lynae_down_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/lynae/materials/lynae_down.vmat
+characters/models/asmodeus/lynae/materials/lynae_eye_png_8a3b7a22.vtex
+characters/models/asmodeus/lynae/materials/lynae_eye_png_cae5c0bc.vtex
+characters/models/asmodeus/lynae/materials/lynae_eye.vmat
+characters/models/asmodeus/lynae/materials/lynae_face_png_bfd6a23a.vtex
+characters/models/asmodeus/lynae/materials/lynae_face_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/lynae/materials/lynae_face.vmat
+characters/models/asmodeus/lynae/materials/lynae_fhair_png_c49156e0.vtex
+characters/models/asmodeus/lynae/materials/lynae_fhair_vmat_g_tmetalness_10974e8a.vtex
+materials/default/default_mask_tga_cac76a2f.vtex
+characters/models/asmodeus/lynae/materials/lynae_fhair.vmat
+characters/models/asmodeus/lynae/materials/lynae_hair_png_760ae667.vtex
+characters/models/asmodeus/lynae/materials/lynae_hair_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/lynae/materials/lynae_hair.vmat
+characters/models/asmodeus/lynae/materials/lynae_upbody_png_a1ea5bbf.vtex
+characters/models/asmodeus/lynae/materials/lynae_upbody_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/lynae/materials/lynae_upbody.vmat
+characters/models/asmodeus/lynae/lynae.vmdl

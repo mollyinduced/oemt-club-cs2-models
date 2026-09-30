@@ -1,0 +1,8 @@
+# cs2-model-converter: sparkle_3, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/maoling/star_rail/sparkle/sparkle.vmdl
+characters/maoling/star_rail/sparkle/normal/materials/sparkle_textures_png_13e83013.vtex
+characters/maoling/star_rail/sparkle/normal/materials/sparkle_textures_vmat_g_tambientocclusion_34608cfa.vtex
+characters/maoling/star_rail/sparkle/normal/materials/sparkle_textures_vmat_g_tmetalness_75f9dd7f_png_4961f99d.vtex
+characters/maoling/star_rail/sparkle/normal/materials/sparkle_textures_vmat_g_tnormal_2a25a1b8.vtex
+characters/maoling/star_rail/sparkle/normal/materials/sparkle_textures.vmat
+characters/maoling/star_rail/sparkle/sparkle.vmdl

@@ -1,0 +1,9 @@
+# cs2-model-converter: knife_caramel_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/knife_caramel_ag2/knife_caramel_ag2.vmdl
+# weapon: weapon_knife_cord
+# skeleton: animation/skeletons/weapons/knife_cord.vnmskel
+weapons/moovik/caramel/t_pickaxe_15_d_png_9da3f278.vtex
+weapons/moovik/caramel/t_pickaxe_15_n_png_63572b18.vtex
+weapons/moovik/caramel/textureselfillum_garlands_png_a3cbe197.vtex
+weapons/moovik/caramel/caramel.vmat
+weapons/custom/knife_caramel_ag2/knife_caramel_ag2.vmdl

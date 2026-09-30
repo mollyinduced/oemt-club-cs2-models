@@ -1,0 +1,6 @@
+# cs2-model-converter: booba_player_model_ag2_2, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: phase2/characters/models/deti00ykh/booba_player_model/booba_player_model_ag2.vmdl
+characters/models/deti00ykh/booba_player_model/materials/body_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/deti00ykh/booba_player_model/materials/boobdody_png_733ef2fa.vtex
+characters/models/deti00ykh/booba_player_model/materials/body.vmat
+phase2/characters/models/deti00ykh/booba_player_model/booba_player_model_ag2.vmdl

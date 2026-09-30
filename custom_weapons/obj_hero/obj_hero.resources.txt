@@ -1,0 +1,12 @@
+# cs2-model-converter: obj_hero, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/obj_hero/obj_hero.vmdl
+# weapon: weapon_negev
+# skeleton: animation/skeletons/weapons/negev.vnmskel
+weapons/otakku/negev/obj_hero/materials/hl_hyper_negev_base_base_color_png_ed2d2643.vtex
+weapons/otakku/negev/obj_hero/materials/hl_hyper_negev_base_ill_png_71dae2d1.vtex
+weapons/otakku/negev/obj_hero/materials/hl_hyper_negev_base_roughness_png_18f3aca8.vtex
+weapons/otakku/negev/obj_hero/materials/hl_hyper_negev_base_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/negev/obj_hero/materials/hl_hyper_negev_base.vmat
+weapons/otakku/negev/obj_hero/materials/hl_hyper_negev_hud_ammo_png_654818bc.vtex
+weapons/otakku/negev/obj_hero/materials/hl_hyper_negev_trans01.vmat
+weapons/custom/obj_hero/obj_hero.vmdl

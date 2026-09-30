@@ -1,0 +1,30 @@
+# cs2-model-converter: bizon_azukisan, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/bizon_azukisan/bizon_azukisan.vmdl
+# weapon: weapon_bizon
+# skeleton: animation/skeletons/weapons/bizon.vnmskel
+weapons/otakku/bizon/bizon_azukisan/materials/1_png_eae6e86b.vtex
+weapons/otakku/bizon/bizon_azukisan/materials/1_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/bizon/bizon_azukisan/materials/1_vmat_g_tnormal_876bcb9d.vtex
+weapons/otakku/bizon/bizon_azukisan/materials/1_vmat_g_tselfillummask_ff155607.vtex
+weapons/otakku/bizon/bizon_azukisan/materials/1.vmat
+weapons/otakku/bizon/bizon_azukisan/materials/weapon_vm_sm_beta_v2_body_n_png_1201ed20.vtex
+weapons/otakku/bizon/bizon_azukisan/materials/weapon_vm_sm_beta_v2_body_rgb_png_c60ae6fc.vtex
+weapons/otakku/bizon/bizon_azukisan/materials/weapon_vm_sm_beta_v2_body_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/bizon/bizon_azukisan/materials/weapon_vm_sm_beta_v2_body_vmat_g_tselfillummask_ff155607.vtex
+weapons/otakku/bizon/bizon_azukisan/materials/weapon_vm_sm_beta_v2_body.vmat
+weapons/otakku/bizon/bizon_azukisan/materials/weapon_vm_sm_beta_v2_body2_n_png_b929fb2e.vtex
+weapons/otakku/bizon/bizon_azukisan/materials/weapon_vm_sm_beta_v2_body2_rgb_png_7926900a.vtex
+weapons/otakku/bizon/bizon_azukisan/materials/weapon_vm_sm_beta_v2_body2_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/bizon/bizon_azukisan/materials/weapon_vm_sm_beta_v2_body2_vmat_g_tselfillummask_ff155607.vtex
+weapons/otakku/bizon/bizon_azukisan/materials/weapon_vm_sm_beta_v2_body2.vmat
+weapons/otakku/bizon/bizon_azukisan/materials/weapon_vm_sm_beta_v2_mag_n_png_45952639.vtex
+weapons/otakku/bizon/bizon_azukisan/materials/weapon_vm_sm_beta_v2_mag_rgb_png_424a94af.vtex
+weapons/otakku/bizon/bizon_azukisan/materials/weapon_vm_sm_beta_v2_mag_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/bizon/bizon_azukisan/materials/weapon_vm_sm_beta_v2_mag_vmat_g_tselfillummask_ff155607.vtex
+weapons/otakku/bizon/bizon_azukisan/materials/weapon_vm_sm_beta_v2_mag.vmat
+weapons/otakku/bizon/bizon_azukisan/materials/weapon_vm_sm_beta_v2_pstl_grip_n_png_3345ebca.vtex
+weapons/otakku/bizon/bizon_azukisan/materials/weapon_vm_sm_beta_v2_pstl_grip_rgb_png_8ca8b12e.vtex
+weapons/otakku/bizon/bizon_azukisan/materials/weapon_vm_sm_beta_v2_pstl_grip_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/bizon/bizon_azukisan/materials/weapon_vm_sm_beta_v2_pstl_grip_vmat_g_tselfillummask_ff155607.vtex
+weapons/otakku/bizon/bizon_azukisan/materials/weapon_vm_sm_beta_v2_pstl_grip.vmat
+weapons/custom/bizon_azukisan/bizon_azukisan.vmdl

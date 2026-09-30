@@ -1,0 +1,20 @@
+# cs2-model-converter: mame_hinata, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/asmodeus/mamehinata/mame_hinata.vmdl
+# first person: 0 1 2 3
+characters/models/asmodeus/mamehinata/materials/body_png_56e25a5f.vtex
+characters/models/asmodeus/mamehinata/materials/body_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/mamehinata/materials/body.vmat
+characters/models/asmodeus/mamehinata/materials/body_outline_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/mamehinata/materials/body_png_16b1d10d.vtex
+characters/models/asmodeus/mamehinata/materials/body_outline.vmat
+characters/models/asmodeus/mamehinata/materials/hair_png_f50cbd35.vtex
+characters/models/asmodeus/mamehinata/materials/hair_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/mamehinata/materials/hair.vmat
+characters/models/asmodeus/mamehinata/materials/item_png_bcfd9946.vtex
+characters/models/asmodeus/mamehinata/materials/item_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/mamehinata/materials/item.vmat
+characters/models/asmodeus/mamehinata/materials/outfit_png_9eecf240.vtex
+characters/models/asmodeus/mamehinata/materials/outfit_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/mamehinata/materials/outfit_vmat_g_tnormal_9b6baee2.vtex
+characters/models/asmodeus/mamehinata/materials/outfit.vmat
+characters/models/asmodeus/mamehinata/mame_hinata.vmdl

@@ -1,0 +1,16 @@
+# cs2-model-converter: ba_m4a1_azusa, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/ba_m4a1_azusa/ba_m4a1_azusa.vmdl
+# weapon: weapon_m4a1
+# skeleton: animation/skeletons/weapons/m4a4.vnmskel
+phase2/weapons/7ychu5/slot1/ba_m4a1_azusa/materials/azusa_original_weapon_png_48cef57a.vtex
+phase2/weapons/7ychu5/slot1/ba_m4a1_azusa/materials/default_obj_vmat_g_tmetalness_dfae0b86.vtex
+phase2/weapons/7ychu5/slot1/ba_m4a1_azusa/materials/default_obj.vmat
+phase2/weapons/7ychu5/slot1/ba_m4a1_azusa/materials/led_ammo_png_52cd309.vtex
+phase2/weapons/7ychu5/slot1/ba_m4a1_azusa/materials/led_ammo_png_5d9c6c8.vtex
+phase2/weapons/7ychu5/slot1/ba_m4a1_azusa/materials/led_ammo_vmat_g_tnormal_53b47c48.vtex
+phase2/weapons/7ychu5/slot1/ba_m4a1_azusa/materials/led_ammo.vmat
+phase2/weapons/7ychu5/slot1/ba_m4a1_azusa/materials/led_ammo_10_vmat_g_tnormal_53b47c48.vtex
+phase2/weapons/7ychu5/slot1/ba_m4a1_azusa/materials/led_ammo_10.vmat
+phase2/weapons/7ychu5/slot1/ba_m4a1_azusa/materials/led_ammo_100_vmat_g_tnormal_53b47c48.vtex
+phase2/weapons/7ychu5/slot1/ba_m4a1_azusa/materials/led_ammo_100.vmat
+weapons/custom/ba_m4a1_azusa/ba_m4a1_azusa.vmdl

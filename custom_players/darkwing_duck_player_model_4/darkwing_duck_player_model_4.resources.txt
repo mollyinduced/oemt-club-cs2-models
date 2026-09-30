@@ -1,0 +1,9 @@
+# cs2-model-converter: darkwing_duck_player_model_4, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/ag2_pt/darkwing_duck_player_model/darkwing_duck_player_model.vmdl
+# first person: 0 2 12 15
+agents/models/ag2_pt/darkwing_duck_player_model/materials/darkwing_duck_d_png_f32a1ad0.vtex
+agents/models/ag2_pt/darkwing_duck_player_model/materials/dd_body1_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2_pt/darkwing_duck_player_model/materials/dd_body1.vmat
+agents/models/ag2_pt/darkwing_duck_player_model/materials/outliner_vmat_g_tcolor_7ab53e0a.vtex
+agents/models/ag2_pt/darkwing_duck_player_model/materials/outliner.vmat
+agents/models/ag2_pt/darkwing_duck_player_model/darkwing_duck_player_model.vmdl

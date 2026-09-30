@@ -1,0 +1,14 @@
+# cs2-model-converter: beerus_sama_nohitbox_2, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/otakku/beerus_sama/beerus_sama_nohitbox.vmdl
+# first person: 0 2 12 15
+agents/models/otakku/beerus_sama/materials/body2_png_ba876a29.vtex
+agents/models/otakku/beerus_sama/materials/body_c_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/otakku/beerus_sama/materials/body_c_vmat_g_tmetalness_b99de324.vtex
+agents/models/otakku/beerus_sama/materials/t_m_med_staminacat_body_n_png_cab524d4.vtex
+agents/models/otakku/beerus_sama/materials/body_c.vmat
+agents/models/otakku/beerus_sama/materials/head2_png_900f4ea2.vtex
+agents/models/otakku/beerus_sama/materials/head_c_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/otakku/beerus_sama/materials/head_c_vmat_g_tmetalness_b99de324.vtex
+agents/models/otakku/beerus_sama/materials/t_m_med_staminacat_head_n_png_4a80323b.vtex
+agents/models/otakku/beerus_sama/materials/head_c.vmat
+agents/models/otakku/beerus_sama/beerus_sama_nohitbox.vmdl

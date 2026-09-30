@@ -1,0 +1,29 @@
+# cs2-model-converter: laevatain, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/asmodeus/laevatain/laevatain.vmdl
+# first person: 0 1 2 3
+characters/models/asmodeus/laevatain/laevatain/body_vmorf.vtex
+characters/models/asmodeus/laevatain/materials/laevatain_back_png_a4ee1182.vtex
+characters/models/asmodeus/laevatain/materials/laevatain_back_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/laevatain/materials/laevatain_back.vmat
+characters/models/asmodeus/laevatain/materials/laevatain_cloth_png_ed6201.vtex
+characters/models/asmodeus/laevatain/materials/laevatain_cloth_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/laevatain/materials/laevatain_cloth.vmat
+characters/models/asmodeus/laevatain/materials/laevatain_eye_png_39f96980.vtex
+characters/models/asmodeus/laevatain/materials/laevatain_eye_png_cc4ea0d4.vtex
+characters/models/asmodeus/laevatain/materials/laevatain_eye.vmat
+characters/models/asmodeus/laevatain/materials/laevatain_eye_png_f5cd5151.vtex
+characters/models/asmodeus/laevatain/materials/laevatain_eyehi_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/laevatain/materials/laevatain_eyehi.vmat
+characters/models/asmodeus/laevatain/materials/laevatain_face_png_f95aac8c.vtex
+characters/models/asmodeus/laevatain/materials/laevatain_face_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/laevatain/materials/laevatain_face.vmat
+characters/models/asmodeus/laevatain/materials/laevatain_hair_png_ae4bfe00.vtex
+characters/models/asmodeus/laevatain/materials/laevatain_hair_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/laevatain/materials/laevatain_hair.vmat
+characters/models/asmodeus/laevatain/materials/laevatain_skin_png_c2ec6736.vtex
+characters/models/asmodeus/laevatain/materials/laevatain_skin_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/laevatain/materials/laevatain_skin.vmat
+characters/models/asmodeus/laevatain/materials/laevatain_skirt_png_4de4b5bc.vtex
+characters/models/asmodeus/laevatain/materials/laevatain_skirt_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/laevatain/materials/laevatain_skirt.vmat
+characters/models/asmodeus/laevatain/laevatain.vmdl

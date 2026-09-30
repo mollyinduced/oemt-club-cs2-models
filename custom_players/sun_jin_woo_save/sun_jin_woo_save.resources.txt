@@ -1,0 +1,11 @@
+# cs2-model-converter: the resources models/custom/sun_jin_woo_save/sun_jin_woo_save.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/sun_jin_woo_save/body_color_png_2e55babb.vtex
+materials/models/custom/sun_jin_woo_save/body.vmat
+materials/models/custom/sun_jin_woo_save/face_color_png_106d3c4d.vtex
+materials/models/custom/sun_jin_woo_save/face.vmat
+materials/models/custom/sun_jin_woo_save/hair_color_png_f0e5dfa6.vtex
+materials/models/custom/sun_jin_woo_save/hair.vmat
+materials/models/custom/sun_jin_woo_save/primary_black_translucent_color_png_a39a1ccd.vtex
+materials/models/custom/sun_jin_woo_save/primary_black_translucent.vmat
+models/custom/sun_jin_woo_save/sun_jin_woo_save.vmdl

@@ -1,0 +1,38 @@
+# cs2-model-converter: 10073, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/exg/10073/10073.vmdl
+# first person: 2 1 16 24
+characters/models/exg/qiliu/longdan/materials/body_jpg_b28820af.vtex
+characters/models/exg/qiliu/longdan/materials/body_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/exg/qiliu/longdan/materials/body_vmat_g_tnormal_53b47c48.vtex
+characters/models/exg/qiliu/longdan/materials/body.vmat
+characters/models/exg/qiliu/longdan/materials/cl2b_jpg_13748fc1.vtex
+characters/models/exg/qiliu/longdan/materials/cl2b_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/exg/qiliu/longdan/materials/cl2b_vmat_g_tnormal_53b47c48.vtex
+characters/models/exg/qiliu/longdan/materials/cl2b.vmat
+characters/models/exg/qiliu/longdan/materials/metal2_vmat_g_tnormal_9cda2567.vtex
+characters/models/exg/qiliu/longdan/materials/metal2.vmat
+characters/models/exg/tioplato/arm/huohua1_vmat_g_tcolor_d3ecd3ed.vtex
+characters/models/exg/tioplato/arm/huohua1_vmat_g_tnormal_649547d1.vtex
+characters/models/exg/tioplato/arm/t_jpg_975951a4.vtex
+characters/models/exg/tioplato/arm/huohua1.vmat
+characters/models/exg/tioplato/arm/huohua2_vmat_g_tcolor_4adf89a5.vtex
+characters/models/exg/tioplato/arm/huohua2_vmat_g_tnormal_649547d1.vtex
+characters/models/exg/tioplato/arm/huohua2.vmat
+characters/models/exg/tioplato/xingqiongtiedao_huahuo/materials/body_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/exg/tioplato/xingqiongtiedao_huahuo/materials/clothes_png_ef9fb646.vtex
+characters/models/exg/tioplato/xingqiongtiedao_huahuo/materials/body.vmat
+characters/models/exg/tioplato/xingqiongtiedao_huahuo/materials/clothes_shine_png_508dd007.vtex
+characters/models/exg/tioplato/xingqiongtiedao_huahuo/materials/body_shine.vmat
+characters/models/exg/tioplato/xingqiongtiedao_huahuo/materials/face_png_1f9d79a2.vtex
+characters/models/exg/tioplato/xingqiongtiedao_huahuo/materials/face_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/exg/tioplato/xingqiongtiedao_huahuo/materials/face.vmat
+characters/models/exg/tioplato/xingqiongtiedao_huahuo/materials/hair_png_e6b92069.vtex
+characters/models/exg/tioplato/xingqiongtiedao_huahuo/materials/hair_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/exg/tioplato/xingqiongtiedao_huahuo/materials/hair.vmat
+characters/models/exg/tioplato/xingqiongtiedao_huahuo/materials/mask_png_fb0a4a58.vtex
+characters/models/exg/tioplato/xingqiongtiedao_huahuo/materials/mask.vmat
+characters/models/exg/tioplato/xingqiongtiedao_huahuo/materials/miaobian_vmat_g_tcolor_20638b28.vtex
+characters/models/exg/tioplato/xingqiongtiedao_huahuo/materials/miaobian.vmat
+characters/models/exg/tioplato/xingqiongtiedao_huahuo/materials/touming_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/exg/tioplato/xingqiongtiedao_huahuo/materials/touming.vmat
+characters/exg/10073/10073.vmdl

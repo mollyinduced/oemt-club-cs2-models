@@ -1,0 +1,14 @@
+# cs2-model-converter: spongebob_nohitbox, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/otakku/spongebob/spongebob_nohitbox.vmdl
+# first person: 0 2 12 15
+agents/models/otakku/spongebob/materials/body_vmat_g_tambientocclusion_dd98a23c.vtex
+agents/models/otakku/spongebob/materials/body_vmat_g_tmetalness_b99de324.vtex
+agents/models/otakku/spongebob/materials/spongebob_body_normal_png_864b8d3.vtex
+agents/models/otakku/spongebob/materials/spongebob_body_png_f52ba93.vtex
+agents/models/otakku/spongebob/materials/body.vmat
+agents/models/otakku/spongebob/materials/spongebob_head_normal_png_50a979c6.vtex
+agents/models/otakku/spongebob/materials/spongebob_head_png_eacfabe8.vtex
+agents/models/otakku/spongebob/materials/spongebob_head_vmat_g_tambientocclusion_dd98a23c.vtex
+agents/models/otakku/spongebob/materials/spongebob_head_vmat_g_tmetalness_b99de324.vtex
+agents/models/otakku/spongebob/materials/spongebob_head.vmat
+agents/models/otakku/spongebob/spongebob_nohitbox.vmdl

@@ -1,0 +1,12 @@
+# cs2-model-converter: karambit_universe_d, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/karambit_universe_d/karambit_universe_d.vmdl
+# weapon: weapon_knife_karambit
+# skeleton: animation/skeletons/weapons/knife_karambit.vnmskel
+models/kolka/standoff2/karam/color_tga_bec2891a.vtex
+models/kolka/standoff2/karam/color_vmat_g_tselfillummask_ff155607.vtex
+models/kolka/standoff2/karam/color.vmat
+models/kolka/standoff2/karam/karambit_ao_png_860c1436.vtex
+models/kolka/standoff2/karam/karambit_normal_png_f40a8050.vtex
+models/kolka/standoff2/karam/karambit_universe_a_png_c9e37e9.vtex
+models/kolka/standoff2/karam/karambit_universe_d.vmat
+weapons/custom/karambit_universe_d/karambit_universe_d.vmdl

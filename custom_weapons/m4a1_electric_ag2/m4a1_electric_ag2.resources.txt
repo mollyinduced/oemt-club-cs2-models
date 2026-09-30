@@ -1,0 +1,11 @@
+# cs2-model-converter: m4a1_electric_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/m4a1_electric_ag2/m4a1_electric_ag2.vmdl
+# weapon: weapon_m4a1
+# skeleton: animation/skeletons/weapons/m4a4.vnmskel
+weapons/onetake/m4a1_electric/materials/electremiss_vmat_g_tcolor_7ab53e0a.vtex
+weapons/onetake/m4a1_electric/materials/electremiss_vmat_g_tselfillummask_ff155607.vtex
+weapons/onetake/m4a1_electric/materials/electremiss.vmat
+weapons/onetake/m4a1_electric/materials/1_png_dcd5300b.vtex
+weapons/onetake/m4a1_electric/materials/1n_png_7dcbb1b3.vtex
+weapons/onetake/m4a1_electric/materials/m4a1selectr.vmat
+weapons/custom/m4a1_electric_ag2/m4a1_electric_ag2.vmdl

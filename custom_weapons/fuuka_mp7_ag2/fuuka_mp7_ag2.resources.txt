@@ -1,0 +1,15 @@
+# cs2-model-converter: fuuka_mp7_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/fuuka_mp7_ag2/fuuka_mp7_ag2.vmdl
+# weapon: weapon_mp7
+# skeleton: animation/skeletons/weapons/mp7.vnmskel
+weapons/deti00ykh/fuuka_mp7/materials/fuuka_original_png_ff102eb0.vtex
+weapons/deti00ykh/fuuka_mp7/materials/self_f_png_81148176.vtex
+weapons/deti00ykh/fuuka_mp7/materials/fuuka.vmat
+weapons/deti00ykh/fuuka_mp7/materials/key1_vmat_g_tcolor_7ab53e0a.vtex
+weapons/deti00ykh/fuuka_mp7/materials/key1_vmat_g_tselfillummask_ff155607.vtex
+weapons/deti00ykh/fuuka_mp7/materials/key1.vmat
+weapons/deti00ykh/fuuka_mp7/materials/key2_vmat_g_tcolor_cda6ca7f.vtex
+weapons/deti00ykh/fuuka_mp7/materials/key2.vmat
+weapons/deti00ykh/fuuka_mp7/materials/outliner_vmat_g_tcolor_6b6e411d.vtex
+weapons/deti00ykh/fuuka_mp7/materials/outliner.vmat
+weapons/custom/fuuka_mp7_ag2/fuuka_mp7_ag2.vmdl

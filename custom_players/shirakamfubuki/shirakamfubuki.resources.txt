@@ -1,0 +1,7 @@
+# cs2-model-converter: the resources models/custom/shirakamfubuki/shirakamfubuki.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/shirakamfubuki/body_color_png_c5b1c75f.vtex
+materials/models/custom/shirakamfubuki/body.vmat
+materials/models/custom/shirakamfubuki/eye_color_png_47efdd43.vtex
+materials/models/custom/shirakamfubuki/eye.vmat
+models/custom/shirakamfubuki/shirakamfubuki.vmdl

@@ -1,0 +1,9 @@
+# cs2-model-converter: train_minecraft_weapon_smokegrenade_mc, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/train_minecraft_weapon_smokegrenade_mc/train_minecraft_weapon_smokegrenade_mc.vmdl
+# weapon: weapon_smokegrenade
+# skeleton: animation/skeletons/weapons/smokegrenade.vnmskel
+materials/minecraft/smokegrenade/smoke_rough_png_808f8bda.vtex
+materials/minecraft/smokegrenade/smokegrenade_default_png_d13e7a49.vtex
+materials/minecraft/smokegrenade/smokegrenade_vmat_g_tnormal_f8264e14.vtex
+materials/minecraft/smokegrenade/smokegrenade.vmat
+weapons/custom/train_minecraft_weapon_smokegrenade_mc/train_minecraft_weapon_smokegrenade_mc.vmdl

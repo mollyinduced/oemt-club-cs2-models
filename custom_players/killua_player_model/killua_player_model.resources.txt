@@ -1,0 +1,29 @@
+# cs2-model-converter: killua_player_model, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/deti00ykh/killua_player_model/killua_player_model.vmdl
+# first person: 0 2 12 15
+characters/models/deti00ykh/killua_player_model/killua_player_model/arms_vmorf.vtex
+characters/models/deti00ykh/killua_player_model/killua_player_model/body_vmorf.vtex
+characters/models/deti00ykh/killua_player_model/materials/body_c_png_aa57b2dc.vtex
+characters/models/deti00ykh/killua_player_model/materials/body_n_png_8beb1d30.vtex
+characters/models/deti00ykh/killua_player_model/materials/body_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/deti00ykh/killua_player_model/materials/body.vmat
+characters/models/deti00ykh/killua_player_model/materials/cloth_c_png_3417f521.vtex
+characters/models/deti00ykh/killua_player_model/materials/cloth_n_png_25d77c8e.vtex
+characters/models/deti00ykh/killua_player_model/materials/cloth_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/deti00ykh/killua_player_model/materials/cloth.vmat
+characters/models/deti00ykh/killua_player_model/materials/eye_c_png_a5c97fe4.vtex
+characters/models/deti00ykh/killua_player_model/materials/eye_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/deti00ykh/killua_player_model/materials/eye.vmat
+characters/models/deti00ykh/killua_player_model/materials/face_c_png_122237ba.vtex
+characters/models/deti00ykh/killua_player_model/materials/face_n_png_3a594248.vtex
+characters/models/deti00ykh/killua_player_model/materials/face_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/deti00ykh/killua_player_model/materials/face.vmat
+characters/models/deti00ykh/killua_player_model/materials/hair_c_png_f82b1d1c.vtex
+characters/models/deti00ykh/killua_player_model/materials/hair_n_png_5e8f7620.vtex
+characters/models/deti00ykh/killua_player_model/materials/hair_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/deti00ykh/killua_player_model/materials/hair.vmat
+characters/models/deti00ykh/killua_player_model/materials/pants_c_png_b182bedb.vtex
+characters/models/deti00ykh/killua_player_model/materials/pants_n_png_2f20daf2.vtex
+characters/models/deti00ykh/killua_player_model/materials/pants_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/deti00ykh/killua_player_model/materials/pants.vmat
+characters/models/deti00ykh/killua_player_model/killua_player_model.vmdl

@@ -1,0 +1,11 @@
+# cs2-model-converter: professor_niyaniya_ag2, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: phase2/characters/models/exg/bot04/professor_niyaniya/professor_niyaniya_ag2.vmdl
+characters/models/exg/bot04/professor_niyaniya/cloth_vmat_g_tmetalness_10974e8a.vtex
+characters/models/exg/bot04/professor_niyaniya/tex/cloth_png_85a91c8a.vtex
+characters/models/exg/bot04/professor_niyaniya/tex/normal_png_a3ebad38.vtex
+characters/models/exg/bot04/professor_niyaniya/cloth.vmat
+characters/models/exg/bot04/professor_niyaniya/skin_vmat_g_tmetalness_10974e8a.vtex
+characters/models/exg/bot04/professor_niyaniya/skin_vmat_g_tnormal_53b47c48.vtex
+characters/models/exg/bot04/professor_niyaniya/tex/skin_png_d6bdbe7d.vtex
+characters/models/exg/bot04/professor_niyaniya/skin.vmat
+phase2/characters/models/exg/bot04/professor_niyaniya/professor_niyaniya_ag2.vmdl

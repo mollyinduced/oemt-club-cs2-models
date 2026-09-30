@@ -1,0 +1,14 @@
+# cs2-model-converter: w_rif_sg556, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/w_rif_sg556/w_rif_sg556.vmdl
+# weapon: weapon_sg556
+# skeleton: animation/skeletons/weapons/sg556.vnmskel
+materials/default/default_bentnormal_tga_2023e987.vtex
+materials/models/weapons/shared/scope/scope_color_tga_c1c3233c.vtex
+materials/models/weapons/shared/scope/scope_normal_tga_7e4d3f96.vtex
+models/weapons/shared/scope/scope_sg556_vmat_g_tmetalness_b7e45cfc.vtex
+models/weapons/shared/scope/scope_sg556.vmat
+materials/models/weapons/w_models/w_rif_sg556/rif_sg556_color_tga_a70ce69e.vtex
+materials/models/weapons/w_models/w_rif_sg556/rif_sg556_exponent_metal_tga_f5b5e129.vtex
+materials/models/weapons/w_models/w_rif_sg556/rif_sg556_rough_tga_3c729d28.vtex
+models/weapons/w_models/w_rif_sg556/rif_sg556.vmat
+weapons/custom/w_rif_sg556/w_rif_sg556.vmdl

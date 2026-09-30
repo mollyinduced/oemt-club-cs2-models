@@ -1,0 +1,20 @@
+# cs2-model-converter: nagi_player_model, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/deti00ykh/nagi_player_model/nagi_player_model.vmdl
+# first person: 0 2 12 15
+characters/models/deti00ykh/nagi_player_model/materials/bodyu_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/deti00ykh/nagi_player_model/materials/male_top_cos_fb_white02_d_png_ba33a85b.vtex
+characters/models/deti00ykh/nagi_player_model/materials/bodyu.vmat
+characters/models/deti00ykh/nagi_player_model/materials/face_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/deti00ykh/nagi_player_model/materials/male_head_cos_fb_white_d_png_3e0365a8.vtex
+characters/models/deti00ykh/nagi_player_model/materials/face.vmat
+characters/models/deti00ykh/nagi_player_model/materials/lwv_body_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/deti00ykh/nagi_player_model/materials/male_bottom_cos_fb_white_d_png_b9eaa4c7.vtex
+characters/models/deti00ykh/nagi_player_model/materials/lwv_body.vmat
+characters/models/deti00ykh/nagi_player_model/materials/oulinte_vmat_g_tcolor_6b6e411d.vtex
+characters/models/deti00ykh/nagi_player_model/materials/oulinte.vmat
+characters/models/deti00ykh/nagi_player_model/materials/male_shoe_cos_fb_white_d_png_d0c8d7ae.vtex
+characters/models/deti00ykh/nagi_player_model/materials/shoies_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/deti00ykh/nagi_player_model/materials/shoies.vmat
+characters/models/deti00ykh/nagi_player_model/nagi_player_model/arms_vmorf.vtex
+characters/models/deti00ykh/nagi_player_model/nagi_player_model/body_vmorf.vtex
+characters/models/deti00ykh/nagi_player_model/nagi_player_model.vmdl

@@ -1,0 +1,25 @@
+# cs2-model-converter: cayde6, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/asmodeus/cayde6/cayde6.vmdl
+# first person: 0 1 2 3
+characters/models/asmodeus/cayde6/materials/caydecloak01_d_png_e4ee5041.vtex
+characters/models/asmodeus/cayde6/materials/caydecloak01_d_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/cayde6/materials/caydecloak01_d.vmat
+characters/models/asmodeus/cayde6/materials/caydeeye_d_png_1d7a2bf.vtex
+characters/models/asmodeus/cayde6/materials/caydeeye_d_png_e7f10e80.vtex
+characters/models/asmodeus/cayde6/materials/caydeeye_d.vmat
+characters/models/asmodeus/cayde6/materials/caydeface01_d_png_429aa4f.vtex
+characters/models/asmodeus/cayde6/materials/caydeface01_d_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/cayde6/materials/caydeface01_d.vmat
+characters/models/asmodeus/cayde6/materials/caydeface02_d_png_8d42a38c.vtex
+characters/models/asmodeus/cayde6/materials/caydeface02_d_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/cayde6/materials/caydeface02_d.vmat
+characters/models/asmodeus/cayde6/materials/caydehands01_d_png_22bfeef7.vtex
+characters/models/asmodeus/cayde6/materials/caydehands01_d_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/cayde6/materials/caydehands01_d.vmat
+characters/models/asmodeus/cayde6/materials/caydepants01_d_png_c69818ea.vtex
+characters/models/asmodeus/cayde6/materials/caydepants01_d_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/cayde6/materials/caydepants01_d.vmat
+characters/models/asmodeus/cayde6/materials/caydevest01_d_png_ccadfc5d.vtex
+characters/models/asmodeus/cayde6/materials/caydevest01_d_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/cayde6/materials/caydevest01_d.vmat
+characters/models/asmodeus/cayde6/cayde6.vmdl

@@ -1,0 +1,9 @@
+# cs2-model-converter: romasha_player_model, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/ag2/romasha_player_model/romasha_player_model.vmdl
+# first person: 0 2 12 15
+agents/models/ag2/romasha_player_model/materials/romasha_mat_ao_png_8d48478b.vtex
+agents/models/ag2/romasha_player_model/materials/romasha_mat_normal_png_29aac066.vtex
+agents/models/ag2/romasha_player_model/materials/romasha_mat_png_7d38ed00.vtex
+agents/models/ag2/romasha_player_model/materials/romasha_mat_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2/romasha_player_model/materials/romasha_mat.vmat
+agents/models/ag2/romasha_player_model/romasha_player_model.vmdl

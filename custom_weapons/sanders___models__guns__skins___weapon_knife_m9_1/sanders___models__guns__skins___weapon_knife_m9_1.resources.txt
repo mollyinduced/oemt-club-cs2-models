@@ -1,0 +1,7 @@
+# cs2-model-converter: sanders___models__guns__skins___weapon_knife_m9_1, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/sanders___models__guns__skins___weapon_knife_m9_1/sanders___models__guns__skins___weapon_knife_m9_1.vmdl
+# weapon: weapon_knife_m9_bayonet
+# skeleton: animation/skeletons/weapons/knife_m9.vnmskel
+materials/models/custom_weapons/sanders___models__guns__skins___weapon_knife_m9_1/m9bayonet_universe_color_png_d8a0ede0.vtex
+materials/resand/m9/m9bayonet_universe.vmat
+weapons/custom/sanders___models__guns__skins___weapon_knife_m9_1/sanders___models__guns__skins___weapon_knife_m9_1.vmdl

@@ -1,0 +1,13 @@
+# cs2-model-converter: w_dabaojiandsc, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/w_dabaojiandsc/w_dabaojiandsc.vmdl
+# weapon: weapon_knife_cord
+# skeleton: animation/skeletons/weapons/knife_cord.vnmskel
+materials/models/exg21/$20@001_runeblade_v01_n_png_c61f9955.vtex
+materials/models/exg21/$20@001_runeblade_v01_png_f2bdf8a0.vtex
+materials/models/exg21/lade_v01_tif_1aaee467.vtex
+materials/models/exg21/runeblade_v01.vmat
+materials/models/exg21/$20@001_runeblade_v02_n_png_402b9432.vtex
+materials/models/exg21/$20@001_runeblade_v02_png_5a2cebbd.vtex
+materials/models/exg21/blade_v02_tif_9a6fed4d.vtex
+materials/models/exg21/runeblade_v02.vmat
+weapons/custom/w_dabaojiandsc/w_dabaojiandsc.vmdl

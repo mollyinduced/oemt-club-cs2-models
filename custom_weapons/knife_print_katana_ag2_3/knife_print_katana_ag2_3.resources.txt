@@ -1,0 +1,13 @@
+# cs2-model-converter: knife_print_katana_ag2_3, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/knife_print_katana_ag2_3/knife_print_katana_ag2_3.vmdl
+# weapon: weapon_knife_cord
+# skeleton: animation/skeletons/weapons/knife_cord.vnmskel
+materials/memni4ik/knife/katana_print/mt/cso_katana_n_e9a8aa94_rough_png_348dff4.vtex
+materials/memni4ik/knife/katana_print/mt/cso_katana_n_png_86cad820.vtex
+materials/memni4ik/knife/katana_print/mt/cso_katana_png_7d98b9a1.vtex
+materials/memni4ik/knife/katana_print/mt/prsdbs.vmat
+materials/default/default_normal_tga_5a869113.vtex
+materials/memni4ik/knife/katana_print/mt/ef_blade02_png_7552f55a.vtex
+materials/memni4ik/knife/katana_print/mt/ef_blade02_png_77e76055.vtex
+materials/memni4ik/knife/katana_print/mt/prsdbs2.vmat
+weapons/custom/knife_print_katana_ag2_3/knife_print_katana_ag2_3.vmdl

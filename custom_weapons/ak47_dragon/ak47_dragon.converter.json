@@ -1,0 +1,49 @@
+{
+ "converter": "2.3",
+ "made": "2026-09-29 22:46:30",
+ "name": "ak47_dragon",
+ "mode": "rebuild",
+ "input": "C:\\Users\\mollyinduced\\Downloads\\models\\zombie_escape_asset_pack_cola_team_3304608958",
+ "model": "weapons/otakku/ak47/ak47_dragon/ak47_dragon.vmdl_c",
+ "kind": "CS2 weapon model (AnimGraph2)",
+ "weapon": "weapon_ak47",
+ "options": {
+  "skin": 0,
+  "up": "auto",
+  "forward": "auto",
+  "rig": true,
+  "shader": "csgo_complex.vfx",
+  "texture_size": 4096,
+  "mode": "auto",
+  "jiggle": true,
+  "guess_jiggle": true,
+  "first_person": true,
+  "twist": true,
+  "arms": null,
+  "weapon": null,
+  "extra": [
+   "C:\\Users\\mollyinduced\\Downloads\\models\\homer_simpson_v3\\agents\\models\\otakku\\homer_simpson\\materials"
+  ],
+  "addon": "custom_models"
+ },
+ "stats": {
+  "triangles": 52760,
+  "bones": 7,
+  "on": "weapons/models/ak47/weapon_rif_ak47.vmdl",
+  "skeleton": "animation/skeletons/weapons/ak47.vnmskel",
+  "moved": {
+   "r": [
+    0.077,
+    -0.0,
+    0.266,
+    0.0
+   ]
+  },
+  "parts": {
+   "trigger": "trigger",
+   "clip": "clip",
+   "bolt": "bolt"
+  },
+  "left_out": 0
+ }
+}

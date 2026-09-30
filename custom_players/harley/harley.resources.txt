@@ -1,0 +1,16 @@
+# cs2-model-converter: harley, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/reborn/harley/harley.vmdl
+# first person: 0 2 12 15
+agents/models/reborn/harley/materials/harleyprops_d_jpg_76b8b659_png_fd15ec6d.vtex
+agents/models/reborn/harley/materials/harleyprops_d_vmat_g_tmetalness_b70f8f59.vtex
+agents/models/reborn/harley/materials/harleyprops_d_vmat_g_tnormal_53b47c48.vtex
+agents/models/reborn/harley/materials/harleyprops_d.vmat
+agents/models/reborn/harley/materials/harleyquinn_d_vmat_g_tmetalness_10974e8a.vtex
+agents/models/reborn/harley/materials/harleyquinn_d_vmat_g_tnormal_53b47c48.vtex
+agents/models/reborn/harley/materials/logo_reborn_png_19c1835a.vtex
+agents/models/reborn/harley/materials/harleyquinn_d.vmat
+agents/models/reborn/harley/materials/harleyquinnarmor_d_jpg_b13a5203_png_361a2b22.vtex
+agents/models/reborn/harley/materials/harleyquinnarmor_d_vmat_g_tmetalness_b70f8f59.vtex
+agents/models/reborn/harley/materials/harleyquinnarmor_d_vmat_g_tnormal_53b47c48.vtex
+agents/models/reborn/harley/materials/harleyquinnarmor_d.vmat
+agents/models/reborn/harley/harley.vmdl

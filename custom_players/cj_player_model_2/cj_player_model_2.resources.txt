@@ -1,0 +1,25 @@
+# cs2-model-converter: cj_player_model_2, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/ag2/cj_player_model/cj_player_model.vmdl
+# first person: 0 2 12 15
+agents/models/ag2/cj_player_model/materials/hand_png_7e4de3ec.vtex
+agents/models/ag2/cj_player_model/materials/hand_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2/cj_player_model/materials/hand.vmat
+agents/models/ag2/cj_player_model/materials/head_png_4a493b8e.vtex
+agents/models/ag2/cj_player_model/materials/head_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2/cj_player_model/materials/head.vmat
+agents/models/ag2/cj_player_model/materials/lower_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2/cj_player_model/materials/pants_png_f7303f4a.vtex
+agents/models/ag2/cj_player_model/materials/lower.vmat
+agents/models/ag2/cj_player_model/materials/shirt_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2/cj_player_model/materials/torso_png_2934fdb9.vtex
+agents/models/ag2/cj_player_model/materials/shirt.vmat
+agents/models/ag2/cj_player_model/materials/shoes_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2/cj_player_model/materials/sneakerbincblk_png_3d2476de.vtex
+agents/models/ag2/cj_player_model/materials/shoes.vmat
+agents/models/ag2/cj_player_model/materials/teef_png_79dc417e.vtex
+agents/models/ag2/cj_player_model/materials/teeth_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2/cj_player_model/materials/teeth.vmat
+agents/models/ag2/cj_player_model/materials/upper_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2/cj_player_model/materials/uppr_png_dce63517.vtex
+agents/models/ag2/cj_player_model/materials/upper.vmat
+agents/models/ag2/cj_player_model/cj_player_model.vmdl

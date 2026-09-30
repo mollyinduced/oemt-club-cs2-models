@@ -1,0 +1,13 @@
+# cs2-model-converter: 10009, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/10009/10009.vmdl
+# weapon: weapon_knife_widowmaker
+# skeleton: animation/skeletons/weapons/knife_talon.vnmskel
+materials/default/default_paintao_tga_5969a7df.vtex
+models/weapons/exg/tokyocold/kunai_dj/kunai_qh_vmat_g_tnormal_a1e47e21.vtex
+models/weapons/exg/tokyocold/kunai_dj/kunai_qh_vmat_g_tselfillummask_2f34022a.vtex
+models/weapons/exg/tokyocold/kunai_dj/qhc_png_23c0e697.vtex
+models/weapons/exg/tokyocold/kunai_dj/kunai_qh.vmat
+models/weapons/exg/tokyocold/kunai_dj/kunai_qhcmb_vmat_g_tnormal_a1e47e21.vtex
+models/weapons/exg/tokyocold/kunai_dj/kunai_qhcmb_vmat_g_tselfillummask_749e8c49.vtex
+models/weapons/exg/tokyocold/kunai_dj/kunai_qhcmb.vmat
+weapons/custom/10009/10009.vmdl

@@ -1,0 +1,31 @@
+# cs2-model-converter: pubg, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/kolka/2025/pubg/pubg.vmdl
+# first person: 0 1 2 3
+characters/models/kolka/2025/pubg/mat/belt_vmat_g_tmetalness_10974e8a.vtex
+characters/models/kolka/2025/pubg/mat/m_belt_d_01_dout_png_b695f225.vtex
+characters/models/kolka/2025/pubg/mat/m_belt_d_01_n_tga_5c6e7b88.vtex
+characters/models/kolka/2025/pubg/mat/belt.vmat
+characters/models/kolka/2025/pubg/mat/body_vmat_g_tmetalness_10974e8a.vtex
+characters/models/kolka/2025/pubg/mat/m_body_d_01_dout_png_ed374029.vtex
+characters/models/kolka/2025/pubg/mat/m_body_d_01_n_tga_dba917ba.vtex
+characters/models/kolka/2025/pubg/mat/body.vmat
+characters/models/kolka/2025/pubg/mat/face_vmat_g_tmetalness_10974e8a.vtex
+characters/models/kolka/2025/pubg/mat/m_face_01_dout_png_8f067f40.vtex
+characters/models/kolka/2025/pubg/mat/m_face_02_n_tga_c10ccdb0.vtex
+characters/models/kolka/2025/pubg/mat/face.vmat
+characters/models/kolka/2025/pubg/mat/feet_vmat_g_tmetalness_10974e8a.vtex
+characters/models/kolka/2025/pubg/mat/feet_vmat_g_tnormal_53b47c48.vtex
+characters/models/kolka/2025/pubg/mat/m_feet_tw_01_left_dout_png_f2a49b7b.vtex
+characters/models/kolka/2025/pubg/mat/feet.vmat
+characters/models/kolka/2025/pubg/mat/f_head_g_01_d_png_30c24d5b.vtex
+characters/models/kolka/2025/pubg/mat/f_head_g_01_n_tga_887fd4b8.vtex
+characters/models/kolka/2025/pubg/mat/head.vmat
+characters/models/kolka/2025/pubg/mat/legs_vmat_g_tmetalness_10974e8a.vtex
+characters/models/kolka/2025/pubg/mat/legs_vmat_g_tnormal_53b47c48.vtex
+characters/models/kolka/2025/pubg/mat/m_legs_pu_01_dout_png_cf7c991e.vtex
+characters/models/kolka/2025/pubg/mat/legs.vmat
+characters/models/kolka/2025/pubg/mat/m_basebody_01_dout_png_584bdb73.vtex
+characters/models/kolka/2025/pubg/mat/m_basebody_01_dout_png_7a2954a0.vtex
+characters/models/kolka/2025/pubg/mat/skin_vmat_g_tmetalness_10974e8a.vtex
+characters/models/kolka/2025/pubg/mat/skin.vmat
+characters/models/kolka/2025/pubg/pubg.vmdl

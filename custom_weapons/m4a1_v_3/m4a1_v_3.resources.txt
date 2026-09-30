@@ -1,0 +1,21 @@
+# cs2-model-converter: m4a1_v_3, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/m4a1_v_3/m4a1_v_3.vmdl
+# weapon: weapon_m4a1
+# skeleton: animation/skeletons/weapons/m4a4.vnmskel
+weapons/kxnrl/m4a1/robin/materials/combined_image_png_215b97b6.vtex
+weapons/kxnrl/m4a1/robin/materials/combined_image_png_a679391c.vtex
+weapons/kxnrl/m4a1/robin/materials/5ff824.vmat
+weapons/kxnrl/m4a1/robin/materials/huan_tga_6b327234.vtex
+weapons/kxnrl/m4a1/robin/materials/huan_tga_6c213ca1.vtex
+weapons/kxnrl/m4a1/robin/materials/huan.vmat
+weapons/kxnrl/m4a1/robin/materials/robin_textures_tga_1877398e.vtex
+weapons/kxnrl/m4a1/robin/materials/robin_textures_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/kxnrl/m4a1/robin/materials/robin_textures_vmat_g_tnormal_2984f4a9.vtex
+weapons/kxnrl/m4a1/robin/materials/robin_textures_vmat_g_tselfillummask_ff155607.vtex
+weapons/kxnrl/m4a1/robin/materials/robin_textures.vmat
+weapons/kxnrl/m4a1/robin/materials/sight_tga_604f5871.vtex
+weapons/kxnrl/m4a1/robin/materials/sight_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/kxnrl/m4a1/robin/materials/sight_vmat_g_tnormal_2984f4a9.vtex
+weapons/kxnrl/m4a1/robin/materials/sight_vmat_g_tselfillummask_ff155607.vtex
+weapons/kxnrl/m4a1/robin/materials/sight.vmat
+weapons/custom/m4a1_v_3/m4a1_v_3.vmdl

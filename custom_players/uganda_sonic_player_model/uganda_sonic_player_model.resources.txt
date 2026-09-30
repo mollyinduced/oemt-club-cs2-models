@@ -1,0 +1,5 @@
+# cs2-model-converter: the resources models/custom/uganda_sonic_player_model/uganda_sonic_player_model.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/uganda_sonic_player_model/ugandan_sonic_color_png_f773f722.vtex
+materials/models/custom/uganda_sonic_player_model/ugandan_sonic.vmat
+models/custom/uganda_sonic_player_model/uganda_sonic_player_model.vmdl

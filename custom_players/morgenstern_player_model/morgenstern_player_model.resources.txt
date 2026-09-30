@@ -1,0 +1,17 @@
+# cs2-model-converter: morgenstern_player_model, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/nozb1/celebrity/morgenstern_player_model/morgenstern_player_model.vmdl
+# first person: 0 2 12 15
+characters/models/nozb1/celebrity/morgenstern_player_model/materials/arms_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/celebrity/morgenstern_player_model/materials/bare_arm_103_png_3cbbe387.vtex
+characters/models/nozb1/celebrity/morgenstern_player_model/materials/arms.vmat
+characters/models/nozb1/celebrity/morgenstern_player_model/materials/body_png_68238ed1.vtex
+characters/models/nozb1/celebrity/morgenstern_player_model/materials/body_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/celebrity/morgenstern_player_model/materials/body.vmat
+characters/models/nozb1/celebrity/morgenstern_player_model/materials/face_png_8ba5bb23.vtex
+characters/models/nozb1/celebrity/morgenstern_player_model/materials/face_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/celebrity/morgenstern_player_model/materials/face_vmat_g_tnormal_47660df.vtex
+characters/models/nozb1/celebrity/morgenstern_player_model/materials/face.vmat
+characters/models/nozb1/celebrity/morgenstern_player_model/morgenstern_player_model/arms_default_vmorf.vtex
+characters/models/nozb1/celebrity/morgenstern_player_model/morgenstern_player_model/arms_hide_default_gloves_vmorf.vtex
+characters/models/nozb1/celebrity/morgenstern_player_model/morgenstern_player_model/body_vmorf.vtex
+characters/models/nozb1/celebrity/morgenstern_player_model/morgenstern_player_model.vmdl

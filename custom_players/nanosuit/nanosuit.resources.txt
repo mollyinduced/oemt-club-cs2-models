@@ -1,0 +1,11 @@
+# cs2-model-converter: the resources models/custom/nanosuit/nanosuit.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/nanosuit/glow_color_png_12f9c12e.vtex
+materials/models/custom/nanosuit/glow.vmat
+materials/models/custom/nanosuit/nanosuit1_color_png_39f6c603.vtex
+materials/models/custom/nanosuit/nanosuit1.vmat
+materials/models/custom/nanosuit/nanosuit2_color_png_df907b5b.vtex
+materials/models/custom/nanosuit/nanosuit2.vmat
+materials/models/custom/nanosuit/visor_color_png_2c777086.vtex
+materials/models/custom/nanosuit/visor.vmat
+models/custom/nanosuit/nanosuit.vmdl

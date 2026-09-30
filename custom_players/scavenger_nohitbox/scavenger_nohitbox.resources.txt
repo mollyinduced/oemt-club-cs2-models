@@ -1,0 +1,22 @@
+# cs2-model-converter: scavenger_nohitbox, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/s2ze/scavenger/scavenger_nohitbox.vmdl
+# first person: 0 2 12 15
+agents/models/s2ze/scavenger/materials/tga/cloth_metal_512_tga_6e785192.vtex
+agents/models/s2ze/scavenger/materials/tga/cloth_n_tga_61efb42b.vtex
+agents/models/s2ze/scavenger/materials/tga/cloth_n_tga_86d4e83c.vtex
+agents/models/s2ze/scavenger/materials/tga/cloth_tga_ffa1390f.vtex
+agents/models/s2ze/scavenger/materials/tga/cloth_tint_tga_d78659cc.vtex
+agents/models/s2ze/scavenger/materials/clothing.vmat
+agents/models/s2ze/scavenger/materials/gear_vmat_g_ttintmask_73100e5a.vtex
+agents/models/s2ze/scavenger/materials/tga/gear_metal_512_tga_ddc9830b.vtex
+agents/models/s2ze/scavenger/materials/tga/gear_n_tga_ea5a2186.vtex
+agents/models/s2ze/scavenger/materials/tga/gear_n_tga_fea55062.vtex
+agents/models/s2ze/scavenger/materials/tga/gear_tga_feca8af5.vtex
+agents/models/s2ze/scavenger/materials/gear.vmat
+agents/models/s2ze/scavenger/materials/helmet_vmat_g_ttintmask_73100e5a.vtex
+agents/models/s2ze/scavenger/materials/tga/helmet_metal_512_tga_8013362b.vtex
+agents/models/s2ze/scavenger/materials/tga/helmet_n_tga_2a7d1642.vtex
+agents/models/s2ze/scavenger/materials/tga/helmet_n_tga_ed6c2f36.vtex
+agents/models/s2ze/scavenger/materials/tga/helmet_tga_935e9e43.vtex
+agents/models/s2ze/scavenger/materials/helmet.vmat
+agents/models/s2ze/scavenger/scavenger_nohitbox.vmdl

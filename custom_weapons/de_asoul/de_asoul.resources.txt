@@ -1,0 +1,18 @@
+# cs2-model-converter: de_asoul, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/de_asoul/de_asoul.vmdl
+# weapon: weapon_deagle
+# skeleton: animation/skeletons/weapons/deagle.vnmskel
+models/weapons/dj_ammo/djammo_white0_vmat_g_tnormal_53b47c48.vtex
+models/weapons/dj_ammo/led_ammo_png_526694bf.vtex
+models/weapons/dj_ammo/led_ammo_png_5feeebe4.vtex
+models/weapons/dj_ammo/djammo_white0.vmat
+models/weapons/dj_ammo/djammo_white00_vmat_g_tnormal_53b47c48.vtex
+models/weapons/dj_ammo/djammo_white00.vmat
+models/weapons/exg/tokyocold/de_asoul/000000008b365918_tga_be06f8ee.vtex
+models/weapons/exg/tokyocold/de_asoul/000000008b365918n_tga_b7a898c5.vtex
+models/weapons/exg/tokyocold/de_asoul/1_tga_4d6e7918.vtex
+models/weapons/exg/tokyocold/de_asoul/000000008b365918.vmat
+models/weapons/exg/tokyocold/de_asoul/00000000909811d8_tga_907b8790.vtex
+models/weapons/exg/tokyocold/de_asoul/00000000909811d8n_tga_e022ea3b.vtex
+models/weapons/exg/tokyocold/de_asoul/00000000909811d8.vmat
+weapons/custom/de_asoul/de_asoul.vmdl

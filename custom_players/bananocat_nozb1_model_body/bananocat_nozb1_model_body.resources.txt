@@ -1,0 +1,9 @@
+# cs2-model-converter: bananocat_nozb1_model_body, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/ag2/bananocat_player_model/bananocat_nozb1_model_body.vmdl
+# first person: 0 2 12 15
+agents/models/ag2/bananocat_player_model/materials/bananacat_ao_png_543dd299.vtex
+agents/models/ag2/bananocat_player_model/materials/bananacat_mat_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2/bananocat_player_model/materials/bananacat_normal_png_a48f4192.vtex
+agents/models/ag2/bananocat_player_model/materials/bananacat_vertexcolor_png_9ed0d52b.vtex
+agents/models/ag2/bananocat_player_model/materials/bananacat_mat.vmat
+agents/models/ag2/bananocat_player_model/bananocat_nozb1_model_body.vmdl

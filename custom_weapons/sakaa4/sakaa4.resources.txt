@@ -1,0 +1,13 @@
+# cs2-model-converter: sakaa4, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/sakaa4/sakaa4.vmdl
+# weapon: weapon_m4a1
+# skeleton: animation/skeletons/weapons/m4a4.vnmskel
+weapons/models/ub/sakaa4/materials/low_upperreciever_png_b343a84e.vtex
+weapons/models/ub/sakaa4/materials/sakaa41.vmat
+weapons/models/ub/sakaa4/materials/mtl_m4a1tech_m4a1chloe_png_f7395132.vtex
+weapons/models/ub/sakaa4/materials/sakaa42.vmat
+weapons/models/ub/sakaa4/materials/mtl_rai_m4a1chloe_png_6833c8f1.vtex
+weapons/models/ub/sakaa4/materials/sakaa43.vmat
+weapons/models/ub/sakaa4/materials/reflex_chloe_png_70f64cd5.vtex
+weapons/models/ub/sakaa4/materials/sakaa44.vmat
+weapons/custom/sakaa4/sakaa4.vmdl

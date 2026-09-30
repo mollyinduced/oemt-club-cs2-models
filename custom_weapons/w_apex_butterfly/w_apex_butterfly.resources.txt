@@ -1,0 +1,11 @@
+# cs2-model-converter: w_apex_butterfly, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/w_apex_butterfly/w_apex_butterfly.vmdl
+# weapon: weapon_knife_m9_bayonet
+# skeleton: animation/skeletons/weapons/knife_m9.vnmskel
+models/weapons/exg/tokyocold/apex_butterfly/apex_butterfly_png_ff890d6c.vtex
+models/weapons/exg/tokyocold/apex_butterfly/octane_heirloom_vmat_g_tnormal_55790778.vtex
+models/weapons/exg/tokyocold/apex_butterfly/octane_heirloom_vmat_g_tselfillummask_23db0cfa.vtex
+models/weapons/exg/tokyocold/apex_butterfly/octane_heirloom.vmat
+models/weapons/exg/tokyocold/octane_heirloom/octane_heirloomglass_vmat_g_tselfillummask_23bcf135.vtex
+models/weapons/exg/tokyocold/octane_heirloom/octane_heirloomglass.vmat
+weapons/custom/w_apex_butterfly/w_apex_butterfly.vmdl

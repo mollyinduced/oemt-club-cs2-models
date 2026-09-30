@@ -1,0 +1,12 @@
+# cs2-model-converter: normal_item, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/normal/normal_item.vmdl
+# first person: 1 1 4 6
+characters/models/normal/materials/body_png_9945be39.vtex
+characters/models/normal/materials/body_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/normal/materials/body_vmat_g_tnormal_53b47c48.vtex
+characters/models/normal/materials/body.vmat
+characters/models/normal/materials/face_png_3bcb0310.vtex
+characters/models/normal/materials/face_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/normal/materials/face_vmat_g_tnormal_53b47c48.vtex
+characters/models/normal/materials/face.vmat
+characters/models/normal/normal_item.vmdl

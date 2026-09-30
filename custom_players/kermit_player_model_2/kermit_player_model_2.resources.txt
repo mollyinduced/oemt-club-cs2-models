@@ -1,0 +1,9 @@
+# cs2-model-converter: kermit_player_model_2, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/ag2/kermit_player_model/kermit_player_model.vmdl
+# first person: 0 2 12 15
+agents/models/ag2/kermit_player_model/materials/kermit_ao_png_11c4bff6.vtex
+agents/models/ag2/kermit_player_model/materials/kermit_body_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2/kermit_player_model/materials/kermit_diffuse_png_db65336c.vtex
+agents/models/ag2/kermit_player_model/materials/kermit_normal_png_747e195e.vtex
+agents/models/ag2/kermit_player_model/materials/kermit_body.vmat
+agents/models/ag2/kermit_player_model/kermit_player_model.vmdl

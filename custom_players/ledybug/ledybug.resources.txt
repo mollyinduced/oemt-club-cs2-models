@@ -1,0 +1,11 @@
+# cs2-model-converter: the resources models/custom/ledybug/ledybug.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/ledybug/casualeyes_color_png_3801db93.vtex
+materials/models/custom/ledybug/casualeyes.vmat
+materials/models/custom/ledybug/casualhair_color_png_e287483f.vtex
+materials/models/custom/ledybug/casualhair.vmat
+materials/models/custom/ledybug/face_color_png_1d343c8f.vtex
+materials/models/custom/ledybug/face.vmat
+materials/models/custom/ledybug/ladybugcloth_color_png_aebbd131.vtex
+materials/models/custom/ledybug/ladybugcloth.vmat
+models/custom/ledybug/ledybug.vmdl

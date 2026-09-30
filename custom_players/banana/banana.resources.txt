@@ -1,0 +1,16 @@
+# cs2-model-converter: banana, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/kolka/2025/banana/banana.vmdl
+# first person: 0 1 2 3
+characters/models/kolka/2025/banana/mat/body_vmat_g_tmetalness_10974e8a.vtex
+characters/models/kolka/2025/banana/mat/t_dairystring_wade_body_cs_tga_7b1678cd.vtex
+characters/models/kolka/2025/banana/mat/t_dairystring_wade_body_dfl_tga_c7f239d0.vtex
+characters/models/kolka/2025/banana/mat/t_dairystring_wade_body_n_tga_626e4dfd.vtex
+characters/models/kolka/2025/banana/mat/body.vmat
+characters/models/kolka/2025/banana/mat/head_vmat_g_tmetalness_10974e8a.vtex
+characters/models/kolka/2025/banana/mat/t_dairystring_wade_head_cs111_tga_22471e9c.vtex
+characters/models/kolka/2025/banana/mat/t_dairystring_wade_head_dfl_tga_a3e801fd.vtex
+characters/models/kolka/2025/banana/mat/t_dairystring_wade_head_n_tga_197231f9.vtex
+characters/models/kolka/2025/banana/mat/head.vmat
+characters/models/kolka/shared/2b_vmat_g_tcolor_37c55b5d.vtex
+characters/models/kolka/shared/2b.vmat
+characters/models/kolka/2025/banana/banana.vmdl

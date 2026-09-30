@@ -1,0 +1,15 @@
+# cs2-model-converter: butterfly_dg_holo, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/butterfly_dg_holo/butterfly_dg_holo.vmdl
+# weapon: weapon_knife_butterfly
+# skeleton: animation/skeletons/weapons/knife_butterfly.vnmskel
+weapons/models/knife/knife_butterfly/butterfly_dg_holo_vmat_g_tglitternormalsticker0_ef76f08b.vtex
+weapons/models/knife/knife_butterfly/butterfly_dg_holo_vmat_g_tholospectrumsticker0_8b471c65.vtex
+weapons/models/knife/knife_butterfly/butterfly_dragonglass_a_png_3b47c431.vtex
+weapons/models/knife/knife_butterfly/butterfly_dragonglass_a_png_55858a01.vtex
+weapons/models/knife/knife_butterfly/butterfly_dragonglass_n_png_83c1a7b0.vtex
+weapons/models/knife/knife_butterfly/butterfly_dragonglass_r_png_36a4268c.vtex
+weapons/models/knife/knife_butterfly/butterfly_dragonglass_r_png_d27581d.vtex
+weapons/models/knife/knife_butterfly/butterfly_gold_ao_png_d02702f5.vtex
+weapons/models/knife/knife_butterfly/butterfly_gold_m_png_8bf0c77f.vtex
+weapons/models/knife/knife_butterfly/butterfly_dg_holo.vmat
+weapons/custom/butterfly_dg_holo/butterfly_dg_holo.vmdl

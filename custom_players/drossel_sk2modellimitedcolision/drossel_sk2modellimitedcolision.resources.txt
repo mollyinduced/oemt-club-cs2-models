@@ -1,0 +1,20 @@
+# cs2-model-converter: drossel_sk2modellimitedcolision, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/hmn_ag2/fireball/drossel_von_flugel/drossel_sk2modellimitedcolision.vmdl
+# first person: 0 1 2 3
+agents/models/hmn_ag2/fireball/drossel_von_flugel/materials/drossel_black_cs2_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/hmn_ag2/fireball/drossel_von_flugel/materials/drossel_black_cs2_vmat_g_tdiffusefalloff_aa1e6fc8.vtex
+agents/models/hmn_ag2/fireball/drossel_von_flugel/materials/drossel_black_cs2_vmat_g_tmetalness_c64800f4.vtex
+agents/models/hmn_ag2/fireball/drossel_von_flugel/materials/drossel_black_cs2_vmat_g_tnormal_18cf3a06.vtex
+agents/models/hmn_ag2/fireball/drossel_von_flugel/materials/drossel_cs2_jpg_664602e9.vtex
+materials/default/default_mask_tga_cac76a2f.vtex
+agents/models/hmn_ag2/fireball/drossel_von_flugel/materials/drossel_black_cs2.vmat
+agents/models/hmn_ag2/fireball/drossel_von_flugel/materials/drossel_cs2_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/hmn_ag2/fireball/drossel_von_flugel/materials/drossel_cs2_vmat_g_tdiffusefalloff_aa1e6fc8.vtex
+agents/models/hmn_ag2/fireball/drossel_von_flugel/materials/drossel_cs2_vmat_g_tmetalness_f3aae948.vtex
+agents/models/hmn_ag2/fireball/drossel_von_flugel/materials/drossel_cs2_vmat_g_tnormal_3fb9339.vtex
+agents/models/hmn_ag2/fireball/drossel_von_flugel/materials/drossel_cs2.vmat
+agents/models/hmn_ag2/fireball/drossel_von_flugel/materials/drossel_eye_cs2_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/hmn_ag2/fireball/drossel_von_flugel/materials/drossel_eye_cs2_vmat_g_tmetalness_10974e8a.vtex
+agents/models/hmn_ag2/fireball/drossel_von_flugel/materials/drossel_eye_cs2_vmat_g_tnormal_4db92cb.vtex
+agents/models/hmn_ag2/fireball/drossel_von_flugel/materials/drossel_eye_cs2.vmat
+agents/models/hmn_ag2/fireball/drossel_von_flugel/drossel_sk2modellimitedcolision.vmdl

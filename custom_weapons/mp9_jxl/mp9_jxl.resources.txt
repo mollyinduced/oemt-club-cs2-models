@@ -1,0 +1,32 @@
+# cs2-model-converter: mp9_jxl, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/mp9_jxl/mp9_jxl.vmdl
+# weapon: weapon_mp9
+# skeleton: animation/skeletons/weapons/mp9.vnmskel
+weapons/models/mp9_jxl/materials/glass_vmat_g_tnormal_a1e47e21.vtex
+weapons/models/mp9_jxl/materials/glass_vmat_g_tselfillummask_ff155607.vtex
+weapons/models/mp9_jxl/materials/snow_png_393464a1.vtex
+weapons/models/mp9_jxl/materials/glass.vmat
+weapons/models/mp9_jxl/materials/f192ae80_png_ac8e766e.vtex
+weapons/models/mp9_jxl/materials/laserglow.vmat
+weapons/models/mp9_jxl/materials/7e94dbae734d410bb08584029397ce0b_png_24077dc3.vtex
+weapons/models/mp9_jxl/materials/mb_vmat_g_tselfillummask_ff155607.vtex
+weapons/models/mp9_jxl/materials/mb.vmat
+weapons/models/mp9_jxl/materials/mp9_vmat_g_tnormal_ca284c65.vtex
+weapons/models/mp9_jxl/materials/mp9_vmat_g_tselfillummask_8d5ef892.vtex
+weapons/models/mp9_jxl/materials/weapons_models_mp9_materials_weapon_smg_mp9.vmat_base_color_png_4553c62a.vtex
+weapons/models/mp9_jxl/materials/mp9.vmat
+weapons/models/mp9_jxl/materials/reticle_base_color_png_f63fc788.vtex
+weapons/models/mp9_jxl/materials/reticle_vmat_g_tnormal_ca284c65.vtex
+weapons/models/mp9_jxl/materials/reticle_vmat_g_tselfillummask_8d5ef892.vtex
+weapons/models/mp9_jxl/materials/reticle.vmat
+weapons/models/mp9_jxl/materials/scope_base_color_png_13f38c9b.vtex
+weapons/models/mp9_jxl/materials/scope_vmat_g_tnormal_ca284c65.vtex
+weapons/models/mp9_jxl/materials/scope_vmat_g_tselfillummask_8d5ef892.vtex
+weapons/models/mp9_jxl/materials/scope.vmat
+weapons/models/mp9_jxl/materials/wifi_png_a07fb84f.vtex
+weapons/models/mp9_jxl/materials/wifi_vmat_g_tselfillummask_ff155607.vtex
+weapons/models/mp9_jxl/materials/wifi.vmat
+weapons/models/mp9_jxl/materials/xueli_png_cfd66475.vtex
+weapons/models/mp9_jxl/materials/xueli_vmat_g_tselfillummask_1018b14a.vtex
+weapons/models/mp9_jxl/materials/xueli.vmat
+weapons/custom/mp9_jxl/mp9_jxl.vmdl

@@ -1,0 +1,9 @@
+# cs2-model-converter: soulstealer_butterfly_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/soulstealer_butterfly_ag2/soulstealer_butterfly_ag2.vmdl
+# weapon: weapon_knife_butterfly
+# skeleton: animation/skeletons/weapons/knife_butterfly.vnmskel
+weapons/phase2/poncikmarket/butterfly_soulstealer/materials/melee_soulstealer3_aem_png_de9cb72d.vtex
+weapons/phase2/poncikmarket/butterfly_soulstealer/materials/melee_soulstealer3_df_png_e86fb46a.vtex
+weapons/phase2/poncikmarket/butterfly_soulstealer/materials/melee_soulstealer3_nm_png_5be40025.vtex
+weapons/phase2/poncikmarket/butterfly_soulstealer/materials/1.vmat
+weapons/custom/soulstealer_butterfly_ag2/soulstealer_butterfly_ag2.vmdl

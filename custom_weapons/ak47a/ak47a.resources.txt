@@ -1,0 +1,8 @@
+# cs2-model-converter: ak47a, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/ak47a/ak47a.vmdl
+# weapon: weapon_ak47
+# skeleton: animation/skeletons/weapons/ak47.vnmskel
+weapons/models/ub/ak47a/materials/material_base_color_png_de791e96.vtex
+weapons/models/ub/ak47a/materials/material_normal_opengl_png_80af4666.vtex
+weapons/models/ub/ak47a/materials/1.vmat
+weapons/custom/ak47a/ak47a.vmdl

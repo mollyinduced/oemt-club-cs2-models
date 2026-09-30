@@ -1,0 +1,9 @@
+# cs2-model-converter: v__katana_lx1, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/v__katana_lx1/v__katana_lx1.vmdl
+# weapon: weapon_knife_t
+# skeleton: animation/skeletons/weapons/knife_default_t.vnmskel
+models/weapons/exg/tokyocold/katana_lx1/katana_n_tga_67bf0daa.vtex
+models/weapons/exg/tokyocold/katana_lx1/katana_tga_926b0604.vtex
+models/weapons/exg/tokyocold/katana_lx1/lx1_katana_vmat_g_tselfillummask_a5002b58.vtex
+models/weapons/exg/tokyocold/katana_lx1/lx1_katana.vmat
+weapons/custom/v__katana_lx1/v__katana_lx1.vmdl

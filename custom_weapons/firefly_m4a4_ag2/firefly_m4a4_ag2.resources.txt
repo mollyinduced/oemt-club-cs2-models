@@ -1,0 +1,35 @@
+# cs2-model-converter: firefly_m4a4_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/firefly_m4a4_ag2/firefly_m4a4_ag2.vmdl
+# weapon: weapon_m4a1
+# skeleton: animation/skeletons/weapons/m4a4.vnmskel
+weapons/models/firefly_m4a4/materialrs/bullets_9-19_para_004_2d_view_png_f1ab090e.vtex
+weapons/models/firefly_m4a4/materialrs/bullets_9-19_para_004_2d_view_vmat_g_tmetalness_4beafb93.vtex
+weapons/models/firefly_m4a4/materialrs/bullets_9-19_para_004_2d_view.vmat
+weapons/models/firefly_m4a4/materialrs/dev_lam_prest4_009_2d_view_png_e9cc8095.vtex
+weapons/models/firefly_m4a4/materialrs/dev_lam_prest4_009_2d_view_vmat_g_tmetalness_4beafb93.vtex
+weapons/models/firefly_m4a4/materialrs/dev_lam_prest4_009_2d_view_vmat_g_tnormal_f8264e14.vtex
+weapons/models/firefly_m4a4/materialrs/dev_lam_prest4_009_2d_view.vmat
+weapons/models/firefly_m4a4/materialrs/dev_lam_prest4_009_glass_vmat_g_tcolor_f51e5eff.vtex
+weapons/models/firefly_m4a4/materialrs/dev_lam_prest4_009_glass_vmat_g_tmetalness_bf88ae37.vtex
+weapons/models/firefly_m4a4/materialrs/dev_lam_prest4_009_glass.vmat
+weapons/models/firefly_m4a4/materialrs/han_mp5_striker_048_2d_view_png_fd83c38f.vtex
+weapons/models/firefly_m4a4/materialrs/han_mp5_striker_048_2d_view_vmat_g_tmetalness_4beafb93.vtex
+weapons/models/firefly_m4a4/materialrs/han_mp5_striker_048_2d_view.vmat
+weapons/models/firefly_m4a4/materialrs/mag_9-19-50r_x-5_008_2d_view_png_5bf877b0.vtex
+weapons/models/firefly_m4a4/materialrs/mag_9-19-50r_x-5_008_2d_view_vmat_g_tmetalness_4beafb93.vtex
+weapons/models/firefly_m4a4/materialrs/mag_9-19-50r_x-5_008_2d_view.vmat
+weapons/models/firefly_m4a4/materialrs/mou_riser_028_2d_view_png_f543782c.vtex
+weapons/models/firefly_m4a4/materialrs/mou_riser_028_2d_view_vmat_g_tmetalness_4beafb93.vtex
+weapons/models/firefly_m4a4/materialrs/mou_riser_028_2d_view.vmat
+weapons/models/firefly_m4a4/materialrs/reas_mp5a4-std_004_2d_view_png_4ca90457.vtex
+weapons/models/firefly_m4a4/materialrs/reas_mp5a4-std_004_2d_view_vmat_g_tmetalness_4beafb93.vtex
+weapons/models/firefly_m4a4/materialrs/reas_mp5a4-std_004_2d_view.vmat
+weapons/models/firefly_m4a4/materialrs/rec_smg_mp5a4-std_004_2d_view_png_bdfd122a.vtex
+weapons/models/firefly_m4a4/materialrs/rec_smg_mp5a4-std_004_2d_view_vmat_g_tmetalness_4beafb93.vtex
+weapons/models/firefly_m4a4/materialrs/rec_smg_mp5a4-std_004_2d_view.vmat
+weapons/models/firefly_m4a4/materialrs/sco_re_reddot_035_png_20d4674b.vtex
+weapons/models/firefly_m4a4/materialrs/sco_re_reddot_035.vmat
+weapons/models/firefly_m4a4/materialrs/sto_a_mp5a4-std_008_2d_view_png_e693079d.vtex
+weapons/models/firefly_m4a4/materialrs/sto_a_mp5a4-std_008_2d_view_vmat_g_tmetalness_4beafb93.vtex
+weapons/models/firefly_m4a4/materialrs/sto_a_mp5a4-std_008_2d_view.vmat
+weapons/custom/firefly_m4a4_ag2/firefly_m4a4_ag2.vmdl

@@ -1,0 +1,23 @@
+# cs2-model-converter: baisha_nohitbox, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/otakku/baisha/baisha_nohitbox.vmdl
+# first person: 0 2 12 15
+agents/models/otakku/baisha/materials/fa_png_32e00a83.vtex
+agents/models/otakku/baisha/materials/fa_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/otakku/baisha/materials/fa_vmat_g_tnormal_ba343246.vtex
+agents/models/otakku/baisha/materials/fa.vmat
+agents/models/otakku/baisha/materials/fu_png_b2109015.vtex
+agents/models/otakku/baisha/materials/fu_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/otakku/baisha/materials/fu_vmat_g_tmetalness_1081f06e.vtex
+agents/models/otakku/baisha/materials/fu_vmat_g_tnormal_ba343246.vtex
+agents/models/otakku/baisha/materials/fu.vmat
+agents/models/otakku/baisha/materials/ti_png_80e5dfe6.vtex
+agents/models/otakku/baisha/materials/ti_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/otakku/baisha/materials/ti_vmat_g_tmetalness_1081f06e.vtex
+agents/models/otakku/baisha/materials/ti_vmat_g_tnormal_ba343246.vtex
+agents/models/otakku/baisha/materials/ti.vmat
+agents/models/otakku/baisha/materials/tou_png_f8255a20.vtex
+agents/models/otakku/baisha/materials/tou_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/otakku/baisha/materials/tou_vmat_g_tmetalness_1081f06e.vtex
+agents/models/otakku/baisha/materials/tou_vmat_g_tnormal_ba343246.vtex
+agents/models/otakku/baisha/materials/tou.vmat
+agents/models/otakku/baisha/baisha_nohitbox.vmdl

@@ -1,0 +1,9 @@
+# cs2-model-converter: axe_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/axe_ag2/axe_ag2.vmdl
+# weapon: weapon_knife
+# skeleton: animation/skeletons/weapons/knife_default_ct.vnmskel
+weapons/moovik/axe/ambient_png_4de10464.vtex
+weapons/moovik/axe/diffuse_png_16dff90f.vtex
+weapons/moovik/axe/normal_png_67fae8e9.vtex
+weapons/moovik/axe/axe.vmat
+weapons/custom/axe_ag2/axe_ag2.vmdl

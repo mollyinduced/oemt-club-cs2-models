@@ -1,0 +1,7 @@
+# cs2-model-converter: the resources models/custom/freddy_icebear_player_model/freddy_icebear_player_model.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/freddy_icebear_player_model/eye_icefreddy_mat_color_png_35cf6827.vtex
+materials/models/custom/freddy_icebear_player_model/eye_icefreddy_mat.vmat
+materials/models/custom/freddy_icebear_player_model/icefreddy_body_mat_color_png_4db2831e.vtex
+materials/models/custom/freddy_icebear_player_model/icefreddy_body_mat.vmat
+models/custom/freddy_icebear_player_model/freddy_icebear_player_model.vmdl

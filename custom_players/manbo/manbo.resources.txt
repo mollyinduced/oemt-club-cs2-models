@@ -1,0 +1,20 @@
+# cs2-model-converter: manbo, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/exg/doki/somemb/manbo.vmdl
+# first person: 1 1 32 48
+characters/models/exg/doki/somemb/1_png_7b9c3afa.vtex
+characters/models/exg/doki/somemb/1_vmat_g_tnormal_cbfddf8a.vtex
+characters/models/exg/doki/somemb/1.vmat
+characters/models/exg/doki/somemb/3_png_44a16950.vtex
+characters/models/exg/doki/somemb/3_vmat_g_tnormal_cbfddf8a.vtex
+characters/models/exg/doki/somemb/3.vmat
+characters/models/exg/doki/somemb/4_png_855172da.vtex
+characters/models/exg/doki/somemb/4_vmat_g_tnormal_cbfddf8a.vtex
+characters/models/exg/doki/somemb/4.vmat
+characters/models/exg/doki/somemb/5_png_782d54b5.vtex
+characters/models/exg/doki/somemb/5_vmat_g_tnormal_cbfddf8a.vtex
+characters/models/exg/doki/somemb/5.vmat
+characters/models/exg/doki/somemb/7_png_72820e6e.vtex
+characters/models/exg/doki/somemb/7_vmat_g_tnormal_cbfddf8a.vtex
+characters/models/exg/doki/somemb/7.vmat
+models/weapons/exg/tokyocold/ba_face/ba_weapon_ol.vmat
+characters/models/exg/doki/somemb/manbo.vmdl

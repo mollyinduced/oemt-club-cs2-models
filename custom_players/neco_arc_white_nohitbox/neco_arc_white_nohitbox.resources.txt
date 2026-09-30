@@ -1,0 +1,14 @@
+# cs2-model-converter: neco_arc_white_nohitbox, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/characters/models/otakku/neco_arc/neco_arc_white_nohitbox.vmdl
+# first person: 0 2 12 15
+agents/characters/models/otakku/neco_arc/materials/hair_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/characters/models/otakku/neco_arc/materials/hair_vmat_g_tcolor_7ab53e0a.vtex
+agents/characters/models/otakku/neco_arc/materials/hair_vmat_g_tmetalness_b99de324.vtex
+agents/characters/models/otakku/neco_arc/materials/hair_vmat_g_tnormal_2984f4a9.vtex
+agents/characters/models/otakku/neco_arc/materials/hair.vmat
+agents/models/s2ze/neco_arc/materials/neco_mat_vmat_g_tmetalness_b70f8f59.vtex
+agents/models/s2ze/neco_arc/materials/png/neco_base_png_5370f1c4.vtex
+agents/models/s2ze/neco_arc/materials/png/neco_rough_png_31468616.vtex
+agents/models/s2ze/neco_arc/materials/png/neco_tint_png_903e38c.vtex
+agents/models/s2ze/neco_arc/materials/neco_mat.vmat
+agents/characters/models/otakku/neco_arc/neco_arc_white_nohitbox.vmdl

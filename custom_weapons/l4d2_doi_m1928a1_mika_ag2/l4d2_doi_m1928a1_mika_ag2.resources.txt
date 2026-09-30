@@ -1,0 +1,37 @@
+# cs2-model-converter: l4d2_doi_m1928a1_mika_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/l4d2_doi_m1928a1_mika_ag2/l4d2_doi_m1928a1_mika_ag2.vmdl
+# weapon: weapon_ump45
+# skeleton: animation/skeletons/weapons/ump45.vnmskel
+weapons/models/ub/l4d2_doi_m1928a1_mika/materials/a_thompson_drum_dm_png_ffb56033.vtex
+weapons/models/ub/l4d2_doi_m1928a1_mika/materials/a_thompson_drum_dm_vmat_g_tmetalness_ce191608.vtex
+weapons/models/ub/l4d2_doi_m1928a1_mika/materials/a_thompson_drum_dm_vmat_g_tselfillummask_ff155607.vtex
+weapons/models/ub/l4d2_doi_m1928a1_mika/materials/a_thompson_drum_dm.vmat
+weapons/models/ub/l4d2_doi_m1928a1_mika/materials/material__25_vmat_g_tmetalness_6a496537.vtex
+weapons/models/ub/l4d2_doi_m1928a1_mika/materials/material__25_vmat_g_tselfillummask_ff155607.vtex
+weapons/models/ub/l4d2_doi_m1928a1_mika/materials/v_gj_025_d_png_c87c8507.vtex
+weapons/models/ub/l4d2_doi_m1928a1_mika/materials/material__25.vmat
+weapons/models/ub/l4d2_doi_m1928a1_mika/materials/35d_png_c328ea2.vtex
+weapons/models/ub/l4d2_doi_m1928a1_mika/materials/material__35_vmat_g_tmetalness_ce191608.vtex
+weapons/models/ub/l4d2_doi_m1928a1_mika/materials/material__35_vmat_g_tselfillummask_ff155607.vtex
+weapons/models/ub/l4d2_doi_m1928a1_mika/materials/material__35.vmat
+weapons/models/ub/l4d2_doi_m1928a1_mika/materials/qx1_png_15bee1c9.vtex
+weapons/models/ub/l4d2_doi_m1928a1_mika/materials/qx1.vmat
+weapons/models/ub/l4d2_doi_m1928a1_mika/materials/123_png_fc48b719.vtex
+weapons/models/ub/l4d2_doi_m1928a1_mika/materials/qx123.vmat
+weapons/models/ub/l4d2_doi_m1928a1_mika/materials/silencer_d_png_5d5db75.vtex
+weapons/models/ub/l4d2_doi_m1928a1_mika/materials/silencer_d_vmat_g_tmetalness_ce191608.vtex
+weapons/models/ub/l4d2_doi_m1928a1_mika/materials/silencer_d_vmat_g_tselfillummask_ff155607.vtex
+weapons/models/ub/l4d2_doi_m1928a1_mika/materials/silencer_d.vmat
+weapons/models/ub/l4d2_doi_m1928a1_mika/materials/diffuse_png_49d90e6.vtex
+weapons/models/ub/l4d2_doi_m1928a1_mika/materials/surefire_vmat_g_tmetalness_ce191608.vtex
+weapons/models/ub/l4d2_doi_m1928a1_mika/materials/surefire_vmat_g_tselfillummask_ff155607.vtex
+weapons/models/ub/l4d2_doi_m1928a1_mika/materials/surefire.vmat
+weapons/models/ub/l4d2_doi_m1928a1_mika/materials/weapon_sterling_attach_dm_png_ad2711c8.vtex
+weapons/models/ub/l4d2_doi_m1928a1_mika/materials/weapon_sterling_attach_dm_vmat_g_tmetalness_ce191608.vtex
+weapons/models/ub/l4d2_doi_m1928a1_mika/materials/weapon_sterling_attach_dm_vmat_g_tselfillummask_ff155607.vtex
+weapons/models/ub/l4d2_doi_m1928a1_mika/materials/weapon_sterling_attach_dm.vmat
+weapons/models/ub/l4d2_doi_m1928a1_mika/materials/weapon_thompson_dm_png_72e0dc15.vtex
+weapons/models/ub/l4d2_doi_m1928a1_mika/materials/weapon_thompson_dm_vmat_g_tmetalness_ce191608.vtex
+weapons/models/ub/l4d2_doi_m1928a1_mika/materials/weapon_thompson_dm_vmat_g_tselfillummask_ff155607.vtex
+weapons/models/ub/l4d2_doi_m1928a1_mika/materials/weapon_thompson_dm.vmat
+weapons/custom/l4d2_doi_m1928a1_mika_ag2/l4d2_doi_m1928a1_mika_ag2.vmdl

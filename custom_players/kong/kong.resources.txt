@@ -1,0 +1,11 @@
+# cs2-model-converter: the resources models/custom/kong/kong.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/kong/metal_color_png_5a6d3f92.vtex
+materials/models/custom/kong/metal.vmat
+materials/models/custom/kong/mi_avocadoseal_body_color_png_8ebd2c44.vtex
+materials/models/custom/kong/mi_avocadoseal_body.vmat
+materials/models/custom/kong/mi_avocadoseal_eyes_color_png_d4c25d5.vtex
+materials/models/custom/kong/mi_avocadoseal_eyes.vmat
+materials/models/custom/kong/mi_avocadoseal_head_color_png_63739d2f.vtex
+materials/models/custom/kong/mi_avocadoseal_head.vmat
+models/custom/kong/kong.vmdl

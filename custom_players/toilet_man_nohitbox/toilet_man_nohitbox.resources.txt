@@ -1,0 +1,9 @@
+# cs2-model-converter: toilet_man_nohitbox, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/otakku/toilet_man/toilet_man_nohitbox.vmdl
+# first person: 0 2 12 15
+agents/models/otakku/toilet_man/materials/toilet_v2_tga_6006423a_png_9cbc860.vtex
+agents/models/otakku/toilet_man/materials/toilet_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/otakku/toilet_man/materials/toilet_vmat_g_tmetalness_b99de324.vtex
+agents/models/otakku/toilet_man/materials/toilet_vmat_g_tnormal_2984f4a9.vtex
+agents/models/otakku/toilet_man/materials/toilet.vmat
+agents/models/otakku/toilet_man/toilet_man_nohitbox.vmdl

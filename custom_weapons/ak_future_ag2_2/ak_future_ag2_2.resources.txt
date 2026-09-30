@@ -1,0 +1,39 @@
+# cs2-model-converter: ak_future_ag2_2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/ak_future_ag2_2/ak_future_ag2_2.vmdl
+# weapon: weapon_ak47
+# skeleton: animation/skeletons/weapons/ak47.vnmskel
+models/kolka/weapons/ak47/count_vmat_g_tnormal_53b47c48.vtex
+models/kolka/weapons/m4/ammo_counter_type2_trans_png_485cc6e8.vtex
+models/kolka/weapons/m4/ammo_counter_type2_trans_png_e5fc19e5.vtex
+models/kolka/weapons/ak47/count.vmat
+models/kolka/weapons/ak47/count2_vmat_g_tnormal_53b47c48.vtex
+models/kolka/weapons/ak47/count2.vmat
+models/kolka/weapons/ak47/count3_vmat_g_tnormal_53b47c48.vtex
+models/kolka/weapons/ak47/count3.vmat
+models/kolka/weapons/ak47/d.tga_png_30d2ecbf.vtex
+models/kolka/weapons/ak47/d_vmat_g_tambientocclusion_9782fd5c.vtex
+models/kolka/weapons/ak47/d_vmat_g_tnormal_d52512a9.vtex
+models/kolka/weapons/ak47/d.vmat
+models/kolka/weapons/ak47/dance_png_f45f2622.vtex
+models/kolka/weapons/ak47/dance.vmat
+models/kolka/weapons/ak47/danjiad.tga_png_49548e91.vtex
+models/kolka/weapons/ak47/danjiad_vmat_g_tambientocclusion_9782fd5c.vtex
+models/kolka/weapons/ak47/danjian.tga_png_7617183a.vtex
+models/kolka/weapons/ak47/danjiad.vmat
+models/kolka/weapons/ak47/humud.tga_png_afcd84e4.vtex
+models/kolka/weapons/ak47/humud_vmat_g_tambientocclusion_9782fd5c.vtex
+models/kolka/weapons/ak47/humun.tga_png_63bec1c.vtex
+models/kolka/weapons/ak47/humud.vmat
+models/kolka/weapons/ak47/jimiaod.tga_png_2d1795fe.vtex
+models/kolka/weapons/ak47/jimiaod_vmat_g_tambientocclusion_9782fd5c.vtex
+models/kolka/weapons/ak47/jimiaon.tga_png_d4761f45.vtex
+models/kolka/weapons/ak47/jimiaod.vmat
+models/kolka/weapons/ak47/miaod.tga_png_ad311b62.vtex
+models/kolka/weapons/ak47/miaod_vmat_g_tambientocclusion_9782fd5c.vtex
+models/kolka/weapons/ak47/miaon.tga_png_76336fdd.vtex
+models/kolka/weapons/ak47/miaod.vmat
+models/kolka/weapons/ak47/qiangtuod.tga_png_7aa9baac.vtex
+models/kolka/weapons/ak47/qiangtuod_vmat_g_tambientocclusion_9782fd5c.vtex
+models/kolka/weapons/ak47/qiangtuon.tga_png_7aa0951e.vtex
+models/kolka/weapons/ak47/qiangtuod.vmat
+weapons/custom/ak_future_ag2_2/ak_future_ag2_2.vmdl

@@ -1,0 +1,15 @@
+# cs2-model-converter: train_minecraft_weapon_molotov_mc, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/train_minecraft_weapon_molotov_mc/train_minecraft_weapon_molotov_mc.vmdl
+# weapon: weapon_molotov
+# skeleton: animation/skeletons/weapons/molotov.vnmskel
+materials/minecraft/molotov/lighter_png_afc90b53.vtex
+materials/minecraft/molotov/molotov_lighter_mc_vmat_g_tmetalness_a86530ab.vtex
+materials/minecraft/molotov/molotov_lighter_mc.vmat
+materials/minecraft/molotov/bottle_png_a7b7cd03.vtex
+materials/minecraft/molotov/molotov_liquid_mask_png_298a6748.vtex
+materials/minecraft/molotov/molotov_liquid_mc_vmat_g_tnormala_f484df6a.vtex
+materials/minecraft/molotov/molotov_liquid_mc.vmat
+materials/minecraft/molotov/molotov_rag_mc_vmat_g_tcolor_89e8c795.vtex
+materials/minecraft/molotov/molotov_rag_mc_vmat_g_tmetalness_a86530ab.vtex
+materials/minecraft/molotov/molotov_rag_mc.vmat
+weapons/custom/train_minecraft_weapon_molotov_mc/train_minecraft_weapon_molotov_mc.vmdl

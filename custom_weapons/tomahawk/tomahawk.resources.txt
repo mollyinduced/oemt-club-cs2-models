@@ -1,0 +1,10 @@
+# cs2-model-converter: tomahawk, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/tomahawk/tomahawk.vmdl
+# weapon: weapon_knife_m9_bayonet
+# skeleton: animation/skeletons/weapons/knife_m9.vnmskel
+weapons/models/knife/knife_m9/materials/m_tomahawk_ao_png_2bf55a7d.vtex
+weapons/models/knife/knife_m9/materials/m_tomahawk_normal_png_a479540c.vtex
+weapons/models/knife/knife_m9/materials/m_tomahawk_r_png_ced79478.vtex
+weapons/models/knife/knife_m9/materials/m_tomahawk_rgba_png_131df9ba.vtex
+weapons/models/knife/knife_m9/materials/tomahawk.vmat
+weapons/custom/tomahawk/tomahawk.vmdl

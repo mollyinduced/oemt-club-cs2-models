@@ -1,0 +1,17 @@
+# cs2-model-converter: the resources models/custom/leatherface_3/leatherface_3.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/leatherface_3/leatherface_chainsaw_color_png_29261f04.vtex
+materials/models/custom/leatherface_3/leatherface_chainsaw.vmat
+materials/models/custom/leatherface_3/leatherface_clothes_color_png_20e82c68.vtex
+materials/models/custom/leatherface_3/leatherface_clothes.vmat
+materials/models/custom/leatherface_3/leatherface_eyes_mouth_color_png_f32a7a4e.vtex
+materials/models/custom/leatherface_3/leatherface_eyes_mouth.vmat
+materials/models/custom/leatherface_3/leatherface_hair_color_png_db58b4f9.vtex
+materials/models/custom/leatherface_3/leatherface_hair.vmat
+materials/models/custom/leatherface_3/leatherface_mallet_color_png_f987ecb1.vtex
+materials/models/custom/leatherface_3/leatherface_mallet.vmat
+materials/models/custom/leatherface_3/leatherface_mask_apron_color_png_9b6ac603.vtex
+materials/models/custom/leatherface_3/leatherface_mask_apron.vmat
+materials/models/custom/leatherface_3/leatherface_skin_color_png_473f4092.vtex
+materials/models/custom/leatherface_3/leatherface_skin.vmat
+models/custom/leatherface_3/leatherface_3.vmdl

@@ -1,0 +1,16 @@
+# cs2-model-converter: lenna, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/2en0w/lenna/lenna.vmdl
+# first person: 4 1 512 768
+characters/models/2en0w/lenna/materials/lenna_body1_jpg_9ade094a.vtex
+characters/models/2en0w/lenna/materials/lenna_body1_vmat_g_tmetalness_3fd84e8.vtex
+characters/models/2en0w/lenna/materials/lenna_body1_vmat_g_tnormal_53b47c48.vtex
+characters/models/2en0w/lenna/materials/lenna_body1.vmat
+characters/models/2en0w/lenna/materials/lenna_body2_png_fd3287e8.vtex
+characters/models/2en0w/lenna/materials/lenna_body2_vmat_g_tambientocclusion_9782fd5c.vtex
+characters/models/2en0w/lenna/materials/lenna_body2_vmat_g_tmetalness_3fd84e8.vtex
+characters/models/2en0w/lenna/materials/lenna_body2_vmat_g_tnormal_53b47c48.vtex
+characters/models/2en0w/lenna/materials/lenna_body2.vmat
+characters/models/2en0w/lenna/materials/lenna_trans01_mask1_png_588ef95e.vtex
+characters/models/2en0w/lenna/materials/lenna_trans01_psd_84442dc7.vtex
+characters/models/2en0w/lenna/materials/lenna_tran01.vmat
+characters/models/2en0w/lenna/lenna.vmdl

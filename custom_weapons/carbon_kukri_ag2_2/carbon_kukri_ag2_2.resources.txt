@@ -1,0 +1,9 @@
+# cs2-model-converter: carbon_kukri_ag2_2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/carbon_kukri_ag2_2/carbon_kukri_ag2_2.vmdl
+# weapon: weapon_knife_kukri
+# skeleton: animation/skeletons/weapons/knife_kukri.vnmskel
+weapons/nozb1/carbon_fiber/carbon_kukri/materials/carbon_fiber_kukri_self_png_655eb46f.vtex
+weapons/nozb1/carbon_fiber/carbon_kukri/materials/carbon_fiber_nbr_normal_png_6a8f58a2.vtex
+weapons/nozb1/carbon_fiber/carbon_kukri/materials/carbon_fiber_nbr_png_8dc73270.vtex
+weapons/nozb1/carbon_fiber/carbon_kukri/materials/carbonkukri.vmat
+weapons/custom/carbon_kukri_ag2_2/carbon_kukri_ag2_2.vmdl

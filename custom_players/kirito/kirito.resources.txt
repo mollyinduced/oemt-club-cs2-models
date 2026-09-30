@@ -1,0 +1,43 @@
+# cs2-model-converter: kirito, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/kolka/kirito/kirito.vmdl
+# first person: 0 1 2 3
+characters/models/kolka/kirito/kirito/first_person_arms_vmorf.vtex
+characters/models/kolka/kirito/kirito/thirdperson_vmorf.vtex
+characters/models/kolka/kirito/mat/body_vmat_g_tmetalness_10974e8a.vtex
+characters/models/kolka/kirito/mat/body_vmat_g_tnormal_53b47c48.vtex
+characters/models/kolka/kirito/mat/clothes_png_198d4334.vtex
+characters/models/kolka/kirito/mat/body.vmat
+characters/models/kolka/kirito/mat/body_png_f27da5f7.vtex
+characters/models/kolka/kirito/mat/skin_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/kolka/kirito/mat/skin_vmat_g_tnormal_53b47c48.vtex
+characters/models/kolka/kirito/mat/skin.vmat
+characters/models/kolka/kirito/kirito_arms.vmdl
+characters/models/kolka/kirito/mat/body2_vmat_g_tmetalness_cb3c7b0e.vtex
+characters/models/kolka/kirito/mat/body2_vmat_g_tnormal_53b47c48.vtex
+characters/models/kolka/kirito/mat/body_d_png_76e17e52.vtex
+characters/models/kolka/kirito/mat/body2.vmat
+characters/models/kolka/kirito/mat/brow_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/kolka/kirito/mat/brow_vmat_g_tnormal_53b47c48.vtex
+characters/models/kolka/kirito/mat/eyebrows_png_2da949d9.vtex
+characters/models/kolka/kirito/mat/brow.vmat
+characters/models/kolka/kirito/mat/dark_repulor_png_5e27df32.vtex
+characters/models/kolka/kirito/mat/dark_repulor_self_png_6921e95d.vtex
+characters/models/kolka/kirito/mat/dark_repulser_vmat_g_tnormal_53b47c48.vtex
+characters/models/kolka/kirito/mat/dark_repulser.vmat
+characters/models/kolka/kirito/mat/elucidator_png_9f019aa2.vtex
+characters/models/kolka/kirito/mat/elucidator_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/kolka/kirito/mat/elucidator_vmat_g_tnormal_53b47c48.vtex
+characters/models/kolka/kirito/mat/elucidator.vmat
+characters/models/kolka/kirito/mat/eyes_png_11f125d2.vtex
+characters/models/kolka/kirito/mat/eyes_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/kolka/kirito/mat/eyes_vmat_g_tnormal_53b47c48.vtex
+characters/models/kolka/kirito/mat/eyes.vmat
+characters/models/kolka/kirito/mat/face 2_png_7e77f873.vtex
+characters/models/kolka/kirito/mat/face_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/kolka/kirito/mat/face_vmat_g_tnormal_53b47c48.vtex
+characters/models/kolka/kirito/mat/face.vmat
+characters/models/kolka/kirito/mat/hair_png_be7521b1.vtex
+characters/models/kolka/kirito/mat/hair_vmat_g_tmetalness_10974e8a.vtex
+characters/models/kolka/kirito/mat/hair_vmat_g_tnormal_53b47c48.vtex
+characters/models/kolka/kirito/mat/hair.vmat
+characters/models/kolka/kirito/kirito.vmdl

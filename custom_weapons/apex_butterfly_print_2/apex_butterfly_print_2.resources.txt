@@ -1,0 +1,17 @@
+# cs2-model-converter: apex_butterfly_print_2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/apex_butterfly_print_2/apex_butterfly_print_2.vmdl
+# weapon: weapon_knife_butterfly
+# skeleton: animation/skeletons/weapons/knife_butterfly.vnmskel
+models/weapons/exg/tokyocold/apex_butterfly_print/r99_flaps_disp_opacitymultiplytexture_png_2f6b3ce0.vtex
+models/weapons/exg/tokyocold/apex_butterfly_print/apex_butterfly_lq.vmat
+models/weapons/exg/tokyocold/apex_butterfly_print/apex_butterfly_print_vmat_g_tnormal_3fd873b1.vtex
+models/weapons/exg/tokyocold/apex_butterfly_print/apex_butterfly_print_vmat_g_tselfillummask_2f34022a.vtex
+models/weapons/exg/tokyocold/apex_butterfly_print/print1440_png_2ebbe332.vtex
+models/weapons/exg/tokyocold/apex_butterfly_print/apex_butterfly_print.vmat
+models/weapons/exg/tokyocold/apex_butterfly_print/apex_butterfly_print_heirloomglass1_vmat_g_tmetalness_11645eb2.vtex
+models/weapons/exg/tokyocold/apex_butterfly_print/apex_butterfly_print_heirloomglass1.vmat
+models/weapons/exg/tokyocold/apex_butterfly_print/bear_body_color_jpg_8d67f3ed_png_7be7f4ed.vtex
+models/weapons/exg/tokyocold/apex_butterfly_print/butterflyapex_mb_vmat_g_tnormal_a1e47e21.vtex
+models/weapons/exg/tokyocold/apex_butterfly_print/butterflyapex_mb_vmat_g_tselfillummask_749e8c49.vtex
+models/weapons/exg/tokyocold/apex_butterfly_print/butterflyapex_mb.vmat
+weapons/custom/apex_butterfly_print_2/apex_butterfly_print_2.vmdl

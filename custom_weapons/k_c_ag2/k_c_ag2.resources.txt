@@ -1,0 +1,13 @@
+# cs2-model-converter: k_c_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/k_c_ag2/k_c_ag2.vmdl
+# weapon: weapon_knife_karambit
+# skeleton: animation/skeletons/weapons/knife_karambit.vnmskel
+materials/default/default_rough_tga_b16ce871.vtex
+materials/memni4ik/knife/k_c/1_vmat_g_tcolor_9edeabb3.vtex
+materials/memni4ik/knife/k_c/1_vmat_g_tselfillummask_6d53310e.vtex
+materials/memni4ik/knife/k_c/1.vmat
+materials/memni4ik/knife/k_c/2_vmat_g_tcolor_e2cc4ca5.vtex
+materials/memni4ik/knife/k_c/2.vmat
+materials/memni4ik/knife/k_c/3_vmat_g_tcolor_11feeb60.vtex
+materials/memni4ik/knife/k_c/3.vmat
+weapons/custom/k_c_ag2/k_c_ag2.vmdl

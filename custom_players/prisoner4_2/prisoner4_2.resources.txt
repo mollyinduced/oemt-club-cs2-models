@@ -1,0 +1,11 @@
+# cs2-model-converter: the resources models/custom/prisoner4_2/prisoner4_2.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/prisoner4_2/1_color_png_eb1f9d5f.vtex
+materials/models/custom/prisoner4_2/1.vmat
+materials/models/custom/prisoner4_2/eye_color_png_644d2593.vtex
+materials/models/custom/prisoner4_2/eye.vmat
+materials/models/custom/prisoner4_2/gi_head_1_color_png_8fc9dd29.vtex
+materials/models/custom/prisoner4_2/gi_head_1.vmat
+materials/models/custom/prisoner4_2/tex_0086_0_color_png_b240e044.vtex
+materials/models/custom/prisoner4_2/tex_0086_0.vmat
+models/custom/prisoner4_2/prisoner4_2.vmdl

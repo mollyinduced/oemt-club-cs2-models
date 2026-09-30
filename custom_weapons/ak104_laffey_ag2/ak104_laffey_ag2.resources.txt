@@ -1,0 +1,18 @@
+# cs2-model-converter: ak104_laffey_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/ak104_laffey_ag2/ak104_laffey_ag2.vmdl
+# weapon: weapon_ak47
+# skeleton: animation/skeletons/weapons/ak47.vnmskel
+weapons/models/2en0w/ak104_laffey/materials/ak104_laffey_base_color_png_79576b4a.vtex
+weapons/models/2en0w/ak104_laffey/materials/ak104_laffey_base_ill_png_9e32b972.vtex
+weapons/models/2en0w/ak104_laffey/materials/ak104_laffey_base_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/models/2en0w/ak104_laffey/materials/ak104_laffey_roughness_png_2625db5a.vtex
+weapons/models/2en0w/ak104_laffey/materials/ak104_laffey_base.vmat
+weapons/models/2en0w/ak104_laffey/materials/ak104_laffey_roll_color_png_2f3a35ca.vtex
+weapons/models/2en0w/ak104_laffey/materials/ak104_laffey_roll1.vmat
+weapons/models/2en0w/ak104_laffey/materials/ak104_laffey_trans_01_png_e2831cbb.vtex
+weapons/models/2en0w/ak104_laffey/materials/ak104_laffey_trans1.vmat
+weapons/models/2en0w/ak104_laffey/materials/ak104_laffey_trans_02_mask2_png_f61c8be.vtex
+weapons/models/2en0w/ak104_laffey/materials/ak104_laffey_trans_02_mask_png_f0b97148.vtex
+weapons/models/2en0w/ak104_laffey/materials/ak104_laffey_trans_02_png_c48a3374.vtex
+weapons/models/2en0w/ak104_laffey/materials/ak104_laffey_trans2.vmat
+weapons/custom/ak104_laffey_ag2/ak104_laffey_ag2.vmdl

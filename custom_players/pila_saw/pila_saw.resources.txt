@@ -1,0 +1,19 @@
+# cs2-model-converter: pila_saw, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/kolka/pila_saw/pila_saw.vmdl
+# first person: 0 1 2 3
+characters/models/kolka/pila_saw/mat/t_craneanchor_head_d_png_ad094e1d.vtex
+characters/models/kolka/pila_saw/mat/t_craneanchor_head_d_self_png_daf6fe5e.vtex
+characters/models/kolka/pila_saw/mat/eyes.vmat
+characters/models/kolka/pila_saw/mat/t_craneanchor_body_d_png_d0fd7cb5.vtex
+characters/models/kolka/pila_saw/mat/t_craneanchor_body_d_vmat_g_tmetalness_10974e8a.vtex
+characters/models/kolka/pila_saw/mat/t_craneanchor_body_n_png_5b29c4d9.vtex
+characters/models/kolka/pila_saw/mat/t_craneanchor_body_d.vmat
+characters/models/kolka/pila_saw/mat/t_craneanchor_faceacc_d_png_d19802f2.vtex
+characters/models/kolka/pila_saw/mat/t_craneanchor_faceacc_d_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/kolka/pila_saw/mat/t_craneanchor_faceacc_n_png_c07ef256.vtex
+characters/models/kolka/pila_saw/mat/t_craneanchor_faceacc_d.vmat
+characters/models/kolka/pila_saw/mat/t_craneanchor_head_d_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/kolka/pila_saw/mat/t_craneanchor_head_n_png_748637e7.vtex
+characters/models/kolka/pila_saw/mat/t_craneanchor_head_d.vmat
+characters/models/kolka/pila_saw/pila_saw_arms.vmdl
+characters/models/kolka/pila_saw/pila_saw.vmdl

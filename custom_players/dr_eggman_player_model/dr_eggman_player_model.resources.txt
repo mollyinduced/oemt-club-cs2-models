@@ -1,0 +1,5 @@
+# cs2-model-converter: the resources models/custom/dr_eggman_player_model/dr_eggman_player_model.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/dr_eggman_player_model/egg_mat_color_png_70c28a9e.vtex
+materials/models/custom/dr_eggman_player_model/egg_mat.vmat
+models/custom/dr_eggman_player_model/dr_eggman_player_model.vmdl

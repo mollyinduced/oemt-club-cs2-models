@@ -1,0 +1,9 @@
+# cs2-model-converter: the resources models/custom/no_hitbox_27/no_hitbox_27.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/no_hitbox_27/body1_color_png_1e89c67c.vtex
+materials/models/custom/no_hitbox_27/body1.vmat
+materials/models/custom/no_hitbox_27/body2_color_png_a7d4fb75.vtex
+materials/models/custom/no_hitbox_27/body2.vmat
+materials/models/custom/no_hitbox_27/face_color_png_f3ebcec4.vtex
+materials/models/custom/no_hitbox_27/face.vmat
+models/custom/no_hitbox_27/no_hitbox_27.vmdl

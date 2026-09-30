@@ -1,0 +1,19 @@
+# cs2-model-converter: rick1, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/kolka/2026/rick/rick1.vmdl
+# first person: 0 1 2 3
+characters/models/kolka/2026/rick/mat/body_vmat_g_tmetalness_10974e8a.vtex
+characters/models/kolka/2026/rick/mat/t_m_med_ruckus_body_d_png_ca3313a8.vtex
+characters/models/kolka/2026/rick/mat/t_m_med_ruckus_body_df_mobile_png_be7301fb.vtex
+characters/models/kolka/2026/rick/mat/t_m_med_ruckus_body_n_png_b50a11c0.vtex
+characters/models/kolka/2026/rick/mat/body.vmat
+characters/models/kolka/2026/rick/mat/faceak_vmat_g_tmetalness_10974e8a.vtex
+characters/models/kolka/2026/rick/mat/t_m_med_ruckus_faceacc_d_png_9f205d6.vtex
+characters/models/kolka/2026/rick/mat/t_m_med_ruckus_faceacc_df_png_84a1f87f.vtex
+characters/models/kolka/2026/rick/mat/t_m_med_ruckus_faceacc_n_png_bc15d090.vtex
+characters/models/kolka/2026/rick/mat/faceak.vmat
+characters/models/kolka/2026/rick/mat/head_vmat_g_tmetalness_10974e8a.vtex
+characters/models/kolka/2026/rick/mat/t_m_med_ruckus_head_d_png_c0150130.vtex
+characters/models/kolka/2026/rick/mat/t_m_med_ruckus_head_df_png_e55a5128.vtex
+characters/models/kolka/2026/rick/mat/t_m_med_ruckus_head_n_png_d0cf3ea1.vtex
+characters/models/kolka/2026/rick/mat/head.vmat
+characters/models/kolka/2026/rick/rick1.vmdl

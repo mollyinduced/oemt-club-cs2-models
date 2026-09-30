@@ -1,0 +1,17 @@
+# cs2-model-converter: tatsumaki, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/kolka/2026/tatsumaki/tatsumaki.vmdl
+# first person: 1 2 24 30
+characters/models/kolka/2026/tatsumaki/mat/body_vmat_g_tmetalness_10974e8a.vtex
+characters/models/kolka/2026/tatsumaki/mat/body_vmat_g_tnormal_53b47c48.vtex
+characters/models/kolka/2026/tatsumaki/mat/hero_tatsumaki01_body_dx_png_b9b0cfa9.vtex
+characters/models/kolka/2026/tatsumaki/mat/body.vmat
+characters/models/kolka/2026/tatsumaki/mat/face_vmat_g_tmetalness_10974e8a.vtex
+characters/models/kolka/2026/tatsumaki/mat/face_vmat_g_tnormal_53b47c48.vtex
+characters/models/kolka/2026/tatsumaki/mat/hero_tatsumaki01_face_dx_png_35889fb3.vtex
+characters/models/kolka/2026/tatsumaki/mat/face.vmat
+characters/models/kolka/2026/tatsumaki/mat/hair_vmat_g_tmetalness_10974e8a.vtex
+characters/models/kolka/2026/tatsumaki/mat/hair_vmat_g_tnormal_53b47c48.vtex
+characters/models/kolka/2026/tatsumaki/mat/hero_tatsumaki01_hair_l_png_b7aee872.vtex
+characters/models/kolka/2026/tatsumaki/mat/hair.vmat
+characters/models/kolka/2026/tatsumaki/tatsumaki/body_vmorf.vtex
+characters/models/kolka/2026/tatsumaki/tatsumaki.vmdl

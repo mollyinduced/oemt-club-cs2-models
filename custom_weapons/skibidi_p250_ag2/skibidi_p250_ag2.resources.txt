@@ -1,0 +1,8 @@
+# cs2-model-converter: skibidi_p250_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/skibidi_p250_ag2/skibidi_p250_ag2.vmdl
+# weapon: weapon_p250
+# skeleton: animation/skeletons/weapons/p250.vnmskel
+weapons/nozb1/skibidi_p250/materials/skibidi_p250_png_18f99037.vtex
+weapons/nozb1/skibidi_p250/materials/skibidi_p250_vmat_g_tnormal_a1e47e21.vtex
+weapons/nozb1/skibidi_p250/materials/skibidi_p250.vmat
+weapons/custom/skibidi_p250_ag2/skibidi_p250_ag2.vmdl

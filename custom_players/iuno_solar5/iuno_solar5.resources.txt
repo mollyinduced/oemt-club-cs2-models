@@ -1,0 +1,37 @@
+# cs2-model-converter: iuno_solar5, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/asmodeus/iuno_solar5/iuno_solar5.vmdl
+# first person: 0 1 2 3
+characters/models/asmodeus/iuno_solar5/iuno_solar5/body_vmorf.vtex
+characters/models/asmodeus/iuno_solar5/materials/iuno_solar5_bhair_png_9ce1e6ba.vtex
+characters/models/asmodeus/iuno_solar5/materials/iuno_solar5_bhair_png_ac28372d.vtex
+characters/models/asmodeus/iuno_solar5/materials/iuno_solar5_bhair.vmat
+characters/models/asmodeus/iuno_solar5/materials/iuno_solar5_body_png_e01f9947.vtex
+characters/models/asmodeus/iuno_solar5/materials/iuno_solar5_body_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/iuno_solar5/materials/iuno_solar5_body.vmat
+characters/models/asmodeus/iuno_solar5/materials/iuno_solar5_down_png_74937c52.vtex
+characters/models/asmodeus/iuno_solar5/materials/iuno_solar5_down_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/iuno_solar5/materials/iuno_solar5_down.vmat
+characters/models/asmodeus/iuno_solar5/materials/iuno_solar5_dress_png_8a69d0aa.vtex
+characters/models/asmodeus/iuno_solar5/materials/iuno_solar5_dress_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/iuno_solar5/materials/iuno_solar5_dress.vmat
+characters/models/asmodeus/iuno_solar5/materials/iuno_solar5_eye_png_bfc4855a.vtex
+characters/models/asmodeus/iuno_solar5/materials/iuno_solar5_eye_png_e156c98e.vtex
+characters/models/asmodeus/iuno_solar5/materials/iuno_solar5_eye.vmat
+characters/models/asmodeus/iuno_solar5/materials/iuno_solar5_eyeb_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/iuno_solar5/materials/iuno_solar5_eyeb.vmat
+characters/models/asmodeus/iuno_solar5/materials/iuno_solar5_eyehi_png_f5621961.vtex
+characters/models/asmodeus/iuno_solar5/materials/iuno_solar5_eyehi_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/iuno_solar5/materials/iuno_solar5_eyehi.vmat
+characters/models/asmodeus/iuno_solar5/materials/iuno_solar5_face_png_970ecd86.vtex
+characters/models/asmodeus/iuno_solar5/materials/iuno_solar5_face_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/iuno_solar5/materials/iuno_solar5_face.vmat
+characters/models/asmodeus/iuno_solar5/materials/iuno_solar5_fhair_png_2d0877b1.vtex
+characters/models/asmodeus/iuno_solar5/materials/iuno_solar5_fhair_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/iuno_solar5/materials/iuno_solar5_fhair.vmat
+characters/models/asmodeus/iuno_solar5/materials/iuno_solar5_up_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/iuno_solar5/materials/iuno_solar5_upbody_png_767ce474.vtex
+characters/models/asmodeus/iuno_solar5/materials/iuno_solar5_up.vmat
+characters/models/asmodeus/iuno_solar5/materials/iuno_solar5_upbody_png_ff3449f3.vtex
+characters/models/asmodeus/iuno_solar5/materials/iuno_solar5_upbody_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/iuno_solar5/materials/iuno_solar5_upbody.vmat
+characters/models/asmodeus/iuno_solar5/iuno_solar5.vmdl

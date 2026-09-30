@@ -1,0 +1,4 @@
+# cs2-model-converter: the resources models/custom/shiba_dragon_player_model_2/shiba_dragon_player_model_2.vmdl needs, loaded in this order by the SDK
+materials/models/custom/shiba_dragon_player_model_2/shiba_mat_color_png_1caaf5d1.vtex
+materials/models/custom/shiba_dragon_player_model_2/shiba_mat.vmat
+models/custom/shiba_dragon_player_model_2/shiba_dragon_player_model_2.vmdl

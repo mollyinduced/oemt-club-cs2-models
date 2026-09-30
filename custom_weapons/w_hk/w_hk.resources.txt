@@ -1,0 +1,7 @@
+# cs2-model-converter: w_hk, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/w_hk/w_hk.vmdl
+# weapon: weapon_m4a1
+# skeleton: animation/skeletons/weapons/m4a4.vnmskel
+models/hk/material/1_01 - default_basecolor_png_51c957c2.vtex
+models/hk/material/hk.vmat
+weapons/custom/w_hk/w_hk.vmdl

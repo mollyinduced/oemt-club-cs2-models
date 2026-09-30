@@ -1,0 +1,31 @@
+# cs2-model-converter: subo_player_model_3, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/ag2/subo_player_model/subo_player_model.vmdl
+# first person: 0 2 12 15
+agents/models/ag2/subo_player_model/materials/cartier_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2/subo_player_model/materials/zolo_fait_png_a4f9ba11.vtex
+agents/models/ag2/subo_player_model/materials/cartier.vmat
+agents/models/ag2/subo_player_model/materials/clock_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2/subo_player_model/materials/time_fait_png_74156f93.vtex
+agents/models/ag2/subo_player_model/materials/clock.vmat
+agents/models/ag2/subo_player_model/materials/dress_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2/subo_player_model/materials/fut_fait_png_2bd01f25.vtex
+agents/models/ag2/subo_player_model/materials/dress.vmat
+agents/models/ag2/subo_player_model/materials/dress_low_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2/subo_player_model/materials/shorti_fait_png_e9cc15aa.vtex
+agents/models/ag2/subo_player_model/materials/dress_low.vmat
+agents/models/ag2/subo_player_model/materials/eye_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2/subo_player_model/materials/glass_fait_png_deae1adc.vtex
+agents/models/ag2/subo_player_model/materials/eye.vmat
+agents/models/ag2/subo_player_model/materials/face_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2/subo_player_model/materials/lico_fait_png_8183b375.vtex
+agents/models/ag2/subo_player_model/materials/face.vmat
+agents/models/ag2/subo_player_model/materials/hair_png_e1eb269d.vtex
+agents/models/ag2/subo_player_model/materials/hair_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2/subo_player_model/materials/hair.vmat
+agents/models/ag2/subo_player_model/materials/cross_fait_png_bdd59901.vtex
+agents/models/ag2/subo_player_model/materials/shoes_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2/subo_player_model/materials/shoes.vmat
+agents/models/ag2/subo_player_model/materials/skin_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2/subo_player_model/materials/telo_fait_png_99d68063.vtex
+agents/models/ag2/subo_player_model/materials/skin.vmat
+agents/models/ag2/subo_player_model/subo_player_model.vmdl

@@ -1,0 +1,19 @@
+# cs2-model-converter: leon_kennedy_re4_nohitbox, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/otakku/leon_kennedy_re4/leon_kennedy_re4_nohitbox.vmdl
+# first person: 0 2 12 15
+agents/models/otakku/leon_kennedy_re4/materials/body_2_png_f60ca9fc.vtex
+agents/models/otakku/leon_kennedy_re4/materials/body_vmat_g_tambientocclusion_dd98a23c.vtex
+agents/models/otakku/leon_kennedy_re4/materials/body_vmat_g_tmetalness_b99de324.vtex
+agents/models/otakku/leon_kennedy_re4/materials/t_fallvalleyblink_body_2_n_png_3e58dbe5.vtex
+agents/models/otakku/leon_kennedy_re4/materials/body.vmat
+agents/models/otakku/leon_kennedy_re4/materials/hair_vmat_g_tambientocclusion_dd98a23c.vtex
+agents/models/otakku/leon_kennedy_re4/materials/hair_vmat_g_tmetalness_b99de324.vtex
+agents/models/otakku/leon_kennedy_re4/materials/t_fallvalleyblink_faceacc_d_png_8bce6e98.vtex
+agents/models/otakku/leon_kennedy_re4/materials/t_fallvalleyblink_faceacc_n_png_fdfebe82.vtex
+agents/models/otakku/leon_kennedy_re4/materials/hair.vmat
+agents/models/otakku/leon_kennedy_re4/materials/head_vmat_g_tambientocclusion_dd98a23c.vtex
+agents/models/otakku/leon_kennedy_re4/materials/head_vmat_g_tmetalness_b99de324.vtex
+agents/models/otakku/leon_kennedy_re4/materials/t_fallvalleyblink_head_d_png_4761c5f8.vtex
+agents/models/otakku/leon_kennedy_re4/materials/t_fallvalleyblink_head_n_png_2f8a8b00.vtex
+agents/models/otakku/leon_kennedy_re4/materials/head.vmat
+agents/models/otakku/leon_kennedy_re4/leon_kennedy_re4_nohitbox.vmdl

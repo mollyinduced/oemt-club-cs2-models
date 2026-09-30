@@ -1,0 +1,8 @@
+# cs2-model-converter: shiba_dragon_player_model_3, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/ag2_pt/shiba_dragon_player_model/shiba_dragon_player_model.vmdl
+# first person: 0 2 12 15
+agents/models/ag2_pt/shiba_dragon_player_model/materials/shiba_d_png_ffa6abaf.vtex
+agents/models/ag2_pt/shiba_dragon_player_model/materials/shiba_n_png_caccb6c1.vtex
+agents/models/ag2_pt/shiba_dragon_player_model/materials/shiba_s_png_48bc4b30.vtex
+agents/models/ag2_pt/shiba_dragon_player_model/materials/shiba_mat.vmat
+agents/models/ag2_pt/shiba_dragon_player_model/shiba_dragon_player_model.vmdl

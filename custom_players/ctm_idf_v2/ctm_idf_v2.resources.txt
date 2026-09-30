@@ -1,0 +1,17 @@
+# cs2-model-converter: the resources models/custom/ctm_idf_v2/ctm_idf_v2.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/ctm_idf_v2/ctm_idf_body_color_png_b8d48b6.vtex
+materials/models/custom/ctm_idf_v2/ctm_idf_body.vmat
+materials/models/custom/ctm_idf_v2/ctm_sas_bodylegs_variantg_color_png_937fba1d.vtex
+materials/models/custom/ctm_idf_v2/ctm_sas_bodylegs_variantg.vmat
+materials/models/custom/ctm_idf_v2/ctm_st6_breecher_head_color_png_af947452.vtex
+materials/models/custom/ctm_idf_v2/ctm_st6_breecher_head.vmat
+materials/models/custom/ctm_idf_v2/ctm_st6_head_ski_mask_color_png_432e7cfb.vtex
+materials/models/custom/ctm_idf_v2/ctm_st6_head_ski_mask.vmat
+materials/models/custom/ctm_idf_v2/ctm_st6_night_vision_helmet_shemagh_color_png_f4a5ac2b.vtex
+materials/models/custom/ctm_idf_v2/ctm_st6_night_vision_helmet_shemagh.vmat
+materials/models/custom/ctm_idf_v2/ctm_swat_gasmask_pant_color_png_a30d9262.vtex
+materials/models/custom/ctm_idf_v2/ctm_swat_gasmask_pant.vmat
+materials/models/custom/ctm_idf_v2/glove_hardknuckle_color_png_575438e9.vtex
+materials/models/custom/ctm_idf_v2/glove_hardknuckle.vmat
+models/custom/ctm_idf_v2/ctm_idf_v2.vmdl

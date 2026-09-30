@@ -1,0 +1,29 @@
+# cs2-model-converter: sakurarinhoshi, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/exg/ruiyiwelkin/sakurarinhoshi/sakurarinhoshi.vmdl
+# first person: 0 3 12 15
+characters/models/exg/ruiyiwelkin/sakurarinhoshi/body_png_3104cf8d.vtex
+characters/models/exg/ruiyiwelkin/sakurarinhoshi/body_vmat_g_tmetalness_b70f8f59_png_f0d393bf.vtex
+characters/models/exg/ruiyiwelkin/sakurarinhoshi/body_vmat_g_tnormal_53b47c48_png_a3f1d6b4.vtex
+characters/models/exg/ruiyiwelkin/sakurarinhoshi/body.vmat
+characters/models/exg/ruiyiwelkin/sakurarinhoshi/cloth1_png_5078882.vtex
+characters/models/exg/ruiyiwelkin/sakurarinhoshi/cloth1_vmat_g_tmetalness_b70f8f59_png_3f150c94.vtex
+characters/models/exg/ruiyiwelkin/sakurarinhoshi/cloth1_vmat_g_tnormal_53b47c48_png_2cd0dba2.vtex
+characters/models/exg/ruiyiwelkin/sakurarinhoshi/cloth1.vmat
+characters/models/exg/ruiyiwelkin/sakurarinhoshi/cloth1_2_png_cea35fcb.vtex
+characters/models/exg/ruiyiwelkin/sakurarinhoshi/cloth1_2_vmat_g_tmetalness_b70f8f59_png_4bee0221.vtex
+characters/models/exg/ruiyiwelkin/sakurarinhoshi/cloth1_2_vmat_g_tnormal_53b47c48_png_8c94f74b.vtex
+characters/models/exg/ruiyiwelkin/sakurarinhoshi/cloth1_2.vmat
+characters/models/exg/ruiyiwelkin/sakurarinhoshi/face_mask_png_70ed0514.vtex
+characters/models/exg/ruiyiwelkin/sakurarinhoshi/face_png_15723fb0.vtex
+characters/models/exg/ruiyiwelkin/sakurarinhoshi/face_vmat_g_tnormal_53b47c48_png_d62bb0a5.vtex
+characters/models/exg/ruiyiwelkin/sakurarinhoshi/face.vmat
+characters/models/exg/ruiyiwelkin/sakurarinhoshi/hair_png_ae85be85.vtex
+characters/models/exg/ruiyiwelkin/sakurarinhoshi/hair_vmat_g_tmetalness_b70f8f59_png_8f667dd7.vtex
+characters/models/exg/ruiyiwelkin/sakurarinhoshi/hair_vmat_g_tnormal_a5625bd4_png_577154a6.vtex
+characters/models/exg/ruiyiwelkin/sakurarinhoshi/hair.vmat
+characters/models/exg/ruiyiwelkin/sakurarinhoshi/nail_png_6fdd00f3.vtex
+characters/models/exg/ruiyiwelkin/sakurarinhoshi/nail_vmat_g_tmetalness_cea5fc09_png_d4825848.vtex
+characters/models/exg/ruiyiwelkin/sakurarinhoshi/nail_vmat_g_tselfillummask_ff155607.vtex
+materials/default/stickers/squares_glitter_normal_tga_26be020f.vtex
+characters/models/exg/ruiyiwelkin/sakurarinhoshi/nail.vmat
+characters/models/exg/ruiyiwelkin/sakurarinhoshi/sakurarinhoshi.vmdl

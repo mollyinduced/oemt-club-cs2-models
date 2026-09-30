@@ -1,0 +1,34 @@
+{
+ "converter": "2.3",
+ "made": "2026-09-30 01:18:47",
+ "name": "scavenger",
+ "mode": "as-is",
+ "input": "C:\\Users\\mollyinduced\\Downloads\\models\\pridecs2_resource_pack_3507985179",
+ "model": "characters/models/s2ze/scavenger/scavenger.vmdl_c",
+ "kind": "CS2 model (AnimGraph2)",
+ "options": {
+  "skin": 0,
+  "up": "auto",
+  "forward": "auto",
+  "rig": true,
+  "shader": "csgo_complex.vfx",
+  "texture_size": 4096,
+  "mode": "auto",
+  "jiggle": true,
+  "guess_jiggle": true,
+  "first_person": true,
+  "twist": true,
+  "arms": null,
+  "weapon": null,
+  "extra": [
+   "C:\\Users\\mollyinduced\\Downloads\\models\\homer_simpson_v3\\agents\\models\\otakku\\homer_simpson\\materials"
+  ],
+  "addon": "custom_models"
+ },
+ "stats": {
+  "triangles": 0,
+  "bones": 116,
+  "first_person": "its own",
+  "jiggle_bones": []
+ }
+}

@@ -1,0 +1,19 @@
+# cs2-model-converter: snake_eyes_yellow_nohitbox, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/characters/models/otakku/snake_eyes/snake_eyes_yellow_nohitbox.vmdl
+# first person: 0 2 12 15
+agents/characters/models/otakku/snake_eyes/materials/body_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/characters/models/otakku/snake_eyes/materials/body_vmat_g_tmetalness_b99de324.vtex
+agents/characters/models/otakku/snake_eyes/materials/body_vmat_g_tnormal_2984f4a9.vtex
+agents/characters/models/otakku/snake_eyes/materials/image_0_png_abdf5b53.vtex
+agents/characters/models/otakku/snake_eyes/materials/body.vmat
+agents/characters/models/otakku/snake_eyes/materials/head_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/characters/models/otakku/snake_eyes/materials/head_vmat_g_tmetalness_b99de324.vtex
+agents/characters/models/otakku/snake_eyes/materials/head_vmat_g_tnormal_2984f4a9.vtex
+agents/characters/models/otakku/snake_eyes/materials/image_2_png_27e62b03.vtex
+agents/characters/models/otakku/snake_eyes/materials/head.vmat
+agents/characters/models/otakku/snake_eyes/materials/light_yellow_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/characters/models/otakku/snake_eyes/materials/light_yellow_vmat_g_tcolor_30c2717c.vtex
+agents/characters/models/otakku/snake_eyes/materials/light_yellow_vmat_g_tnormal_2984f4a9.vtex
+agents/characters/models/otakku/snake_eyes/materials/light_yellow_vmat_g_tselfillummask_ff155607.vtex
+agents/characters/models/otakku/snake_eyes/materials/light_yellow.vmat
+agents/characters/models/otakku/snake_eyes/snake_eyes_yellow_nohitbox.vmdl

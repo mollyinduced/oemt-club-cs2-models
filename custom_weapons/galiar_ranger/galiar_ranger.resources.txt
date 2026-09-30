@@ -1,0 +1,23 @@
+# cs2-model-converter: galiar_ranger, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/galiar_ranger/galiar_ranger.vmdl
+# weapon: weapon_galilar
+# skeleton: animation/skeletons/weapons/galil.vnmskel
+models/kolka/galiar/ammo_d_png_8a305b0a.vtex
+models/kolka/galiar/ammo_n_png_4f265be4.vtex
+models/kolka/galiar/ammo_d.vmat
+models/kolka/galiar/base_d_png_76699c4e.vtex
+models/kolka/galiar/base_n_png_c1a3197b.vtex
+models/kolka/galiar/base_d.vmat
+models/kolka/galiar/compensator_d_png_e775ff92.vtex
+models/kolka/galiar/compensator_n_png_5ac3187a.vtex
+models/kolka/galiar/compensator_d.vmat
+models/kolka/galiar/ironsights_d_png_4af36425.vtex
+models/kolka/galiar/ironsights_n_png_434d87f4.vtex
+models/kolka/galiar/ironsights_d.vmat
+models/kolka/galiar/laser_d_png_36859e75.vtex
+models/kolka/galiar/laser_n_png_cd46286e.vtex
+models/kolka/galiar/laser_d.vmat
+models/kolka/galiar/mag_d_png_15928c3.vtex
+models/kolka/galiar/mag_n_png_bbe1240.vtex
+models/kolka/galiar/mag_d.vmat
+weapons/custom/galiar_ranger/galiar_ranger.vmdl

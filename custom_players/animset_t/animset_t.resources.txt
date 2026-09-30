@@ -1,0 +1,5 @@
+# cs2-model-converter: the resources models/custom/animset_t/animset_t.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/animset_t/animset_t_color_png_3eb14ad3.vtex
+materials/models/custom/animset_t/animset_t.vmat
+models/custom/animset_t/animset_t.vmdl

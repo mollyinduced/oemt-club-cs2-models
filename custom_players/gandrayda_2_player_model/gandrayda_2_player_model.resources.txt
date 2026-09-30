@@ -1,0 +1,13 @@
+# cs2-model-converter: the resources models/custom/gandrayda_2_player_model/gandrayda_2_player_model.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/gandrayda_2_player_model/body_g_mat1_color_png_e167c6f9.vtex
+materials/models/custom/gandrayda_2_player_model/body_g_mat1.vmat
+materials/models/custom/gandrayda_2_player_model/body_g_mat2_color_png_a97a1503.vtex
+materials/models/custom/gandrayda_2_player_model/body_g_mat2.vmat
+materials/models/custom/gandrayda_2_player_model/body_g_mat3_color_png_fe614a42.vtex
+materials/models/custom/gandrayda_2_player_model/body_g_mat3.vmat
+materials/models/custom/gandrayda_2_player_model/body_g_mat4_color_png_606eb713.vtex
+materials/models/custom/gandrayda_2_player_model/body_g_mat4.vmat
+materials/models/custom/gandrayda_2_player_model/body_g_mat5_color_png_6101bf4e.vtex
+materials/models/custom/gandrayda_2_player_model/body_g_mat5.vmat
+models/custom/gandrayda_2_player_model/gandrayda_2_player_model.vmdl

@@ -1,0 +1,12 @@
+# cs2-model-converter: knife_oni_katana_ag2_2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/knife_oni_katana_ag2_2/knife_oni_katana_ag2_2.vmdl
+# weapon: weapon_knife_cord
+# skeleton: animation/skeletons/weapons/knife_cord.vnmskel
+materials/default/default_normal_tga_5a869113.vtex
+materials/memni4ik/knife/oni2_materials/eye_vmat_g_tselfillummask_ff155607.vtex
+materials/memni4ik/knife/oni2_materials/eye.vmat
+materials/memni4ik/knife/oni2_materials/ao_png_5b31ca89.vtex
+materials/memni4ik/knife/oni2_materials/melee_oni2_df_png_b8449c61.vtex
+materials/memni4ik/knife/oni2_materials/melee_oni2_nm_png_b0c6d542.vtex
+materials/memni4ik/knife/oni2_materials/mi.vmat
+weapons/custom/knife_oni_katana_ag2_2/knife_oni_katana_ag2_2.vmdl

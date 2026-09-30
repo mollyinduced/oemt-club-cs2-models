@@ -1,0 +1,17 @@
+# cs2-model-converter: araxys_awp_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/araxys_awp_ag2/araxys_awp_ag2.vmdl
+# weapon: weapon_awp
+# skeleton: animation/skeletons/weapons/awp.vnmskel
+weapons/nozb1/valogun/araxys_bundle/araxys_awp/materials/boltsniper_antares_df.tga_png_35f7b5c5.vtex
+weapons/nozb1/valogun/araxys_bundle/araxys_awp/materials/boltsniper_antares_nm.tga_png_e8e7c557.vtex
+weapons/nozb1/valogun/araxys_bundle/araxys_awp/materials/antares_mi.vmat
+weapons/nozb1/valogun/araxys_bundle/araxys_awp/materials/bolt_glass_vmat_g_tcolor_6b6e411d.vtex
+weapons/nozb1/valogun/araxys_bundle/araxys_awp/materials/bolt_glass_vmat_g_tnormal_a1e47e21.vtex
+weapons/nozb1/valogun/araxys_bundle/araxys_awp/materials/bolt_glass.vmat
+weapons/nozb1/valogun/araxys_bundle/araxys_awp/materials/boltsniper_antares_scope_df.tga_png_6b2eb2bb.vtex
+weapons/nozb1/valogun/araxys_bundle/araxys_awp/materials/scope_antares_vmat_g_tnormal_ef733918.vtex
+weapons/nozb1/valogun/araxys_bundle/araxys_awp/materials/scope_antares.vmat
+weapons/nozb1/valogun/araxys_bundle/araxys_awp/materials/gradi_self_png_5f7a19a8.vtex
+weapons/nozb1/valogun/araxys_bundle/araxys_awp/materials/self_antares_vmat_g_tcolor_7ab53e0a.vtex
+weapons/nozb1/valogun/araxys_bundle/araxys_awp/materials/self_antares.vmat
+weapons/custom/araxys_awp_ag2/araxys_awp_ag2.vmdl

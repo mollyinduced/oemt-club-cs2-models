@@ -1,0 +1,5 @@
+# cs2-model-converter: the resources models/custom/roblox10_player_model/roblox10_player_model.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/roblox10_player_model/rob10_body_color_png_a59c2b07.vtex
+materials/models/custom/roblox10_player_model/rob10_body.vmat
+models/custom/roblox10_player_model/roblox10_player_model.vmdl

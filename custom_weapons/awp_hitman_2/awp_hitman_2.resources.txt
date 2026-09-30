@@ -1,0 +1,12 @@
+# cs2-model-converter: awp_hitman_2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/awp_hitman_2/awp_hitman_2.vmdl
+# weapon: weapon_awp
+# skeleton: animation/skeletons/weapons/awp.vnmskel
+models/kolka/awp/tex_0000_0_tga_4b11267.vtex
+models/kolka/awp/tex_0000_0_vmat_g_tambientocclusion_9782fd5c.vtex
+models/kolka/awp/tex_0001_1_tga_b8e69827.vtex
+models/kolka/awp/tex_0000_0.vmat
+models/kolka/awp/tex_0004_0_tga_4cebf61.vtex
+models/kolka/awp/tex_0005_1_tga_cc84f33.vtex
+models/kolka/awp/tex_0004_0.vmat
+weapons/custom/awp_hitman_2/awp_hitman_2.vmdl

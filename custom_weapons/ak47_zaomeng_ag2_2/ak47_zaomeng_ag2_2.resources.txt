@@ -1,0 +1,12 @@
+# cs2-model-converter: ak47_zaomeng_ag2_2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/ak47_zaomeng_ag2_2/ak47_zaomeng_ag2_2.vmdl
+# weapon: weapon_ak47
+# skeleton: animation/skeletons/weapons/ak47.vnmskel
+weapons/models/2en0w/ak47_zaomeng/materials/zaomengak_base_color_png_7306fd2a.vtex
+weapons/models/2en0w/ak47_zaomeng/materials/zaomengak_base_roughness_png_6c01a570.vtex
+weapons/models/2en0w/ak47_zaomeng/materials/zaomengak_base.vmat
+weapons/models/2en0w/ak47_zaomeng/materials/zaomengak_hud_ammo_png_8b029d54.vtex
+weapons/models/2en0w/ak47_zaomeng/materials/zaomengak_hud_ammo.vmat
+weapons/models/2en0w/ak47_zaomeng/materials/zaomengak_hud_mug_png_ac1b202a.vtex
+weapons/models/2en0w/ak47_zaomeng/materials/zaomengak_hud_mug.vmat
+weapons/custom/ak47_zaomeng_ag2_2/ak47_zaomeng_ag2_2.vmdl

@@ -1,0 +1,55 @@
+# cs2-model-converter: p90_kaltsit_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/p90_kaltsit_ag2/p90_kaltsit_ag2.vmdl
+# weapon: weapon_p90
+# skeleton: animation/skeletons/weapons/p90.vnmskel
+weapons/otakku/p90/p90_kaltsit_ag2/materials/att_ammo_5x28_n_png_c0362be7.vtex
+weapons/otakku/p90/p90_kaltsit_ag2/materials/att_ammo_5x28_png_a80947d2.vtex
+weapons/otakku/p90/p90_kaltsit_ag2/materials/att_ammo_5x28_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/p90/p90_kaltsit_ag2/materials/att_ammo_5x28_vmat_g_tmetalness_bf88ae37.vtex
+weapons/otakku/p90/p90_kaltsit_ag2/materials/att_ammo_5x28.vmat
+weapons/otakku/p90/p90_kaltsit_ag2/materials/barrel_n_png_56568683.vtex
+weapons/otakku/p90/p90_kaltsit_ag2/materials/barrel_png_ef131766.vtex
+weapons/otakku/p90/p90_kaltsit_ag2/materials/barrel_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/p90/p90_kaltsit_ag2/materials/barrel_vmat_g_tmetalness_bf88ae37.vtex
+weapons/otakku/p90/p90_kaltsit_ag2/materials/barrel.vmat
+weapons/otakku/p90/p90_kaltsit_ag2/materials/light-rail_n_png_a56fa719.vtex
+weapons/otakku/p90/p90_kaltsit_ag2/materials/light-rail_png_4c79ece.vtex
+weapons/otakku/p90/p90_kaltsit_ag2/materials/light-rail_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/p90/p90_kaltsit_ag2/materials/light-rail_vmat_g_tmetalness_bf88ae37.vtex
+weapons/otakku/p90/p90_kaltsit_ag2/materials/light-rail.vmat
+weapons/otakku/p90/p90_kaltsit_ag2/materials/light_n_png_b0e1035.vtex
+weapons/otakku/p90/p90_kaltsit_ag2/materials/light_png_c18bf9f6.vtex
+weapons/otakku/p90/p90_kaltsit_ag2/materials/light_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/p90/p90_kaltsit_ag2/materials/light_vmat_g_tmetalness_bf88ae37.vtex
+weapons/otakku/p90/p90_kaltsit_ag2/materials/light.vmat
+weapons/otakku/p90/p90_kaltsit_ag2/materials/muzzle_n_png_9e38ae89.vtex
+weapons/otakku/p90/p90_kaltsit_ag2/materials/muzzle_png_ad55bc4e.vtex
+weapons/otakku/p90/p90_kaltsit_ag2/materials/muzzle_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/p90/p90_kaltsit_ag2/materials/muzzle_vmat_g_tmetalness_bf88ae37.vtex
+weapons/otakku/p90/p90_kaltsit_ag2/materials/muzzle.vmat
+weapons/otakku/p90/p90_kaltsit_ag2/materials/wpn_p07_sm_papa90_mag_v0_n_png_d02646ba.vtex
+weapons/otakku/p90/p90_kaltsit_ag2/materials/wpn_p07_sm_papa90_mag_v0_png_1a972677.vtex
+weapons/otakku/p90/p90_kaltsit_ag2/materials/wpn_p07_sm_papa90_mag_v0_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/p90/p90_kaltsit_ag2/materials/wpn_p07_sm_papa90_mag_v0_vmat_g_tmetalness_bf88ae37.vtex
+weapons/otakku/p90/p90_kaltsit_ag2/materials/wpn_p07_sm_papa90_mag_v0.vmat
+weapons/otakku/p90/p90_kaltsit_ag2/materials/wpn_p07_sm_papa90_rails_v0_n_png_64291b4d.vtex
+weapons/otakku/p90/p90_kaltsit_ag2/materials/wpn_p07_sm_papa90_rails_v0_png_7599c35d.vtex
+weapons/otakku/p90/p90_kaltsit_ag2/materials/wpn_p07_sm_papa90_rails_v0_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/p90/p90_kaltsit_ag2/materials/wpn_p07_sm_papa90_rails_v0_vmat_g_tmetalness_bf88ae37.vtex
+weapons/otakku/p90/p90_kaltsit_ag2/materials/wpn_p07_sm_papa90_rails_v0.vmat
+weapons/otakku/p90/p90_kaltsit_ag2/materials/wpn_p07_sm_papa90_receiver_v0_n_png_fd95f685.vtex
+weapons/otakku/p90/p90_kaltsit_ag2/materials/wpn_p07_sm_papa90_receiver_v0_png_4192fd1f.vtex
+weapons/otakku/p90/p90_kaltsit_ag2/materials/wpn_p07_sm_papa90_receiver_v0_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/p90/p90_kaltsit_ag2/materials/wpn_p07_sm_papa90_receiver_v0_vmat_g_tmetalness_bf88ae37.vtex
+weapons/otakku/p90/p90_kaltsit_ag2/materials/wpn_p07_sm_papa90_receiver_v0.vmat
+weapons/otakku/p90/p90_kaltsit_ag2/materials/wpn_p07_sm_papa90_sights_v0_n_png_38442ee3.vtex
+weapons/otakku/p90/p90_kaltsit_ag2/materials/wpn_p07_sm_papa90_sights_v0_png_f1bf3bf9.vtex
+weapons/otakku/p90/p90_kaltsit_ag2/materials/wpn_p07_sm_papa90_sights_v0_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/p90/p90_kaltsit_ag2/materials/wpn_p07_sm_papa90_sights_v0_vmat_g_tmetalness_bf88ae37.vtex
+weapons/otakku/p90/p90_kaltsit_ag2/materials/wpn_p07_sm_papa90_sights_v0.vmat
+weapons/otakku/p90/p90_kaltsit_ag2/materials/wpn_p07_sm_papa90_stockpad_v0_n_png_2a8387e3.vtex
+weapons/otakku/p90/p90_kaltsit_ag2/materials/wpn_p07_sm_papa90_stockpad_v0_png_12863aab.vtex
+weapons/otakku/p90/p90_kaltsit_ag2/materials/wpn_p07_sm_papa90_stockpad_v0_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/p90/p90_kaltsit_ag2/materials/wpn_p07_sm_papa90_stockpad_v0_vmat_g_tmetalness_bf88ae37.vtex
+weapons/otakku/p90/p90_kaltsit_ag2/materials/wpn_p07_sm_papa90_stockpad_v0.vmat
+weapons/custom/p90_kaltsit_ag2/p90_kaltsit_ag2.vmdl

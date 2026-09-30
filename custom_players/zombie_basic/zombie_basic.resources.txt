@@ -1,0 +1,8 @@
+# cs2-model-converter: zombie_basic, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/s2ze/zombie_basic/zombie_basic.vmdl
+# first person: 0 2 12 15
+agents/models/s2ze/zombie_basic/materials/main_alt_tga_7b8c4ceb.vtex
+agents/models/s2ze/zombie_basic/materials/main_body_vmat_g_tmetalness_5b8acc16.vtex
+agents/models/s2ze/zombie_basic/materials/main_n_tga_b316e8a.vtex
+agents/models/s2ze/zombie_basic/materials/main_body.vmat
+agents/models/s2ze/zombie_basic/zombie_basic.vmdl

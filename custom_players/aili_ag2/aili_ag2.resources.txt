@@ -1,0 +1,10 @@
+# cs2-model-converter: aili_ag2, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: phase2/characters/models/exg/qiliu/aili/aili_ag2.vmdl
+materials/characters/arms/arms_nail_png_6c9da8bc.vtex
+materials/characters/arms/arms_nail_vmat_g_tmetalness_cea5fc09_png_920cf645.vtex
+materials/characters/arms/arms_nail_vmat_g_tselfillummask_ff155607.vtex
+materials/default/stickers/squares_glitter_normal_tga_26be020f.vtex
+materials/characters/arms/arms_nail.vmat
+materials/characters/arms/body_arms_png_863a49d4.vtex
+materials/characters/arms/body_arms.vmat
+phase2/characters/models/exg/qiliu/aili/aili_ag2.vmdl

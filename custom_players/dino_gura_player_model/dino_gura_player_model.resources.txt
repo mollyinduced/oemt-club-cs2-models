@@ -1,0 +1,10 @@
+# cs2-model-converter: dino_gura_player_model, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/ag2_pt/dino_gura_player_model/dino_gura_player_model.vmdl
+# first person: 0 2 12 15
+agents/models/ag2_pt/dino_gura_player_model/materials/dino_back_mat_vmat_g_tcolor_7ab53e0a.vtex
+agents/models/ag2_pt/dino_gura_player_model/materials/dino_back_mat_vmat_g_tselfillummask_62473e5c.vtex
+agents/models/ag2_pt/dino_gura_player_model/materials/dino_back_mat.vmat
+agents/models/ag2_pt/dino_gura_player_model/materials/dino_def_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2_pt/dino_gura_player_model/materials/texture_sketchfab_png_fc44ad35.vtex
+agents/models/ag2_pt/dino_gura_player_model/materials/dino_def.vmat
+agents/models/ag2_pt/dino_gura_player_model/dino_gura_player_model.vmdl

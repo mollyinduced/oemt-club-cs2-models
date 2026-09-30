@@ -1,0 +1,12 @@
+# cs2-model-converter: w_hql_hd, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/w_hql_hd/w_hql_hd.vmdl
+# weapon: weapon_ak47
+# skeleton: animation/skeletons/weapons/ak47.vnmskel
+materials/default/default_bentnormal_tga_2023e987.vtex
+models/weapons/exg/tokyocold/ak47_beast/beast_eye_vmat_g_tselfillummask_9c673fbf.vtex
+models/weapons/exg/tokyocold/ak47_beast/beast_eye.vmat
+models/weapons/exg/tokyocold/hql_hd/ak_beast_hd_n_tga_9cc53281.vtex
+models/weapons/exg/tokyocold/hql_hd/ak_beast_hd_tga_a5fcb185.vtex
+models/weapons/exg/tokyocold/hql_hd/ak_beast_hd_vmat_g_tselfillummask_5120d68c.vtex
+models/weapons/exg/tokyocold/hql_hd/ak_beast_hd.vmat
+weapons/custom/w_hql_hd/w_hql_hd.vmdl

@@ -1,0 +1,19 @@
+# cs2-model-converter: zaomengak, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/zaomengak/zaomengak.vmdl
+# weapon: weapon_ak47
+# skeleton: animation/skeletons/weapons/ak47.vnmskel
+weapons/exg/zaomengak/materials/ak47_vmat_g_tselfillummask_faa9aac9.vtex
+weapons/exg/zaomengak/materials/weapon_rif_ak47_2d_view_png_6b304b6b.vtex
+weapons/exg/zaomengak/materials/ak47.vmat
+weapons/exg/zaomengak/materials/guangquan_tga_cdd24981.vtex
+weapons/exg/zaomengak/materials/jian1_png_4caf4619.vtex
+weapons/exg/zaomengak/materials/guangquan.vmat
+weapons/exg/zaomengak/materials/jian_png_2a2a02ca.vtex
+weapons/exg/zaomengak/materials/liuguang1_vmat_g_tselfillummask_ff155607.vtex
+weapons/exg/zaomengak/materials/liuguang1.vmat
+weapons/exg/zaomengak/materials/renwu1_png_25f73a76.vtex
+weapons/exg/zaomengak/materials/renwu_vmat_g_tselfillummask_562af04c.vtex
+weapons/exg/zaomengak/materials/renwu.vmat
+weapons/exg/zaomengak/materials/sanjiao_png_babce982.vtex
+weapons/exg/zaomengak/materials/sanjiao.vmat
+weapons/custom/zaomengak/zaomengak.vmdl

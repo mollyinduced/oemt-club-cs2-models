@@ -1,0 +1,15 @@
+# cs2-model-converter: famas_laser, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/famas_laser/famas_laser.vmdl
+# weapon: weapon_famas
+# skeleton: animation/skeletons/weapons/famas.vnmskel
+weapons/otakku/famas/famas_laser/materials/famas1_vmat_g_tselfillummask_9f73a4fd.vtex
+weapons/otakku/famas/famas_laser/materials/t_ar_famas_skin_laser_ao_png_153bce09.vtex
+weapons/otakku/famas/famas_laser/materials/t_ar_famas_skin_laser_d_png_e7f808c.vtex
+weapons/otakku/famas/famas_laser/materials/t_ar_famas_skin_laser_n_png_6bd5bdef.vtex
+weapons/otakku/famas/famas_laser/materials/famas1.vmat
+weapons/otakku/famas/famas_laser/materials/t_ar_famas_skin_laser_etc_ao_png_2dbc0f21.vtex
+weapons/otakku/famas/famas_laser/materials/t_ar_famas_skin_laser_etc_d_png_4245d365.vtex
+weapons/otakku/famas/famas_laser/materials/t_ar_famas_skin_laser_etc_n_png_66605384.vtex
+weapons/otakku/famas/famas_laser/materials/t_ar_m4a1_skin_laser_etc_d_light_png_466186c2.vtex
+weapons/otakku/famas/famas_laser/materials/famas2.vmat
+weapons/custom/famas_laser/famas_laser.vmdl

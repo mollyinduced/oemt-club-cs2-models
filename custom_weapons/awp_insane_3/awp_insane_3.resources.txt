@@ -1,0 +1,22 @@
+# cs2-model-converter: awp_insane_3, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/awp_insane_3/awp_insane_3.vmdl
+# weapon: weapon_awp
+# skeleton: animation/skeletons/weapons/awp.vnmskel
+models/kolka/valorant/awp_isane/boltsniper_demonstone_magazine_v1_df_png_6f3fc3f5.vtex
+models/kolka/valorant/awp_isane/boltsniper_demonstone_magazine_v1_nm_png_2de63e12.vtex
+models/kolka/valorant/awp_isane/boltsniper_demonstone_magazine_v1_df.vmat
+models/kolka/valorant/awp_isane/boltsniper_demonstone_scope_v1_df_png_bb4d62ff.vtex
+models/kolka/valorant/awp_isane/boltsniper_demonstone_scope_v1_nm_png_aea25f08.vtex
+models/kolka/valorant/awp_isane/boltsniper_demonstone_scope_v1_df.vmat
+models/kolka/valorant/awp_isane/boltsniper_demonstone_nm_png_3878ce38.vtex
+models/kolka/valorant/awp_isane/boltsniper_demonstone_v1_df_png_c8c4cf9e.vtex
+models/kolka/valorant/awp_isane/boltsniper_demonstone_v1_df.vmat
+models/kolka/valorant/awp_isane/demonstone_decals_df_png_b616abc8.vtex
+models/kolka/valorant/awp_isane/demonstone_decals_df.vmat
+models/kolka/valorant/awp_isane/emmisev_vmat_g_tselfillummask_ff155607.vtex
+models/kolka/valorant/awp_isane/t_oni_tendrils_combined_vfx_png_6f7998f0.vtex
+models/kolka/valorant/awp_isane/emmisev.vmat
+models/kolka/valorant/awp_isane/t_oni_tendrils_combined_vfx_png_f963ec31.vtex
+models/kolka/valorant/awp_isane/t_oni_tendrils_combined_vfx_vmat_g_tselfillummask_ff155607.vtex
+models/kolka/valorant/awp_isane/t_oni_tendrils_combined_vfx.vmat
+weapons/custom/awp_insane_3/awp_insane_3.vmdl

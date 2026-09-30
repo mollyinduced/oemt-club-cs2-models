@@ -1,0 +1,34 @@
+# cs2-model-converter: selena_player_model, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/nozb1/selena_player_model/selena_player_model.vmdl
+# first person: 0 2 12 15
+characters/models/nozb1/selena_player_model/materials/selena_acc1_n_png_330988a7.vtex
+characters/models/nozb1/selena_player_model/materials/selena_acc1_png_36bc3a33.vtex
+characters/models/nozb1/selena_player_model/materials/selena_acc1.vmat
+characters/models/nozb1/selena_player_model/materials/selena_acc1_illummask_png_859824e1.vtex
+characters/models/nozb1/selena_player_model/materials/selena_acc1_illummask_png_9c764ac3.vtex
+characters/models/nozb1/selena_player_model/materials/selena_acc1_i.vmat
+characters/models/nozb1/selena_player_model/materials/selena_body_n_png_b0686d8.vtex
+characters/models/nozb1/selena_player_model/materials/selena_body_png_f7c7eb38.vtex
+characters/models/nozb1/selena_player_model/materials/selena_body_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/selena_player_model/materials/selena_body.vmat
+characters/models/nozb1/selena_player_model/materials/selena_body_l_png_188e7764.vtex
+characters/models/nozb1/selena_player_model/materials/selena_body_l_png_4f3db8cb.vtex
+characters/models/nozb1/selena_player_model/materials/selena_body_l.vmat
+characters/models/nozb1/selena_player_model/materials/selena_cloth1_n_png_83365dd3.vtex
+characters/models/nozb1/selena_player_model/materials/selena_cloth1_png_7d82e125.vtex
+characters/models/nozb1/selena_player_model/materials/selena_cloth1_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/selena_player_model/materials/selena_cloth1.vmat
+characters/models/nozb1/selena_player_model/materials/selena_eye_png_b7b1f04a.vtex
+characters/models/nozb1/selena_player_model/materials/selena_eye_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/selena_player_model/materials/selena_eye.vmat
+characters/models/nozb1/selena_player_model/materials/selena_face_png_6e2d5af4.vtex
+characters/models/nozb1/selena_player_model/materials/selena_face_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/selena_player_model/materials/selena_face.vmat
+characters/models/nozb1/selena_player_model/materials/selena_hair_png_71e4e190.vtex
+characters/models/nozb1/selena_player_model/materials/selena_hair_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/selena_player_model/materials/selena_hair.vmat
+characters/models/nozb1/selena_player_model/materials/selena_skin_png_826fd9c8.vtex
+characters/models/nozb1/selena_player_model/materials/selena_skin_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/selena_player_model/materials/selena_skin.vmat
+characters/models/nozb1/selena_player_model/selena_player_model/body_vmorf.vtex
+characters/models/nozb1/selena_player_model/selena_player_model.vmdl

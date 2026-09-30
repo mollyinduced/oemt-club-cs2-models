@@ -1,0 +1,29 @@
+# cs2-model-converter: hiyuki, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/asmodeus/hiyuki/hiyuki.vmdl
+# first person: 0 1 2 3
+characters/models/asmodeus/hiyuki/hiyuki/body_vmorf.vtex
+characters/models/asmodeus/hiyuki/materials/hiyuki_bhair_png_2eac64a6.vtex
+characters/models/asmodeus/hiyuki/materials/hiyuki_bhair_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/hiyuki/materials/hiyuki_bhair.vmat
+characters/models/asmodeus/hiyuki/materials/hiyuki_downbody_png_e603a73c.vtex
+characters/models/asmodeus/hiyuki/materials/hiyuki_downbody_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/hiyuki/materials/hiyuki_downbody.vmat
+characters/models/asmodeus/hiyuki/materials/hiyuki_eye_png_3853899b.vtex
+characters/models/asmodeus/hiyuki/materials/hiyuki_eye_png_9313f8cd.vtex
+characters/models/asmodeus/hiyuki/materials/hiyuki_eye.vmat
+characters/models/asmodeus/hiyuki/materials/hiyuki_eyehi_png_7fcb188.vtex
+characters/models/asmodeus/hiyuki/materials/hiyuki_eyehi_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/hiyuki/materials/hiyuki_eyehi.vmat
+characters/models/asmodeus/hiyuki/materials/hiyuki_face_png_f24797ed.vtex
+characters/models/asmodeus/hiyuki/materials/hiyuki_face_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/hiyuki/materials/hiyuki_face.vmat
+characters/models/asmodeus/hiyuki/materials/hiyuki_fhair_png_a0ba4257.vtex
+characters/models/asmodeus/hiyuki/materials/hiyuki_fhair_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/hiyuki/materials/hiyuki_fhair.vmat
+characters/models/asmodeus/hiyuki/materials/hiyuki_metal_png_17a462c1.vtex
+characters/models/asmodeus/hiyuki/materials/hiyuki_metal_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/hiyuki/materials/hiyuki_metal.vmat
+characters/models/asmodeus/hiyuki/materials/hiyuki_upskin_png_4f4a080.vtex
+characters/models/asmodeus/hiyuki/materials/hiyuki_upskin_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/hiyuki/materials/hiyuki_upskin.vmat
+characters/models/asmodeus/hiyuki/hiyuki.vmdl

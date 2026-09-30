@@ -1,0 +1,17 @@
+# cs2-model-converter: the resources models/custom/zelensky/zelensky.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/zelensky/avatarbodymale_color_2k_color_png_c601957a.vtex
+materials/models/custom/zelensky/avatarbodymale_color_2k.vmat
+materials/models/custom/zelensky/avatareyes_color_512_color_png_a2f70e20.vtex
+materials/models/custom/zelensky/avatareyes_color_512.vmat
+materials/models/custom/zelensky/avatarheadmale_color_2k_color_png_12212ce0.vtex
+materials/models/custom/zelensky/avatarheadmale_color_2k.vmat
+materials/models/custom/zelensky/avatarleftcornea_color_512_color_png_97cd7f65.vtex
+materials/models/custom/zelensky/avatarleftcornea_color_512.vmat
+materials/models/custom/zelensky/right_color_png_f7239cc1.vtex
+materials/models/custom/zelensky/right.vmat
+materials/models/custom/zelensky/sevan_color_2k_color_png_4224faee.vtex
+materials/models/custom/zelensky/sevan_color_2k.vmat
+materials/models/custom/zelensky/teeth_color_png_bdf51768.vtex
+materials/models/custom/zelensky/teeth.vmat
+models/custom/zelensky/zelensky.vmdl

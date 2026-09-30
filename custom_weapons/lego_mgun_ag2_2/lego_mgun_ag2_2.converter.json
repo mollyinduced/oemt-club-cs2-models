@@ -1,0 +1,59 @@
+{
+ "converter": "2.3",
+ "made": "2026-09-29 23:21:39",
+ "name": "lego_mgun_ag2_2",
+ "mode": "rebuild",
+ "input": "C:\\Users\\mollyinduced\\Downloads\\models\\interial_su_models_3726839993",
+ "model": "weapons/nozb1/lego_pack/lego_mgun/lego_mgun_ag2.vmdl_c",
+ "kind": "CS2 weapon model (AnimGraph2)",
+ "weapon": "weapon_negev",
+ "options": {
+  "skin": 0,
+  "up": "auto",
+  "forward": "auto",
+  "rig": true,
+  "shader": "csgo_complex.vfx",
+  "texture_size": 4096,
+  "mode": "auto",
+  "jiggle": true,
+  "guess_jiggle": true,
+  "first_person": true,
+  "twist": true,
+  "arms": null,
+  "weapon": null,
+  "extra": [
+   "C:\\Users\\mollyinduced\\Downloads\\models\\homer_simpson_v3\\agents\\models\\otakku\\homer_simpson\\materials"
+  ],
+  "addon": "custom_models"
+ },
+ "stats": {
+  "triangles": 8632,
+  "bones": 40,
+  "on": "weapons/models/negev/weapon_mach_negev.vmdl",
+  "skeleton": "animation/skeletons/weapons/negev.vnmskel",
+  "moved": {
+   "r": [
+    0.0,
+    -0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "parts": {
+   "ammobox": "ammobox",
+   "chargehandle": "chargehandle",
+   "tophinge": "tophinge",
+   "bullet09": "bullet09",
+   "bullet12": "bullet12",
+   "bullet08": "bullet08",
+   "bullet11": "bullet11",
+   "bullet05": "bullet05",
+   "bullet10": "bullet10",
+   "bullet07": "bullet07",
+   "bullet06": "bullet06",
+   "bullet13": "bullet13",
+   "trigger": "trigger"
+  },
+  "left_out": 0
+ }
+}

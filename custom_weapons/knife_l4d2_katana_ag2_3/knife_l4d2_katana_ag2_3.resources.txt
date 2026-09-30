@@ -1,0 +1,22 @@
+# cs2-model-converter: knife_l4d2_katana_ag2_3, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/knife_l4d2_katana_ag2_3/knife_l4d2_katana_ag2_3.vmdl
+# weapon: weapon_knife_cord
+# skeleton: animation/skeletons/weapons/knife_cord.vnmskel
+materials/memni4ik/knife/l4d2/blade_png_28ff95cd.vtex
+materials/memni4ik/knife/l4d2/blade_vmat_g_tliquidmask_b0af83e1.vtex
+materials/memni4ik/knife/l4d2/blade_vmat_g_tnormala_4eabd60_png_ecfe7474.vtex
+materials/memni4ik/knife/l4d2/blade.vmat
+materials/memni4ik/knife/l4d2/eye_vmat_g_tcolor_e85380c9.vtex
+materials/memni4ik/knife/l4d2/eye_vmat_g_tnormal_15ef22cf_png_a7b596a0.vtex
+materials/memni4ik/knife/l4d2/eye_vmat_g_tselfillummask_ff155607.vtex
+materials/memni4ik/knife/l4d2/eye.vmat
+materials/default/default_normal_tga_5a869113.vtex
+materials/memni4ik/knife/l4d2/handle_a_png_21c608d8.vtex
+materials/memni4ik/knife/l4d2/handle_png_cd6b3db3.vtex
+materials/memni4ik/knife/l4d2/handle.vmat
+materials/memni4ik/knife/l4d2/jianqiao_png_9e976cbc.vtex
+materials/memni4ik/knife/l4d2/jianqiao_vmat_g_tmask1_73100e5a.vtex
+materials/memni4ik/knife/l4d2/jianqiao_vmat_g_tmask2_73100e5a.vtex
+materials/memni4ik/knife/l4d2/jianqiao_vmat_g_tmask3_73100e5a.vtex
+materials/memni4ik/knife/l4d2/jianqiao.vmat
+weapons/custom/knife_l4d2_katana_ag2_3/knife_l4d2_katana_ag2_3.vmdl

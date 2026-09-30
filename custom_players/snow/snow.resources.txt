@@ -1,0 +1,61 @@
+# cs2-model-converter: snow, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/exg/aili/snow/snow.vmdl
+# first person: 9 1 524288 786432
+characters/models/exg/aili/snow/max/body_vmat_g_tmetalness_10974e8a.vtex
+characters/models/exg/aili/snow/max/body_vmat_g_tnormal_40f3df6.vtex
+characters/models/exg/aili/snow/max/manuka_body_png_cdf4f32.vtex
+characters/models/exg/aili/snow/max/body.vmat
+characters/models/exg/aili/snow/max/col/hair_back_vmat_g_tnormal_e0ed7158.vtex
+characters/models/exg/aili/snow/max/hair/hair_back_white_png_c877fbf1.vtex
+characters/models/exg/aili/snow/max/hair/mask_back_png_582905a7.vtex
+characters/models/exg/aili/snow/max/col/hair_back.vmat
+characters/models/exg/aili/snow/max/col/halo_vmat_g_tcolor_71b327bc.vtex
+characters/models/exg/aili/snow/max/col/halo_vmat_g_tnormal_aed807f.vtex
+characters/models/exg/aili/snow/max/col/halo_vmat_g_tselfillummask_ff155607.vtex
+characters/models/exg/aili/snow/max/col/halo.vmat
+characters/models/exg/aili/snow/max/col/jiao_halo_vmat_g_tnormal_aed807f.vtex
+characters/models/exg/aili/snow/max/col/jiao_halo_vmat_g_tselfillummask_ff155607.vtex
+characters/models/exg/aili/snow/max/jiao_png_dc4ccec.vtex
+characters/models/exg/aili/snow/max/col/jiao_halo.vmat
+characters/models/exg/aili/snow/max/col/qianfa_vmat_g_tnormal_aed807f.vtex
+characters/models/exg/aili/snow/max/hair/hair_front_white_png_5a165368.vtex
+characters/models/exg/aili/snow/max/hair/mask_front_png_a9c0afb7.vtex
+characters/models/exg/aili/snow/max/col/qianfa.vmat
+characters/models/exg/aili/snow/max/col/uv 1_warm white_png_29eb4a73.vtex
+characters/models/exg/aili/snow/max/col/uv1_vmat_g_tmetalness_10974e8a.vtex
+characters/models/exg/aili/snow/max/col/uv1_vmat_g_tnormal_40f3df6.vtex
+characters/models/exg/aili/snow/max/col/uv1.vmat
+characters/models/exg/aili/snow/max/col/evening primrose f.w_uv 1 mask 10_png_b5c62b33.vtex
+characters/models/exg/aili/snow/max/col/uv1_siwa_vmat_g_tnormal_aed807f.vtex
+characters/models/exg/aili/snow/max/col/uv1_sw_png_3b5e4efb.vtex
+characters/models/exg/aili/snow/max/col/uv1_siwa.vmat
+characters/models/exg/aili/snow/max/col/evening primrose f.w_uv 2 mask 1_png_c62fea2f.vtex
+characters/models/exg/aili/snow/max/col/uv 2_warm white_png_42fef0e8.vtex
+characters/models/exg/aili/snow/max/col/uv2_vmat_g_tnormal_aed807f.vtex
+characters/models/exg/aili/snow/max/col/uv2.vmat
+characters/models/exg/aili/snow/max/face_af_png_af0e6a48.vtex
+characters/models/exg/aili/snow/max/face_vmat_g_tnormal_aed807f.vtex
+characters/models/exg/aili/snow/max/manuka_face_png_9971cbb4.vtex
+characters/models/exg/aili/snow/max/face.vmat
+characters/models/exg/aili/snow/max/ssu_fuku_png_e3cbd828.vtex
+characters/models/exg/aili/snow/max/ssu_vmat_g_tmetalness_10974e8a.vtex
+characters/models/exg/aili/snow/max/ssu_vmat_g_tnormal_aed807f.vtex
+characters/models/exg/aili/snow/max/ssu.vmat
+characters/models/exg/mmy/maya_a/vmat/cat_gem_l_vmat_g_tcolor_199a9101.vtex
+characters/models/exg/mmy/maya_a/vmat/cat_gem_l_vmat_g_tnormal_df8bfa19.vtex
+characters/models/exg/mmy/maya_a/vmat/cat_gem_l_vmat_g_tselfillummask_ff155607.vtex
+characters/models/exg/mmy/maya_a/vmat/cat_gem_l.vmat
+characters/models/exg/mmy/maya_a/vmat/cat_l_vmat_g_tcolor_2f26bd57.vtex
+characters/models/exg/mmy/maya_a/vmat/cat_l_vmat_g_tnormal_1408199c.vtex
+characters/models/exg/mmy/maya_a/vmat/cat_l_vmat_g_tselfillummask_ff155607.vtex
+characters/models/exg/mmy/maya_a/vmat/cat_l.vmat
+characters/models/exg/mmy/maya_a/vmat/mj_png_d9a2afd2.vtex
+characters/models/exg/mmy/maya_a/vmat/mj_vmat_g_tselfillummask_ff155607.vtex
+characters/models/exg/mmy/maya_a/vmat/mj.vmat
+characters/models/exg/nimiki/chiffon_coaster/materials/chiffon_body_png_59513f71.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/body_arms.vmat
+characters/models/exg/nimiki/chiffon_coaster/materials/flower2_vmat_g_tcolor_7ab53e0a.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/flower2_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/flower2_vmat_g_tnormal_53b47c48.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/flower2.vmat
+characters/models/exg/aili/snow/snow.vmdl

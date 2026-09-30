@@ -1,0 +1,28 @@
+# cs2-model-converter: franklin_player_model, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/nozb1/franklin_player_model/franklin_player_model.vmdl
+# first person: 0 2 12 15
+characters/models/nozb1/franklin_player_model/franklin_player_model/body_vmorf.vtex
+characters/models/nozb1/franklin_player_model/materials/arms_vmat_g_tmetalness_10974e8a.vtex
+characters/models/nozb1/franklin_player_model/materials/hand_diff_000_a_uni_0_normal_png_702f31a0.vtex
+characters/models/nozb1/franklin_player_model/materials/hand_diff_000_a_uni_0_png_3079bd8e.vtex
+characters/models/nozb1/franklin_player_model/materials/arms.vmat
+characters/models/nozb1/franklin_player_model/materials/blow_vmat_g_tmetalness_10974e8a.vtex
+characters/models/nozb1/franklin_player_model/materials/teef_diff_000_a_unia_0_png_c0b4df0d.vtex
+characters/models/nozb1/franklin_player_model/materials/blow.vmat
+characters/models/nozb1/franklin_player_model/materials/blower_vmat_g_tmetalness_10974e8a.vtex
+characters/models/nozb1/franklin_player_model/materials/lowr_diff_008_a_uni_0_normal_png_dac9e008.vtex
+characters/models/nozb1/franklin_player_model/materials/lowr_diff_008_a_uni_0_png_a3855c12.vtex
+characters/models/nozb1/franklin_player_model/materials/blower.vmat
+characters/models/nozb1/franklin_player_model/materials/boots_vmat_g_tmetalness_10974e8a.vtex
+characters/models/nozb1/franklin_player_model/materials/feet_diff_006_a_uni_0_normal_png_3e0d2c65.vtex
+characters/models/nozb1/franklin_player_model/materials/feet_diff_006_a_uni_0_png_179e4a3b.vtex
+characters/models/nozb1/franklin_player_model/materials/boots.vmat
+characters/models/nozb1/franklin_player_model/materials/bupper_vmat_g_tmetalness_10974e8a.vtex
+characters/models/nozb1/franklin_player_model/materials/uppr_diff_008_a_uni_0_normal_png_d89fb8a6.vtex
+characters/models/nozb1/franklin_player_model/materials/uppr_diff_008_a_uni_0_png_d9235678.vtex
+characters/models/nozb1/franklin_player_model/materials/bupper.vmat
+characters/models/nozb1/franklin_player_model/materials/face_vmat_g_tmetalness_10974e8a.vtex
+characters/models/nozb1/franklin_player_model/materials/head_diff_000_a_bla_0_normal_png_f7fab7f9.vtex
+characters/models/nozb1/franklin_player_model/materials/head_diff_000_a_bla_0_png_9241740e.vtex
+characters/models/nozb1/franklin_player_model/materials/face.vmat
+characters/models/nozb1/franklin_player_model/franklin_player_model.vmdl

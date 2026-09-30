@@ -1,0 +1,11 @@
+# cs2-model-converter: w_apex_karambit_cosmicmerc_doro, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/w_apex_karambit_cosmicmerc_doro/w_apex_karambit_cosmicmerc_doro.vmdl
+# weapon: weapon_knife_karambit
+# skeleton: animation/skeletons/weapons/knife_karambit.vnmskel
+weapons/7ychu5/apex_karambit_cosmicmerc_doro/materials/doro_jpg_d8f1c9a9.vtex
+weapons/7ychu5/apex_karambit_cosmicmerc_doro/materials/doro_vmat_g_tselfillummask_ff155607.vtex
+weapons/7ychu5/apex_karambit_cosmicmerc_doro/materials/doro.vmat
+weapons/7ychu5/apex_karambit_cosmicmerc_doro/materials/heirloom_karambit_v24_cosmicmerc_main_emissive_png_8b351011.vtex
+weapons/7ychu5/apex_karambit_cosmicmerc_doro/materials/main_2_png_4dd6a6f.vtex
+weapons/7ychu5/apex_karambit_cosmicmerc_doro/materials/main.vmat
+weapons/custom/w_apex_karambit_cosmicmerc_doro/w_apex_karambit_cosmicmerc_doro.vmdl

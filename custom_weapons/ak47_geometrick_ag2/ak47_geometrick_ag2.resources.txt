@@ -1,0 +1,17 @@
+# cs2-model-converter: ak47_geometrick_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/ak47_geometrick_ag2/ak47_geometrick_ag2.vmdl
+# weapon: weapon_ak47
+# skeleton: animation/skeletons/weapons/ak47.vnmskel
+materials/memni4ik/ak47/geometrick/hud_png_6ef8e992.vtex
+materials/memni4ik/ak47/geometrick/hud_vmat_g_tnormal_99abe987.vtex
+materials/memni4ik/ak47/geometrick/hud.vmat
+materials/memni4ik/ak47/geometrick/iro_col_jpg_dd4f539.vtex
+materials/memni4ik/ak47/geometrick/iro_nml_jpg_228d6a2e.vtex
+materials/memni4ik/ak47/geometrick/iro_col.vmat
+materials/memni4ik/ak47/geometrick/laser_glow_png_4041ef19.vtex
+materials/memni4ik/ak47/geometrick/laser_glow_png_890d7431.vtex
+materials/memni4ik/ak47/geometrick/laser.vmat
+materials/memni4ik/ak47/geometrick/wea_col_jpg_b6cb63db.vtex
+materials/memni4ik/ak47/geometrick/wea_nml_jpg_adcea003.vtex
+materials/memni4ik/ak47/geometrick/wea_col.vmat
+weapons/custom/ak47_geometrick_ag2/ak47_geometrick_ag2.vmdl

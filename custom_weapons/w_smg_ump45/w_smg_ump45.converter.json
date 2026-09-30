@@ -1,0 +1,49 @@
+{
+ "converter": "2.3",
+ "made": "2026-09-29 22:28:28",
+ "name": "w_smg_ump45",
+ "mode": "rebuild",
+ "input": "C:\\Users\\mollyinduced\\Downloads\\models\\assault_3070594412",
+ "model": "models/weapons/w_smg_ump45.vmdl_c",
+ "kind": "CS2 weapon model, no skeleton",
+ "weapon": "weapon_ump45",
+ "options": {
+  "skin": 0,
+  "up": "auto",
+  "forward": "auto",
+  "rig": true,
+  "shader": "csgo_complex.vfx",
+  "texture_size": 4096,
+  "mode": "auto",
+  "jiggle": true,
+  "guess_jiggle": true,
+  "first_person": true,
+  "twist": true,
+  "arms": null,
+  "weapon": null,
+  "extra": [
+   "C:\\Users\\mollyinduced\\Downloads\\models\\homer_simpson_v3\\agents\\models\\otakku\\homer_simpson\\materials"
+  ],
+  "addon": "custom_models"
+ },
+ "stats": {
+  "triangles": 2372,
+  "bones": 8,
+  "on": "weapons/models/ump45/weapon_smg_ump45.vmdl",
+  "skeleton": "animation/skeletons/weapons/ump45.vnmskel",
+  "moved": {
+   "r": [
+    24.669,
+    -41.286,
+    -0.08,
+    125.4
+   ]
+  },
+  "parts": {
+   "weapon_bolt": "bolt",
+   "weapon_trigger": "trigger",
+   "weapon_mag": "clip"
+  },
+  "left_out": 0
+ }
+}

@@ -1,0 +1,20 @@
+# cs2-model-converter: m4a1_m, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/m4a1_m/m4a1_m.vmdl
+# weapon: weapon_m4a1
+# skeleton: animation/skeletons/weapons/m4a4.vnmskel
+weapons/kxnrl/m4a1/starchasm/materials/att_ammo_545s_n_tga_d03c682e.vtex
+weapons/kxnrl/m4a1/starchasm/materials/att_ammo_545s_tga_35d36826.vtex
+weapons/kxnrl/m4a1/starchasm/materials/att_ammo_545s_vmat_g_tselfillummask_ff155607.vtex
+weapons/kxnrl/m4a1/starchasm/materials/att_ammo_545s.vmat
+weapons/kxnrl/m4a1/starchasm/materials/mag_stanag_magpul_pmag_gen_m3_556x45_30_lod0_diff_tga_2b9f59d1.vtex
+weapons/kxnrl/m4a1/starchasm/materials/mag_stanag_magpul_pmag_gen_m3_556x45_30_lod0_nrm_tga_1dc30457.vtex
+weapons/kxnrl/m4a1/starchasm/materials/mag_stanag_magpul_pmag_gen_m3_556x45_30_lod0_vmat_g_tselfillummask_ff155607.vtex
+weapons/kxnrl/m4a1/starchasm/materials/mag_stanag_magpul_pmag_gen_m3_556x45_30_lod0.vmat
+weapons/kxnrl/m4a1/starchasm/materials/mb3_tga_cb78dd76.vtex
+weapons/kxnrl/m4a1/starchasm/materials/mb3_vmat_g_tselfillummask_ff155607.vtex
+weapons/kxnrl/m4a1/starchasm/materials/mb3.vmat
+weapons/kxnrl/m4a1/starchasm/materials/weapon_kb_m4_mag_c_tga_2b358ee5.vtex
+weapons/kxnrl/m4a1/starchasm/materials/weapon_kb_m4_mag_n_tga_99806b39.vtex
+weapons/kxnrl/m4a1/starchasm/materials/weapon_kb_m4_mag_vmat_g_tselfillummask_ff155607.vtex
+weapons/kxnrl/m4a1/starchasm/materials/weapon_kb_m4_mag.vmat
+weapons/custom/m4a1_m/m4a1_m.vmdl

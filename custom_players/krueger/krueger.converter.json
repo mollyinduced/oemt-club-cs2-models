@@ -1,0 +1,41 @@
+{
+ "converter": "2.3",
+ "made": "2026-09-29 21:37:02",
+ "name": "krueger",
+ "mode": "rebuild",
+ "input": "C:\\Users\\mollyinduced\\Downloads\\models\\horror_story_hide_and_seek_2290847389",
+ "model": "models/player/custom_player/kuristaja/krueger/krueger.mdl",
+ "kind": "Source 1 model",
+ "options": {
+  "skin": 0,
+  "up": "auto",
+  "forward": "auto",
+  "rig": true,
+  "shader": "csgo_complex.vfx",
+  "texture_size": 4096,
+  "mode": "auto",
+  "jiggle": true,
+  "guess_jiggle": true,
+  "first_person": true,
+  "twist": true,
+  "arms": null,
+  "weapon": null,
+  "extra": [
+   "C:\\Users\\mollyinduced\\Downloads\\models\\homer_simpson_v3\\agents\\models\\otakku\\homer_simpson\\materials"
+  ],
+  "addon": "custom_models"
+ },
+ "stats": {
+  "triangles": 18436,
+  "first_person_triangles": 7060,
+  "bones": 89,
+  "kept_bones": [
+   "primary_jiggle_jnt"
+  ],
+  "jiggle_bones": [
+   "primary_jiggle_jnt"
+  ],
+  "first_person": "models/player/custom_player/kuristaja/krueger/krueger_arms.mdl",
+  "materials": 10
+ }
+}

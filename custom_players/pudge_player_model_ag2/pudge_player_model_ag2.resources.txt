@@ -1,0 +1,7 @@
+# cs2-model-converter: the resources models/custom/pudge_player_model_ag2/pudge_player_model_ag2.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/pudge_player_model_ag2/bare_arm_103_color_png_82a7b339.vtex
+materials/models/custom/pudge_player_model_ag2/bare_arm_103.vmat
+materials/models/custom/pudge_player_model_ag2/lef_armd_color_png_ce70dab1.vtex
+materials/models/custom/pudge_player_model_ag2/lef_armd.vmat
+models/custom/pudge_player_model_ag2/pudge_player_model_ag2.vmdl

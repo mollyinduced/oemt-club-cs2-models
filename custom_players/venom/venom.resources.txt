@@ -1,0 +1,20 @@
+# cs2-model-converter: venom, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/reborn/venom/venom.vmdl
+# first person: 0 1 2 3
+agents/models/reborn/venom/materials/body2_jpg_d19c451b_png_54f14afc.vtex
+agents/models/reborn/venom/materials/logo_reborn_png_9db5e82.vtex
+agents/models/reborn/venom/materials/venom_body1_vmat_g_tmetalness_10974e8a.vtex
+agents/models/reborn/venom/materials/venom_body1.vmat
+agents/models/reborn/venom/materials/head1_jpg_7e5e83e0_png_5f9bfc02.vtex
+agents/models/reborn/venom/materials/head2_jpg_966d4ab3_png_9b7972c0.vtex
+agents/models/reborn/venom/materials/venom_head1_vmat_g_tmetalness_10974e8a.vtex
+agents/models/reborn/venom/materials/venom_head1.vmat
+agents/models/reborn/venom/materials/tendrils1_jpg_f8563463_png_b71b457b.vtex
+agents/models/reborn/venom/materials/tendrils2_jpg_c19422a9_png_86623787.vtex
+agents/models/reborn/venom/materials/venom_tendrils1_vmat_g_tmetalness_10974e8a.vtex
+agents/models/reborn/venom/materials/venom_tendrils1.vmat
+agents/models/reborn/venom/materials/tounge1_jpg_67144a82_png_3d96da0.vtex
+agents/models/reborn/venom/materials/tounge2_jpg_7b3e5737_png_33106d5c.vtex
+agents/models/reborn/venom/materials/venom_tounge1_vmat_g_tmetalness_10974e8a.vtex
+agents/models/reborn/venom/materials/venom_tounge1.vmat
+agents/models/reborn/venom/venom.vmdl

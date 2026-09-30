@@ -1,0 +1,18 @@
+# cs2-model-converter: karambit_mfsn_pink, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/karambit_mfsn_pink/karambit_mfsn_pink.vmdl
+# weapon: weapon_knife_karambit
+# skeleton: animation/skeletons/weapons/knife_karambit.vnmskel
+materials/default/stickers/squares_glitter_normal_tga_26be020f.vtex
+weapons/models/karambit_mfsn/materials/karambit_mfsn_base_color_png_68583a42.vtex
+weapons/models/karambit_mfsn/materials/karambit_n_png_7684067.vtex
+weapons/models/karambit_mfsn/materials/karambit_pink_vmat_g_tselfillummask_ff155607.vtex
+weapons/models/karambit_mfsn/materials/mask_png_a3a219aa.vtex
+weapons/models/karambit_mfsn/materials/karambit_pink.vmat
+materials/default/default_normal_tga_5a869113.vtex
+weapons/models/karambit_mfsn/materials/7e94dbae734d410bb08584029397ce0b_png_a815ec47.vtex
+weapons/models/karambit_mfsn/materials/mb_vmat_g_tselfillummask_ff155607.vtex
+weapons/models/karambit_mfsn/materials/mb.vmat
+weapons/models/karambit_mfsn/materials/7e94dbae734d410bb08584029397ce0b_png_95166cdd.vtex
+weapons/models/karambit_mfsn/materials/star_png_f735c310.vtex
+weapons/models/karambit_mfsn/materials/star.vmat
+weapons/custom/karambit_mfsn_pink/karambit_mfsn_pink.vmdl

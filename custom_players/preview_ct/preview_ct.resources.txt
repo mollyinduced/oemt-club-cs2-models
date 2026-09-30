@@ -1,0 +1,44 @@
+# cs2-model-converter: preview_ct, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: models/player/custom_player/minecraft/preview/preview_ct.vmdl
+# first person: 1 1 8 12
+animation/anims/viewmodel/offs_additive.vnmclip
+animation/graphs/viewmodel/viewmodel_gun_mc.vnmgraph+deagle.vnmgraph
+animation/graphs/viewmodel/viewmodel_gun_mc.vnmgraph+five_seven.vnmgraph
+animation/graphs/viewmodel/viewmodel_gun_mc.vnmgraph+glock.vnmgraph
+animation/graphs/viewmodel/viewmodel_gun_mc.vnmgraph+hkp2000.vnmgraph
+animation/graphs/viewmodel/viewmodel_gun_mc.vnmgraph+p250.vnmgraph
+animation/graphs/viewmodel/viewmodel_gun_mc.vnmgraph+tec9.vnmgraph
+animation/graphs/viewmodel/viewmodel_gun_mc.vnmgraph+usp.vnmgraph
+animation/anims/viewmodel/knife/draw2_ursus_defaultknife.vnmclip
+animation/anims/viewmodel/knife/draw_ursus_defaultknife.vnmclip
+animation/graphs/viewmodel/viewmodel_knife_mc.vnmgraph+default_ct.vnmgraph
+animation/graphs/viewmodel/viewmodel_knife_mc.vnmgraph+default_t.vnmgraph
+animation/graphs/viewmodel/viewmodel_mc.vnmgraph
+materials/minecraft/defusekit/albedo_png_9cb485f7.vtex
+materials/minecraft/defusekit/roughness_png_52bbd62a.vtex
+materials/minecraft/defusekit/defusekit.vmat
+materials/minecraft/player/ctm_sas/ctm_sas_png_dbbebb9d.vtex
+materials/minecraft/player/ctm_sas/ctm_sas_rough_png_ecbccbf6.vtex
+materials/minecraft/player/ctm_sas/ctm_sas_vmat_g_tmetalness_1081f06e.vtex
+materials/minecraft/player/ctm_sas/ctm_sas.vmat
+materials/minecraft/player/custom/gsg9/ctm_gsg91_vmat_g_tmetalness_b99de324.vtex
+materials/minecraft/player/custom/gsg9/ctm_gsg91_vmat_g_tnormal_53b47c48.vtex
+materials/minecraft/player/custom/gsg9/gsg91_png_3f09320.vtex
+materials/minecraft/player/custom/gsg9/ctm_gsg91.vmat
+materials/minecraft/player/custom/gsg9/ctm_gsg92_vmat_g_tmetalness_b99de324.vtex
+materials/minecraft/player/custom/gsg9/ctm_gsg92_vmat_g_tnormal_53b47c48.vtex
+materials/minecraft/player/custom/gsg9/gsg92_png_b6fbdaa6.vtex
+materials/minecraft/player/custom/gsg9/ctm_gsg92.vmat
+materials/minecraft/player/custom/gsg9/ctm_gsg93_vmat_g_tmetalness_b99de324.vtex
+materials/minecraft/player/custom/gsg9/ctm_gsg93_vmat_g_tnormal_53b47c48.vtex
+materials/minecraft/player/custom/gsg9/gsg93_png_9b0da959.vtex
+materials/minecraft/player/custom/gsg9/ctm_gsg93.vmat
+materials/minecraft/player/custom/gsg9/ctm_gsg94_vmat_g_tmetalness_b99de324.vtex
+materials/minecraft/player/custom/gsg9/ctm_gsg94_vmat_g_tnormal_53b47c48.vtex
+materials/minecraft/player/custom/gsg9/gsg94_png_c8b9fba5.vtex
+materials/minecraft/player/custom/gsg9/ctm_gsg94.vmat
+materials/minecraft/player/custom/gsg9/ctm_gsg95_vmat_g_tmetalness_b99de324.vtex
+materials/minecraft/player/custom/gsg9/ctm_gsg95_vmat_g_tnormal_53b47c48.vtex
+materials/minecraft/player/custom/gsg9/gsg95_png_1d6dfe0b.vtex
+materials/minecraft/player/custom/gsg9/ctm_gsg95.vmat
+models/player/custom_player/minecraft/preview/preview_ct.vmdl

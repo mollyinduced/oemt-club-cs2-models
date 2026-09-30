@@ -1,0 +1,8 @@
+# cs2-model-converter: m249_shotgunshell_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/m249_shotgunshell_ag2/m249_shotgunshell_ag2.vmdl
+# weapon: weapon_m249
+# skeleton: animation/skeletons/weapons/m249.vnmskel
+weapons/models/2en0w/m249_shotgunshell/materials/m249_shotgunshell_vmat_g_tnormal_637cc066.vtex
+weapons/models/2en0w/negev_shotgunshell/materials/negev_shotgunshell_base_png_aa3848fc.vtex
+weapons/models/2en0w/m249_shotgunshell/materials/m249_shotgunshell.vmat
+weapons/custom/m249_shotgunshell_ag2/m249_shotgunshell_ag2.vmdl

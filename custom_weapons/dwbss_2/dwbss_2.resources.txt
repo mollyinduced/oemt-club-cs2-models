@@ -1,0 +1,15 @@
+# cs2-model-converter: dwbss_2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/dwbss_2/dwbss_2.vmdl
+# weapon: weapon_knife_m9_bayonet
+# skeleton: animation/skeletons/weapons/knife_m9.vnmskel
+models/dwbss/00000001992605f8_png_8c2f2ecf.vtex
+models/dwbss/2_png_35fdc4e0.vtex
+models/dwbss/2_png_a27ab7d.vtex
+models/dwbss/2.vmat
+models/dwbss/melee_cyberpunk_nm_png_3dcb7c5f.vtex
+models/dwbss/melee_cyberpunk_nm_png_aa4ee217.vtex
+models/dwbss/melee_cyberpunk_t1_df_png_63ce88d1.vtex
+models/dwbss/melee_cyberpunk_t1_df_vmat_g_tambientocclusion_2105c0a6.vtex
+models/dwbss/melee_cyberpunk_t1_df_vmat_g_tselfillummask_ff155607.vtex
+models/dwbss/melee_cyberpunk_t1_df.vmat
+weapons/custom/dwbss_2/dwbss_2.vmdl

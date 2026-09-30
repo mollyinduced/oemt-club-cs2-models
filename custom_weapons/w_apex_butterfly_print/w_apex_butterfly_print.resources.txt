@@ -1,0 +1,17 @@
+# cs2-model-converter: w_apex_butterfly_print, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/w_apex_butterfly_print/w_apex_butterfly_print.vmdl
+# weapon: weapon_knife_m9_bayonet
+# skeleton: animation/skeletons/weapons/knife_m9.vnmskel
+models/weapons/exg/tokyocold/apex_butterfly_print/r99_flaps_disp_opacitymultiplytexture_png_2f6b3ce0.vtex
+models/weapons/exg/tokyocold/apex_butterfly_print/apex_butterfly_lq.vmat
+materials/default/default_paintao_tga_5969a7df.vtex
+models/weapons/exg/tokyocold/apex_butterfly_print/apex_butterfly_print_vmat_g_tnormal_3fd873b1_png_d4f20c46.vtex
+models/weapons/exg/tokyocold/apex_butterfly_print/apex_butterfly_print_vmat_g_tselfillummask_2f34022a.vtex
+models/weapons/exg/tokyocold/apex_butterfly_print/print1440_png_2ebbe332.vtex
+models/weapons/exg/tokyocold/apex_butterfly_print/apex_butterfly_print.vmat
+models/weapons/exg/tokyocold/apex_butterfly_print/jgy.vmat
+models/weapons/exg/tokyocold/apex_butterfly_print/tick_loot2_vmat_g_tnormal_80cfaf33.vtex
+models/weapons/exg/tokyocold/apex_butterfly_print/tick_loot2_vmat_g_tselfillummask_351d9386.vtex
+models/weapons/exg/tokyocold/apex_butterfly_print/tick_loot_2019_christmas_col_png_3b1e6b05.vtex
+models/weapons/exg/tokyocold/apex_butterfly_print/tick_loot2.vmat
+weapons/custom/w_apex_butterfly_print/w_apex_butterfly_print.vmdl

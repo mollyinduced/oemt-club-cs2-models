@@ -1,0 +1,32 @@
+# cs2-model-converter: awp_white_ag2_2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/awp_white_ag2_2/awp_white_ag2_2.vmdl
+# weapon: weapon_awp
+# skeleton: animation/skeletons/weapons/awp.vnmskel
+models/weapons/exg/tokyocold/whisper/whisperfx1_tga_8d4eb6ad.vtex
+models/weapons/exg/tokyocold/whisper/whisperfx_vmat_g_tnormal_a1e47e21.vtex
+models/weapons/exg/tokyocold/whisper/whisperreticle_fx_tga_2864e9.vtex
+models/weapons/exg/tokyocold/whisper/whisperfx.vmat
+models/weapons/exg/tokyocold/whisper/takeneffect_tga_834240ad.vtex
+models/weapons/exg/tokyocold/whisper/whisperfx2_vmat_g_tnormal_a1e47e21.vtex
+models/weapons/exg/tokyocold/whisper/whisperfx2_vmat_g_tselfillummask_e662d81e.vtex
+models/weapons/exg/tokyocold/whisper/whisperfx2.vmat
+models/weapons/exg/tokyocold/whisper2/betweenbreathsbody_vmat_g_tnormal_bcced194.vtex
+models/weapons/exg/tokyocold/whisper2/betweenbreathsbody_vmat_g_tselfillummask_6e5149ef.vtex
+models/weapons/exg/tokyocold/whisper2/whisperbody_diffuse_tga_b950a825.vtex
+models/weapons/exg/tokyocold/whisper2/betweenbreathsbody.vmat
+models/weapons/exg/tokyocold/whisper2/betweenbreathsscope_vmat_g_tnormal_2f929ae8.vtex
+models/weapons/exg/tokyocold/whisper2/betweenbreathsscope_vmat_g_tselfillummask_6e5149ef.vtex
+models/weapons/exg/tokyocold/whisper2/whisperscope_diffuse_tga_e992fa0c.vtex
+models/weapons/exg/tokyocold/whisper2/betweenbreathsscope.vmat
+materials/default/default_normal_tga_5a869113.vtex
+models/weapons/exg/tokyocold/whisper2/whisperemit1_png_b2293935.vtex
+models/weapons/exg/tokyocold/whisper2/whisperemit_vmat_g_tselfillummask_a4002b3a.vtex
+models/weapons/exg/tokyocold/whisper2/whisperemit.vmat
+models/weapons/exg/tokyocold/whisper2/whisperemit2_tga_aa4ee441.vtex
+models/weapons/exg/tokyocold/whisper2/whisperemit2_vmat_g_tselfillummask_42c58bf3.vtex
+models/weapons/exg/tokyocold/whisper2/whisperemit2.vmat
+models/weapons/exg/tokyocold/whisper2/whisperofthewormflowmap_png_14031d21.vtex
+models/weapons/exg/tokyocold/whisper2/whisperscope1_vmat_g_tnormal_a1e47e21.vtex
+models/weapons/exg/tokyocold/whisper2/whisperscope1_vmat_g_tselfillummask_4eefb516.vtex
+models/weapons/exg/tokyocold/whisper2/whisperscope1.vmat
+weapons/custom/awp_white_ag2_2/awp_white_ag2_2.vmdl

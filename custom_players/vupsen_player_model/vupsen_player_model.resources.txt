@@ -1,0 +1,8 @@
+# cs2-model-converter: vupsen_player_model, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/nozb1/vupsen_player_model/vupsen_player_model.vmdl
+# first person: 0 2 12 15
+characters/models/nozb1/vupsen_player_model/materials/vupsen_d_png_4fd295d.vtex
+characters/models/nozb1/vupsen_player_model/materials/vupsen_mat_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/vupsen_player_model/materials/vupsen_mat.vmat
+characters/models/nozb1/vupsen_player_model/vupsen_player_model/body_vmorf.vtex
+characters/models/nozb1/vupsen_player_model/vupsen_player_model.vmdl

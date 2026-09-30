@@ -1,0 +1,9 @@
+# cs2-model-converter: ak47_rust_ag2_3, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/ak47_rust_ag2_3/ak47_rust_ag2_3.vmdl
+# weapon: weapon_ak47
+# skeleton: animation/skeletons/weapons/ak47.vnmskel
+weapons/moovik/akrust/base_color_png_c3be2ed9.vtex
+weapons/moovik/akrust/grayscale_png_5593df5.vtex
+weapons/moovik/akrust/normal_png_baeea180.vtex
+weapons/moovik/akrust/akgenkai.vmat
+weapons/custom/ak47_rust_ag2_3/ak47_rust_ag2_3.vmdl

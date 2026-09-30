@@ -1,0 +1,42 @@
+# cs2-model-converter: klukai_sk2modellimitedcolision, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/hmn_ag2/dollsfrontline2/klukai/klukai_sk2modellimitedcolision.vmdl
+# first person: 0 1 2 3
+agents/models/hmn_ag2/dollsfrontline2/klukai/klukai_sk2modellimitedcolision/body_vmorf.vtex
+agents/models/hmn_ag2/dollsfrontline2/klukai/materials/klukai_cloth01_cs2_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/hmn_ag2/dollsfrontline2/klukai/materials/klukai_cloth01_cs2_vmat_g_tdiffusefalloff_aa1e6fc8.vtex
+agents/models/hmn_ag2/dollsfrontline2/klukai/materials/klukai_cloth01_cs2_vmat_g_tmetalness_1081f06e.vtex
+agents/models/hmn_ag2/dollsfrontline2/klukai/materials/klukai_cloth01_d_jpg_3f5bad7.vtex
+agents/models/hmn_ag2/dollsfrontline2/klukai/materials/klukai_cloth01_n_jpg_d8e5b38c.vtex
+materials/default/default_mask_tga_cac76a2f.vtex
+agents/models/hmn_ag2/dollsfrontline2/klukai/materials/klukai_cloth01_cs2.vmat
+agents/models/hmn_ag2/dollsfrontline2/klukai/materials/klukai_cloth02_d_jpg_dd188d0b.vtex
+agents/models/hmn_ag2/dollsfrontline2/klukai/materials/klukai_cloth02_n_jpg_42bb172.vtex
+agents/models/hmn_ag2/dollsfrontline2/klukai/materials/klukai_cloth02_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/hmn_ag2/dollsfrontline2/klukai/materials/klukai_cloth02_vmat_g_tdiffusefalloff_aa1e6fc8.vtex
+agents/models/hmn_ag2/dollsfrontline2/klukai/materials/klukai_cloth02_vmat_g_tmetalness_1081f06e.vtex
+agents/models/hmn_ag2/dollsfrontline2/klukai/materials/klukai_cloth02.vmat
+agents/models/hmn_ag2/dollsfrontline2/klukai/materials/klukai_eye_blend_cs2_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/hmn_ag2/dollsfrontline2/klukai/materials/klukai_eye_blend_cs2_vmat_g_tdiffusefalloff_aa1e6fc8.vtex
+agents/models/hmn_ag2/dollsfrontline2/klukai/materials/klukai_eye_blend_cs2_vmat_g_tmetalness_1081f06e.vtex
+agents/models/hmn_ag2/dollsfrontline2/klukai/materials/klukai_eye_blend_cs2_vmat_g_tnormal_953a319c.vtex
+agents/models/hmn_ag2/dollsfrontline2/klukai/materials/klukai_eyes_blend_png_43e889fc.vtex
+agents/models/hmn_ag2/dollsfrontline2/klukai/materials/klukai_eye_blend_cs2.vmat
+agents/models/hmn_ag2/dollsfrontline2/klukai/materials/klukai_eye_cs2_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/hmn_ag2/dollsfrontline2/klukai/materials/klukai_eye_cs2_vmat_g_tdiffusefalloff_aa1e6fc8.vtex
+agents/models/hmn_ag2/dollsfrontline2/klukai/materials/klukai_eye_cs2_vmat_g_tmetalness_1081f06e.vtex
+agents/models/hmn_ag2/dollsfrontline2/klukai/materials/klukai_eye_cs2_vmat_g_tnormal_aed807f.vtex
+agents/models/hmn_ag2/dollsfrontline2/klukai/materials/klukai_eyes_d_jpg_197bc6f9.vtex
+agents/models/hmn_ag2/dollsfrontline2/klukai/materials/klukai_eye_cs2.vmat
+agents/models/hmn_ag2/dollsfrontline2/klukai/materials/klukai_face_cs2_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/hmn_ag2/dollsfrontline2/klukai/materials/klukai_face_cs2_vmat_g_tdiffusefalloff_aa1e6fc8.vtex
+agents/models/hmn_ag2/dollsfrontline2/klukai/materials/klukai_face_cs2_vmat_g_tmetalness_1081f06e.vtex
+agents/models/hmn_ag2/dollsfrontline2/klukai/materials/klukai_face_cs2_vmat_g_tnormal_aed807f.vtex
+agents/models/hmn_ag2/dollsfrontline2/klukai/materials/klukai_face_d_jpg_ba196391.vtex
+agents/models/hmn_ag2/dollsfrontline2/klukai/materials/klukai_face_cs2.vmat
+agents/models/hmn_ag2/dollsfrontline2/klukai/materials/klukai_hair_cs2_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/hmn_ag2/dollsfrontline2/klukai/materials/klukai_hair_cs2_vmat_g_tdiffusefalloff_aa1e6fc8.vtex
+agents/models/hmn_ag2/dollsfrontline2/klukai/materials/klukai_hair_cs2_vmat_g_tmetalness_1081f06e.vtex
+agents/models/hmn_ag2/dollsfrontline2/klukai/materials/klukai_hair_cs2_vmat_g_tnormal_aed807f.vtex
+agents/models/hmn_ag2/dollsfrontline2/klukai/materials/klukai_hair_d_jpg_70e702ad.vtex
+agents/models/hmn_ag2/dollsfrontline2/klukai/materials/klukai_hair_cs2.vmat
+agents/models/hmn_ag2/dollsfrontline2/klukai/klukai_sk2modellimitedcolision.vmdl

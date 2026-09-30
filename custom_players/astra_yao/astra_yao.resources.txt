@@ -1,0 +1,14 @@
+# cs2-model-converter: astra_yao, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/asmodeus/astra_yao/astra_yao.vmdl
+# first person: 0 1 2 3
+characters/models/asmodeus/astra_yao/astra_yao/body_vmorf.vtex
+characters/models/asmodeus/astra_yao/materials/astra_body_png_b03b0213.vtex
+characters/models/asmodeus/astra_yao/materials/astra_body_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/astra_yao/materials/astra_body.vmat
+characters/models/asmodeus/astra_yao/materials/astra_face_png_50967004.vtex
+characters/models/asmodeus/astra_yao/materials/astra_face_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/astra_yao/materials/astra_face.vmat
+characters/models/asmodeus/astra_yao/materials/astra_hair_png_a2f38d1e.vtex
+characters/models/asmodeus/astra_yao/materials/astra_hair_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/astra_yao/materials/astra_hair.vmat
+characters/models/asmodeus/astra_yao/astra_yao.vmdl

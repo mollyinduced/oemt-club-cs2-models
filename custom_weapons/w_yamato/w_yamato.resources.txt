@@ -1,0 +1,12 @@
+# cs2-model-converter: w_yamato, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/w_yamato/w_yamato.vmdl
+# weapon: weapon_knife_m9_bayonet
+# skeleton: animation/skeletons/weapons/knife_m9.vnmskel
+models/weapons/exg/tokyocold/yamato/sheath_n_tga_20870467.vtex
+models/weapons/exg/tokyocold/yamato/sheath_tga_57861cbc.vtex
+models/weapons/exg/tokyocold/yamato/sheath.vmat
+models/weapons/exg/tokyocold/yamato/yamato_m_tga_cea8d6b1.vtex
+models/weapons/exg/tokyocold/yamato/yamato_n_tga_ff3c2b36.vtex
+models/weapons/exg/tokyocold/yamato/yamato_tga_d7614eb0.vtex
+models/weapons/exg/tokyocold/yamato/yamato.vmat
+weapons/custom/w_yamato/w_yamato.vmdl

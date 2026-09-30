@@ -1,0 +1,28 @@
+# cs2-model-converter: kaneki_nohitbox_2, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/otakku/kaneki/kaneki_nohitbox.vmdl
+# first person: 0 2 12 15
+agents/characters/models/otakku/kaneki/materials/body1_png_d80be3b2.vtex
+agents/characters/models/otakku/kaneki/materials/body_1_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/characters/models/otakku/kaneki/materials/body_1_vmat_g_tnormal_2984f4a9.vtex
+agents/characters/models/otakku/kaneki/materials/body_1.vmat
+agents/characters/models/otakku/kaneki/materials/body2_png_fd7adb91.vtex
+agents/characters/models/otakku/kaneki/materials/body_2_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/characters/models/otakku/kaneki/materials/body_2_vmat_g_tmetalness_b99de324.vtex
+agents/characters/models/otakku/kaneki/materials/body_2_vmat_g_tnormal_2984f4a9.vtex
+agents/characters/models/otakku/kaneki/materials/body_2.vmat
+agents/characters/models/otakku/kaneki/materials/body3_png_ed39b12d.vtex
+agents/characters/models/otakku/kaneki/materials/body_3_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/characters/models/otakku/kaneki/materials/body_3_vmat_g_tmetalness_b99de324.vtex
+agents/characters/models/otakku/kaneki/materials/body_3_vmat_g_tnormal_2984f4a9.vtex
+agents/characters/models/otakku/kaneki/materials/body_3.vmat
+agents/characters/models/otakku/kaneki/materials/body4_png_f096d598.vtex
+agents/characters/models/otakku/kaneki/materials/body_4_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/characters/models/otakku/kaneki/materials/body_4_vmat_g_tmetalness_b99de324.vtex
+agents/characters/models/otakku/kaneki/materials/body_4_vmat_g_tnormal_2984f4a9.vtex
+agents/characters/models/otakku/kaneki/materials/body_4.vmat
+agents/characters/models/otakku/kaneki/materials/body5_png_d532fdf5.vtex
+agents/characters/models/otakku/kaneki/materials/body_5_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/characters/models/otakku/kaneki/materials/body_5_vmat_g_tmetalness_b99de324.vtex
+agents/characters/models/otakku/kaneki/materials/body_5_vmat_g_tnormal_2984f4a9.vtex
+agents/characters/models/otakku/kaneki/materials/body_5.vmat
+characters/models/otakku/kaneki/kaneki_nohitbox.vmdl

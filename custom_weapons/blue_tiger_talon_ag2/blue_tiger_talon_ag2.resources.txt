@@ -1,0 +1,8 @@
+# cs2-model-converter: blue_tiger_talon_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/blue_tiger_talon_ag2/blue_tiger_talon_ag2.vmdl
+# weapon: weapon_knife_widowmaker
+# skeleton: animation/skeletons/weapons/knife_talon.vnmskel
+weapons/nozb1/knife/blue_tiger/talon/materials/blue_tiger_taln_png_262da297.vtex
+weapons/nozb1/knife/blue_tiger/talon/materials/met1_png_3bcd760e.vtex
+weapons/nozb1/knife/blue_tiger/talon/materials/blue_tiger.vmat
+weapons/custom/blue_tiger_talon_ag2/blue_tiger_talon_ag2.vmdl

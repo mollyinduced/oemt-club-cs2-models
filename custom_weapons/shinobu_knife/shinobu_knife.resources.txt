@@ -1,0 +1,10 @@
+# cs2-model-converter: shinobu_knife, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/shinobu_knife/shinobu_knife.vmdl
+# weapon: weapon_knife
+# skeleton: animation/skeletons/weapons/knife_default_ct.vnmskel
+weapons/otakku/knife/knife_gut/shinobu_knife/materials/shinobu_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/knife/knife_gut/shinobu_knife/materials/shinobu_vmat_g_tmetalness_7b6cc884.vtex
+weapons/otakku/knife/knife_gut/shinobu_knife/materials/shinobu_vmat_g_tnormal_f8264e14.vtex
+weapons/otakku/knife/knife_gut/shinobu_knife/materials/shinobuu_png_5da927da.vtex
+weapons/otakku/knife/knife_gut/shinobu_knife/materials/shinobu.vmat
+weapons/custom/shinobu_knife/shinobu_knife.vmdl

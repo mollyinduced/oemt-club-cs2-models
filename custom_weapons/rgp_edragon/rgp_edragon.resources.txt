@@ -1,0 +1,15 @@
+# cs2-model-converter: rgp_edragon, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/rgp_edragon/rgp_edragon.vmdl
+# weapon: weapon_m4a1
+# skeleton: animation/skeletons/weapons/m4a4.vnmskel
+weapons/models/rgp_edragon/materials/t_ar_rgp_skin_edragon_ao_png_1999f814.vtex
+weapons/models/rgp_edragon/materials/t_ar_rgp_skin_edragon_body_d_png_d4e5e172.vtex
+weapons/models/rgp_edragon/materials/t_ar_rgp_skin_edragon_body_mask_png_74c87e9b.vtex
+weapons/models/rgp_edragon/materials/t_ar_rgp_skin_edragon_body_normal_png_55e33792.vtex
+weapons/models/rgp_edragon/materials/body.vmat
+weapons/models/rgp_edragon/materials/t_ar_rgp_skin_edragon_dragon_ao_png_dfcbd5b.vtex
+weapons/models/rgp_edragon/materials/t_ar_rgp_skin_edragon_dragon_d_png_cf7f7b9d.vtex
+weapons/models/rgp_edragon/materials/t_ar_rgp_skin_edragon_dragon_em_png_96146cd0.vtex
+weapons/models/rgp_edragon/materials/t_ar_rgp_skin_edragon_dragon_normal_png_8ce6a47a.vtex
+weapons/models/rgp_edragon/materials/dragon.vmat
+weapons/custom/rgp_edragon/rgp_edragon.vmdl

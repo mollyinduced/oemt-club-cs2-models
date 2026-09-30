@@ -1,0 +1,12 @@
+# cs2-model-converter: m_med_burntbagel, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/kolka/m_med_burntbagel/m_med_burntbagel.vmdl
+# first person: 0 1 2 3
+characters/models/kolka/m_med_burntbagel/mat/head_vmat_g_tmetalness_10974e8a.vtex
+characters/models/kolka/m_med_burntbagel/mat/t_burntbagel_faceacc_d_png_47718544_png_1298b307.vtex
+characters/models/kolka/m_med_burntbagel/mat/t_burntbagel_faceacc_n_png_3a2417e8_png_160edf42.vtex
+characters/models/kolka/m_med_burntbagel/mat/head.vmat
+characters/models/kolka/m_med_burntbagel/mat/t_burntbagel_body_d_vmat_g_tmetalness_1081f06e.vtex
+characters/models/kolka/m_med_burntbagel/mat/t_burntbagel_body_n_tga_7137a60f.vtex
+characters/models/kolka/m_med_burntbagel/mat/t_burntbagel_body_tga_f0caa3fb.vtex
+characters/models/kolka/m_med_burntbagel/mat/t_burntbagel_body_d.vmat
+characters/models/kolka/m_med_burntbagel/m_med_burntbagel.vmdl

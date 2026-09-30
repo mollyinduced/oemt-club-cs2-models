@@ -1,0 +1,9 @@
+# cs2-model-converter: awm_dragon_a, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/awm_dragon_a/awm_dragon_a.vmdl
+# weapon: weapon_awp
+# skeleton: animation/skeletons/weapons/awp.vnmskel
+models/kolkazadrot/standoff2/awm_dragon_a_png_4dd22e3d.vtex
+models/kolkazadrot/standoff2/awmf_m_png_bb4bf51a.vtex
+models/kolkazadrot/standoff2/awmf_n_png_99998ff2.vtex
+models/kolkazadrot/standoff2/awm_dragon_a.vmat
+weapons/custom/awm_dragon_a/awm_dragon_a.vmdl

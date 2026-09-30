@@ -1,0 +1,12 @@
+# cs2-model-converter: m9_fish, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/m9_fish/m9_fish.vmdl
+# weapon: weapon_knife_m9_bayonet
+# skeleton: animation/skeletons/weapons/knife_m9.vnmskel
+weapons/models/m9_fish/materials/fish_vmat_g_tselfillummask_ff155607.vtex
+weapons/models/m9_fish/materials/t_weap_katana_102_d_png_19fad6f1.vtex
+weapons/models/m9_fish/materials/t_weap_katana_102_n_png_925fa3b7.vtex
+weapons/models/m9_fish/materials/fish.vmat
+weapons/models/m9_fish/materials/7e94dbae734d410bb08584029397ce0b_png_526a8b02.vtex
+weapons/models/m9_fish/materials/mb_vmat_g_tselfillummask_ff155607.vtex
+weapons/models/m9_fish/materials/mb.vmat
+weapons/custom/m9_fish/m9_fish.vmdl

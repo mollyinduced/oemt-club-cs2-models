@@ -1,0 +1,26 @@
+# cs2-model-converter: gohan_ss2_nohitbox, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/otakku/gohan_ss2/gohan_ss2_nohitbox.vmdl
+# first person: 0 2 12 15
+agents/models/otakku/gohan_ss2/materials/back_back_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/otakku/gohan_ss2/materials/back_back_vmat_g_tmetalness_b99de324.vtex
+agents/models/otakku/gohan_ss2/materials/back_back_vmat_g_tnormal_2984f4a9.vtex
+agents/models/otakku/gohan_ss2/materials/backback_c_png_dc1dc7e5.vtex
+agents/models/otakku/gohan_ss2/materials/back_back.vmat
+agents/models/otakku/gohan_ss2/materials/body_n_png_1050aeca.vtex
+agents/models/otakku/gohan_ss2/materials/body_test_png_cfedcb02.vtex
+agents/models/otakku/gohan_ss2/materials/body_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/otakku/gohan_ss2/materials/body_vmat_g_tmetalness_b99de324.vtex
+agents/models/otakku/gohan_ss2/materials/body.vmat
+agents/models/otakku/gohan_ss2/materials/hair_c_png_6fdfb045.vtex
+agents/models/otakku/gohan_ss2/materials/hair_n_png_21f16f9f.vtex
+agents/models/otakku/gohan_ss2/materials/hair_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/otakku/gohan_ss2/materials/hair_vmat_g_tmetalness_b99de324.vtex
+agents/models/otakku/gohan_ss2/materials/hair.vmat
+agents/models/otakku/gohan_ss2/materials/head_2_c_png_2ae152a0.vtex
+agents/models/otakku/gohan_ss2/materials/head_n_png_9ac8af2c.vtex
+agents/models/otakku/gohan_ss2/materials/head_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/otakku/gohan_ss2/materials/head_vmat_g_tmetalness_b99de324.vtex
+agents/models/otakku/gohan_ss2/materials/head.vmat
+agents/models/otakku/gohan_ss2/materials/outline_vmat_g_tcolor_20638b28.vtex
+agents/models/otakku/gohan_ss2/materials/outline.vmat
+agents/models/otakku/gohan_ss2/gohan_ss2_nohitbox.vmdl

@@ -1,0 +1,11 @@
+# cs2-model-converter: mila_player_model_3, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/nozb1/mila_player_model/mila_player_model.vmdl
+# first person: 0 2 12 15
+characters/models/nozb1/mila_player_model/materials/ln_char_mila01_df_png_45108bbd.vtex
+characters/models/nozb1/mila_player_model/materials/mila_m_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/mila_player_model/materials/mila_m.vmat
+characters/models/nozb1/mila_player_model/materials/ln_char_mila01a_df_png_ff2e1261.vtex
+characters/models/nozb1/mila_player_model/materials/mila_wing_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/mila_player_model/materials/mila_wing.vmat
+characters/models/nozb1/mila_player_model/mila_player_model/body_vmorf.vtex
+characters/models/nozb1/mila_player_model/mila_player_model.vmdl

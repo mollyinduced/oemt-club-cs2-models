@@ -1,0 +1,22 @@
+# cs2-model-converter: 2b, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/kolka/2026/2b/2b.vmdl
+# first person: 0 2 12 15
+characters/models/kolka/2026/2b/mat/csgo_skin_n_tga_144c47fa.vtex
+characters/models/kolka/2026/2b/mat/csgo_skin_tga_3f8cdacc.vtex
+characters/models/kolka/2026/2b/mat/csgoskin_vmat_g_tmetalness_10974e8a.vtex
+characters/models/kolka/2026/2b/mat/csgoskin.vmat
+characters/models/kolka/2026/2b/mat/csgo_feather_n_tga_fd9e4f77.vtex
+characters/models/kolka/2026/2b/mat/csgo_feather_tga_78367736.vtex
+characters/models/kolka/2026/2b/mat/feather_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/kolka/2026/2b/mat/feather.vmat
+characters/models/kolka/2026/2b/mat/csgo_hair_n_tga_c4097273.vtex
+characters/models/kolka/2026/2b/mat/csgo_hair_tga_3e29502d.vtex
+characters/models/kolka/2026/2b/mat/hair_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/kolka/2026/2b/mat/hair.vmat
+characters/models/kolka/2026/2b/mat/csgo_outfit_n_tga_7427ead5.vtex
+characters/models/kolka/2026/2b/mat/csgo_outfit_tga_f19e348f.vtex
+characters/models/kolka/2026/2b/mat/outfit_vmat_g_tmetalness_10974e8a.vtex
+characters/models/kolka/2026/2b/mat/outfit.vmat
+characters/models/kolka/shared/2b_vmat_g_tcolor_37c55b5d.vtex
+characters/models/kolka/shared/2b.vmat
+characters/models/kolka/2026/2b/2b.vmdl

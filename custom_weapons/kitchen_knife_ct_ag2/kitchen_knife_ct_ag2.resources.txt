@@ -1,0 +1,8 @@
+# cs2-model-converter: kitchen_knife_ct_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/kitchen_knife_ct_ag2/kitchen_knife_ct_ag2.vmdl
+# weapon: weapon_knife
+# skeleton: animation/skeletons/weapons/knife_default_ct.vnmskel
+weapons/phase2/nick/kitchen_knife_ct/materials/material__25_albedo_png_c53dcb61.vtex
+weapons/phase2/nick/kitchen_knife_ct/materials/material__25_normal_png_8d5b1e43.vtex
+weapons/phase2/nick/kitchen_knife_ct/materials/1.vmat
+weapons/custom/kitchen_knife_ct_ag2/kitchen_knife_ct_ag2.vmdl

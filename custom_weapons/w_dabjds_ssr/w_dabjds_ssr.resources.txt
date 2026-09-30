@@ -1,0 +1,21 @@
+# cs2-model-converter: w_dabjds_ssr, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/w_dabjds_ssr/w_dabjds_ssr.vmdl
+# weapon: weapon_knife_cord
+# skeleton: animation/skeletons/weapons/knife_cord.vnmskel
+materials/models/exg11/$0bepic_summoner02_png_41eb3f9.vtex
+materials/models/exg11/$0bepic_summoner02_png_998e73f1.vtex
+materials/models/exg11/00000001992605f8_png_65109933.vtex
+materials/models/exg11/epic_summoner0.vmat
+materials/models/exg11/$0b_knife02_png_a6649748.vtex
+materials/models/exg11/$0b_knife_png_3011c56.vtex
+materials/models/exg11/knife02_vmat_g_tnormal_670fec42_png_7e45f56d.vtex
+materials/models/exg11/knife02.vmat
+materials/models/exg11/#128128summonknife_p_blade_png_4193ce4d.vtex
+materials/models/exg11/#128128summonknife_p_blade_png_a49391bb.vtex
+materials/models/exg11/00000001992605f8_png_3895aa18.vtex
+materials/models/exg11/summonknife_p_blade.vmat
+materials/models/exg11/summonife_v_png_f9a09bf2.vtex
+materials/models/exg11/summonknife_v_n_png_d14dad04.vtex
+materials/models/exg11/summonknife_v_png_6e2820bc.vtex
+materials/models/exg11/summonknife_v.vmat
+weapons/custom/w_dabjds_ssr/w_dabjds_ssr.vmdl

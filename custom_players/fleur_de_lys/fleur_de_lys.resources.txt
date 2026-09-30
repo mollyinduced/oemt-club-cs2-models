@@ -1,0 +1,40 @@
+# cs2-model-converter: fleur_de_lys, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/asmodeus/fleur_de_lys/fleur_de_lys.vmdl
+# first person: 0 1 2 3
+characters/models/asmodeus/fleur_de_lys/fleur_de_lys/body_vmorf.vtex
+characters/models/asmodeus/fleur_de_lys/materials/fleur_de_lys_alpha_png_16a519d3.vtex
+characters/models/asmodeus/fleur_de_lys/materials/fleur_de_lys_alpha_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/fleur_de_lys/materials/fleur_de_lys_alpha.vmat
+characters/models/asmodeus/fleur_de_lys/materials/fleur_de_lys_bhair_png_88806b2d.vtex
+characters/models/asmodeus/fleur_de_lys/materials/fleur_de_lys_bhair_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/fleur_de_lys/materials/fleur_de_lys_bhair.vmat
+characters/models/asmodeus/fleur_de_lys/materials/fleur_de_lys_cloth_png_6a3fcc9c.vtex
+characters/models/asmodeus/fleur_de_lys/materials/fleur_de_lys_cloth_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/fleur_de_lys/materials/fleur_de_lys_cloth.vmat
+characters/models/asmodeus/fleur_de_lys/materials/fleur_de_lys_down_png_6cf946cd.vtex
+characters/models/asmodeus/fleur_de_lys/materials/fleur_de_lys_down_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/fleur_de_lys/materials/fleur_de_lys_down.vmat
+characters/models/asmodeus/fleur_de_lys/materials/fleur_de_lys_downmetal_png_61d66427.vtex
+characters/models/asmodeus/fleur_de_lys/materials/fleur_de_lys_downmetal_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/fleur_de_lys/materials/fleur_de_lys_downmetal.vmat
+characters/models/asmodeus/fleur_de_lys/materials/fleur_de_lys_eye_png_203edcab.vtex
+characters/models/asmodeus/fleur_de_lys/materials/fleur_de_lys_eye_png_e7f2378b.vtex
+characters/models/asmodeus/fleur_de_lys/materials/fleur_de_lys_eye.vmat
+characters/models/asmodeus/fleur_de_lys/materials/fleur_de_lys_eyehi_png_e131b849.vtex
+characters/models/asmodeus/fleur_de_lys/materials/fleur_de_lys_eyehi.vmat
+characters/models/asmodeus/fleur_de_lys/materials/fleur_de_lys_face_png_a6af6f51.vtex
+characters/models/asmodeus/fleur_de_lys/materials/fleur_de_lys_face_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/fleur_de_lys/materials/fleur_de_lys_face.vmat
+characters/models/asmodeus/fleur_de_lys/materials/fleur_de_lys_fhair_png_5026a4c6.vtex
+characters/models/asmodeus/fleur_de_lys/materials/fleur_de_lys_fhair_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/fleur_de_lys/materials/fleur_de_lys_fhair.vmat
+characters/models/asmodeus/fleur_de_lys/materials/fleur_de_lys_up_png_f7fe71ea.vtex
+characters/models/asmodeus/fleur_de_lys/materials/fleur_de_lys_up_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/fleur_de_lys/materials/fleur_de_lys_up.vmat
+characters/models/asmodeus/fleur_de_lys/materials/fleur_de_lys_upmetal_png_be176b46.vtex
+characters/models/asmodeus/fleur_de_lys/materials/fleur_de_lys_upmetal_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/fleur_de_lys/materials/fleur_de_lys_upmetal.vmat
+characters/models/asmodeus/fleur_de_lys/materials/fleur_de_lys_upskin_png_3adeb5a1.vtex
+characters/models/asmodeus/fleur_de_lys/materials/fleur_de_lys_upskin_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/fleur_de_lys/materials/fleur_de_lys_upskin.vmat
+characters/models/asmodeus/fleur_de_lys/fleur_de_lys.vmdl

@@ -1,0 +1,27 @@
+# cs2-model-converter: carbon_mp7_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/carbon_mp7_ag2/carbon_mp7_ag2.vmdl
+# weapon: weapon_mp7
+# skeleton: animation/skeletons/weapons/mp7.vnmskel
+weapons/nozb1/carbon_fiber/carbon_mp7/materials/d_png_e9a9c110.vtex
+weapons/nozb1/carbon_fiber/carbon_mp7/materials/mp7_fortune.vmat
+weapons/nozb1/carbon_fiber/carbon_mp7/materials/mp7_spot_d_png_fbab634e.vtex
+weapons/nozb1/carbon_fiber/carbon_mp7/materials/mt_dot_vmat_g_tnormal_a1e47e21.vtex
+weapons/nozb1/carbon_fiber/carbon_mp7/materials/mt_dot_vmat_g_tselfillummask_ff155607.vtex
+weapons/nozb1/carbon_fiber/carbon_mp7/materials/mt_dot.vmat
+weapons/nozb1/carbon_fiber/carbon_mp7/materials/fortune_silencer_d_png_1a3c32c7.vtex
+weapons/nozb1/carbon_fiber/carbon_mp7/materials/fortune_silencer_e_png_2acc4782.vtex
+weapons/nozb1/carbon_fiber/carbon_mp7/materials/mt_fortune.vmat
+weapons/nozb1/carbon_fiber/carbon_mp7/materials/mt_glass_vmat_g_tcolor_19eb7951.vtex
+weapons/nozb1/carbon_fiber/carbon_mp7/materials/mt_glass_vmat_g_tnormal_a1e47e21.vtex
+weapons/nozb1/carbon_fiber/carbon_mp7/materials/mt_glass.vmat
+weapons/nozb1/carbon_fiber/carbon_mp7/materials/j_d1_png_d068ff73.vtex
+weapons/nozb1/carbon_fiber/carbon_mp7/materials/j_e_png_d39c5922.vtex
+weapons/nozb1/carbon_fiber/carbon_mp7/materials/mt_j.vmat
+weapons/nozb1/carbon_fiber/carbon_mp7/materials/mp7_d_dup_png_eb456765.vtex
+weapons/nozb1/carbon_fiber/carbon_mp7/materials/mp7_d_dup_r_png_7899b0f5.vtex
+weapons/nozb1/carbon_fiber/carbon_mp7/materials/mp7_d_dup_self_png_c9f4043b.vtex
+weapons/nozb1/carbon_fiber/carbon_mp7/materials/mt_mp7.vmat
+weapons/nozb1/carbon_fiber/carbon_mp7/materials/scoped1_n_png_d231b6f3.vtex
+weapons/nozb1/carbon_fiber/carbon_mp7/materials/scoped1_png_f5440a4e.vtex
+weapons/nozb1/carbon_fiber/carbon_mp7/materials/mt_scope.vmat
+weapons/custom/carbon_mp7_ag2/carbon_mp7_ag2.vmdl

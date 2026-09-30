@@ -1,0 +1,49 @@
+{
+ "converter": "2.3",
+ "made": "2026-09-30 00:11:17",
+ "name": "train_minecraft_weapon_hegrenade_mc",
+ "mode": "rebuild",
+ "input": "C:\\Users\\mollyinduced\\Downloads\\models\\train_minecraft_3636075272",
+ "model": "weapons/models/grenade/hegrenade/weapon_hegrenade_mc.vmdl_c",
+ "kind": "CS2 weapon model (AnimGraph2)",
+ "weapon": "weapon_hegrenade",
+ "options": {
+  "skin": 0,
+  "up": "auto",
+  "forward": "auto",
+  "rig": true,
+  "shader": "csgo_complex.vfx",
+  "texture_size": 4096,
+  "mode": "auto",
+  "jiggle": true,
+  "guess_jiggle": true,
+  "first_person": true,
+  "twist": true,
+  "arms": null,
+  "weapon": null,
+  "extra": [
+   "C:\\Users\\mollyinduced\\Downloads\\models\\homer_simpson_v3\\agents\\models\\otakku\\homer_simpson\\materials"
+  ],
+  "addon": "custom_models"
+ },
+ "stats": {
+  "triangles": 480,
+  "bones": 6,
+  "on": "weapons/models/grenade/hegrenade/weapon_hegrenade.vmdl",
+  "skeleton": "animation/skeletons/weapons/hegrenade.vnmskel",
+  "moved": {
+   "r": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "parts": {
+   "ring": "ring",
+   "handle": "handle",
+   "pin": "pin"
+  },
+  "left_out": 0
+ }
+}

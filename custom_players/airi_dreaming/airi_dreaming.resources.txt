@@ -1,0 +1,18 @@
+# cs2-model-converter: the resources models/custom/airi_dreaming/airi_dreaming.vmdl needs, loaded in this order by the SDK
+materials/models/custom/airi_dreaming/body_color_png_5250963b.vtex
+materials/models/custom/airi_dreaming/body.vmat
+materials/models/custom/airi_dreaming/face_color_png_ef842f57.vtex
+materials/models/custom/airi_dreaming/face.vmat
+materials/models/custom/airi_dreaming/face_eye1_color_png_450cd318.vtex
+materials/models/custom/airi_dreaming/face_eye1.vmat
+materials/models/custom/airi_dreaming/hair_color_png_89d86fe0.vtex
+materials/models/custom/airi_dreaming/hair.vmat
+materials/models/custom/airi_dreaming/main1_color_png_3a69bf54.vtex
+materials/models/custom/airi_dreaming/main1.vmat
+materials/models/custom/airi_dreaming/main2_color_png_5bc7b240.vtex
+materials/models/custom/airi_dreaming/main2.vmat
+materials/models/custom/airi_dreaming/metal_purple_color_png_cf1ce4d8.vtex
+materials/models/custom/airi_dreaming/metal_purple.vmat
+materials/models/custom/airi_dreaming/metal_yellow_color_png_9b9895ca.vtex
+materials/models/custom/airi_dreaming/metal_yellow.vmat
+models/custom/airi_dreaming/airi_dreaming.vmdl

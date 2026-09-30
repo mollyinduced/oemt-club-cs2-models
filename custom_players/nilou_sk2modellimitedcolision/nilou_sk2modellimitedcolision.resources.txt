@@ -1,0 +1,29 @@
+# cs2-model-converter: nilou_sk2modellimitedcolision, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/hmn_ag2/genshin/nilou/nilou_sk2modellimitedcolision.vmdl
+# first person: 0 1 2 3
+agents/models/hmn_ag2/_versatility_arm/materials/hand_tex_png_9dffad3.vtex
+agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex_vmat_g_tmetalness_b99de324.vtex
+agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex_vmat_g_tnormal_aed807f.vtex
+agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex.vmat
+agents/models/hmn_ag2/genshin/nilou/materials/body_png_6dcd2760.vtex
+agents/models/hmn_ag2/genshin/nilou/materials/nilou_body_cs2_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/hmn_ag2/genshin/nilou/materials/nilou_body_cs2_vmat_g_tdiffusefalloff_aa1e6fc8.vtex
+agents/models/hmn_ag2/genshin/nilou/materials/nilou_body_cs2_vmat_g_tmetalness_1081f06e.vtex
+agents/models/hmn_ag2/genshin/nilou/materials/nilou_body_cs2_vmat_g_tnormal_aed807f.vtex
+materials/default/default_mask_tga_cac76a2f.vtex
+agents/models/hmn_ag2/genshin/nilou/materials/nilou_body_cs2.vmat
+agents/models/hmn_ag2/genshin/nilou/materials/hair_png_ce2c33dc.vtex
+agents/models/hmn_ag2/genshin/nilou/materials/nilou_hair_cs2_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/hmn_ag2/genshin/nilou/materials/nilou_hair_cs2_vmat_g_tdiffusefalloff_aa1e6fc8.vtex
+agents/models/hmn_ag2/genshin/nilou/materials/nilou_hair_cs2_vmat_g_tmetalness_1081f06e.vtex
+agents/models/hmn_ag2/genshin/nilou/materials/nilou_hair_cs2_vmat_g_tnormal_aed807f.vtex
+agents/models/hmn_ag2/genshin/nilou/materials/nilou_hair_cs2.vmat
+agents/models/hmn_ag2/genshin/nilou/materials/head_png_9da7f91.vtex
+agents/models/hmn_ag2/genshin/nilou/materials/nilou_head_cs2_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/hmn_ag2/genshin/nilou/materials/nilou_head_cs2_vmat_g_tdiffusefalloff_aa1e6fc8.vtex
+agents/models/hmn_ag2/genshin/nilou/materials/nilou_head_cs2_vmat_g_tmetalness_1081f06e.vtex
+agents/models/hmn_ag2/genshin/nilou/materials/nilou_head_cs2_vmat_g_tnormal_aed807f.vtex
+agents/models/hmn_ag2/genshin/nilou/materials/nilou_head_cs2.vmat
+agents/models/hmn_ag2/genshin/nilou/nilou_sk2modellimitedcolision/body_vmorf.vtex
+agents/models/hmn_ag2/genshin/nilou/nilou_sk2modellimitedcolision.vmdl

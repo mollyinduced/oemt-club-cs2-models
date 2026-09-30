@@ -1,0 +1,82 @@
+{
+ "converter": "2.3",
+ "made": "2026-09-29 22:28:43",
+ "name": "negev_aur1c",
+ "mode": "rebuild",
+ "input": "C:\\Users\\mollyinduced\\Downloads\\models\\zombie_escape_asset_pack_cola_team_3304608958",
+ "model": "weapons/models/negev_aur1c/negev_aur1c.vmdl_c",
+ "kind": "CS2 weapon model (AnimGraph2)",
+ "weapon": "weapon_negev",
+ "options": {
+  "skin": 0,
+  "up": "auto",
+  "forward": "auto",
+  "rig": true,
+  "shader": "csgo_complex.vfx",
+  "texture_size": 4096,
+  "mode": "auto",
+  "jiggle": true,
+  "guess_jiggle": true,
+  "first_person": true,
+  "twist": true,
+  "arms": null,
+  "weapon": null,
+  "extra": [
+   "C:\\Users\\mollyinduced\\Downloads\\models\\homer_simpson_v3\\agents\\models\\otakku\\homer_simpson\\materials"
+  ],
+  "addon": "custom_models"
+ },
+ "stats": {
+  "triangles": 85935,
+  "bones": 40,
+  "on": "weapons/models/negev/weapon_mach_negev.vmdl",
+  "skeleton": "animation/skeletons/weapons/negev.vnmskel",
+  "moved": {
+   "r": [
+    0.0,
+    -0.0,
+    -0.0,
+    0.0
+   ]
+  },
+  "parts": {
+   "bullet01": "bullet01",
+   "bullet_scaffold02": "bullet_scaffold02",
+   "bullet02": "bullet02",
+   "bullet_scaffold03": "bullet_scaffold03",
+   "bullet03": "bullet03",
+   "bullet_scaffold17": "bullet_scaffold17",
+   "bullet17": "bullet17",
+   "bullet_scaffold04": "bullet_scaffold04",
+   "bullet_scaffold16": "bullet_scaffold16",
+   "bullet13": "bullet13",
+   "bullet_scaffold05": "bullet_scaffold05",
+   "bullet04": "bullet04",
+   "bullet_scaffold15": "bullet_scaffold15",
+   "bullet12": "bullet12",
+   "bullet_scaffold13": "bullet_scaffold13",
+   "bullet_scaffold14": "bullet_scaffold14",
+   "bullet_scaffold06": "bullet_scaffold06",
+   "bullet16": "bullet16",
+   "bullet_scaffold12": "bullet_scaffold12",
+   "bullet06": "bullet06",
+   "bullet_scaffold07": "bullet_scaffold07",
+   "bullet_scaffold11": "bullet_scaffold11",
+   "bullet11": "bullet11",
+   "bullet15": "bullet15",
+   "bullet14": "bullet14",
+   "bullet10": "bullet10",
+   "bullet09": "bullet09",
+   "bullet08": "bullet08",
+   "bullet07": "bullet07",
+   "bullet05": "bullet05",
+   "bullet_scaffold08": "bullet_scaffold08",
+   "bullet_scaffold10": "bullet_scaffold10",
+   "bullet_scaffold09": "bullet_scaffold09",
+   "ammobox": "ammobox",
+   "chargehandle": "chargehandle",
+   "tophinge": "tophinge"
+  },
+  "left_out": 0
+ }
+}

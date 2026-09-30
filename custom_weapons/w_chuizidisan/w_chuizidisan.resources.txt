@@ -1,0 +1,13 @@
+# cs2-model-converter: w_chuizidisan, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/w_chuizidisan/w_chuizidisan.vmdl
+# weapon: weapon_knife_cord
+# skeleton: animation/skeletons/weapons/knife_cord.vnmskel
+materials/models/exg1/tyrantmace_v01_png_4905fed0.vtex
+materials/models/exg1/tyrantmace_v01_png_df456761.vtex
+materials/models/exg1/tyrantmace_v01_vmat_g_tselfillummask_ff155607.vtex
+materials/models/exg1/tyrantmace_v01.vmat
+materials/models/exg1/tyrantma1ce_v02_tif_5da5ec26.vtex
+materials/models/exg1/tyrantmace_v02_n_png_b73ae611.vtex
+materials/models/exg1/tyrantmace_v02_png_798f45e1.vtex
+materials/models/exg1/tyrantmace_v02.vmat
+weapons/custom/w_chuizidisan/w_chuizidisan.vmdl

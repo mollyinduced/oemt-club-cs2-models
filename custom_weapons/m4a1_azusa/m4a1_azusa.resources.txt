@@ -1,0 +1,8 @@
+# cs2-model-converter: m4a1_azusa, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/m4a1_azusa/m4a1_azusa.vmdl
+# weapon: weapon_m4a1_silencer
+# skeleton: animation/skeletons/weapons/m4a1_silencer.vnmskel
+weapons/7ychu5/models/rif_m4a1s/m4a1_azusa/materials/azusa_original_weapon_png_2ffe818d.vtex
+weapons/7ychu5/models/rif_m4a1s/m4a1_azusa/materials/m4a1_azusa_vmat_g_tnormal_53b47c48.vtex
+weapons/7ychu5/models/rif_m4a1s/m4a1_azusa/materials/m4a1_azusa.vmat
+weapons/custom/m4a1_azusa/m4a1_azusa.vmdl

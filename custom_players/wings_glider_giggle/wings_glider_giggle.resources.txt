@@ -1,0 +1,4 @@
+# cs2-model-converter: the resources models/custom/wings_glider_giggle/wings_glider_giggle.vmdl needs, loaded in this order by the SDK
+materials/models/custom/wings_glider_giggle/gigle_color_png_2f68bc9.vtex
+materials/models/custom/wings_glider_giggle/gigle.vmat
+models/custom/wings_glider_giggle/wings_glider_giggle.vmdl

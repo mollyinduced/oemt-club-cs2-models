@@ -1,0 +1,34 @@
+# cs2-model-converter: huoche_negev_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/huoche_negev_ag2/huoche_negev_ag2.vmdl
+# weapon: weapon_negev
+# skeleton: animation/skeletons/weapons/negev.vnmskel
+models/jiye/huoche_negev/materials/danlian_png_5f35b014.vtex
+models/jiye/huoche_negev/materials/danlian_png_a9e3d10c.vtex
+models/jiye/huoche_negev/materials/danlian.vmat
+models/jiye/huoche_negev/materials/guang_body_jpg_2c45281.vtex
+models/jiye/huoche_negev/materials/guang_body_vmat_g_tselfillummask_554b633a.vtex
+models/jiye/huoche_negev/materials/guang_body.vmat
+models/jiye/huoche_negev/materials/guang_eyemouth_jpg_1985cbe.vtex
+models/jiye/huoche_negev/materials/guang_eyemouth_vmat_g_tselfillummask_f01d52c8.vtex
+models/jiye/huoche_negev/materials/guang_eyemouth.vmat
+models/jiye/huoche_negev/materials/guang_face_jpg_dce37f2.vtex
+models/jiye/huoche_negev/materials/guang_face_vmat_g_tselfillummask_554b633a.vtex
+models/jiye/huoche_negev/materials/guang_face.vmat
+models/jiye/huoche_negev/materials/guang_hair_2_jpg_a9f9373e.vtex
+models/jiye/huoche_negev/materials/guang_hair_2_vmat_g_tselfillummask_f01d52c8.vtex
+models/jiye/huoche_negev/materials/guang_hair_2.vmat
+models/jiye/huoche_negev/materials/guang_halo_jpg_109ceb13.vtex
+models/jiye/huoche_negev/materials/guang_halo_vmat_g_tselfillummask_ff155607.vtex
+models/jiye/huoche_negev/materials/guang_halo.vmat
+models/jiye/huoche_negev/materials/huoche_negev_dark_jpg_f55d0c1b.vtex
+models/jiye/huoche_negev/materials/huoche_negev_png_ce0436eb.vtex
+models/jiye/huoche_negev/materials/huoche_negev.vmat
+models/jiye/huoche_negev/materials/mb_jpg_f165484c.vtex
+models/jiye/huoche_negev/materials/mb.vmat
+models/jiye/huoche_negev/materials/train_jpg_4a1963b8.vtex
+models/jiye/huoche_negev/materials/train_vmat_g_tselfillummask_554b633a.vtex
+models/jiye/huoche_negev/materials/train.vmat
+models/jiye/huoche_negev/materials/wang_body_jpg_e02505bb.vtex
+models/jiye/huoche_negev/materials/wang_body_vmat_g_tselfillummask_554b633a.vtex
+models/jiye/huoche_negev/materials/wang_body.vmat
+weapons/custom/huoche_negev_ag2/huoche_negev_ag2.vmdl

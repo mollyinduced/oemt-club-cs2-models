@@ -1,0 +1,29 @@
+# cs2-model-converter: hmvmdl, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/mpink/cola/hm/hmvmdl.vmdl
+# first person: 0 2 12 15
+agents/models/mpink/cola/hm/hmtextures/hmbody1_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/mpink/cola/hm/hmtextures/hmbody1_vmat_g_tmetalness_1081f06e.vtex
+agents/models/mpink/cola/hm/hmtextures/hmbody1_vmat_g_tnormal_953a319c.vtex
+agents/models/mpink/cola/hm/hmtextures/unagi_body_map1_d_png_26423c01.vtex
+agents/models/mpink/cola/hm/hmtextures/hmbody1.vmat
+agents/models/mpink/cola/hm/hmtextures/hmbody2_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/mpink/cola/hm/hmtextures/hmbody2_vmat_g_tmetalness_1081f06e.vtex
+agents/models/mpink/cola/hm/hmtextures/hmbody2_vmat_g_tnormal_d52512a9.vtex
+agents/models/mpink/cola/hm/hmtextures/unagi_body_map2_d_png_6b170684.vtex
+agents/models/mpink/cola/hm/hmtextures/hmbody2.vmat
+agents/models/mpink/cola/hm/hmtextures/hmface_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/mpink/cola/hm/hmtextures/hmface_vmat_g_tmetalness_1081f06e.vtex
+agents/models/mpink/cola/hm/hmtextures/hmface_vmat_g_tnormal_d52512a9.vtex
+agents/models/mpink/cola/hm/hmtextures/unagi_face_d_png_c09e2732.vtex
+agents/models/mpink/cola/hm/hmtextures/hmface.vmat
+agents/models/mpink/cola/hm/hmtextures/hmhairpin_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/mpink/cola/hm/hmtextures/hmhairpin_vmat_g_tmetalness_1081f06e.vtex
+agents/models/mpink/cola/hm/hmtextures/hmhairpin_vmat_g_tnormal_d52512a9.vtex
+agents/models/mpink/cola/hm/hmtextures/unagi_hairpin_d_png_90872cbe.vtex
+agents/models/mpink/cola/hm/hmtextures/hmhairpin.vmat
+agents/models/mpink/cola/hm/hmtextures/hmweapon_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/mpink/cola/hm/hmtextures/hmweapon_vmat_g_tmetalness_1081f06e.vtex
+agents/models/mpink/cola/hm/hmtextures/hmweapon_vmat_g_tnormal_d52512a9.vtex
+agents/models/mpink/cola/hm/hmtextures/unagi_weapon_d_png_945b7350.vtex
+agents/models/mpink/cola/hm/hmtextures/hmweapon.vmat
+agents/models/mpink/cola/hm/hmvmdl.vmdl

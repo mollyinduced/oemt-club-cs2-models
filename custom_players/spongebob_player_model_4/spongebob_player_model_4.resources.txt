@@ -1,0 +1,12 @@
+# cs2-model-converter: spongebob_player_model_4, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/nozb1/spongebob_player_model/spongebob_player_model.vmdl
+# first person: 0 2 12 15
+characters/models/nozb1/spongebob_player_model/materials/spongebob_body_normal_png_73aba5bc.vtex
+characters/models/nozb1/spongebob_player_model/materials/spongebob_body_png_8014636f.vtex
+characters/models/nozb1/spongebob_player_model/materials/spongebob_body_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/spongebob_player_model/materials/spongebob_body.vmat
+characters/models/nozb1/spongebob_player_model/materials/spongebob_head_normal_png_e64e20dd.vtex
+characters/models/nozb1/spongebob_player_model/materials/spongebob_head_png_6128cce6.vtex
+characters/models/nozb1/spongebob_player_model/materials/spongebob_head_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/spongebob_player_model/materials/spongebob_head.vmat
+characters/models/nozb1/spongebob_player_model/spongebob_player_model.vmdl

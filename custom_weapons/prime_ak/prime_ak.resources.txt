@@ -1,0 +1,11 @@
+# cs2-model-converter: prime_ak, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/prime_ak/prime_ak.vmdl
+# weapon: weapon_ak47
+# skeleton: animation/skeletons/weapons/ak47.vnmskel
+models/weapon/orbit/orbitpremium/ak/prima/textures/ak_hypebeast_df_png_7e24e504.vtex
+models/weapon/orbit/orbitpremium/ak/prima/textures/ak_hypebeast_nm_png_877009e9.vtex
+models/weapon/orbit/orbitpremium/ak/prima/textures/hypebeast.vmat
+models/weapon/orbit/orbitpremium/ak/prima/textures/hypebeast_glass_vmat_g_tcolor_37c55b5d.vtex
+models/weapon/orbit/orbitpremium/ak/prima/textures/hypebeast_glass_vmat_g_tnormal_9b6baee2.vtex
+models/weapon/orbit/orbitpremium/ak/prima/textures/hypebeast_glass.vmat
+weapons/custom/prime_ak/prime_ak.vmdl

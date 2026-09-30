@@ -1,0 +1,29 @@
+# cs2-model-converter: 416_3, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/exg/416/416.vmdl
+# first person: 0 3 12 15
+characters/models/exg/416/tex/body_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/exg/416/tex/c_clukayssr0101_slg_cloth_da_png_f6eb7b10_png_d04e0339.vtex
+materials/default/default_normal_tga_5a869113.vtex
+characters/models/exg/416/tex/body.vmat
+characters/models/exg/416/tex/c_clukay_eye_d_png_5086fa.vtex
+characters/models/exg/416/tex/eyes_vmat_g_tmetalness_20dd118e.vtex
+characters/models/exg/416/tex/eyes_vmat_g_tnormal_53b47c48.vtex
+characters/models/exg/416/tex/eyes.vmat
+characters/models/exg/416/tex/c_clukay_face_d_png_231f36dc.vtex
+characters/models/exg/416/tex/face_vmat_g_tmetalness_50c3bf5d.vtex
+characters/models/exg/416/tex/face_vmat_g_tnormal_53b47c48.vtex
+characters/models/exg/416/tex/face.vmat
+characters/models/exg/416/tex/c_clukay_hair_d_png_64c2faa3.vtex
+characters/models/exg/416/tex/hari_vmat_g_tmetalness_35f22578.vtex
+characters/models/exg/416/tex/hari_vmat_g_tnormal_53b47c48.vtex
+characters/models/exg/416/tex/hari.vmat
+characters/models/exg/ruiyiwelkin/sakurarinhoshi/body_png_3104cf8d.vtex
+characters/models/exg/ruiyiwelkin/sakurarinhoshi/body_vmat_g_tmetalness_b70f8f59_png_f0d393bf.vtex
+characters/models/exg/ruiyiwelkin/sakurarinhoshi/body_vmat_g_tnormal_53b47c48_png_a3f1d6b4.vtex
+characters/models/exg/ruiyiwelkin/sakurarinhoshi/body.vmat
+characters/models/exg/ruiyiwelkin/sakurarinhoshi/nail_png_6fdd00f3.vtex
+characters/models/exg/ruiyiwelkin/sakurarinhoshi/nail_vmat_g_tmetalness_cea5fc09_png_d4825848.vtex
+characters/models/exg/ruiyiwelkin/sakurarinhoshi/nail_vmat_g_tselfillummask_ff155607.vtex
+materials/default/stickers/squares_glitter_normal_tga_26be020f.vtex
+characters/models/exg/ruiyiwelkin/sakurarinhoshi/nail.vmat
+characters/models/exg/416/416.vmdl

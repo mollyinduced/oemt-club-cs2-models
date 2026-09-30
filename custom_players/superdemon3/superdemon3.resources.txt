@@ -1,0 +1,12 @@
+# cs2-model-converter: superdemon3, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/otakku/superdemon/superdemon3.vmdl
+# first person: 0 2 12 15
+agents/models/otakku/superdemon/materials/skin3/t_demonboss1_skin3_albedo_png_241355c4.vtex
+agents/models/otakku/superdemon/materials/skin3/t_demonboss1_skin3_emission_png_127dded8.vtex
+agents/models/otakku/superdemon/materials/skin3/t_demonboss1_skin3_normal_png_74fe0d66.vtex
+agents/models/otakku/superdemon/materials/skin3/t_demonboss1_skin3_occlusion_png_eda0ba3.vtex
+agents/models/otakku/superdemon/materials/skin3/t_demonboss1_skin3.vmat
+agents/models/otakku/superdemon/materials/skin3/t_demonboss1_skin3_albedo_png_3487a1c0.vtex
+agents/models/otakku/superdemon/materials/skin3/t_demonboss1_skin3_character_vmat_g_tmetalness_1081f06e.vtex
+agents/models/otakku/superdemon/materials/skin3/t_demonboss1_skin3_character.vmat
+agents/models/otakku/superdemon/superdemon3.vmdl

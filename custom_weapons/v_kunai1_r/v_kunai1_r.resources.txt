@@ -1,0 +1,19 @@
+# cs2-model-converter: v_kunai1_r, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/v_kunai1_r/v_kunai1_r.vmdl
+# weapon: weapon_knife_kukri
+# skeleton: animation/skeletons/weapons/knife_kukri.vnmskel
+models/exg/kunaissr/materials/wraith_tga_aca51ae3.vtex
+models/exg/kunaissr/materials/wraith_vmat_g_tselfillummask_6497437b.vtex
+models/exg/kunaissr/materials/wraith.vmat
+models/exg/kunaissr/materials/wraith1_a_selfillummask_tga_629d6939.vtex
+models/exg/kunaissr/materials/wraith1_tga_81da580f.vtex
+models/exg/kunaissr/materials/wraith1.vmat
+models/exg/kunaissr/materials/wraith3_a_selfillummask_tga_683cd68b.vtex
+models/exg/kunaissr/materials/wraith3_tga_3ce1f142.vtex
+models/exg/kunaissr/materials/wraith3.vmat
+models/exg/kunaissr/materials/d_tga_4f65543a.vtex
+models/exg/kunaissr/materials/n_tga_de8245bc.vtex
+models/exg/kunaissr/materials/selfillummask_tga_ebd38101.vtex
+models/exg/kunaissr/materials/wraith_kunai_rt01_vmat_g_ttintmask_2b2ebb3f.vtex
+models/exg/kunaissr/materials/wraith_kunai_rt01.vmat
+weapons/custom/v_kunai1_r/v_kunai1_r.vmdl

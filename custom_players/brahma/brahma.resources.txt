@@ -1,0 +1,16 @@
+# cs2-model-converter: brahma, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/asmodeus/brahma/brahma.vmdl
+# first person: 0 1 2 3
+characters/models/asmodeus/brahma/brahma/body_vmorf.vtex
+characters/models/asmodeus/brahma/materials/body_png_513e3b34.vtex
+characters/models/asmodeus/brahma/materials/body_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/brahma/materials/body.vmat
+characters/models/asmodeus/brahma/materials/eye_png_b008f84c.vtex
+characters/models/asmodeus/brahma/materials/eye.vmat
+characters/models/asmodeus/brahma/materials/face_png_d232fad8.vtex
+characters/models/asmodeus/brahma/materials/face_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/brahma/materials/face.vmat
+characters/models/asmodeus/brahma/materials/hair_png_f5fe2e2.vtex
+characters/models/asmodeus/brahma/materials/hair_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/brahma/materials/hair.vmat
+characters/models/asmodeus/brahma/brahma.vmdl

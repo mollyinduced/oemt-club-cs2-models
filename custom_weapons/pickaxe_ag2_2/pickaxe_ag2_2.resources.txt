@@ -1,0 +1,9 @@
+# cs2-model-converter: pickaxe_ag2_2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/pickaxe_ag2_2/pickaxe_ag2_2.vmdl
+# weapon: weapon_knife
+# skeleton: animation/skeletons/weapons/knife_default_ct.vnmskel
+weapons/moovik/pickaxe/ambient_png_c6df2049.vtex
+weapons/moovik/pickaxe/diffuse_png_687caf9d.vtex
+weapons/moovik/pickaxe/norma_png_a96f38e0.vtex
+weapons/moovik/pickaxe/pickaxe.vmat
+weapons/custom/pickaxe_ag2_2/pickaxe_ag2_2.vmdl

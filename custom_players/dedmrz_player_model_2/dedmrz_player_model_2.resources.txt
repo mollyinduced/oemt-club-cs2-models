@@ -1,0 +1,13 @@
+# cs2-model-converter: dedmrz_player_model_2, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/nozb1/dedmrz_player_model/dedmrz_player_model.vmdl
+# first person: 0 2 12 15
+characters/models/nozb1/dedmrz_player_model/dedmrz_player_model/arms_vmorf.vtex
+characters/models/nozb1/dedmrz_player_model/dedmrz_player_model/body_vmorf.vtex
+characters/models/nozb1/dedmrz_player_model/materials/body_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/dedmrz_player_model/materials/ded_1_png_bfaa95ea.vtex
+characters/models/nozb1/dedmrz_player_model/materials/normalmap_png_203a8e4.vtex
+characters/models/nozb1/dedmrz_player_model/materials/body.vmat
+characters/models/nozb1/dedmrz_player_model/materials/face_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/dedmrz_player_model/materials/genf2_0_png_4fd2e54a.vtex
+characters/models/nozb1/dedmrz_player_model/materials/face.vmat
+characters/models/nozb1/dedmrz_player_model/dedmrz_player_model.vmdl

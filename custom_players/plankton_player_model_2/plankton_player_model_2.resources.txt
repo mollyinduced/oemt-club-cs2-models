@@ -1,0 +1,7 @@
+# cs2-model-converter: plankton_player_model_2, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/nozb1/plankton_player_model/plankton_player_model.vmdl
+# first person: 0 2 12 15
+characters/models/nozb1/plankton_player_model/materials/mi_plankton_basecolor_png_937e0bb2.vtex
+characters/models/nozb1/plankton_player_model/materials/plankton_diff_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/plankton_player_model/materials/plankton_diff.vmat
+characters/models/nozb1/plankton_player_model/plankton_player_model.vmdl

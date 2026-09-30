@@ -1,0 +1,9 @@
+# cs2-model-converter: ai_sword1_cord_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/ai_sword1_cord_ag2/ai_sword1_cord_ag2.vmdl
+# weapon: weapon_knife_cord
+# skeleton: animation/skeletons/weapons/knife_cord.vnmskel
+weapons/nozb1/knife/ai_sword1/materials/ai_sword_vmat_g_tnormal_ff91cb0e.vtex
+weapons/nozb1/knife/ai_sword1/materials/ai_text1_emiss_png_e938277e.vtex
+weapons/nozb1/knife/ai_sword1/materials/ai_text1_png_a1782503.vtex
+weapons/nozb1/knife/ai_sword1/materials/ai_sword.vmat
+weapons/custom/ai_sword1_cord_ag2/ai_sword1_cord_ag2.vmdl

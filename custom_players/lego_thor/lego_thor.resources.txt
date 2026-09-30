@@ -1,0 +1,18 @@
+# cs2-model-converter: lego_thor, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/nozb1/lego_pack_player_model/lego_thor_player_model/lego_thor.vmdl
+# first person: 0 2 12 15
+characters/models/nozb1/lego_pack_player_model/lego_thor_player_model/materials/arm_compl_vmat_g_tcolor_9b791c6f.vtex
+characters/models/nozb1/lego_pack_player_model/lego_thor_player_model/materials/arm_compl_vmat_g_tnormal_62f77faf.vtex
+characters/models/nozb1/lego_pack_player_model/lego_thor_player_model/materials/arm_compl.vmat
+characters/models/nozb1/lego_pack_player_model/lego_thor_player_model/materials/tbody_mat_normal_png_c844546a.vtex
+characters/models/nozb1/lego_pack_player_model/lego_thor_player_model/materials/tbody_mat_png_dda745c7.vtex
+characters/models/nozb1/lego_pack_player_model/lego_thor_player_model/materials/tbody_mat_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/lego_pack_player_model/lego_thor_player_model/materials/tbody_mat.vmat
+characters/models/nozb1/lego_pack_player_model/lego_thor_player_model/materials/tcloath_mat_png_f869ac55.vtex
+characters/models/nozb1/lego_pack_player_model/lego_thor_player_model/materials/tcloath_mat_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/lego_pack_player_model/lego_thor_player_model/materials/tcloath_mat.vmat
+characters/models/nozb1/lego_pack_player_model/lego_thor_player_model/materials/thair_mat_png_e05dac03.vtex
+characters/models/nozb1/lego_pack_player_model/lego_thor_player_model/materials/thair_mat_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/lego_pack_player_model/lego_thor_player_model/materials/thair_mat_vmat_g_tnormal_18cf3a06.vtex
+characters/models/nozb1/lego_pack_player_model/lego_thor_player_model/materials/thair_mat.vmat
+characters/models/nozb1/lego_pack_player_model/lego_thor_player_model/lego_thor.vmdl

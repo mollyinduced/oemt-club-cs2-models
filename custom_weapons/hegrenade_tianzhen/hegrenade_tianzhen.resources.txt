@@ -1,0 +1,11 @@
+# cs2-model-converter: hegrenade_tianzhen, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/hegrenade_tianzhen/hegrenade_tianzhen.vmdl
+# weapon: weapon_hegrenade
+# skeleton: animation/skeletons/weapons/hegrenade.vnmskel
+weapons/7ychu5/hegrenade_tianzhen/materials/heirloom_karambit_v24_cosmicmerc_holo_emissivemultiplytexture_png_68f562f1_png_fa14f3f8.vtex
+weapons/7ychu5/hegrenade_tianzhen/materials/logo_jpg_5602279e.vtex
+weapons/7ychu5/hegrenade_tianzhen/materials/logo.vmat
+weapons/7ychu5/hegrenade_tianzhen/materials/outline_png_a5ecfce9.vtex
+weapons/7ychu5/hegrenade_tianzhen/materials/outline.vmat
+weapons/7ychu5/hegrenade_tianzhen/materials/shell.vmat
+weapons/custom/hegrenade_tianzhen/hegrenade_tianzhen.vmdl

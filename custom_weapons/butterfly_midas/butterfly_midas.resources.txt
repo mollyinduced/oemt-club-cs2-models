@@ -1,0 +1,17 @@
+# cs2-model-converter: butterfly_midas, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/butterfly_midas/butterfly_midas.vmdl
+# weapon: weapon_knife_butterfly
+# skeleton: animation/skeletons/weapons/knife_butterfly.vnmskel
+models/kolka/midas/decals_vmat_g_tcolor_9a236136.vtex
+models/kolka/midas/decals_vmat_g_tselfillummask_ff155607.vtex
+models/kolka/midas/decals.vmat
+models/kolka/midas/decals2_vmat_g_tcolor_9a236136.vtex
+models/kolka/midas/decals2_vmat_g_tselfillummask_ff155607.vtex
+models/kolka/midas/decals2.vmat
+models/kolka/midas/melee_midas_glass_df_png_1beee167.vtex
+models/kolka/midas/melee_midas_glass_nm_png_6bfeb2d9.vtex
+models/kolka/midas/glass.vmat
+models/kolka/midas/melee_midas_aem_png_11473c8.vtex
+models/kolka/midas/melee_midas_gold_df_png_dd4796d8.vtex
+models/kolka/midas/midas.vmat
+weapons/custom/butterfly_midas/butterfly_midas.vmdl

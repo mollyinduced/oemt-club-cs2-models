@@ -1,0 +1,12 @@
+# cs2-model-converter: re4knife_zaomeng_ag2_2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/re4knife_zaomeng_ag2_2/re4knife_zaomeng_ag2_2.vmdl
+# weapon: weapon_knife_canis
+# skeleton: animation/skeletons/weapons/knife_canis.vnmskel
+weapons/models/2en0w/re4knife_zaomeng/materials/re4knife_zaomeng_base_color_png_d11fa09.vtex
+weapons/models/2en0w/re4knife_zaomeng/materials/re4knife_zaomeng_roughness_png_de672836.vtex
+weapons/models/2en0w/re4knife_zaomeng/materials/re4knife_zaomeng_base.vmat
+weapons/models/2en0w/re4knife_zaomeng/materials/re4knife_zaomeng_trans_01_png_4be1db16.vtex
+weapons/models/2en0w/re4knife_zaomeng/materials/re4knife_zaomeng_trans_01.vmat
+weapons/models/2en0w/re4knife_zaomeng/materials/re4knife_zaomeng_trans_02_png_c5a29c21.vtex
+weapons/models/2en0w/re4knife_zaomeng/materials/re4knife_zaomeng_trans_02.vmat
+weapons/custom/re4knife_zaomeng_ag2_2/re4knife_zaomeng_ag2_2.vmdl

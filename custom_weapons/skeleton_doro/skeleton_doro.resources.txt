@@ -1,0 +1,29 @@
+# cs2-model-converter: skeleton_doro, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/skeleton_doro/skeleton_doro.vmdl
+# weapon: weapon_knife_skeleton
+# skeleton: animation/skeletons/weapons/knife_skeleton.vnmskel
+weapons/models/skeleton_doro/materials/ch_npc_dororog_a_png_4487143.vtex
+weapons/models/skeleton_doro/materials/doro_vmat_g_tselfillummask_38bac7b9.vtex
+weapons/models/skeleton_doro/materials/doro.vmat
+weapons/models/skeleton_doro/materials/doro_knife_vmat_g_tselfillummask_38bac7b9.vtex
+weapons/models/skeleton_doro/materials/weapons_models_knife_knife_skeleton_materials_weapon_kn_1d97ee9_base_color_png_f54e3e01.vtex
+weapons/models/skeleton_doro/materials/weapons_models_knife_knife_skeleton_materials_weapon_kn_1d97ee9_metallic_png_27861804.vtex
+weapons/models/skeleton_doro/materials/doro_knife.vmat
+weapons/models/skeleton_doro/materials/doro_xz_png_73d73f2d.vtex
+weapons/models/skeleton_doro/materials/doro_xz_vmat_g_tselfillummask_ff155607.vtex
+weapons/models/skeleton_doro/materials/doro_xz.vmat
+weapons/models/skeleton_doro/materials/keychain_vmat_g_tcolor_156a2f22.vtex
+weapons/models/skeleton_doro/materials/keychain_vmat_g_tmetalness_9e463381.vtex
+weapons/models/skeleton_doro/materials/keychain_vmat_g_tselfillummask_38bac7b9.vtex
+weapons/models/skeleton_doro/materials/keychain.vmat
+weapons/models/skeleton_doro/materials/colorful_png_25aac7e4.vtex
+weapons/models/skeleton_doro/materials/mb_vmat_g_tselfillummask_ff155607.vtex
+weapons/models/skeleton_doro/materials/mb.vmat
+weapons/models/skeleton_doro/materials/colorful_png_5986f41a.vtex
+weapons/models/skeleton_doro/materials/star_png_fc66627a.vtex
+weapons/models/skeleton_doro/materials/ring1.vmat
+weapons/models/skeleton_doro/materials/star_dot_png_4f894a22.vtex
+weapons/models/skeleton_doro/materials/star_vmat_g_tnormal_53b47c48.vtex
+weapons/models/skeleton_doro/materials/star_vmat_g_tselfillummask_ff155607.vtex
+weapons/models/skeleton_doro/materials/star.vmat
+weapons/custom/skeleton_doro/skeleton_doro.vmdl

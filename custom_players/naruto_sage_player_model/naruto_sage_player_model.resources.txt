@@ -1,0 +1,17 @@
+# cs2-model-converter: naruto_sage_player_model, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/deti00ykh/naruto_sage_player_model/naruto_sage_player_model.vmdl
+# first person: 0 2 12 15
+characters/models/deti00ykh/naruto_sage_player_model/materials/body_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/deti00ykh/naruto_sage_player_model/materials/nr2_tex01_png_b1e1ceb4.vtex
+characters/models/deti00ykh/naruto_sage_player_model/materials/body.vmat
+characters/models/deti00ykh/naruto_sage_player_model/materials/eye_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/deti00ykh/naruto_sage_player_model/materials/nr2_eye_png_9b9ac1f7.vtex
+characters/models/deti00ykh/naruto_sage_player_model/materials/eye.vmat
+characters/models/deti00ykh/naruto_sage_player_model/materials/fgace_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/deti00ykh/naruto_sage_player_model/materials/nr2_tex02_png_c9d708ac.vtex
+characters/models/deti00ykh/naruto_sage_player_model/materials/fgace.vmat
+characters/models/deti00ykh/naruto_sage_player_model/materials/utlind_vmat_g_tcolor_6b6e411d.vtex
+characters/models/deti00ykh/naruto_sage_player_model/materials/utlind.vmat
+characters/models/deti00ykh/naruto_sage_player_model/naruto_sage_player_model/arms_vmorf.vtex
+characters/models/deti00ykh/naruto_sage_player_model/naruto_sage_player_model/body_vmorf.vtex
+characters/models/deti00ykh/naruto_sage_player_model/naruto_sage_player_model.vmdl

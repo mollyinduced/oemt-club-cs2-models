@@ -1,0 +1,22 @@
+# cs2-model-converter: kaneki_4, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/kolka/kaneki/kaneki.vmdl
+# first person: 0 1 2 3
+characters/models/kolka/kaneki/kaneki/first_person_arms_vmorf.vtex
+characters/models/kolka/kaneki/kaneki/thirdperson_vmorf.vtex
+characters/models/kolka/kaneki/mat/cloth_tga_644ab80d.vtex
+characters/models/kolka/kaneki/mat/cloth_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/kolka/kaneki/mat/cloth_vmat_g_tnormal_53b47c48.vtex
+characters/models/kolka/kaneki/mat/cloth.vmat
+characters/models/kolka/kaneki/mat/eye_left_self_tga_84c26dfd.vtex
+characters/models/kolka/kaneki/mat/eye_left_tga_9700e28c.vtex
+characters/models/kolka/kaneki/mat/eye_left_vmat_g_tnormal_53b47c48.vtex
+characters/models/kolka/kaneki/mat/eye_left.vmat
+characters/models/kolka/kaneki/mat/g00112_tex_c_repeat_tga_6786c01a.vtex
+characters/models/kolka/kaneki/mat/g00112_tex_c_repeat_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/kolka/kaneki/mat/g00112_tex_c_repeat_vmat_g_tnormal_53b47c48.vtex
+characters/models/kolka/kaneki/mat/g00112_tex_c_repeat.vmat
+characters/models/kolka/kaneki/mat/hair_tga_706be4e4.vtex
+characters/models/kolka/kaneki/mat/hair_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/kolka/kaneki/mat/hair_vmat_g_tnormal_53b47c48.vtex
+characters/models/kolka/kaneki/mat/hair.vmat
+characters/models/kolka/kaneki/kaneki.vmdl

@@ -1,0 +1,33 @@
+# cs2-model-converter: herloher_nohitbox, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/otakku/herloher/herloher_nohitbox.vmdl
+# first person: 0 2 12 15
+agents/models/otakku/herloher/materials/body_png_fc136001.vtex
+agents/models/otakku/herloher/materials/body_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/otakku/herloher/materials/body_vmat_g_tmetalness_1081f06e.vtex
+agents/models/otakku/herloher/materials/body_vmat_g_tnormal_d52512a9.vtex
+agents/models/otakku/herloher/materials/body.vmat
+agents/models/otakku/herloher/materials/body_env_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/otakku/herloher/materials/body_env_vmat_g_tmetalness_20dd118e.vtex
+agents/models/otakku/herloher/materials/body_env_vmat_g_tnormal_d715409f.vtex
+agents/models/otakku/herloher/materials/body_env.vmat
+agents/models/otakku/herloher/materials/ex_png_3c72448d.vtex
+agents/models/otakku/herloher/materials/ex_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/otakku/herloher/materials/ex_vmat_g_tmetalness_1081f06e.vtex
+agents/models/otakku/herloher/materials/ex_vmat_g_tnormal_d52512a9.vtex
+agents/models/otakku/herloher/materials/ex.vmat
+agents/models/otakku/herloher/materials/hair_png_ea19bd6.vtex
+agents/models/otakku/herloher/materials/hair_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/otakku/herloher/materials/hair_vmat_g_tmetalness_1081f06e.vtex
+agents/models/otakku/herloher/materials/hair_vmat_g_tnormal_d52512a9.vtex
+agents/models/otakku/herloher/materials/hair.vmat
+agents/models/otakku/herloher/materials/main_png_92be9e6d.vtex
+agents/models/otakku/herloher/materials/main_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/otakku/herloher/materials/main_vmat_g_tmetalness_1081f06e.vtex
+agents/models/otakku/herloher/materials/main_vmat_g_tnormal_d52512a9.vtex
+agents/models/otakku/herloher/materials/main.vmat
+agents/models/otakku/herloher/materials/other_png_8559e4df.vtex
+agents/models/otakku/herloher/materials/other_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/otakku/herloher/materials/other_vmat_g_tmetalness_1081f06e.vtex
+agents/models/otakku/herloher/materials/other_vmat_g_tnormal_d52512a9.vtex
+agents/models/otakku/herloher/materials/other.vmat
+agents/models/otakku/herloher/herloher_nohitbox.vmdl

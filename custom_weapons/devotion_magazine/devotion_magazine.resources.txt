@@ -1,0 +1,11 @@
+# cs2-model-converter: devotion_magazine, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/devotion_magazine/devotion_magazine.vmdl
+# weapon: weapon_negev
+# skeleton: animation/skeletons/weapons/negev.vnmskel
+weapons/models/mach_negev/materials/devotion_acc_color_png_f55ebf2d.vtex
+weapons/models/mach_negev/materials/devotion_acc_normal_png_bbe9a365.vtex
+weapons/models/mach_negev/materials/devotion_acc_normal_png_d9070cac.vtex
+weapons/models/mach_negev/materials/devotion_acc_selfillum_png_dcce9a6b.vtex
+weapons/models/mach_negev/materials/devotion_acc_texture_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/models/mach_negev/materials/devotion_acc_texture.vmat
+weapons/custom/devotion_magazine/devotion_magazine.vmdl

@@ -1,0 +1,11 @@
+# cs2-model-converter: eva8_magazine, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/eva8_magazine/eva8_magazine.vmdl
+# weapon: weapon_mag7
+# skeleton: animation/skeletons/weapons/mag7.vnmskel
+weapons/models/shot_mag7/materials/eva8_ao_png_256da169.vtex
+weapons/models/shot_mag7/materials/eva8_color_png_b7c2b34e.vtex
+weapons/models/shot_mag7/materials/eva8_normal_png_48e10054.vtex
+weapons/models/shot_mag7/materials/eva8_normal_png_ee0eea79.vtex
+weapons/models/shot_mag7/materials/eva8_selfillum_png_525cc70e.vtex
+weapons/models/shot_mag7/materials/eva8.vmat
+weapons/custom/eva8_magazine/eva8_magazine.vmdl

@@ -1,0 +1,9 @@
+# cs2-model-converter: mummy, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/otakku/mummy/mummy.vmdl
+# first person: 0 2 12 15
+agents/models/otakku/mummy/materials/body_vmat_g_tmetalness_b99de324.vtex
+agents/models/otakku/mummy/materials/mi_ch_egypt_mummy_ambientocclusion_jpg_81c3847b_orm_2182734553_png_278e4ead.vtex
+agents/models/otakku/mummy/materials/mi_ch_egypt_mummy_basecolor_jpg_facc6bdd_png_64100fb4.vtex
+agents/models/otakku/mummy/materials/mi_ch_egypt_mummy_normal_jpg_ef81f04_png_e7d7ca99.vtex
+agents/models/otakku/mummy/materials/body.vmat
+agents/models/otakku/mummy/mummy.vmdl

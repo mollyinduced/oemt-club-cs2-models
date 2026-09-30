@@ -1,0 +1,14 @@
+# cs2-model-converter: alice_sk2model, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/hmn_sk2/nikke/alice/alice_sk2model.vmdl
+# first person: 0 3 12 15
+characters/models/hmn_sk2/nikke/alice/arms/mat/arms_pink_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/hmn_sk2/nikke/alice/arms/mat/nik_arms_png_f76e5bab.vtex
+characters/models/hmn_sk2/nikke/alice/arms/mat/arms_pink.vmat
+characters/models/hmn_sk2/nikke/alice/materials/alice_cs2_vmat_g_tambientocclusion_9782fd5c.vtex
+characters/models/hmn_sk2/nikke/alice/materials/alice_cs2_vmat_g_tdiffusefalloff_aa1e6fc8.vtex
+characters/models/hmn_sk2/nikke/alice/materials/alice_cs2_vmat_g_tmetalness_1081f06e.vtex
+characters/models/hmn_sk2/nikke/alice/materials/alice_cs2_vmat_g_tnormal_aed807f.vtex
+characters/models/hmn_sk2/nikke/alice/materials/nikke_alice_texture_png_49fb4253.vtex
+materials/default/default_mask_tga_cac76a2f.vtex
+characters/models/hmn_sk2/nikke/alice/materials/alice_cs2.vmat
+characters/models/hmn_sk2/nikke/alice/alice_sk2model.vmdl

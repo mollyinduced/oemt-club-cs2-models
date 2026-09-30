@@ -1,0 +1,34 @@
+{
+ "converter": "2.3",
+ "made": "2026-09-30 01:55:38",
+ "name": "no_wood_3",
+ "mode": "as-is",
+ "input": "C:\\Users\\mollyinduced\\Downloads\\models\\meat_assets_3719414017",
+ "model": "characters/models/nozb1/patrik_player_model/no_wood.vmdl_c",
+ "kind": "CS2 model (AnimGraph2)",
+ "options": {
+  "skin": 0,
+  "up": "auto",
+  "forward": "auto",
+  "rig": true,
+  "shader": "csgo_complex.vfx",
+  "texture_size": 4096,
+  "mode": "auto",
+  "jiggle": true,
+  "guess_jiggle": true,
+  "first_person": true,
+  "twist": true,
+  "arms": null,
+  "weapon": null,
+  "extra": [
+   "C:\\Users\\mollyinduced\\Downloads\\models\\homer_simpson_v3\\agents\\models\\otakku\\homer_simpson\\materials"
+  ],
+  "addon": "custom_models"
+ },
+ "stats": {
+  "triangles": 6940,
+  "bones": 174,
+  "first_person": "its own",
+  "jiggle_bones": []
+ }
+}

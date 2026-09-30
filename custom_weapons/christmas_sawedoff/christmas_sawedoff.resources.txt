@@ -1,0 +1,10 @@
+# cs2-model-converter: christmas_sawedoff, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/christmas_sawedoff/christmas_sawedoff.vmdl
+# weapon: weapon_sawedoff
+# skeleton: animation/skeletons/weapons/sawedoff.vnmskel
+weapons/otakku/nova/christmas_sawedoff/materials/christmas_sawedoff_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/nova/christmas_sawedoff/materials/christmas_sawedoff_vmat_g_tmetalness_bf88ae37.vtex
+weapons/otakku/nova/christmas_sawedoff/materials/diffuse_png_c2bba228.vtex
+weapons/otakku/nova/christmas_sawedoff/materials/normal_png_4817574b.vtex
+weapons/otakku/nova/christmas_sawedoff/materials/christmas_sawedoff.vmat
+weapons/custom/christmas_sawedoff/christmas_sawedoff.vmdl

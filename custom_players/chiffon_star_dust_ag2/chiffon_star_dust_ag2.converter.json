@@ -1,0 +1,55 @@
+{
+ "converter": "2.3",
+ "made": "2026-09-30 01:19:32",
+ "name": "chiffon_star_dust_ag2",
+ "mode": "as-is",
+ "input": "C:\\Users\\mollyinduced\\Downloads\\models\\pridecs2_resource_pack_3507985179",
+ "model": "phase2/characters/models/exg/ruiyiwelkin/chiffon_star_dust/chiffon_star_dust_ag2.vmdl_c",
+ "kind": "CS2 model (AnimGraph2)",
+ "options": {
+  "skin": 0,
+  "up": "auto",
+  "forward": "auto",
+  "rig": true,
+  "shader": "csgo_complex.vfx",
+  "texture_size": 4096,
+  "mode": "auto",
+  "jiggle": true,
+  "guess_jiggle": true,
+  "first_person": true,
+  "twist": true,
+  "arms": null,
+  "weapon": null,
+  "extra": [
+   "C:\\Users\\mollyinduced\\Downloads\\models\\homer_simpson_v3\\agents\\models\\otakku\\homer_simpson\\materials"
+  ],
+  "addon": "custom_models"
+ },
+ "stats": {
+  "triangles": 33179,
+  "bones": 103,
+  "first_person": "",
+  "jiggle_bones": [
+   "l_rb",
+   "l_rb1",
+   "l_rb2",
+   "l_rb3",
+   "l_rb4",
+   "l_rb5",
+   "l_rb6",
+   "l_rb7",
+   "l_rb8",
+   "l_rb9",
+   "l_rb10",
+   "l_rb11",
+   "r_rb",
+   "r_rb1",
+   "r_rb2",
+   "r_rb3",
+   "r_rb4",
+   "r_rb5",
+   "r_rb6",
+   "r_rb7"
+  ]
+ }
+}

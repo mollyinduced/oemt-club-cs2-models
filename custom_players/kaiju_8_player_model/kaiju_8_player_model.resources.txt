@@ -1,0 +1,9 @@
+# cs2-model-converter: the resources models/custom/kaiju_8_player_model/kaiju_8_player_model.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/kaiju_8_player_model/body_color_png_450c8d61.vtex
+materials/models/custom/kaiju_8_player_model/body.vmat
+materials/models/custom/kaiju_8_player_model/feet_color_png_1fc25f20.vtex
+materials/models/custom/kaiju_8_player_model/feet.vmat
+materials/models/custom/kaiju_8_player_model/head_color_png_afb464ed.vtex
+materials/models/custom/kaiju_8_player_model/head.vmat
+models/custom/kaiju_8_player_model/kaiju_8_player_model.vmdl

@@ -1,0 +1,4 @@
+# cs2-model-converter: the resources models/custom/wings_demon/wings_demon.vmdl needs, loaded in this order by the SDK
+materials/models/custom/wings_demon/demon_color_png_ac18aac4.vtex
+materials/models/custom/wings_demon/demon.vmat
+models/custom/wings_demon/wings_demon.vmdl

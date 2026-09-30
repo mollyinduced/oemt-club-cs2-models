@@ -1,0 +1,16 @@
+# cs2-model-converter: gravitycannon_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/gravitycannon_ag2/gravitycannon_ag2.vmdl
+# weapon: weapon_taser
+# skeleton: animation/skeletons/weapons/taser.vnmskel
+phase2/weapons/exg/physcannon_new/fs_png_f72fde6.vtex
+phase2/weapons/exg/physcannon_new/v_physcannon_body_d_tga_7ae6220f.vtex
+phase2/weapons/exg/physcannon_new/v_physcannon_body_vmat_g_tnormal_7e02665d.vtex
+phase2/weapons/exg/physcannon_new/v_physcannon_body.vmat
+phase2/weapons/exg/physcannon_new/v_physcannon_body2_vmat_g_tnormal_520db33f.vtex
+phase2/weapons/exg/physcannon_new/v_physcannon_body2_vmat_g_tselfillummask_445bba9a.vtex
+phase2/weapons/exg/physcannon_new/v_physcannon_crystal_d_tga_af41ca7a.vtex
+phase2/weapons/exg/physcannon_new/v_physcannon_body2.vmat
+phase2/weapons/exg/physcannon_new/v_physcannon_glass_vmat_g_tnormal_a1e47e21.vtex
+phase2/weapons/exg/physcannon_new/v_physcannon_glass_vmat_g_tselfillummask_e750419.vtex
+phase2/weapons/exg/physcannon_new/v_physcannon_glass.vmat
+weapons/custom/gravitycannon_ag2/gravitycannon_ag2.vmdl

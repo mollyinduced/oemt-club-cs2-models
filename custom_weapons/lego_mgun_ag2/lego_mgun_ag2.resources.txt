@@ -1,0 +1,11 @@
+# cs2-model-converter: lego_mgun_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/lego_mgun_ag2/lego_mgun_ag2.vmdl
+# weapon: weapon_negev
+# skeleton: animation/skeletons/weapons/negev.vnmskel
+weapons/nozb1/lego_pack/lego_mgun/materials/blockmg1_v_n_png_ef72d98e.vtex
+weapons/nozb1/lego_pack/lego_mgun/materials/blockmg1_v_png_f94555ad.vtex
+weapons/nozb1/lego_pack/lego_mgun/materials/blockmg1.vmat
+weapons/nozb1/lego_pack/lego_mgun/materials/outlienr_vmat_g_tcolor_b08f2bba.vtex
+weapons/nozb1/lego_pack/lego_mgun/materials/outlienr_vmat_g_tselfillummask_ff155607.vtex
+weapons/nozb1/lego_pack/lego_mgun/materials/outlienr.vmat
+weapons/custom/lego_mgun_ag2/lego_mgun_ag2.vmdl

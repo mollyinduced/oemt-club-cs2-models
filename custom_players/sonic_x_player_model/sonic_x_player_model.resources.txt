@@ -1,0 +1,8 @@
+# cs2-model-converter: sonic_x_player_model, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/ag2_pt/sonic_x_player_model/sonic_x_player_model.vmdl
+# first person: 0 2 12 15
+agents/models/ag2_pt/sonic_x_player_model/materials/movie_sonic_d_png_96e66a65.vtex
+agents/models/ag2_pt/sonic_x_player_model/materials/movie_sonic_n_png_81e151b3.vtex
+agents/models/ag2_pt/sonic_x_player_model/materials/sonic_mat_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2_pt/sonic_x_player_model/materials/sonic_mat.vmat
+agents/models/ag2_pt/sonic_x_player_model/sonic_x_player_model.vmdl

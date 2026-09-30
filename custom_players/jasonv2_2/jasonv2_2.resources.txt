@@ -1,0 +1,14 @@
+# cs2-model-converter: the resources models/custom/jasonv2_2/jasonv2_2.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/jasonv2_2/jason_color_png_217d1152.vtex
+materials/models/custom/jasonv2_2/jason_normal_png_db2e2063.vtex
+materials/models/custom/jasonv2_2/jason.vmat
+materials/models/custom/jasonv2_2/jason_arms_color_png_355f07aa.vtex
+materials/models/custom/jasonv2_2/jason_arms_normal_png_d651c79c.vtex
+materials/models/custom/jasonv2_2/jason_arms.vmat
+materials/models/custom/jasonv2_2/jason_eyelashes_color_png_2a201bae.vtex
+materials/models/custom/jasonv2_2/jason_eyelashes.vmat
+materials/models/custom/jasonv2_2/jason_eyes_color_png_a1dcc545.vtex
+materials/models/custom/jasonv2_2/jason_eyes_normal_png_c1d01a05.vtex
+materials/models/custom/jasonv2_2/jason_eyes.vmat
+models/custom/jasonv2_2/jasonv2_2.vmdl

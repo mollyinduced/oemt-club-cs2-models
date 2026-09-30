@@ -1,0 +1,14 @@
+# cs2-model-converter: zombie_screamer, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/otakku/zombie_screamer/zombie_screamer.vmdl
+# first person: 0 2 12 15
+agents/models/otakku/zombie_screamer/materials/m_zombiescreamer_body_vmat_g_tmetalness_b99de324.vtex
+agents/models/otakku/zombie_screamer/materials/t_skin1_zombiescreamer_body_albedo_png_d804418b.vtex
+agents/models/otakku/zombie_screamer/materials/t_skin1_zombiescreamer_body_normal_png_5b7bc3fd.vtex
+agents/models/otakku/zombie_screamer/materials/t_skin1_zombiescreamer_body_occlusion_png_9f65ce63.vtex
+agents/models/otakku/zombie_screamer/materials/m_zombiescreamer_body.vmat
+agents/models/otakku/zombie_screamer/materials/m_zombiescreamer_hair_vmat_g_tmetalness_b99de324.vtex
+agents/models/otakku/zombie_screamer/materials/t_skinall_zombiescreamer_hair_albedo_png_67da13f3.vtex
+agents/models/otakku/zombie_screamer/materials/t_skinall_zombiescreamer_hair_ao_png_b36daf59.vtex
+agents/models/otakku/zombie_screamer/materials/t_skinall_zombiescreamer_hair_normal_png_b11b2bd6.vtex
+agents/models/otakku/zombie_screamer/materials/m_zombiescreamer_hair.vmat
+agents/models/otakku/zombie_screamer/zombie_screamer.vmdl

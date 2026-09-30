@@ -1,0 +1,8 @@
+# cs2-model-converter: d_a_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/d_a_ag2/d_a_ag2.vmdl
+# weapon: weapon_deagle
+# skeleton: animation/skeletons/weapons/deagle.vnmskel
+materials/default/default_rough_tga_b16ce871.vtex
+materials/memni4ik/deagle/d_a/image_0_png_70234f2d.vtex
+materials/memni4ik/deagle/d_a/1.vmat
+weapons/custom/d_a_ag2/d_a_ag2.vmdl

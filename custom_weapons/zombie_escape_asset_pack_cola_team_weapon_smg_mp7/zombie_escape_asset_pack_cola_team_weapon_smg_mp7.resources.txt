@@ -1,0 +1,35 @@
+# cs2-model-converter: zombie_escape_asset_pack_cola_team_weapon_smg_mp7, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/zombie_escape_asset_pack_cola_team_weapon_smg_mp7/zombie_escape_asset_pack_cola_team_weapon_smg_mp7.vmdl
+# weapon: weapon_mp7
+# skeleton: animation/skeletons/weapons/mp7.vnmskel
+weapons/otakku/mp7/cyrene/materials/bossxe_main_normal_png_b0f2d348.vtex
+weapons/otakku/mp7/cyrene/materials/mi_optic_bossxe_base_color_png_6ba77301.vtex
+weapons/otakku/mp7/cyrene/materials/mi_optic_bossxe_base_color_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/mp7/cyrene/materials/mi_optic_bossxe_base_color_vmat_g_tselfillummask_ff155607.vtex
+weapons/otakku/mp7/cyrene/materials/mi_optic_bossxe_base_color.vmat
+weapons/otakku/mp7/cyrene/materials/mp7a2_base_color_png_507db612.vtex
+weapons/otakku/mp7/cyrene/materials/mp7a2_base_color_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/mp7/cyrene/materials/mp7a2_base_color_vmat_g_tselfillummask_ff155607.vtex
+weapons/otakku/mp7/cyrene/materials/mp7a2_n_png_f55c0517.vtex
+weapons/otakku/mp7/cyrene/materials/mp7a2_base_color.vmat
+weapons/otakku/mp7/cyrene/materials/mp7a2_mag_mi_base_color_png_b57d8a84.vtex
+weapons/otakku/mp7/cyrene/materials/mp7a2_mag_mi_base_color_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/mp7/cyrene/materials/mp7a2_mag_mi_base_color_vmat_g_tselfillummask_ff155607.vtex
+weapons/otakku/mp7/cyrene/materials/mp7mag_mp7a2_mag_texmat_normal_png_ed76a9c6.vtex
+weapons/otakku/mp7/cyrene/materials/mp7a2_mag_mi_base_color.vmat
+weapons/otakku/mp7/cyrene/materials/mp7a2_mechanical_sight_base_color_png_a972a577.vtex
+weapons/otakku/mp7/cyrene/materials/mp7a2_mechanical_sight_base_color_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/mp7/cyrene/materials/mp7a2_mechanical_sight_base_color_vmat_g_tselfillummask_ff155607.vtex
+weapons/otakku/mp7/cyrene/materials/mp7a2_mechanical_sight_n_png_24c86ccf.vtex
+weapons/otakku/mp7/cyrene/materials/mp7a2_mechanical_sight_base_color.vmat
+weapons/otakku/mp7/cyrene/materials/optic_picture_m_inst_bossxe_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/mp7/cyrene/materials/optic_picture_m_inst_bossxe_vmat_g_tnormal_2984f4a9.vtex
+weapons/otakku/mp7/cyrene/materials/optic_picture_m_inst_bossxe_vmat_g_tselfillummask_ff155607.vtex
+weapons/otakku/mp7/cyrene/materials/red_dot_png_25b6cea7.vtex
+weapons/otakku/mp7/cyrene/materials/optic_picture_m_inst_bossxe.vmat
+weapons/otakku/mp7/cyrene/materials/td_vfg_mi_base_color_png_810d4b78.vtex
+weapons/otakku/mp7/cyrene/materials/td_vfg_mi_base_color_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/mp7/cyrene/materials/td_vfg_mi_base_color_vmat_g_tselfillummask_ff155607.vtex
+weapons/otakku/mp7/cyrene/materials/tdgrip_texmat_normal_png_560b7b88.vtex
+weapons/otakku/mp7/cyrene/materials/td_vfg_mi_base_color.vmat
+weapons/custom/zombie_escape_asset_pack_cola_team_weapon_smg_mp7/zombie_escape_asset_pack_cola_team_weapon_smg_mp7.vmdl

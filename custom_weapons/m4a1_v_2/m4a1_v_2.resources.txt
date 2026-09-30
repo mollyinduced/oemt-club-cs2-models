@@ -1,0 +1,45 @@
+# cs2-model-converter: m4a1_v_2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/m4a1_v_2/m4a1_v_2.vmdl
+# weapon: weapon_m4a1
+# skeleton: animation/skeletons/weapons/m4a4.vnmskel
+weapons/kxnrl/m4a1/firefly/materials/ammo_png_b999cfef.vtex
+weapons/kxnrl/m4a1/firefly/materials/ammo_vmat_g_tselfillummask_ff155607.vtex
+weapons/kxnrl/m4a1/firefly/materials/ammo.vmat
+weapons/kxnrl/m4a1/firefly/materials/barrel_tga_e552f3c9.vtex
+weapons/kxnrl/m4a1/firefly/materials/barrel_vmat_g_tselfillummask_ff155607.vtex
+weapons/kxnrl/m4a1/firefly/materials/barrel.vmat
+weapons/kxnrl/m4a1/firefly/materials/base_tga_50942e18.vtex
+weapons/kxnrl/m4a1/firefly/materials/base_vmat_g_tselfillummask_ff155607.vtex
+weapons/kxnrl/m4a1/firefly/materials/base.vmat
+weapons/kxnrl/m4a1/firefly/materials/base2_tga_1dc045c9.vtex
+weapons/kxnrl/m4a1/firefly/materials/base2_vmat_g_tselfillummask_ff155607.vtex
+weapons/kxnrl/m4a1/firefly/materials/base2.vmat
+weapons/kxnrl/m4a1/firefly/materials/base3_tga_7f87994.vtex
+weapons/kxnrl/m4a1/firefly/materials/base3_vmat_g_tselfillummask_ff155607.vtex
+weapons/kxnrl/m4a1/firefly/materials/base3.vmat
+weapons/kxnrl/m4a1/firefly/materials/black_tga_abcf1abc.vtex
+weapons/kxnrl/m4a1/firefly/materials/black_tga_f349613.vtex
+weapons/kxnrl/m4a1/firefly/materials/black.vmat
+weapons/kxnrl/m4a1/firefly/materials/mag_tga_c7e63fea.vtex
+weapons/kxnrl/m4a1/firefly/materials/mag_vmat_g_tselfillummask_ff155607.vtex
+weapons/kxnrl/m4a1/firefly/materials/mag.vmat
+weapons/kxnrl/m4a1/firefly/materials/muzzle_tga_45b44b66.vtex
+weapons/kxnrl/m4a1/firefly/materials/muzzle_vmat_g_tselfillummask_ff155607.vtex
+weapons/kxnrl/m4a1/firefly/materials/muzzle.vmat
+weapons/kxnrl/m4a1/firefly/materials/quanxi_png_32f622de.vtex
+weapons/kxnrl/m4a1/firefly/materials/quanxi_vmat_g_tselfillummask_ff155607.vtex
+weapons/kxnrl/m4a1/firefly/materials/quanxi.vmat
+weapons/kxnrl/m4a1/firefly/materials/reflex_tga_6d32ab49.vtex
+weapons/kxnrl/m4a1/firefly/materials/reflex_vmat_g_tselfillummask_ff155607.vtex
+weapons/kxnrl/m4a1/firefly/materials/reflex.vmat
+weapons/kxnrl/m4a1/firefly/materials/reticle_ui_light_tga_41b3c433.vtex
+weapons/kxnrl/m4a1/firefly/materials/reticle_ui_light_vmat_g_tselfillummask_ff155607.vtex
+weapons/kxnrl/m4a1/firefly/materials/reticle_ui_light.vmat
+weapons/kxnrl/m4a1/firefly/materials/reticle_ui_stencil_n_tga_3e694df.vtex
+weapons/kxnrl/m4a1/firefly/materials/reticle_ui_stencil_tga_1be12983.vtex
+weapons/kxnrl/m4a1/firefly/materials/reticle_ui_stencil_vmat_g_tselfillummask_ff155607.vtex
+weapons/kxnrl/m4a1/firefly/materials/reticle_ui_stencil.vmat
+weapons/kxnrl/m4a1/firefly/materials/sights_tga_c8857fb6.vtex
+weapons/kxnrl/m4a1/firefly/materials/sights_vmat_g_tselfillummask_ff155607.vtex
+weapons/kxnrl/m4a1/firefly/materials/sights.vmat
+weapons/custom/m4a1_v_2/m4a1_v_2.vmdl

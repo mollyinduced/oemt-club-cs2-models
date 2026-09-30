@@ -1,0 +1,19 @@
+# cs2-model-converter: master_chief_nohitbox, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/s2ze/master_chief/master_chief_nohitbox.vmdl
+# first person: 0 2 12 15
+agents/models/s2ze/master_chief/materials/body_mask_png_60c7a317.vtex
+agents/models/s2ze/master_chief/materials/body_new_png_78044d25.vtex
+agents/models/s2ze/master_chief/materials/body_normal_png_16d465d0.vtex
+agents/models/s2ze/master_chief/materials/body_normal_png_8eff1e74.vtex
+agents/models/s2ze/master_chief/materials/body_vmat_g_tmetalness_ce5b7927.vtex
+agents/models/s2ze/master_chief/materials/body.vmat
+agents/models/s2ze/master_chief/materials/helmet_mask_png_ddacdb45.vtex
+agents/models/s2ze/master_chief/materials/helmet_new_png_b1f8372c.vtex
+agents/models/s2ze/master_chief/materials/helmet_normal_png_39db3add.vtex
+agents/models/s2ze/master_chief/materials/helmet_normal_png_55d484.vtex
+agents/models/s2ze/master_chief/materials/helmet_vmat_g_tmetalness_ce5b7927.vtex
+agents/models/s2ze/master_chief/materials/helmet.vmat
+agents/models/s2ze/master_chief/materials/helmet_glow_alpha_png_234e5900.vtex
+agents/models/s2ze/master_chief/materials/helmet_glow_vmat_g_tselfillummask_ff155607.vtex
+agents/models/s2ze/master_chief/materials/helmet_glow.vmat
+agents/models/s2ze/master_chief/master_chief_nohitbox.vmdl

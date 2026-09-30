@@ -1,0 +1,22 @@
+# cs2-model-converter: galaxy_kara_2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/galaxy_kara_2/galaxy_kara_2.vmdl
+# weapon: weapon_knife_karambit
+# skeleton: animation/skeletons/weapons/knife_karambit.vnmskel
+weapons/models/galaxykarambit/materials/galaxy_vmat_g_tnormal_53b47c48.vtex
+weapons/models/galaxykarambit/materials/galaxy_vmat_g_tselfillummask_26b5f3b8.vtex
+weapons/models/galaxykarambit/materials/t_galaxy_nomipmap_png_faeeeb5.vtex
+weapons/models/galaxykarambit/materials/galaxy.vmat
+weapons/models/galaxykarambit/materials/7e94dbae734d410bb08584029397ce0b_png_fcd48e9e.vtex
+weapons/models/galaxykarambit/materials/mb_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/models/galaxykarambit/materials/mb_vmat_g_tnormal_2984f4a9.vtex
+weapons/models/galaxykarambit/materials/mb_vmat_g_tselfillummask_ff155607.vtex
+weapons/models/galaxykarambit/materials/mb.vmat
+weapons/models/galaxykarambit/materials/ring_vmat_g_tselfillummask_ff155607.vtex
+weapons/models/galaxykarambit/materials/t_kn_karambit_skin_anime_galaxy_ring_png_18f0e828.vtex
+weapons/models/galaxykarambit/materials/ring.vmat
+weapons/models/galaxykarambit/materials/t_kn_karambit_skin_anime_galaxy_png_71ed92d7.vtex
+weapons/models/galaxykarambit/materials/t_kn_karambit_skin_anime_n_png_247c12dd.vtex
+weapons/models/galaxykarambit/materials/t_kn_karambit_skin_anime_s_png_767f6ab7.vtex
+weapons/models/galaxykarambit/materials/zz1_vmat_g_tselfillummask_88fb13f2.vtex
+weapons/models/galaxykarambit/materials/zz1.vmat
+weapons/custom/galaxy_kara_2/galaxy_kara_2.vmdl

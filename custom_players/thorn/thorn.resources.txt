@@ -1,0 +1,27 @@
+# cs2-model-converter: thorn, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/kolka/2025/thorn/thorn.vmdl
+# first person: 0 1 2 3
+characters/models/kolka/2025/thorn/mat/t_lilacleather_head_d_tga_2a90faa3.vtex
+characters/models/kolka/2025/thorn/mat/t_lilacleather_head_n_tga_5bfb761.vtex
+characters/models/kolka/2025/thorn/mat/head.vmat
+characters/models/kolka/2025/thorn/mat/t_lilacleather_head_d_eyes_self_tga_7613ded1.vtex
+characters/models/kolka/2025/thorn/mat/head_eyes.vmat
+characters/models/kolka/2025/thorn/mat/t_lilacleather_body_d_tga_73afd425.vtex
+characters/models/kolka/2025/thorn/mat/t_lilacleather_body_e_tga_2f2cb920.vtex
+characters/models/kolka/2025/thorn/mat/t_lilacleather_body_n_tga_85501574.vtex
+characters/models/kolka/2025/thorn/mat/t_lilacleather_body_d.vmat
+characters/models/kolka/2025/thorn/mat/t_lilacleather_body_noself_vmat_g_tmetalness_10974e8a.vtex
+characters/models/kolka/2025/thorn/mat/t_lilacleather_body_noself.vmat
+characters/models/kolka/2025/thorn/mat/t_lilacleather_faceacc_d_tga_30aaac85.vtex
+characters/models/kolka/2025/thorn/mat/t_lilacleather_faceacc_n_tga_ac7dca87.vtex
+characters/models/kolka/2025/thorn/mat/t_lilacleather_faceacc_d.vmat
+characters/models/kolka/2025/thorn/mat/t_lilacleather_faceaccextra_d_tga_5c16d8ba.vtex
+characters/models/kolka/2025/thorn/mat/t_lilacleather_faceaccextra_e_tga_ec8fdf57.vtex
+characters/models/kolka/2025/thorn/mat/t_lilacleather_faceaccextra_n_tga_2298a386.vtex
+characters/models/kolka/2025/thorn/mat/t_lilacleather_faceaccextra__trasn.vmat
+characters/models/kolka/2025/thorn/mat/t_lilacleather_faceaccextra_d_tga_abe0d1f6.vtex
+characters/models/kolka/2025/thorn/mat/t_lilacleather_faceaccextra_n_tga_9c5d3f8a.vtex
+characters/models/kolka/2025/thorn/mat/t_lilacleather_faceaccextra_d.vmat
+characters/models/kolka/2025/thorn/thorn/first_person_arms_vmorf.vtex
+characters/models/kolka/2025/thorn/thorn/thirdperson_vmorf.vtex
+characters/models/kolka/2025/thorn/thorn.vmdl

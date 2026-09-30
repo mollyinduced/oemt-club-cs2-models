@@ -1,0 +1,20 @@
+# cs2-model-converter: vulpes_player_model, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/nozb1/vulpes_player_model/vulpes_player_model.vmdl
+# first person: 0 2 12 15
+characters/models/nozb1/vulpes_player_model/materials/alpha_01_png_f01879ee.vtex
+characters/models/nozb1/vulpes_player_model/materials/vulpes_alpha_mat_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/vulpes_player_model/materials/vulpes_alpha_mat.vmat
+characters/models/nozb1/vulpes_player_model/materials/body_outfit_color2_normal_png_871fd632.vtex
+characters/models/nozb1/vulpes_player_model/materials/body_outfit_color2_png_4a1ad40c.vtex
+characters/models/nozb1/vulpes_player_model/materials/vulpes_body_mat_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/vulpes_player_model/materials/vulpes_body_mat.vmat
+characters/models/nozb1/vulpes_player_model/materials/head_base_color07_normal_png_e029ce72.vtex
+characters/models/nozb1/vulpes_player_model/materials/head_base_color07_png_b138dea4.vtex
+characters/models/nozb1/vulpes_player_model/materials/vulpes_head_mat_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/vulpes_player_model/materials/vulpes_head_mat.vmat
+characters/models/nozb1/vulpes_player_model/materials/outfit_base_color02_normal_png_66773341.vtex
+characters/models/nozb1/vulpes_player_model/materials/outfit_base_color02_png_4a1b5b4e.vtex
+characters/models/nozb1/vulpes_player_model/materials/vulpes_outfit_mat_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/vulpes_player_model/materials/vulpes_outfit_mat.vmat
+characters/models/nozb1/vulpes_player_model/vulpes_player_model/body_vmorf.vtex
+characters/models/nozb1/vulpes_player_model/vulpes_player_model.vmdl

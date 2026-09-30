@@ -1,0 +1,27 @@
+# cs2-model-converter: the resources models/custom/sonic_miku_player_model/sonic_miku_player_model.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/sonic_miku_player_model/black_miku_color_png_421621c4.vtex
+materials/models/custom/sonic_miku_player_model/black_miku.vmat
+materials/models/custom/sonic_miku_player_model/body_miku_color_png_f33208c2.vtex
+materials/models/custom/sonic_miku_player_model/body_miku.vmat
+materials/models/custom/sonic_miku_player_model/eye_miku_color_png_e9ceb77b.vtex
+materials/models/custom/sonic_miku_player_model/eye_miku.vmat
+materials/models/custom/sonic_miku_player_model/gold_miku_color_png_c6eef420.vtex
+materials/models/custom/sonic_miku_player_model/gold_miku.vmat
+materials/models/custom/sonic_miku_player_model/hair_miku_color_png_a8a092cc.vtex
+materials/models/custom/sonic_miku_player_model/hair_miku.vmat
+materials/models/custom/sonic_miku_player_model/hdress_miku_color_png_44f1c194.vtex
+materials/models/custom/sonic_miku_player_model/hdress_miku.vmat
+materials/models/custom/sonic_miku_player_model/metal_miku_color_png_d7e87125.vtex
+materials/models/custom/sonic_miku_player_model/metal_miku.vmat
+materials/models/custom/sonic_miku_player_model/pink_miku_color_png_647cf420.vtex
+materials/models/custom/sonic_miku_player_model/pink_miku.vmat
+materials/models/custom/sonic_miku_player_model/red_miku_color_png_7af0465e.vtex
+materials/models/custom/sonic_miku_player_model/red_miku.vmat
+materials/models/custom/sonic_miku_player_model/skin_miku_color_png_838a4962.vtex
+materials/models/custom/sonic_miku_player_model/skin_miku.vmat
+materials/models/custom/sonic_miku_player_model/sound_miku_color_png_e63de085.vtex
+materials/models/custom/sonic_miku_player_model/sound_miku.vmat
+materials/models/custom/sonic_miku_player_model/zapladka_mat_color_png_92efcea7.vtex
+materials/models/custom/sonic_miku_player_model/zapladka_mat.vmat
+models/custom/sonic_miku_player_model/sonic_miku_player_model.vmdl

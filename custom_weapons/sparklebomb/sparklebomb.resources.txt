@@ -1,0 +1,8 @@
+# cs2-model-converter: sparklebomb, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/sparklebomb/sparklebomb.vmdl
+# weapon: weapon_hegrenade
+# skeleton: animation/skeletons/weapons/hegrenade.vnmskel
+weapons/models/exg/sparklebomb/materials/chap03_gameplayprop_sparklebomb_01_color_png_fcf91363.vtex
+weapons/models/exg/sparklebomb/materials/sparklebomb1_vmat_g_tselfillummask_89c4a7d1.vtex
+weapons/models/exg/sparklebomb/materials/sparklebomb1.vmat
+weapons/custom/sparklebomb/sparklebomb.vmdl

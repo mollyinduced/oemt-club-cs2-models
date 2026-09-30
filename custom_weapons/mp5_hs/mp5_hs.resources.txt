@@ -1,0 +1,22 @@
+# cs2-model-converter: mp5_hs, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/mp5_hs/mp5_hs.vmdl
+# weapon: weapon_mp5sd
+# skeleton: animation/skeletons/weapons/mp5sd.vnmskel
+weapons/models/mp5_hs/materials/t_weap_mp5_a5_110_h_alpha_png_7a368949.vtex
+weapons/models/mp5_hs/materials/jp.vmat
+weapons/models/mp5_hs/materials/light_vmat_g_tcolor_8c3d159e.vtex
+weapons/models/mp5_hs/materials/light.vmat
+weapons/models/mp5_hs/materials/fade_png_f684613.vtex
+weapons/models/mp5_hs/materials/mb_vmat_g_tselfillummask_ff155607.vtex
+weapons/models/mp5_hs/materials/mb.vmat
+weapons/models/mp5_hs/materials/mp5_1_vmat_g_tselfillummask_202f2aa9.vtex
+weapons/models/mp5_hs/materials/t_weap_mp5_a5_01_110_d_png_6fb34625.vtex
+weapons/models/mp5_hs/materials/t_weap_mp5_a5_01_110_n_png_eb2f96bc.vtex
+weapons/models/mp5_hs/materials/t_weap_mp5_a5_01_110_o_png_25287aaf.vtex
+weapons/models/mp5_hs/materials/mp5_1.vmat
+weapons/models/mp5_hs/materials/mp5_2_vmat_g_tselfillummask_202f2aa9.vtex
+weapons/models/mp5_hs/materials/t_weap_mp5_a5_02_110_d_png_2b8088ac.vtex
+weapons/models/mp5_hs/materials/t_weap_mp5_a5_02_110_n_png_2f016dd2.vtex
+weapons/models/mp5_hs/materials/t_weap_mp5_a5_02_110_o_png_aaa77e0f.vtex
+weapons/models/mp5_hs/materials/mp5_2.vmat
+weapons/custom/mp5_hs/mp5_hs.vmdl

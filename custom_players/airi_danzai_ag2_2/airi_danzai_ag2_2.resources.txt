@@ -1,0 +1,47 @@
+# cs2-model-converter: airi_danzai_ag2_2, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: phase2/characters/models/exg/chrisan/airi_danzai/airi_danzai_ag2.vmdl
+# first person: 0 1 3 15
+characters/models/exg/chrisan/airi_danzai/materials/base_vmat_g_tnormal_a1e47e21.vtex
+characters/models/exg/chrisan/airi_danzai/materials/base_vmat_g_tselfillummask_ff155607.vtex
+characters/models/exg/chrisan/airi_danzai/png/base_png_a40d0da0.vtex
+characters/models/exg/chrisan/airi_danzai/materials/base.vmat
+characters/models/exg/chrisan/airi_danzai/materials/body_vmat_g_tmetalness_10974e8a_png_d277698b.vtex
+characters/models/exg/chrisan/airi_danzai/materials/body_vmat_g_tnormal_48c7c5f5_png_c28710ca.vtex
+characters/models/exg/chrisan/airi_danzai/png/body_png_26a03b51.vtex
+characters/models/exg/chrisan/airi_danzai/materials/body.vmat
+characters/models/exg/chrisan/airi_danzai/materials/c2_uv2_vmat_g_tmetalness_10974e8a.vtex
+characters/models/exg/chrisan/airi_danzai/png/c2_uv2_png_b7cac899.vtex
+characters/models/exg/chrisan/airi_danzai/materials/c2_uv2.vmat
+characters/models/exg/chrisan/airi_danzai/materials/c2_uv5_vmat_g_tcolor_7ab53e0a.vtex
+characters/models/exg/chrisan/airi_danzai/materials/c2_uv5_vmat_g_tmetalness_10974e8a.vtex
+characters/models/exg/chrisan/airi_danzai/materials/c2_uv5_vmat_g_tnormal_48c7c5f5.vtex
+characters/models/exg/chrisan/airi_danzai/materials/c2_uv5.vmat
+characters/models/exg/chrisan/airi_danzai/materials/gem_vmat_g_tcolor_bfe3dd80.vtex
+characters/models/exg/chrisan/airi_danzai/materials/gem_vmat_g_tnormal_a1e47e21.vtex
+characters/models/exg/chrisan/airi_danzai/materials/gem_vmat_g_tselfillummask_ff155607.vtex
+characters/models/exg/chrisan/airi_danzai/materials/gem.vmat
+characters/models/exg/chrisan/airi_danzai/materials/light_vmat_g_tcolor_f3418d1.vtex
+characters/models/exg/chrisan/airi_danzai/materials/light_vmat_g_tnormal_a1e47e21.vtex
+characters/models/exg/chrisan/airi_danzai/materials/light_vmat_g_tselfillummask_ff155607.vtex
+characters/models/exg/chrisan/airi_danzai/materials/light.vmat
+characters/models/exg/chrisan/airi_danzai/materials/metal_vmat_g_tcolor_7ab53e0a.vtex
+characters/models/exg/chrisan/airi_danzai/materials/metal_vmat_g_tmetalness_bd906efe_png_b07536c8.vtex
+characters/models/exg/chrisan/airi_danzai/materials/metal_vmat_g_tnormal_a1e47e21_png_2ed2b2fd.vtex
+characters/models/exg/chrisan/airi_danzai/materials/metal.vmat
+particles/7ychu5/models/airi_danzai/fire_arm_p1.vpcf
+particles/7ychu5/models/airi_danzai/fire_arm_main.vpcf
+particles/7ychu5/models/airi_danzai/left_ring_p1.vpcf
+particles/7ychu5/models/airi_danzai/left_ring_p2.vpcf
+particles/7ychu5/models/airi_danzai/left_ring_p3.vpcf
+particles/7ychu5/models/airi_danzai/poker/spade.vtex
+particles/7ychu5/models/airi_danzai/left_ring_p4.vpcf
+particles/7ychu5/models/airi_danzai/poker/club.vtex
+particles/7ychu5/models/airi_danzai/left_ring_p5.vpcf
+particles/7ychu5/models/airi_danzai/left_ring_main.vpcf
+particles/7ychu5/models/airi_danzai/right_ring_p2.vpcf
+particles/7ychu5/models/airi_danzai/right_ring_p3.vpcf
+particles/7ychu5/models/airi_danzai/poker/heart.vtex
+particles/7ychu5/models/airi_danzai/right_ring_p4.vpcf
+particles/7ychu5/models/airi_danzai/right_ring_p5.vpcf
+particles/7ychu5/models/airi_danzai/right_ring_main.vpcf
+phase2/characters/models/exg/chrisan/airi_danzai/airi_danzai_ag2.vmdl

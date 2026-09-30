@@ -1,0 +1,28 @@
+# cs2-model-converter: alice, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/alice/alice.vmdl
+# weapon: weapon_m4a1_silencer
+# skeleton: animation/skeletons/weapons/m4a1_silencer.vnmskel
+weapons/models/ub/alice/materials/ammo9mm_jpg_471075e.vtex
+weapons/models/ub/alice/materials/ammo9mm_n_jpg_e8f9ea8b.vtex
+weapons/models/ub/alice/materials/a1.vmat
+weapons/models/ub/alice/materials/barsil_jpg_2d4e8aa9.vtex
+weapons/models/ub/alice/materials/barsil_n_jpg_3dbf1614.vtex
+weapons/models/ub/alice/materials/a10.vmat
+weapons/models/ub/alice/materials/a2_vmat_g_tselfillummask_ff155607.vtex
+weapons/models/ub/alice/materials/xmaterial_79cc5c6ea0f7d11_rgb_jpg_51a52992.vtex
+weapons/models/ub/alice/materials/a2.vmat
+weapons/models/ub/alice/materials/laser_jpg_1b18010f.vtex
+weapons/models/ub/alice/materials/a3.vmat
+weapons/models/ub/alice/materials/mag_jpg_e9ea2f0d.vtex
+weapons/models/ub/alice/materials/mag_n_jpg_c4ddb2a6.vtex
+weapons/models/ub/alice/materials/a4.vmat
+weapons/models/ub/alice/materials/receiver_jpg_ae08da8.vtex
+weapons/models/ub/alice/materials/receiver_n_jpg_4306b6e2.vtex
+weapons/models/ub/alice/materials/a5.vmat
+weapons/models/ub/alice/materials/stock_jpg_161c6994.vtex
+weapons/models/ub/alice/materials/stock_n_jpg_f64545f0.vtex
+weapons/models/ub/alice/materials/a7.vmat
+weapons/models/ub/alice/materials/xmaterial_b0a48601215e74d_n_jpg_c8ab6423.vtex
+weapons/models/ub/alice/materials/xmaterial_b0a48601215e74d_rgb_jpg_613586ac.vtex
+weapons/models/ub/alice/materials/a9.vmat
+weapons/custom/alice/alice.vmdl

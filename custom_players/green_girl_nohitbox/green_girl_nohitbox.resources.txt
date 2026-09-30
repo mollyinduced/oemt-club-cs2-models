@@ -1,0 +1,11 @@
+# cs2-model-converter: green_girl_nohitbox, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/otakku/green_girl/green_girl_nohitbox.vmdl
+characters/net4all/vip/green_mana_maid/materials/1_png_6aef6e81.vtex
+characters/net4all/vip/green_mana_maid/materials/3_vmat_g_tmetalness_44b7d68b.vtex
+characters/net4all/vip/green_mana_maid/materials/3_vmat_g_tnormal_adad4cea.vtex
+characters/net4all/vip/green_mana_maid/materials/3_vmat_g_tselfillummask_ff155607.vtex
+characters/models/otakku/green_girl/materials/base_color.vmat
+characters/net4all/vip/green_mana_maid/materials/1_png_fe210a11.vtex
+characters/net4all/vip/green_mana_maid/materials/1_vmat_g_tselfillummask_ff155607.vtex
+characters/models/otakku/green_girl/materials/base_color_2.vmat
+characters/models/otakku/green_girl/green_girl_nohitbox.vmdl

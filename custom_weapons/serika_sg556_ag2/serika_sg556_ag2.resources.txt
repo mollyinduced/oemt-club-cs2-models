@@ -1,0 +1,14 @@
+# cs2-model-converter: serika_sg556_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/serika_sg556_ag2/serika_sg556_ag2.vmdl
+# weapon: weapon_sg556
+# skeleton: animation/skeletons/weapons/sg556.vnmskel
+weapons/deti00ykh/serika_sg556/materials/key1_vmat_g_tcolor_96ebf177.vtex
+weapons/deti00ykh/serika_sg556/materials/key1.vmat
+weapons/deti00ykh/serika_sg556/materials/key2_vmat_g_tcolor_7ab53e0a.vtex
+weapons/deti00ykh/serika_sg556/materials/key2.vmat
+weapons/deti00ykh/serika_sg556/materials/outliner_vmat_g_tcolor_6b6e411d.vtex
+weapons/deti00ykh/serika_sg556/materials/outliner.vmat
+weapons/deti00ykh/serika_sg556/materials/self_png_e387d4c0.vtex
+weapons/deti00ykh/serika_sg556/materials/serika_original_weapon_png_a443f33e.vtex
+weapons/deti00ykh/serika_sg556/materials/serika_mat.vmat
+weapons/custom/serika_sg556_ag2/serika_sg556_ag2.vmdl

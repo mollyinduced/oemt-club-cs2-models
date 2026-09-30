@@ -1,0 +1,14 @@
+# cs2-model-converter: among_us_yellow_nohitbox, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/otakku/among_us_yellow/among_us_yellow_nohitbox.vmdl
+# first person: 0 2 12 15
+agents/models/otakku/among_us_yellow/materials/au02_metalness_png_40df5e01_orm_499670101_png_e7128551.vtex
+agents/models/otakku/among_us_yellow/materials/aucharacter_01_png_21cee253_png_b3821efe.vtex
+agents/models/otakku/among_us_yellow/materials/aucharacter_04_normal_png_be2cba27_png_64c6cd82.vtex
+agents/models/otakku/among_us_yellow/materials/body_vmat_g_tambientocclusion_dd98a23c.vtex
+agents/models/otakku/among_us_yellow/materials/body.vmat
+agents/models/otakku/among_us_yellow/materials/gloves_vmat_g_tambientocclusion_dd98a23c.vtex
+agents/models/otakku/among_us_yellow/materials/normals_mi_wooly_mittens_red_png_79fe0519_orm_756781353_png_60ee043d.vtex
+agents/models/otakku/among_us_yellow/materials/normals_mi_wooly_mittens_red_png_79fe0519_png_c52bbfcb.vtex
+agents/models/otakku/among_us_yellow/materials/texture_mi wooly mittens red_png_24997c51_png_2eb99492.vtex
+agents/models/otakku/among_us_yellow/materials/gloves.vmat
+agents/models/otakku/among_us_yellow/among_us_yellow_nohitbox.vmdl

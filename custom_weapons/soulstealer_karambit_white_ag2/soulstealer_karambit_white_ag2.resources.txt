@@ -1,0 +1,9 @@
+# cs2-model-converter: soulstealer_karambit_white_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/soulstealer_karambit_white_ag2/soulstealer_karambit_white_ag2.vmdl
+# weapon: weapon_knife_karambit
+# skeleton: animation/skeletons/weapons/knife_karambit.vnmskel
+weapons/phase2/poncikmarket/karambit_soulstealer/materials/melee_soulstealer2_v3_aem_png_dbdc4fa4.vtex
+weapons/phase2/poncikmarket/karambit_soulstealer/materials/melee_soulstealer2_v3_df_png_65bfc828.vtex
+weapons/phase2/poncikmarket/karambit_soulstealer/materials/melee_soulstealer2_v3_nm_png_180a951e.vtex
+weapons/phase2/poncikmarket/karambit_soulstealer/materials/4.vmat
+weapons/custom/soulstealer_karambit_white_ag2/soulstealer_karambit_white_ag2.vmdl

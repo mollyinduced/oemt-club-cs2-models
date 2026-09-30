@@ -1,0 +1,9 @@
+# cs2-model-converter: iron_sword_panda_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/iron_sword_panda_ag2/iron_sword_panda_ag2.vmdl
+# weapon: weapon_knife_m9_bayonet
+# skeleton: animation/skeletons/weapons/knife_m9.vnmskel
+weapons/phase2/poncikmarket/mc_panda/materials/diamondsword_normal_png_3ea0217.vtex
+weapons/phase2/poncikmarket/mc_panda/materials/diamondsword_roughness_png_6e60b7d7.vtex
+weapons/phase2/poncikmarket/mc_panda/materials/ironsword_basecolor_png_70730e41.vtex
+weapons/phase2/poncikmarket/mc_panda/materials/iron.vmat
+weapons/custom/iron_sword_panda_ag2/iron_sword_panda_ag2.vmdl

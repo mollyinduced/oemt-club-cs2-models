@@ -1,0 +1,19 @@
+# cs2-model-converter: alternator_loona, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/alternator_loona/alternator_loona.vmdl
+# weapon: weapon_mp5sd
+# skeleton: animation/skeletons/weapons/mp5sd.vnmskel
+models/weapons/dj_ammo/djammo_0_00l_vmat_g_tnormal_53b47c48.vtex
+models/weapons/dj_ammo/led_ammo_png_526694bf.vtex
+models/weapons/dj_ammo/led_ammo_png_5feeebe4.vtex
+models/weapons/dj_ammo/djammo_0_00l.vmat
+models/weapons/dj_ammo/djammo_0_00r_vmat_g_tnormal_53b47c48.vtex
+models/weapons/dj_ammo/djammo_0_00r.vmat
+models/weapons/dj_ammo/djammo_0_0l_vmat_g_tnormal_53b47c48.vtex
+models/weapons/dj_ammo/djammo_0_0l.vmat
+models/weapons/dj_ammo/djammo_0_0r_vmat_g_tnormal_53b47c48.vtex
+models/weapons/dj_ammo/djammo_0_0r.vmat
+models/weapons/exg/tokyocold/mp5_sikadi/alternator_d_ilum_tga_f1752a37.vtex
+models/weapons/exg/tokyocold/mp5_sikadi/alternator_d_tga_f2920127.vtex
+models/weapons/exg/tokyocold/mp5_sikadi/alternator_n_tga_b9363b4.vtex
+models/weapons/exg/tokyocold/mp5_sikadi/alternator.vmat
+weapons/custom/alternator_loona/alternator_loona.vmdl

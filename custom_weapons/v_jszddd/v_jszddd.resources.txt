@@ -1,0 +1,13 @@
+# cs2-model-converter: v_jszddd, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/v_jszddd/v_jszddd.vmdl
+# weapon: weapon_knife_outdoor
+# skeleton: animation/skeletons/weapons/knife_outdoor.vnmskel
+materials/models/exg27/melee_sovereign2_df_png_ffcf97aa.vtex
+materials/models/exg27/melee_sovereign2_df_vmat_g_tselfillummask_ff155607.vtex
+materials/models/exg27/melee_sovereign2_n_png_ef1a9f7f.vtex
+materials/models/exg27/melee_sovereign2_df.vmat
+materials/models/exg27/sovereign2_gem_df_png_7437f2da.vtex
+materials/models/exg27/sovereign2_gem_n_png_f469c789.vtex
+materials/models/exg27/sovereign2_m_df_tif_5af90569.vtex
+materials/models/exg27/sovereign2_gem_df.vmat
+weapons/custom/v_jszddd/v_jszddd.vmdl

@@ -1,0 +1,44 @@
+# cs2-model-converter: hoshino_swim_2, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/exg/bot04/hoshino_swim/hoshino_swim.vmdl
+# first person: 0 3 12 15
+characters/models/exg/bot04/hoshino_swim/00_eye_vmat_g_tnormal_d5d48301_png_72b4381c.vtex
+characters/models/exg/bot04/hoshino_swim/00_eye_vmat_g_tselfillummask_202f2aa9.vtex
+characters/models/exg/bot04/hoshino_swim/tex/00_eye_png_7c0f5ce7.vtex
+characters/models/exg/bot04/hoshino_swim/00_eye.vmat
+characters/models/exg/bot04/hoshino_swim/00_face_vmat_g_tmetalness_10974e8a_png_ef358d43.vtex
+characters/models/exg/bot04/hoshino_swim/00_face_vmat_g_tnormal_ce38f34_png_deb015b4.vtex
+characters/models/exg/bot04/hoshino_swim/tex/c00_face_c_png_3d485b9.vtex
+characters/models/exg/bot04/hoshino_swim/00_face.vmat
+characters/models/exg/bot04/hoshino_swim/00_halo_vmat_g_tnormal_d5d48301_png_d769bf80.vtex
+characters/models/exg/bot04/hoshino_swim/00_halo_vmat_g_tselfillummask_ff155607.vtex
+characters/models/exg/bot04/hoshino_swim/tex/c00_halo_png_17d5b6b5.vtex
+characters/models/exg/bot04/hoshino_swim/00_halo.vmat
+characters/models/exg/bot04/hoshino_swim/c00_body_vmat_g_tmetalness_10974e8a_png_b9f6b22c.vtex
+characters/models/exg/bot04/hoshino_swim/c00_body_vmat_g_tnormal_ce38f34_png_2b32f588.vtex
+characters/models/exg/bot04/hoshino_swim/tex/c00_body_c_png_3089fcae.vtex
+characters/models/exg/bot04/hoshino_swim/c00_body.vmat
+characters/models/exg/bot04/hoshino_swim/effect/mengban1_png_86ecef98.vtex
+characters/models/exg/bot04/hoshino_swim/effect/mengban2_png_be8ce6c8.vtex
+characters/models/exg/bot04/hoshino_swim/effect/mengban_png_811f64b3.vtex
+characters/models/exg/bot04/hoshino_swim/effect/water_color_png_7d4db50e.vtex
+characters/models/exg/bot04/hoshino_swim/effect/water.vmat
+characters/models/exg/bot04/hoshino_swim/tex/fa_c_png_f5f3654e.vtex
+characters/models/exg/bot04/hoshino_swim/tf_vmat_g_tmetalness_10974e8a_png_b3397a69.vtex
+characters/models/exg/bot04/hoshino_swim/tf_vmat_g_tnormal_d5d48301_png_d15f9239.vtex
+characters/models/exg/bot04/hoshino_swim/tf.vmat
+characters/models/exg/bot04/hoshino_swim/tex/t_ba_hsn_002_item_c_png_c38dc285.vtex
+characters/models/exg/bot04/hoshino_swim/whale_vmat_g_tnormal_53b47c48_png_930abb96.vtex
+characters/models/exg/bot04/hoshino_swim/whale.vmat
+characters/models/exg/bot04/hoshino_swim/tex/yz_png_c1d95e08.vtex
+characters/models/exg/bot04/hoshino_swim/yz_vmat_g_tmetalness_10974e8a_png_6a71d5c8.vtex
+characters/models/exg/bot04/hoshino_swim/yz_vmat_g_tnormal_53b47c48_png_e6decbaf.vtex
+characters/models/exg/bot04/hoshino_swim/yz.vmat
+characters/models/ub/manuka/materials/nail_png_8ec63a85.vtex
+characters/models/ub/manuka/materials/nail_vmat_g_tambientocclusion_9782fd5c.vtex
+characters/models/ub/manuka/materials/nail_vmat_g_tanisogloss_7c888fcd.vtex
+characters/models/ub/manuka/materials/nail_vmat_g_tmetalness_d1d60046.vtex
+characters/models/ub/manuka/materials/nail_vmat_g_tnormal_764923f0.vtex
+characters/models/ub/manuka/materials/nail.vmat
+materials/characters/arms/body_arms_png_863a49d4.vtex
+materials/characters/arms/body_arms.vmat
+characters/models/exg/bot04/hoshino_swim/hoshino_swim.vmdl

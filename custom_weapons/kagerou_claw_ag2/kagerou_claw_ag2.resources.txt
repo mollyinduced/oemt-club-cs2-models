@@ -1,0 +1,7 @@
+# cs2-model-converter: kagerou_claw_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/kagerou_claw_ag2/kagerou_claw_ag2.vmdl
+# weapon: weapon_knife_push
+# skeleton: animation/skeletons/weapons/knife_push.vnmskel
+materials/models/custom_weapons/kagerou_claw_ag2/claw_color_png_17fc1f42.vtex
+characters/models/imaizumi_kagerou/tex/claw.vmat
+weapons/custom/kagerou_claw_ag2/kagerou_claw_ag2.vmdl

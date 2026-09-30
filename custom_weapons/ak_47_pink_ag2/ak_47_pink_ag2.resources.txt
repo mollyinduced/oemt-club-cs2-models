@@ -1,0 +1,23 @@
+# cs2-model-converter: ak_47_pink_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/ak_47_pink_ag2/ak_47_pink_ag2.vmdl
+# weapon: weapon_ak47
+# skeleton: animation/skeletons/weapons/ak47.vnmskel
+weapons/onetake/ak_47_pink/materials/onetake_logo_vmat_g_tcolor_7ab53e0a.vtex
+weapons/onetake/ak_47_pink/materials/onetake_logo_vmat_g_tselfillummask_ff155607.vtex
+weapons/onetake/ak_47_pink/materials/onetake_logo.vmat
+weapons/onetake/ak_47_pink/materials/qs_ak1_normal_png_d33825ae.vtex
+weapons/onetake/ak_47_pink/materials/qs_ak1_png_773f9ec.vtex
+weapons/onetake/ak_47_pink/materials/qak1.vmat
+weapons/onetake/ak_47_pink/materials/qs_ak2_normal_png_1e594caf.vtex
+weapons/onetake/ak_47_pink/materials/qs_ak2_png_f1283972.vtex
+weapons/onetake/ak_47_pink/materials/qak2.vmat
+weapons/onetake/ak_47_pink/materials/qs_ak3_normal_png_218ddf3c.vtex
+weapons/onetake/ak_47_pink/materials/qs_ak3_png_4c1b4c70.vtex
+weapons/onetake/ak_47_pink/materials/qak3.vmat
+weapons/onetake/ak_47_pink/materials/qs_ak4_normal_png_ba9bd32d.vtex
+weapons/onetake/ak_47_pink/materials/qs_ak4_png_7868b719.vtex
+weapons/onetake/ak_47_pink/materials/qak4.vmat
+weapons/onetake/ak_47_pink/materials/qs_ak5_normal_png_479bb700.vtex
+weapons/onetake/ak_47_pink/materials/qs_ak5_png_edd4b8bb.vtex
+weapons/onetake/ak_47_pink/materials/qak5.vmat
+weapons/custom/ak_47_pink_ag2/ak_47_pink_ag2.vmdl

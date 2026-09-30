@@ -1,0 +1,8 @@
+# cs2-model-converter: blackpanther, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/reborn/blackpanther/blackpanther.vmdl
+# first person: 0 2 12 15
+agents/models/reborn/blackpanther/materials/panther_d_jpg_reborn_png_947f29a5.vtex
+agents/models/reborn/blackpanther/materials/panther_d_vmat_g_tmetalness_10974e8a.vtex
+agents/models/reborn/blackpanther/materials/panther_n_jpg_fb4fed70_png_889b6a22.vtex
+agents/models/reborn/blackpanther/materials/panther_d.vmat
+agents/models/reborn/blackpanther/blackpanther.vmdl

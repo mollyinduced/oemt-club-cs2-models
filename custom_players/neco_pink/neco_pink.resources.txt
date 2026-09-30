@@ -1,0 +1,7 @@
+# cs2-model-converter: the resources models/custom/neco_pink/neco_pink.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/neco_pink/neco_blyat_color_png_72e934cb.vtex
+materials/models/custom/neco_pink/neco_blyat.vmat
+materials/models/custom/neco_pink/pink_color_png_51a10de9.vtex
+materials/models/custom/neco_pink/pink.vmat
+models/custom/neco_pink/neco_pink.vmdl

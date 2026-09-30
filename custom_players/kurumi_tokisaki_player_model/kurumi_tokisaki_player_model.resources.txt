@@ -1,0 +1,14 @@
+# cs2-model-converter: kurumi_tokisaki_player_model, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/nozb1/kurumi_tokisaki_player_model/kurumi_tokisaki_player_model.vmdl
+# first person: 0 2 12 15
+characters/models/nozb1/kurumi_tokisaki_player_model/kurumi_tokisaki_player_model/body_vmorf.vtex
+characters/models/nozb1/kurumi_tokisaki_player_model/materials/body_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/kurumi_tokisaki_player_model/materials/yh007_kurum_normal_png_38fe9b15.vtex
+characters/models/nozb1/kurumi_tokisaki_player_model/materials/yh007_kurum_png_39e907d7.vtex
+characters/models/nozb1/kurumi_tokisaki_player_model/materials/body.vmat
+characters/models/nozb1/kurumi_tokisaki_player_model/materials/mounth_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/kurumi_tokisaki_player_model/materials/yh007_kurum_mouth_png_e15e881b.vtex
+characters/models/nozb1/kurumi_tokisaki_player_model/materials/mounth.vmat
+characters/models/nozb1/kurumi_tokisaki_player_model/materials/outiner_vmat_g_tcolor_6b6e411d.vtex
+characters/models/nozb1/kurumi_tokisaki_player_model/materials/outiner.vmat
+characters/models/nozb1/kurumi_tokisaki_player_model/kurumi_tokisaki_player_model.vmdl

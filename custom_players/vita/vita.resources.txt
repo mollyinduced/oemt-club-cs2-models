@@ -1,0 +1,19 @@
+# cs2-model-converter: vita, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/asmodeus/vita/vita.vmdl
+# first person: 0 1 2 3
+characters/models/asmodeus/vita/materials/acc_png_84be0b1b.vtex
+characters/models/asmodeus/vita/materials/vita_acc_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/vita/materials/vita_acc.vmat
+characters/models/asmodeus/vita/materials/eye_png_a2cea321.vtex
+characters/models/asmodeus/vita/materials/eye_png_b9bc5cfd.vtex
+characters/models/asmodeus/vita/materials/vita_eye.vmat
+characters/models/asmodeus/vita/materials/face_png_21d88798.vtex
+characters/models/asmodeus/vita/materials/vita_face_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/vita/materials/vita_face.vmat
+characters/models/asmodeus/vita/materials/hair_png_ac9b6a04.vtex
+characters/models/asmodeus/vita/materials/vita_hair_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/vita/materials/vita_hair.vmat
+characters/models/asmodeus/vita/materials/upbody_png_2c4fecb2.vtex
+characters/models/asmodeus/vita/materials/vita_upbody_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/vita/materials/vita_upbody.vmat
+characters/models/asmodeus/vita/vita.vmdl

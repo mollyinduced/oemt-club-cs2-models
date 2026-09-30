@@ -1,0 +1,24 @@
+# cs2-model-converter: the resources models/custom/leatherface/leatherface.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/leatherface/leatherface_chainsaw_color_png_bc7710cb.vtex
+materials/models/custom/leatherface/leatherface_chainsaw_normal_png_2611f88e.vtex
+materials/models/custom/leatherface/leatherface_chainsaw.vmat
+materials/models/custom/leatherface/leatherface_clothes_color_png_4e403aed.vtex
+materials/models/custom/leatherface/leatherface_clothes_normal_png_7f9560cc.vtex
+materials/models/custom/leatherface/leatherface_clothes.vmat
+materials/models/custom/leatherface/leatherface_eyes_mouth_color_png_e2fca69f.vtex
+materials/models/custom/leatherface/leatherface_eyes_mouth_normal_png_dc6fc648.vtex
+materials/models/custom/leatherface/leatherface_eyes_mouth.vmat
+materials/models/custom/leatherface/leatherface_hair_color_png_7969094d.vtex
+materials/models/custom/leatherface/leatherface_hair_normal_png_e890df25.vtex
+materials/models/custom/leatherface/leatherface_hair.vmat
+materials/models/custom/leatherface/leatherface_mallet_color_png_22c6c468.vtex
+materials/models/custom/leatherface/leatherface_mallet_normal_png_33ee20d.vtex
+materials/models/custom/leatherface/leatherface_mallet.vmat
+materials/models/custom/leatherface/leatherface_mask_apron_color_png_8e5f67d6.vtex
+materials/models/custom/leatherface/leatherface_mask_apron_normal_png_c8ea9a36.vtex
+materials/models/custom/leatherface/leatherface_mask_apron.vmat
+materials/models/custom/leatherface/leatherface_skin_color_png_fa3dd581.vtex
+materials/models/custom/leatherface/leatherface_skin_normal_png_7bd15f69.vtex
+materials/models/custom/leatherface/leatherface_skin.vmat
+models/custom/leatherface/leatherface.vmdl

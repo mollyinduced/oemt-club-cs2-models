@@ -1,0 +1,36 @@
+# cs2-model-converter: cirno, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/cirno/cirno.vmdl
+# first person: 1 2 48 60
+characters/models/cirno/cirno/face1_vmorf.vtex
+characters/models/cirno/tex/cirno_01_png_88c2a184.vtex
+characters/models/cirno/tex/cirno_01_vmat_g_tmetalness_10974e8a.vtex
+characters/models/cirno/tex/cirno_01_vmat_g_tnormal_53b47c48.vtex
+characters/models/cirno/tex/cirno_01.vmat
+characters/models/cirno/tex/cirno_02_png_c66cf009.vtex
+characters/models/cirno/tex/cirno_02_vmat_g_tmetalness_10974e8a.vtex
+characters/models/cirno/tex/cirno_02_vmat_g_tnormal_53b47c48.vtex
+characters/models/cirno/tex/cirno_02.vmat
+characters/models/cirno/tex/cirno_03_png_16545365.vtex
+characters/models/cirno/tex/cirno_03_vmat_g_tambientocclusion_9782fd5c.vtex
+characters/models/cirno/tex/cirno_03_vmat_g_tmetalness_1081f06e.vtex
+characters/models/cirno/tex/cirno_03_vmat_g_tnormal_d52512a9.vtex
+characters/models/cirno/tex/cirno_03.vmat
+characters/models/cirno/tex/cirno_04_png_acab0fbf.vtex
+characters/models/cirno/tex/cirno_04_vmat_g_tmask1_260e5082.vtex
+characters/models/cirno/tex/cirno_04_vmat_g_tmask2_2b2ebb3f.vtex
+characters/models/cirno/tex/cirno_04_vmat_g_tmask3_2b2ebb3f.vtex
+characters/models/cirno/tex/cirno_04.vmat
+characters/models/cirno/tex/pants_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/cirno/tex/pants_vmat_g_tnormal_53b47c48.vtex
+characters/models/cirno/tex/pants.vmat
+characters/models/public_girlhands/tex/public_girlhands_png_92b25ff.vtex
+characters/models/public_girlhands/tex/public_girlhands_vmat_g_tambientocclusion_9782fd5c.vtex
+characters/models/public_girlhands/tex/public_girlhands_vmat_g_tmetalness_1081f06e.vtex
+characters/models/public_girlhands/tex/public_girlhands_vmat_g_tnormal_d52512a9.vtex
+characters/models/public_girlhands/tex/public_girlhands.vmat
+characters/models/public_girlhands/tex/public_girlhands_nail_png_55d6743c.vtex
+characters/models/public_girlhands/tex/public_girlhands_nail_vmat_g_tambientocclusion_9782fd5c.vtex
+characters/models/public_girlhands/tex/public_girlhands_nail_vmat_g_tmetalness_1081f06e.vtex
+characters/models/public_girlhands/tex/public_girlhands_nail_vmat_g_tnormal_c7d146ff.vtex
+characters/models/public_girlhands/tex/public_girlhands_nail.vmat
+characters/models/cirno/cirno.vmdl

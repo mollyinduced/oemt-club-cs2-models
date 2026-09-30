@@ -1,0 +1,8 @@
+# cs2-model-converter: v_katana_wuqie, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/v_katana_wuqie/v_katana_wuqie.vmdl
+# weapon: weapon_knife_outdoor
+# skeleton: animation/skeletons/weapons/knife_outdoor.vnmskel
+models/weapons/exg/tokyocold/katana_wuqie/genshin_katana_tga_7f4e2175.vtex
+models/weapons/exg/tokyocold/katana_wuqie/katana_wuqi_vmat_g_tselfillummask_45dd2fbf.vtex
+models/weapons/exg/tokyocold/katana_wuqie/katana_wuqi.vmat
+weapons/custom/v_katana_wuqie/v_katana_wuqie.vmdl

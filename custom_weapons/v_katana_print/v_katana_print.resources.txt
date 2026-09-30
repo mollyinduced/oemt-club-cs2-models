@@ -1,0 +1,9 @@
+# cs2-model-converter: v_katana_print, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/v_katana_print/v_katana_print.vmdl
+# weapon: weapon_knife_outdoor
+# skeleton: animation/skeletons/weapons/knife_outdoor.vnmskel
+models/weapons/exg/tokyocold/katana_print/katana_print_vmat_g_tselfillummask_4f64e25c.vtex
+models/weapons/exg/tokyocold/katana_print/weapon_zmb_katana_d_tga_83d7ddc1.vtex
+models/weapons/exg/tokyocold/katana_print/weapon_zmb_katana_n_tga_9e1e8e7d.vtex
+models/weapons/exg/tokyocold/katana_print/katana_print.vmat
+weapons/custom/v_katana_print/v_katana_print.vmdl

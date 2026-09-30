@@ -1,0 +1,15 @@
+# cs2-model-converter: shiroko_m4a1_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/shiroko_m4a1_ag2/shiroko_m4a1_ag2.vmdl
+# weapon: weapon_m4a1_silencer
+# skeleton: animation/skeletons/weapons/m4a1_silencer.vnmskel
+weapons/deti00ykh/shiroko_m4a1/materials/key1_vmat_g_tcolor_7ab53e0a.vtex
+weapons/deti00ykh/shiroko_m4a1/materials/key1_vmat_g_tselfillummask_ff155607.vtex
+weapons/deti00ykh/shiroko_m4a1/materials/key1.vmat
+weapons/deti00ykh/shiroko_m4a1/materials/key2_vmat_g_tcolor_abe2e8c6.vtex
+weapons/deti00ykh/shiroko_m4a1/materials/key2.vmat
+weapons/deti00ykh/shiroko_m4a1/materials/outlienr_vmat_g_tcolor_6b6e411d.vtex
+weapons/deti00ykh/shiroko_m4a1/materials/outlienr.vmat
+weapons/deti00ykh/shiroko_m4a1/materials/self_png_c896bb9e.vtex
+weapons/deti00ykh/shiroko_m4a1/materials/shiroko_original_weapon_png_94a3e6bf.vtex
+weapons/deti00ykh/shiroko_m4a1/materials/shiroko_at.vmat
+weapons/custom/shiroko_m4a1_ag2/shiroko_m4a1_ag2.vmdl

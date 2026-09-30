@@ -1,0 +1,14 @@
+# cs2-model-converter: the resources models/custom/lime_witch_ag2/lime_witch_ag2.vmdl needs, loaded in this order by the SDK
+materials/models/custom/lime_witch_ag2/arm_ring_color_png_8f09f583.vtex
+materials/models/custom/lime_witch_ag2/arm_ring.vmat
+materials/models/custom/lime_witch_ag2/body_color_png_22c4b94a.vtex
+materials/models/custom/lime_witch_ag2/body.vmat
+materials/models/custom/lime_witch_ag2/cloth2_uv_cloth_color_png_a287fa94.vtex
+materials/models/custom/lime_witch_ag2/cloth2_uv_cloth.vmat
+materials/models/custom/lime_witch_ag2/cloth2_uv_metal_color_png_84a0679f.vtex
+materials/models/custom/lime_witch_ag2/cloth2_uv_metal.vmat
+materials/models/custom/lime_witch_ag2/magic_l_color_png_f4f9a55a.vtex
+materials/models/custom/lime_witch_ag2/magic_l.vmat
+materials/models/custom/lime_witch_ag2/nails_color_png_96874789.vtex
+materials/models/custom/lime_witch_ag2/nails.vmat
+models/custom/lime_witch_ag2/lime_witch_ag2.vmdl

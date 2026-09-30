@@ -1,0 +1,13 @@
+# cs2-model-converter: w_sgktdsrc, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/w_sgktdsrc/w_sgktdsrc.vmdl
+# weapon: weapon_knife_cord
+# skeleton: animation/skeletons/weapons/knife_cord.vnmskel
+materials/models/exg10/$20@004_dgaxe01_v_n_tga_2815364e.vtex
+materials/models/exg10/$20@004_dgaxe01_v_tga_8d5f0912.vtex
+materials/models/exg10/axe01_v_png_19b4a98d.vtex
+materials/models/exg10/004_dgaxe01_v.vmat
+materials/models/exg10/$20@004_dgaxe02_v_n_tga_2ff25ac5.vtex
+materials/models/exg10/$20@004_dgaxe02_v_tga_c958f44c.vtex
+materials/models/exg10/gaxe02_v_tif_974d9aca.vtex
+materials/models/exg10/004_dgaxe02_v.vmat
+weapons/custom/w_sgktdsrc/w_sgktdsrc.vmdl

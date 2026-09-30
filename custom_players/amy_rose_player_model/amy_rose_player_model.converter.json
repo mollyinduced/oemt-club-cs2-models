@@ -1,0 +1,43 @@
+{
+ "converter": "2.3",
+ "made": "2026-09-29 20:14:30",
+ "name": "amy_rose_player_model",
+ "mode": "rebuild",
+ "input": "C:\\Users\\mollyinduced\\Downloads\\models\\amy_rose_playermodel",
+ "model": "characters/models/nozb1/amy_rose_player_model/amy_rose_player_model.vmdl_c",
+ "kind": "Source 2 model, no AnimGraph2 (old CS2)",
+ "options": {
+  "skin": 0,
+  "up": "auto",
+  "forward": "auto",
+  "rig": true,
+  "shader": "csgo_complex.vfx",
+  "texture_size": 4096,
+  "mode": "auto",
+  "jiggle": true,
+  "guess_jiggle": true,
+  "first_person": true,
+  "twist": true,
+  "arms": null,
+  "weapon": null,
+  "extra": [
+   "C:\\Users\\mollyinduced\\Downloads\\models\\homer_simpson_v3\\agents\\models\\otakku\\homer_simpson\\materials"
+  ],
+  "addon": "custom_models"
+ },
+ "stats": {
+  "triangles": 13780,
+  "first_person_triangles": 4982,
+  "bones": 90,
+  "kept_bones": [
+   "Jiggle_3",
+   "jiggle_primary"
+  ],
+  "jiggle_bones": [
+   "Jiggle_3",
+   "jiggle_primary"
+  ],
+  "first_person": "characters/models/nozb1/amy_rose_player_model/amy_rose_arm.vmdl_c",
+  "materials": 3
+ }
+}

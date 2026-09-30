@@ -1,0 +1,8 @@
+# cs2-model-converter: knife_sweater_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/knife_sweater_ag2/knife_sweater_ag2.vmdl
+# weapon: weapon_knife_cord
+# skeleton: animation/skeletons/weapons/knife_cord.vnmskel
+weapons/moovik/sweater/t_pickaxe_sweater_weather_male_d_png_ba58d994.vtex
+weapons/moovik/sweater/t_pickaxe_sweater_weather_male_n_png_bdda7ea6.vtex
+weapons/moovik/sweater/sweater.vmat
+weapons/custom/knife_sweater_ag2/knife_sweater_ag2.vmdl

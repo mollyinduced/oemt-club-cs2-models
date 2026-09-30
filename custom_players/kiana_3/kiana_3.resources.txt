@@ -1,0 +1,8 @@
+# cs2-model-converter: kiana_3, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/maoling/honkai_impact/kiana/kiana.vmdl
+characters/maoling/honkai_impact/kiana/flame/materials/kiana_textures_png_7841fa31.vtex
+characters/maoling/honkai_impact/kiana/flame/materials/kiana_textures_vmat_g_tambientocclusion_97c31701.vtex
+characters/maoling/honkai_impact/kiana/flame/materials/kiana_textures_vmat_g_tmetalness_59ca0538_png_be449eff.vtex
+characters/maoling/honkai_impact/kiana/flame/materials/kiana_textures_vmat_g_tnormal_f8abdf59.vtex
+characters/maoling/honkai_impact/kiana/flame/materials/kiana_textures.vmat
+characters/maoling/honkai_impact/kiana/kiana.vmdl

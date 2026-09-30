@@ -1,0 +1,47 @@
+# cs2-model-converter: rindo_playermodel, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/ub/rindo/rindo_playermodel.vmdl
+# first person: 0 3 12 15
+characters/models/ub/rindo/materials/hairacc_png_4077c253.vtex
+characters/models/ub/rindo/materials/hairacc_vmat_g_tambientocclusion_9782fd5c.vtex
+characters/models/ub/rindo/materials/hairacc_vmat_g_tmetalness_1081f06e.vtex
+characters/models/ub/rindo/materials/hairacc_vmat_g_tnormal_d52512a9.vtex
+characters/models/ub/rindo/materials/hairacc.vmat
+characters/models/ub/rindo/materials/main1_png_626e2a5b.vtex
+characters/models/ub/rindo/materials/main1_vmat_g_tambientocclusion_9782fd5c.vtex
+characters/models/ub/rindo/materials/main1_vmat_g_tmetalness_1081f06e.vtex
+characters/models/ub/rindo/materials/main1_vmat_g_tnormal_d52512a9.vtex
+characters/models/ub/rindo/materials/main1.vmat
+characters/models/ub/rindo/materials/main1_glow.vmat
+characters/models/ub/rindo/materials/main2_glow_png_38842193.vtex
+characters/models/ub/rindo/materials/main2_png_d68a378b.vtex
+characters/models/ub/rindo/materials/main2_vmat_g_tambientocclusion_9782fd5c.vtex
+characters/models/ub/rindo/materials/main2_vmat_g_tnormal_d52512a9.vtex
+characters/models/ub/rindo/materials/main2.vmat
+characters/models/ub/rindo/materials/main2_alpha_vmat_g_tambientocclusion_9782fd5c.vtex
+characters/models/ub/rindo/materials/main2_alpha_vmat_g_tmetalness_1081f06e.vtex
+characters/models/ub/rindo/materials/main2_alpha_vmat_g_tnormal_d52512a9.vtex
+characters/models/ub/rindo/materials/main2_png_38058179.vtex
+characters/models/ub/rindo/materials/main2_alpha.vmat
+characters/models/ub/rindo/materials/main2_glow_vmat_g_tambientocclusion_9782fd5c.vtex
+characters/models/ub/rindo/materials/main2_glow_vmat_g_tcolor_fee9b696.vtex
+characters/models/ub/rindo/materials/main2_glow_vmat_g_tnormal_d52512a9.vtex
+characters/models/ub/rindo/materials/main2_glow_vmat_g_tselfillummask_ff155607.vtex
+characters/models/ub/rindo/materials/main2_glow.vmat
+characters/models/ub/rindo/materials/main3_glow_png_48a6baae.vtex
+characters/models/ub/rindo/materials/main3_png_9c3e7d77.vtex
+characters/models/ub/rindo/materials/main3_vmat_g_tambientocclusion_9782fd5c.vtex
+characters/models/ub/rindo/materials/main3_vmat_g_tnormal_d52512a9.vtex
+characters/models/ub/rindo/materials/main3.vmat
+characters/models/ub/rindo/materials/main3_alpha_vmat_g_tambientocclusion_9782fd5c.vtex
+characters/models/ub/rindo/materials/main3_alpha_vmat_g_tmetalness_1081f06e.vtex
+characters/models/ub/rindo/materials/main3_alpha_vmat_g_tnormal_d52512a9.vtex
+characters/models/ub/rindo/materials/main3_png_e95a88b8.vtex
+characters/models/ub/rindo/materials/main3_alpha.vmat
+materials/characters/arms/arms_nail_png_6c9da8bc.vtex
+materials/characters/arms/arms_nail_vmat_g_tmetalness_cea5fc09_png_920cf645.vtex
+materials/characters/arms/arms_nail_vmat_g_tselfillummask_ff155607.vtex
+materials/default/stickers/squares_glitter_normal_tga_26be020f.vtex
+materials/characters/arms/arms_nail.vmat
+materials/characters/arms/body_arms_png_863a49d4.vtex
+materials/characters/arms/body_arms.vmat
+characters/models/ub/rindo/rindo_playermodel.vmdl

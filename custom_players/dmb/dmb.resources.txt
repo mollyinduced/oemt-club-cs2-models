@@ -1,0 +1,25 @@
+# cs2-model-converter: dmb, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/exg/doki/bigmb/dmb.vmdl
+# first person: 1 1 4 6
+characters/models/exg/doki/bigmb/body_png_a548aa67.vtex
+characters/models/exg/doki/bigmb/body_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/exg/doki/bigmb/body_vmat_g_tnormal_53b47c48.vtex
+characters/models/exg/doki/bigmb/body.vmat
+characters/models/exg/doki/bigmb/cloth_png_bcd2867e.vtex
+characters/models/exg/doki/bigmb/cloth_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/exg/doki/bigmb/cloth_vmat_g_tnormal_53b47c48.vtex
+characters/models/exg/doki/bigmb/cloth.vmat
+characters/models/exg/doki/bigmb/eye_png_68b0e741.vtex
+characters/models/exg/doki/bigmb/eye_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/exg/doki/bigmb/eye_vmat_g_tnormal_53b47c48.vtex
+characters/models/exg/doki/bigmb/eye.vmat
+characters/models/exg/doki/bigmb/face_png_282abf61.vtex
+characters/models/exg/doki/bigmb/face_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/exg/doki/bigmb/face_vmat_g_tnormal_53b47c48.vtex
+characters/models/exg/doki/bigmb/face.vmat
+characters/models/exg/doki/bigmb/hair_png_1e19f944.vtex
+characters/models/exg/doki/bigmb/hair_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/exg/doki/bigmb/hair_vmat_g_tnormal_53b47c48.vtex
+characters/models/exg/doki/bigmb/hair.vmat
+models/weapons/exg/tokyocold/ba_face/ba_weapon_ol.vmat
+characters/models/exg/doki/bigmb/dmb.vmdl

@@ -1,0 +1,23 @@
+# cs2-model-converter: aositala_nohitbox_3, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/otakku/aositala/aositala_nohitbox.vmdl
+# first person: 0 2 12 15
+agents/models/otakku/aositala/materials/cloth_png_87a6f5f9.vtex
+agents/models/otakku/aositala/materials/cloth_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/otakku/aositala/materials/cloth_vmat_g_tmetalness_1081f06e.vtex
+agents/models/otakku/aositala/materials/cloth_vmat_g_tnormal_d52512a9.vtex
+agents/models/otakku/aositala/materials/cloth.vmat
+agents/models/otakku/aositala/materials/cloth_self_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/otakku/aositala/materials/cloth_self_vmat_g_tnormal_d52512a9.vtex
+agents/models/otakku/aositala/materials/self_png_98705695.vtex
+agents/models/otakku/aositala/materials/cloth_self.vmat
+agents/models/otakku/aositala/materials/hair_png_38fe6b2d.vtex
+agents/models/otakku/aositala/materials/hair_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/otakku/aositala/materials/hair_vmat_g_tmetalness_1081f06e.vtex
+agents/models/otakku/aositala/materials/hair_vmat_g_tnormal_d52512a9.vtex
+agents/models/otakku/aositala/materials/hair.vmat
+agents/models/otakku/aositala/materials/skin_png_18359b97.vtex
+agents/models/otakku/aositala/materials/skin_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/otakku/aositala/materials/skin_vmat_g_tmetalness_1081f06e.vtex
+agents/models/otakku/aositala/materials/skin_vmat_g_tnormal_d52512a9.vtex
+agents/models/otakku/aositala/materials/skin.vmat
+agents/models/otakku/aositala/aositala_nohitbox.vmdl

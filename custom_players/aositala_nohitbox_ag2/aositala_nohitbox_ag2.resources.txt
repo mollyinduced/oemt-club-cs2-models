@@ -1,0 +1,12 @@
+# cs2-model-converter: aositala_nohitbox_ag2, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: phase2/characters/models/otakku/aositala/aositala_nohitbox_ag2.vmdl
+agents/characters/models/otakku/aositala/materials/cloth_png_6301e3eb.vtex
+agents/characters/models/otakku/aositala/materials/cloth_self_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/characters/models/otakku/aositala/materials/cloth_self_vmat_g_tnormal_d52512a9.vtex
+characters/models/otakku/aositala/materials/cloth_self.vmat
+agents/characters/models/otakku/aositala/materials/skin_png_eca8e88.vtex
+agents/characters/models/otakku/aositala/materials/skin_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/characters/models/otakku/aositala/materials/skin_vmat_g_tmetalness_1081f06e.vtex
+agents/characters/models/otakku/aositala/materials/skin_vmat_g_tnormal_d52512a9.vtex
+characters/models/otakku/aositala/materials/skin.vmat
+phase2/characters/models/otakku/aositala/aositala_nohitbox_ag2.vmdl

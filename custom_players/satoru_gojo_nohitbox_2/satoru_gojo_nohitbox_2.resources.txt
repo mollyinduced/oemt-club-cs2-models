@@ -1,0 +1,23 @@
+# cs2-model-converter: satoru_gojo_nohitbox_2, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/otakku/satoru_gojo/satoru_gojo_nohitbox.vmdl
+# first person: 0 2 12 15
+agents/models/otakku/satoru_gojo/materials/outline_vmat_g_tcolor_20638b28.vtex
+agents/models/otakku/satoru_gojo/materials/outline.vmat
+agents/models/otakku/satoru_gojo/materials/t_m_med_floodplain_body_d_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/otakku/satoru_gojo/materials/t_m_med_floodplain_body_d_vmat_g_tmetalness_1081f06e.vtex
+agents/models/otakku/satoru_gojo/materials/t_m_med_floodplain_body_df_png_8c822c1.vtex
+agents/models/otakku/satoru_gojo/materials/t_m_med_floodplain_body_dshaded_png_bd032fd.vtex
+agents/models/otakku/satoru_gojo/materials/t_m_med_floodplain_body_n_png_5d903d24.vtex
+agents/models/otakku/satoru_gojo/materials/t_m_med_floodplain_body_d.vmat
+agents/models/otakku/satoru_gojo/materials/t_m_med_floodplain_faceacc_d_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/otakku/satoru_gojo/materials/t_m_med_floodplain_faceacc_d_vmat_g_tmetalness_1081f06e.vtex
+agents/models/otakku/satoru_gojo/materials/t_m_med_floodplain_faceacc_df_png_f66cdad6.vtex
+agents/models/otakku/satoru_gojo/materials/t_m_med_floodplain_faceacc_dshaded_png_47e420e1.vtex
+agents/models/otakku/satoru_gojo/materials/t_m_med_floodplain_faceacc_n_png_39afdab8.vtex
+agents/models/otakku/satoru_gojo/materials/t_m_med_floodplain_faceacc_d.vmat
+agents/models/otakku/satoru_gojo/materials/t_m_med_floodplain_head_d_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/otakku/satoru_gojo/materials/t_m_med_floodplain_head_d_vmat_g_tmetalness_1081f06e.vtex
+agents/models/otakku/satoru_gojo/materials/t_m_med_floodplain_head_dshaded_png_68bd5b0b.vtex
+agents/models/otakku/satoru_gojo/materials/t_m_med_floodplain_head_n_png_3647e24b.vtex
+agents/models/otakku/satoru_gojo/materials/t_m_med_floodplain_head_d.vmat
+agents/models/otakku/satoru_gojo/satoru_gojo_nohitbox.vmdl

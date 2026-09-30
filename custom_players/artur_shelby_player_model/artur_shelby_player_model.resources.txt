@@ -1,0 +1,23 @@
+# cs2-model-converter: the resources models/custom/artur_shelby_player_model/artur_shelby_player_model.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/artur_shelby_player_model/arm_color_png_5bf0150c.vtex
+materials/models/custom/artur_shelby_player_model/arm.vmat
+materials/models/custom/artur_shelby_player_model/bare_arm_133_color_png_be48b0a5.vtex
+materials/models/custom/artur_shelby_player_model/bare_arm_133.vmat
+materials/models/custom/artur_shelby_player_model/body_color_png_bab96290.vtex
+materials/models/custom/artur_shelby_player_model/body.vmat
+materials/models/custom/artur_shelby_player_model/dress_color_png_dd3e05ca.vtex
+materials/models/custom/artur_shelby_player_model/dress.vmat
+materials/models/custom/artur_shelby_player_model/eye_color_png_4315d46e.vtex
+materials/models/custom/artur_shelby_player_model/eye.vmat
+materials/models/custom/artur_shelby_player_model/face_color_png_9e80da4c.vtex
+materials/models/custom/artur_shelby_player_model/face.vmat
+materials/models/custom/artur_shelby_player_model/foot_color_png_1d308131.vtex
+materials/models/custom/artur_shelby_player_model/foot.vmat
+materials/models/custom/artur_shelby_player_model/galstuk_color_png_a329e944.vtex
+materials/models/custom/artur_shelby_player_model/galstuk.vmat
+materials/models/custom/artur_shelby_player_model/hair_color_png_b0b63bf7.vtex
+materials/models/custom/artur_shelby_player_model/hair.vmat
+materials/models/custom/artur_shelby_player_model/leg_color_png_c459b159.vtex
+materials/models/custom/artur_shelby_player_model/leg.vmat
+models/custom/artur_shelby_player_model/artur_shelby_player_model.vmdl

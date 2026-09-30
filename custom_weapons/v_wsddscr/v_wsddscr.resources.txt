@@ -1,0 +1,9 @@
+# cs2-model-converter: v_wsddscr, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/v_wsddscr/v_wsddscr.vmdl
+# weapon: weapon_knife_butterfly
+# skeleton: animation/skeletons/weapons/knife_butterfly.vnmskel
+materials/models/exg15/cso_katana_n_png_8c49b3f8.vtex
+materials/models/exg15/cso_katana_png_243f98c7.vtex
+materials/models/exg15/cso_katana_vmat_g_tselfillummask_ff155607.vtex
+materials/models/exg15/cso_katana.vmat
+weapons/custom/v_wsddscr/v_wsddscr.vmdl

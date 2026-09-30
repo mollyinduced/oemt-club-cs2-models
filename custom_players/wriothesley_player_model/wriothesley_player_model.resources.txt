@@ -1,0 +1,15 @@
+# cs2-model-converter: wriothesley_player_model, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/nozb1/wriothesley_player_model/wriothesley_player_model.vmdl
+# first person: 0 2 12 15
+characters/models/nozb1/wriothesley_player_model/materials/wriothesley_body_normal_png_b652161d.vtex
+characters/models/nozb1/wriothesley_player_model/materials/wriothesley_body_png_db8eb35c.vtex
+characters/models/nozb1/wriothesley_player_model/materials/wriothesley_body_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/wriothesley_player_model/materials/wriothesley_body.vmat
+characters/models/nozb1/wriothesley_player_model/materials/wriothesley_face_png_1bb5897e.vtex
+characters/models/nozb1/wriothesley_player_model/materials/wriothesley_face_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/wriothesley_player_model/materials/wriothesley_face.vmat
+characters/models/nozb1/wriothesley_player_model/materials/wriothesley_hair_png_364e7f67.vtex
+characters/models/nozb1/wriothesley_player_model/materials/wriothesley_hair_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/wriothesley_player_model/materials/wriothesley_hair.vmat
+characters/models/nozb1/wriothesley_player_model/wriothesley_player_model/body_vmorf.vtex
+characters/models/nozb1/wriothesley_player_model/wriothesley_player_model.vmdl

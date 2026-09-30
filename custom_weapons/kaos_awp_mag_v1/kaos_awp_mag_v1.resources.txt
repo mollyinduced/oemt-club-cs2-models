@@ -1,0 +1,10 @@
+# cs2-model-converter: kaos_awp_mag_v1, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/kaos_awp_mag_v1/kaos_awp_mag_v1.vmdl
+# weapon: weapon_awp
+# skeleton: animation/skeletons/weapons/awp.vnmskel
+weapons/phase2/poncikmarket/kaos_awp/materials/v1/boltsniper_demonstone_magazine_v1_aem_png_ab57b8fd.vtex
+weapons/phase2/poncikmarket/kaos_awp/materials/v1/boltsniper_demonstone_magazine_v1_df_png_f57be1c8.vtex
+weapons/phase2/poncikmarket/kaos_awp/materials/v1/boltsniper_demonstone_magazine_v1_nm_png_1294499f.vtex
+weapons/phase2/poncikmarket/kaos_awp/materials/v1/boltsniper_demonstone_mag_v1_mi.vmat
+weapons/phase2/poncikmarket/kaos_awp/materials/v1/demonstone_emissive_v1_mi.vmat
+weapons/custom/kaos_awp_mag_v1/kaos_awp_mag_v1.vmdl

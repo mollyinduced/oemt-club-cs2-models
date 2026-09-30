@@ -1,0 +1,20 @@
+# cs2-model-converter: sasuke_player_model, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/deti00ykh/sasuke_player_model/sasuke_player_model.vmdl
+# first person: 0 2 12 15
+characters/models/deti00ykh/sasuke_player_model/materials/body_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/deti00ykh/sasuke_player_model/materials/male_top_cos_nb_black_d_png_1e5a5ea0.vtex
+characters/models/deti00ykh/sasuke_player_model/materials/body.vmat
+characters/models/deti00ykh/sasuke_player_model/materials/boots_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/deti00ykh/sasuke_player_model/materials/male_shoe_cos_nb_black_d_png_d48ad9f8.vtex
+characters/models/deti00ykh/sasuke_player_model/materials/boots.vmat
+characters/models/deti00ykh/sasuke_player_model/materials/down_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/deti00ykh/sasuke_player_model/materials/male_bottom_cos_nb_black_d_png_d95f1f5c.vtex
+characters/models/deti00ykh/sasuke_player_model/materials/down.vmat
+characters/models/deti00ykh/sasuke_player_model/materials/face_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/deti00ykh/sasuke_player_model/materials/male_accessory_cos_nb_black_d_png_b6825209.vtex
+characters/models/deti00ykh/sasuke_player_model/materials/face.vmat
+characters/models/deti00ykh/sasuke_player_model/materials/outlner_vmat_g_tcolor_6b6e411d.vtex
+characters/models/deti00ykh/sasuke_player_model/materials/outlner.vmat
+characters/models/deti00ykh/sasuke_player_model/sasuke_player_model/arms_vmorf.vtex
+characters/models/deti00ykh/sasuke_player_model/sasuke_player_model/body_vmorf.vtex
+characters/models/deti00ykh/sasuke_player_model/sasuke_player_model.vmdl

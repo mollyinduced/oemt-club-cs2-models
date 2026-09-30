@@ -1,0 +1,49 @@
+{
+ "converter": "2.3",
+ "made": "2026-09-29 23:01:56",
+ "name": "beast_deagle_ag2",
+ "mode": "rebuild",
+ "input": "C:\\Users\\mollyinduced\\Downloads\\models\\deti00ykh_ru_files_3396529065",
+ "model": "phase2/weapons/memni4ik/deagle/beast/beast_deagle_ag2.vmdl_c",
+ "kind": "CS2 weapon model (AnimGraph2)",
+ "weapon": "weapon_deagle",
+ "options": {
+  "skin": 0,
+  "up": "auto",
+  "forward": "auto",
+  "rig": true,
+  "shader": "csgo_complex.vfx",
+  "texture_size": 4096,
+  "mode": "auto",
+  "jiggle": true,
+  "guess_jiggle": true,
+  "first_person": true,
+  "twist": true,
+  "arms": null,
+  "weapon": null,
+  "extra": [
+   "C:\\Users\\mollyinduced\\Downloads\\models\\homer_simpson_v3\\agents\\models\\otakku\\homer_simpson\\materials"
+  ],
+  "addon": "custom_models"
+ },
+ "stats": {
+  "triangles": 2932,
+  "bones": 7,
+  "on": "weapons/models/deagle/weapon_pist_deagle.vmdl",
+  "skeleton": "animation/skeletons/weapons/deagle.vnmskel",
+  "moved": {
+   "r": [
+    -1.02,
+    -1.02,
+    0.0,
+    90.0
+   ]
+  },
+  "parts": {
+   "hammer": "hammer",
+   "slide": "slide",
+   "clip": "clip"
+  },
+  "left_out": 0
+ }
+}

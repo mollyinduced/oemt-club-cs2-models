@@ -1,0 +1,25 @@
+# cs2-model-converter: mejiro_player_model, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/deti00ykh/mejiro_player_model/mejiro_player_model.vmdl
+# first person: 0 2 12 15
+characters/models/deti00ykh/mejiro_player_model/materials/self_bdoy_png_a7075044.vtex
+characters/models/deti00ykh/mejiro_player_model/materials/tex_bdy1013_00_diff_png_fcb37b4b.vtex
+characters/models/deti00ykh/mejiro_player_model/materials/body.vmat
+characters/models/deti00ykh/mejiro_player_model/materials/body2_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/deti00ykh/mejiro_player_model/materials/body2.vmat
+characters/models/deti00ykh/mejiro_player_model/materials/eye_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/deti00ykh/mejiro_player_model/materials/tex_chr1013_00_eye0_png_c2d42cdb.vtex
+characters/models/deti00ykh/mejiro_player_model/materials/eye.vmat
+characters/models/deti00ykh/mejiro_player_model/materials/face_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/deti00ykh/mejiro_player_model/materials/tex_chr1013_00_face_diff_png_8034d082.vtex
+characters/models/deti00ykh/mejiro_player_model/materials/face.vmat
+characters/models/deti00ykh/mejiro_player_model/materials/hair_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/deti00ykh/mejiro_player_model/materials/tex_chr1013_00_hair_diff_png_2ea141bf.vtex
+characters/models/deti00ykh/mejiro_player_model/materials/hair.vmat
+characters/models/deti00ykh/mejiro_player_model/materials/outliern_vmat_g_tcolor_6b6e411d.vtex
+characters/models/deti00ykh/mejiro_player_model/materials/outliern.vmat
+characters/models/deti00ykh/mejiro_player_model/materials/tail_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/deti00ykh/mejiro_player_model/materials/tex_tail0001_00_1013_diff_png_abb9153e.vtex
+characters/models/deti00ykh/mejiro_player_model/materials/tail.vmat
+characters/models/deti00ykh/mejiro_player_model/mejiro_player_model/arms_vmorf.vtex
+characters/models/deti00ykh/mejiro_player_model/mejiro_player_model/body_vmorf.vtex
+characters/models/deti00ykh/mejiro_player_model/mejiro_player_model.vmdl

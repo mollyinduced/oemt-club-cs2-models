@@ -1,0 +1,14 @@
+# cs2-model-converter: ak_12, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/ak_12/ak_12.vmdl
+# weapon: weapon_ak47
+# skeleton: animation/skeletons/weapons/ak47.vnmskel
+models/weapons/kolka/weapons_3/ak/ak12_d_tga_211f8588.vtex
+models/weapons/kolka/weapons_3/ak/ak12_n_tga_13830504.vtex
+models/weapons/kolka/weapons_3/ak/ak12_d.vmat
+models/weapons/kolka/weapons_3/ak/ak12_lens_d_tga_8659c234.vtex
+models/weapons/kolka/weapons_3/ak/ak12_lens_n_tga_2731c0f9.vtex
+models/weapons/kolka/weapons_3/ak/ak12_lens_d.vmat
+models/weapons/kolka/weapons_3/ak/ak12_sights_d_tga_7ea1d373.vtex
+models/weapons/kolka/weapons_3/ak/ak12_sights_n_tga_fcb25f71.vtex
+models/weapons/kolka/weapons_3/ak/ak12_sights_d.vmat
+weapons/custom/ak_12/ak_12.vmdl

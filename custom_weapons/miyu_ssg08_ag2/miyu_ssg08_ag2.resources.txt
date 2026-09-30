@@ -1,0 +1,14 @@
+# cs2-model-converter: miyu_ssg08_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/miyu_ssg08_ag2/miyu_ssg08_ag2.vmdl
+# weapon: weapon_ssg08
+# skeleton: animation/skeletons/weapons/ssg08.vnmskel
+weapons/deti00ykh/miyu_ssg08/materials/key1_vmat_g_tcolor_7ab53e0a.vtex
+weapons/deti00ykh/miyu_ssg08/materials/key1_vmat_g_tselfillummask_ff155607.vtex
+weapons/deti00ykh/miyu_ssg08/materials/key1.vmat
+weapons/deti00ykh/miyu_ssg08/materials/key2_vmat_g_tcolor_18afb7a4.vtex
+weapons/deti00ykh/miyu_ssg08/materials/key2.vmat
+weapons/deti00ykh/miyu_ssg08/materials/ch0145_weapon_png_ba290229.vtex
+weapons/deti00ykh/miyu_ssg08/materials/miyu.vmat
+weapons/deti00ykh/miyu_ssg08/materials/outliner_vmat_g_tcolor_6b6e411d.vtex
+weapons/deti00ykh/miyu_ssg08/materials/outliner.vmat
+weapons/custom/miyu_ssg08_ag2/miyu_ssg08_ag2.vmdl

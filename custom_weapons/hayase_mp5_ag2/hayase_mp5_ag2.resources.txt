@@ -1,0 +1,15 @@
+# cs2-model-converter: hayase_mp5_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/hayase_mp5_ag2/hayase_mp5_ag2.vmdl
+# weapon: weapon_mp5sd
+# skeleton: animation/skeletons/weapons/mp5sd.vnmskel
+weapons/deti00ykh/hayase_mp5/materials/self_png_2081a514.vtex
+weapons/deti00ykh/hayase_mp5/materials/yuuka_original_weapon_png_3328d5ba.vtex
+weapons/deti00ykh/hayase_mp5/materials/hayamat.vmat
+weapons/deti00ykh/hayase_mp5/materials/key1_vmat_g_tcolor_7ab53e0a.vtex
+weapons/deti00ykh/hayase_mp5/materials/key1_vmat_g_tselfillummask_ff155607.vtex
+weapons/deti00ykh/hayase_mp5/materials/key1.vmat
+weapons/deti00ykh/hayase_mp5/materials/key2_vmat_g_tcolor_7ab53e0a.vtex
+weapons/deti00ykh/hayase_mp5/materials/key2.vmat
+weapons/deti00ykh/hayase_mp5/materials/owsls_vmat_g_tcolor_6b6e411d.vtex
+weapons/deti00ykh/hayase_mp5/materials/owsls.vmat
+weapons/custom/hayase_mp5_ag2/hayase_mp5_ag2.vmdl

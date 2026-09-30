@@ -1,0 +1,5 @@
+# cs2-model-converter: the resources models/custom/icecream_player_model/icecream_player_model.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/icecream_player_model/icecream_mat_color_png_a961ad0f.vtex
+materials/models/custom/icecream_player_model/icecream_mat.vmat
+models/custom/icecream_player_model/icecream_player_model.vmdl

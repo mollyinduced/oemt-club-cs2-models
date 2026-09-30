@@ -1,0 +1,9 @@
+# cs2-model-converter: madagascar_monkey_player_model_2, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/ag2/madagascar_monkey_player_model/madagascar_monkey_player_model.vmdl
+# first person: 0 2 12 15
+agents/models/ag2/madagascar_monkey_player_model/materials/monkey_hz_png_9f6e134b.vtex
+agents/models/ag2/madagascar_monkey_player_model/materials/monkey_madagaskar_mat_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2/madagascar_monkey_player_model/materials/monkey_normal_png_c94b4fc6.vtex
+agents/models/ag2/madagascar_monkey_player_model/materials/monkey_png_72d34ed.vtex
+agents/models/ag2/madagascar_monkey_player_model/materials/monkey_madagaskar_mat.vmat
+agents/models/ag2/madagascar_monkey_player_model/madagascar_monkey_player_model.vmdl

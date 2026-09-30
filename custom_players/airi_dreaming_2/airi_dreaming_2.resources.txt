@@ -1,0 +1,40 @@
+# cs2-model-converter: airi_dreaming_2, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/exg/chrisan/airi_dreaming/airi_dreaming.vmdl
+# first person: 0 3 12 15
+characters/models/exg/chrisan/airi_dreaming/materials/body_vmat_g_tmetalness_10974e8a_png_c7ecc1fc.vtex
+characters/models/exg/chrisan/airi_dreaming/materials/body_vmat_g_tnormal_48c7c5f5_png_35c48324.vtex
+characters/models/exg/chrisan/airi_dreaming/png/body_png_3f76d59.vtex
+characters/models/exg/chrisan/airi_dreaming/materials/body.vmat
+characters/models/exg/chrisan/airi_dreaming/materials/face_vmat_g_tmetalness_10974e8a_png_f6f4de9c.vtex
+characters/models/exg/chrisan/airi_dreaming/materials/face_vmat_g_tnormal_48c7c5f5_png_e7ed79d.vtex
+characters/models/exg/chrisan/airi_dreaming/png/face_png_3e229605.vtex
+characters/models/exg/chrisan/airi_dreaming/materials/face.vmat
+characters/models/exg/chrisan/airi_dreaming/materials/hair_vmat_g_tmetalness_b70f8f59_png_469c5e77.vtex
+characters/models/exg/chrisan/airi_dreaming/materials/hair_vmat_g_tnormal_48c7c5f5_png_f07f8ac5.vtex
+characters/models/exg/chrisan/airi_dreaming/png/hair_png_1b45cfdf.vtex
+characters/models/exg/chrisan/airi_dreaming/materials/hair.vmat
+characters/models/exg/chrisan/airi_dreaming/materials/hair2_uv2_vmat_g_tcolor_f7c192c2.vtex
+characters/models/exg/chrisan/airi_dreaming/materials/hair2_uv2_vmat_g_tnormal_48c7c5f5_png_4a2e852f.vtex
+characters/models/exg/chrisan/airi_dreaming/materials/hair2_uv2_vmat_g_tselfillummask_ff155607.vtex
+characters/models/exg/chrisan/airi_dreaming/materials/hair2_uv2.vmat
+characters/models/exg/chrisan/airi_dreaming/materials/main1_vmat_g_tmetalness_b70f8f59_png_3c8ac611.vtex
+characters/models/exg/chrisan/airi_dreaming/materials/main1_vmat_g_tnormal_aed807f_png_e263f939.vtex
+characters/models/exg/chrisan/airi_dreaming/png/main1_png_77224772.vtex
+characters/models/exg/chrisan/airi_dreaming/materials/main1.vmat
+characters/models/exg/chrisan/airi_dreaming/materials/main2_vmat_g_tmetalness_b70f8f59_png_ecffb682.vtex
+characters/models/exg/chrisan/airi_dreaming/materials/main2_vmat_g_tnormal_48c7c5f5_png_e1a1050c.vtex
+characters/models/exg/chrisan/airi_dreaming/png/main2_png_3c8b705b.vtex
+characters/models/exg/chrisan/airi_dreaming/materials/main2.vmat
+characters/models/exg/chrisan/airi_dreaming/materials/metal_yellow_vmat_g_tcolor_b63fbc0b.vtex
+characters/models/exg/chrisan/airi_dreaming/materials/metal_yellow_vmat_g_tnormal_a1e47e21_png_e36541c8.vtex
+characters/models/exg/chrisan/airi_dreaming/materials/metal_yellow_vmat_g_tselfillummask_ff155607.vtex
+characters/models/exg/chrisan/airi_dreaming/materials/metal_yellow.vmat
+characters/models/ub/manuka/materials/nail_png_8ec63a85.vtex
+characters/models/ub/manuka/materials/nail_vmat_g_tambientocclusion_9782fd5c.vtex
+characters/models/ub/manuka/materials/nail_vmat_g_tanisogloss_7c888fcd.vtex
+characters/models/ub/manuka/materials/nail_vmat_g_tmetalness_d1d60046.vtex
+characters/models/ub/manuka/materials/nail_vmat_g_tnormal_764923f0.vtex
+characters/models/ub/manuka/materials/nail.vmat
+materials/characters/arms/body_arms_png_863a49d4.vtex
+materials/characters/arms/body_arms.vmat
+characters/models/exg/chrisan/airi_dreaming/airi_dreaming.vmdl

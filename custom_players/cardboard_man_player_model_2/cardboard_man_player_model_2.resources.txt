@@ -1,0 +1,24 @@
+# cs2-model-converter: cardboard_man_player_model_2, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/nozb1/cardboard_man_player_model/cardboard_man_player_model.vmdl
+# first person: 0 2 12 15
+characters/models/nozb1/cardboard_man_player_model/materials/arms_png_2279b7cd.vtex
+characters/models/nozb1/cardboard_man_player_model/materials/cardarms_mat_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/cardboard_man_player_model/materials/cardarms_mat.vmat
+characters/models/nozb1/cardboard_man_player_model/materials/back_png_bfb1c76b.vtex
+characters/models/nozb1/cardboard_man_player_model/materials/cardback_mat_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/cardboard_man_player_model/materials/cardback_mat.vmat
+characters/models/nozb1/cardboard_man_player_model/materials/cardhead_mat_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/cardboard_man_player_model/materials/cardhead_mat_vmat_g_tnormal_aed807f.vtex
+characters/models/nozb1/cardboard_man_player_model/materials/head_png_2d3282c0.vtex
+characters/models/nozb1/cardboard_man_player_model/materials/cardhead_mat.vmat
+characters/models/nozb1/cardboard_man_player_model/materials/cardlegs_mat_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/cardboard_man_player_model/materials/cardlegs_mat_vmat_g_tnormal_aed807f.vtex
+characters/models/nozb1/cardboard_man_player_model/materials/legs_png_43e89a2d.vtex
+characters/models/nozb1/cardboard_man_player_model/materials/cardlegs_mat.vmat
+characters/models/nozb1/cardboard_man_player_model/materials/cardmain_body_mat_vmat_g_tnormal_aed807f.vtex
+characters/models/nozb1/cardboard_man_player_model/materials/cardmain_body_mat_vmat_g_tselfillummask_99bddea2.vtex
+characters/models/nozb1/cardboard_man_player_model/materials/cardmain_body_mat.vmat
+characters/models/nozb1/cardboard_man_player_model/materials/cardweapon_mat_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/cardboard_man_player_model/materials/weapon_png_5c688fc5.vtex
+characters/models/nozb1/cardboard_man_player_model/materials/cardweapon_mat.vmat
+characters/models/nozb1/cardboard_man_player_model/cardboard_man_player_model.vmdl

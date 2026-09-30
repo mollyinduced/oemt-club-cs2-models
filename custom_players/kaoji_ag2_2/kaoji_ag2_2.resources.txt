@@ -1,0 +1,11 @@
+# cs2-model-converter: kaoji_ag2_2, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: phase2/characters/models/exg/aili/kaoji/kaoji_ag2.vmdl
+characters/models/exg/aili/kaoji/max/body all_png_723054de.vtex
+characters/models/exg/aili/kaoji/max/body_vmat_g_tmetalness_10974e8a.vtex
+characters/models/exg/aili/kaoji/max/body_vmat_g_tnormal_aed807f.vtex
+characters/models/exg/aili/kaoji/max/body.vmat
+characters/models/exg/aili/kaoji/max/col1_vmat_g_tmetalness_10974e8a.vtex
+characters/models/exg/aili/kaoji/max/col1_vmat_g_tnormal_f9e4847d.vtex
+characters/models/exg/aili/kaoji/max/king_cat_pajama_png_4339116a.vtex
+characters/models/exg/aili/kaoji/max/col1.vmat
+phase2/characters/models/exg/aili/kaoji/kaoji_ag2.vmdl

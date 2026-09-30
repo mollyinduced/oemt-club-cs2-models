@@ -1,0 +1,19 @@
+# cs2-model-converter: fumo_cirno_nohitbox, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/cirno/fumo/fumo_cirno_nohitbox.vmdl
+# first person: 0 2 12 15
+characters/models/cirno/fumo/tex/color_0_png_c909214f.vtex
+characters/models/cirno/fumo/tex/color_0_vmat_g_tambientocclusion_9782fd5c.vtex
+characters/models/cirno/fumo/tex/color_0_vmat_g_tmetalness_1081f06e.vtex
+characters/models/cirno/fumo/tex/color_0_vmat_g_tnormal_d52512a9.vtex
+characters/models/cirno/fumo/tex/color_0.vmat
+characters/models/cirno/fumo/tex/color_0_cull_vmat_g_tambientocclusion_9782fd5c.vtex
+characters/models/cirno/fumo/tex/color_0_cull_vmat_g_tcolor_6b6e411d.vtex
+characters/models/cirno/fumo/tex/color_0_cull_vmat_g_tnormal_d52512a9.vtex
+characters/models/cirno/fumo/tex/color_0_cull_vmat_g_tselfillummask_ff155607.vtex
+characters/models/cirno/fumo/tex/color_0_cull.vmat
+characters/models/cirno/fumo/tex/color_0_effect_vmat_g_tambientocclusion_9782fd5c.vtex
+characters/models/cirno/fumo/tex/color_0_effect_vmat_g_tcolor_d96f2ade.vtex
+characters/models/cirno/fumo/tex/color_0_effect_vmat_g_tnormal_c7d146ff.vtex
+characters/models/cirno/fumo/tex/color_0_effect_vmat_g_tselfillummask_ff155607.vtex
+characters/models/cirno/fumo/tex/color_0_effect.vmat
+characters/models/cirno/fumo/fumo_cirno_nohitbox.vmdl

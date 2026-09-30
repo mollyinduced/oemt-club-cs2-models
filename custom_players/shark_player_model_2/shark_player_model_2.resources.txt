@@ -1,0 +1,5 @@
+# cs2-model-converter: the resources models/custom/shark_player_model_2/shark_player_model_2.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/shark_player_model_2/leftshark_colourable_color_png_70b46e29.vtex
+materials/models/custom/shark_player_model_2/leftshark_colourable.vmat
+models/custom/shark_player_model_2/shark_player_model_2.vmdl

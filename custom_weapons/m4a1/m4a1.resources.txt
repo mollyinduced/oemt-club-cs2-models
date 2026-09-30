@@ -1,0 +1,50 @@
+# cs2-model-converter: m4a1, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/m4a1/m4a1.vmdl
+# weapon: weapon_ak47
+# skeleton: animation/skeletons/weapons/ak47.vnmskel
+weapons/otakku/ak47/castorice/materials/191body1_png_b1397f40.vtex
+weapons/otakku/ak47/castorice/materials/191body1_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/ak47/castorice/materials/191body1_vmat_g_tnormal_2984f4a9.vtex
+weapons/otakku/ak47/castorice/materials/191body1_vmat_g_tselfillummask_ff155607.vtex
+weapons/otakku/ak47/castorice/materials/191body1.vmat
+weapons/otakku/ak47/castorice/materials/191body2_png_62106206.vtex
+weapons/otakku/ak47/castorice/materials/191body2_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/ak47/castorice/materials/191body2_vmat_g_tnormal_2984f4a9.vtex
+weapons/otakku/ak47/castorice/materials/191body2_vmat_g_tselfillummask_ff155607.vtex
+weapons/otakku/ak47/castorice/materials/191body2.vmat
+weapons/otakku/ak47/castorice/materials/191body3_png_79ad2679.vtex
+weapons/otakku/ak47/castorice/materials/191body3_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/ak47/castorice/materials/191body3_vmat_g_tnormal_2984f4a9.vtex
+weapons/otakku/ak47/castorice/materials/191body3_vmat_g_tselfillummask_ff155607.vtex
+weapons/otakku/ak47/castorice/materials/191body3.vmat
+weapons/otakku/ak47/castorice/materials/191body4_png_35e617ab.vtex
+weapons/otakku/ak47/castorice/materials/191body4_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/ak47/castorice/materials/191body4_vmat_g_tnormal_2984f4a9.vtex
+weapons/otakku/ak47/castorice/materials/191body4_vmat_g_tselfillummask_ff155607.vtex
+weapons/otakku/ak47/castorice/materials/191body4.vmat
+weapons/otakku/ak47/castorice/materials/barrel_png_c5c34c0.vtex
+weapons/otakku/ak47/castorice/materials/barrel_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/ak47/castorice/materials/barrel_vmat_g_tnormal_2984f4a9.vtex
+weapons/otakku/ak47/castorice/materials/barrel_vmat_g_tselfillummask_ff155607.vtex
+weapons/otakku/ak47/castorice/materials/barrel.vmat
+weapons/otakku/ak47/castorice/materials/holosun510c_n_png_5d2f59fc.vtex
+weapons/otakku/ak47/castorice/materials/holosun510c_png_d5f17a91.vtex
+weapons/otakku/ak47/castorice/materials/holosun510c_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/ak47/castorice/materials/holosun510c_vmat_g_tselfillummask_ff155607.vtex
+weapons/otakku/ak47/castorice/materials/holosun510c.vmat
+weapons/otakku/ak47/castorice/materials/huan_png_cac20cb9.vtex
+weapons/otakku/ak47/castorice/materials/huan_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/ak47/castorice/materials/huan_vmat_g_tnormal_2984f4a9.vtex
+weapons/otakku/ak47/castorice/materials/huan_vmat_g_tselfillummask_ff155607.vtex
+weapons/otakku/ak47/castorice/materials/huan.vmat
+weapons/otakku/ak47/castorice/materials/lens_png_1a3faa65.vtex
+weapons/otakku/ak47/castorice/materials/lens_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/ak47/castorice/materials/lens_vmat_g_tnormal_2984f4a9.vtex
+weapons/otakku/ak47/castorice/materials/lens_vmat_g_tselfillummask_ff155607.vtex
+weapons/otakku/ak47/castorice/materials/lens.vmat
+weapons/otakku/ak47/castorice/materials/stock2_n_png_76ce09b7.vtex
+weapons/otakku/ak47/castorice/materials/stock2_png_1cb24fc.vtex
+weapons/otakku/ak47/castorice/materials/stock2_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/ak47/castorice/materials/stock2_vmat_g_tselfillummask_ff155607.vtex
+weapons/otakku/ak47/castorice/materials/stock2.vmat
+weapons/custom/m4a1/m4a1.vmdl

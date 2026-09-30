@@ -1,0 +1,21 @@
+# cs2-model-converter: goku_ss2_v2_nohitbox, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/characters/models/otakku/goku_ss2_v2/goku_ss2_v2_nohitbox.vmdl
+# first person: 0 2 12 15
+agents/characters/models/otakku/goku_ss2_v2/materials/body_2_test_png_424fc1f0.vtex
+agents/characters/models/otakku/goku_ss2_v2/materials/body_t_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/characters/models/otakku/goku_ss2_v2/materials/body_t_vmat_g_tmetalness_b99de324.vtex
+agents/characters/models/otakku/goku_ss2_v2/materials/t_m_med_stamina_body_n_png_4adad005.vtex
+agents/characters/models/otakku/goku_ss2_v2/materials/body_t.vmat
+agents/characters/models/otakku/goku_ss2_v2/materials/face_new_png_69ddec50.vtex
+agents/characters/models/otakku/goku_ss2_v2/materials/goku_face_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/characters/models/otakku/goku_ss2_v2/materials/goku_face_vmat_g_tmetalness_b99de324.vtex
+agents/characters/models/otakku/goku_ss2_v2/materials/t_m_med_stamina_evolved_head_n_png_c62ba1c1.vtex
+agents/characters/models/otakku/goku_ss2_v2/materials/goku_face.vmat
+agents/characters/models/otakku/goku_ss2_v2/materials/hair_test_png_30c7a085.vtex
+agents/characters/models/otakku/goku_ss2_v2/materials/hair_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/characters/models/otakku/goku_ss2_v2/materials/hair_vmat_g_tmetalness_b99de324.vtex
+agents/characters/models/otakku/goku_ss2_v2/materials/t_m_med_stamina_super_faceacc_n_png_a0bff378.vtex
+agents/characters/models/otakku/goku_ss2_v2/materials/hair.vmat
+agents/characters/models/otakku/goku_ss2_v2/materials/outline_vmat_g_tcolor_20638b28.vtex
+agents/characters/models/otakku/goku_ss2_v2/materials/outline.vmat
+agents/characters/models/otakku/goku_ss2_v2/goku_ss2_v2_nohitbox.vmdl

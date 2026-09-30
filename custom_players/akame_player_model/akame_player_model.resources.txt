@@ -1,0 +1,10 @@
+# cs2-model-converter: akame_player_model, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/deti00ykh/akame_player_model/akame_player_model.vmdl
+# first person: 0 2 12 15
+characters/models/deti00ykh/akame_player_model/akame_player_model/body_vmorf.vtex
+characters/models/deti00ykh/akame_player_model/materials/akame_png_d6e4a2bb.vtex
+characters/models/deti00ykh/akame_player_model/materials/body_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/deti00ykh/akame_player_model/materials/body.vmat
+characters/models/deti00ykh/akame_player_model/materials/ouitlai_vmat_g_tcolor_6b6e411d.vtex
+characters/models/deti00ykh/akame_player_model/materials/ouitlai.vmat
+characters/models/deti00ykh/akame_player_model/akame_player_model.vmdl

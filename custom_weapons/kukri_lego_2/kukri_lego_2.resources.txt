@@ -1,0 +1,8 @@
+# cs2-model-converter: kukri_lego_2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/kukri_lego_2/kukri_lego_2.vmdl
+# weapon: weapon_knife_kukri
+# skeleton: animation/skeletons/weapons/knife_kukri.vnmskel
+models/kolka/kukri/skin_nbr_g_lego_png_28ee6dc3.vtex
+models/kolka/kukri/skin_nbr_g_lego_vmat_g_tnormal_53b47c48.vtex
+models/kolka/kukri/skin_nbr_g_lego.vmat
+weapons/custom/kukri_lego_2/kukri_lego_2.vmdl

@@ -1,0 +1,5 @@
+# cs2-model-converter: the resources models/custom/king_alex_player_model/king_alex_player_model.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/king_alex_player_model/king_alex_mat_color_png_41a442f0.vtex
+materials/models/custom/king_alex_player_model/king_alex_mat.vmat
+models/custom/king_alex_player_model/king_alex_player_model.vmdl

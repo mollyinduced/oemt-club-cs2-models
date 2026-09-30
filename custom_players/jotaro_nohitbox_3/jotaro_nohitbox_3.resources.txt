@@ -1,0 +1,18 @@
+# cs2-model-converter: jotaro_nohitbox_3, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/otakku/jotaro/jotaro_nohitbox.vmdl
+# first person: 0 2 12 15
+agents/models/otakku/jotaro/materials/all_mat_vmat_g_tambientocclusion_dd98a23c.vtex
+agents/models/otakku/jotaro/materials/all_mat_vmat_g_tmetalness_b99de324.vtex
+agents/models/otakku/jotaro/materials/ntxr000_png_617c0685.vtex
+agents/models/otakku/jotaro/materials/ntxr001_png_b57fa695.vtex
+agents/models/otakku/jotaro/materials/all_mat.vmat
+agents/models/otakku/jotaro/materials/eye_vmat_g_tambientocclusion_dd98a23c.vtex
+agents/models/otakku/jotaro/materials/eye_vmat_g_tmetalness_b99de324.vtex
+agents/models/otakku/jotaro/materials/eye_vmat_g_tnormal_5ec18b52.vtex
+agents/models/otakku/jotaro/materials/ntxr002_png_90706d21.vtex
+agents/models/otakku/jotaro/materials/eye.vmat
+agents/models/otakku/jotaro/materials/outline_vmat_g_tambientocclusion_2105c0a6.vtex
+agents/models/otakku/jotaro/materials/outline_vmat_g_tcolor_6b6e411d.vtex
+agents/models/otakku/jotaro/materials/outline_vmat_g_tnormal_5c84eed9.vtex
+agents/models/otakku/jotaro/materials/outline.vmat
+agents/models/otakku/jotaro/jotaro_nohitbox.vmdl

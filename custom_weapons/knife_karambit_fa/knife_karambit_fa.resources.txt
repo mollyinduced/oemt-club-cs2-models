@@ -1,0 +1,9 @@
+# cs2-model-converter: knife_karambit_fa, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/knife_karambit_fa/knife_karambit_fa.vmdl
+# weapon: weapon_knife_karambit
+# skeleton: animation/skeletons/weapons/knife_karambit.vnmskel
+models/knife/featanime/mat/melee_hypebeast2_df_jpg_217a49e8.vtex
+models/knife/featanime/mat/melee_hypebeast2_nm_jpg_3fc33a67.vtex
+models/knife/featanime/mat/worldgridmaterial_jpg_d4d53c9d.vtex
+models/knife/featanime/mat/mate.vmat
+weapons/custom/knife_karambit_fa/knife_karambit_fa.vmdl

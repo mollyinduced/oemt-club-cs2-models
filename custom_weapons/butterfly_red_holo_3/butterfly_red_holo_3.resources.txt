@@ -1,0 +1,15 @@
+# cs2-model-converter: butterfly_red_holo_3, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/butterfly_red_holo_3/butterfly_red_holo_3.vmdl
+# weapon: weapon_knife_butterfly
+# skeleton: animation/skeletons/weapons/knife_butterfly.vnmskel
+weapons/models/knife/knife_butterfly/butterfly_gold_ao_png_d02702f5.vtex
+weapons/models/knife/knife_butterfly/butterfly_gold_m_png_3ebbebc0.vtex
+weapons/models/knife/knife_butterfly/butterfly_gold_m_png_e5eb8fed.vtex
+weapons/models/knife/knife_butterfly/butterfly_gold_r_png_d12bd646.vtex
+weapons/models/knife/knife_butterfly/butterfly_red_a_png_3ecb065d.vtex
+weapons/models/knife/knife_butterfly/butterfly_red_a_png_62309762.vtex
+weapons/models/knife/knife_butterfly/butterfly_red_holo_vmat_g_tglitternormalsticker0_ef76f08b.vtex
+weapons/models/knife/knife_butterfly/butterfly_red_holo_vmat_g_tholospectrumsticker0_66912ed0.vtex
+weapons/models/knife/knife_butterfly/butterfly_red_n_png_8a14302b.vtex
+weapons/models/knife/knife_butterfly/butterfly_red_holo.vmat
+weapons/custom/butterfly_red_holo_3/butterfly_red_holo_3.vmdl

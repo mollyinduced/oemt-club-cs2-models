@@ -1,0 +1,12 @@
+# cs2-model-converter: drstrange, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/reborn/drstrange/drstrange.vmdl
+# first person: 0 2 12 15
+agents/models/reborn/drstrange/materials/body_d_jpg_e3d2fb24_png_dd91d659.vtex
+agents/models/reborn/drstrange/materials/body_d_vmat_g_tmetalness_10974e8a.vtex
+agents/models/reborn/drstrange/materials/body_d_vmat_g_tnormal_53b47c48.vtex
+agents/models/reborn/drstrange/materials/body_d.vmat
+agents/models/reborn/drstrange/materials/cape_d_jpg_23ff99c7_png_a2c29558.vtex
+agents/models/reborn/drstrange/materials/cape_d_vmat_g_tmetalness_10974e8a.vtex
+agents/models/reborn/drstrange/materials/cape_d_vmat_g_tnormal_53b47c48.vtex
+agents/models/reborn/drstrange/materials/cape_d.vmat
+agents/models/reborn/drstrange/drstrange.vmdl

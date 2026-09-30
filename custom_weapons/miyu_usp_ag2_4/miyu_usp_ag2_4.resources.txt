@@ -1,0 +1,22 @@
+# cs2-model-converter: miyu_usp_ag2_4, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/miyu_usp_ag2_4/miyu_usp_ag2_4.vmdl
+# weapon: weapon_usp_silencer
+# skeleton: animation/skeletons/weapons/usp_silencer.vnmskel
+models/jiye/miyu_usp/materials/halo_vmat_g_tcolor_64dfd14c.vtex
+models/jiye/miyu_usp/materials/halo_vmat_g_tselfillummask_f087270d.vtex
+models/jiye/miyu_usp/materials/halo.vmat
+models/jiye/miyu_usp/materials/keji_png_bca4bee.vtex
+models/jiye/miyu_usp/materials/keji_vmat_g_tselfillummask_ff155607.vtex
+models/jiye/miyu_usp/materials/keji.vmat
+models/jiye/miyu_usp/materials/mb_png_8d926069.vtex
+models/jiye/miyu_usp/materials/mb_vmat_g_tselfillummask_f087270d.vtex
+models/jiye/miyu_usp/materials/mb.vmat
+models/jiye/miyu_usp/materials/miyu_usp_dark_png_c0ba442a.vtex
+models/jiye/miyu_usp/materials/miyu_usp_png_3d9923be.vtex
+models/jiye/miyu_usp/materials/miyu_usp_vmat_g_tnormal_aed807f.vtex
+models/jiye/miyu_usp/materials/miyu_usp.vmat
+models/jiye/miyu_usp/materials/qiangguan_dark_png_9e76a065.vtex
+models/jiye/miyu_usp/materials/qiangguan_png_9ba5dfb0.vtex
+models/jiye/miyu_usp/materials/qiangguan_vmat_g_tnormal_aed807f.vtex
+models/jiye/miyu_usp/materials/qiangguan.vmat
+weapons/custom/miyu_usp_ag2_4/miyu_usp_ag2_4.vmdl

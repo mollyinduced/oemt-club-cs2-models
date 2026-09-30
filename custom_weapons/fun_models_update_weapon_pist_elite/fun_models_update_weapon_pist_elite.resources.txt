@@ -1,0 +1,5 @@
+# cs2-model-converter: fun_models_update_weapon_pist_elite, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/fun_models_update_weapon_pist_elite/fun_models_update_weapon_pist_elite.vmdl
+# weapon: weapon_elite
+# skeleton: animation/skeletons/weapons/elite.vnmskel
+weapons/custom/fun_models_update_weapon_pist_elite/fun_models_update_weapon_pist_elite.vmdl

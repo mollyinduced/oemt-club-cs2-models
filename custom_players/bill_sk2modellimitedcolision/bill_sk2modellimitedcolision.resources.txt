@@ -1,0 +1,35 @@
+# cs2-model-converter: bill_sk2modellimitedcolision, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/hmn_ag2/left4dead/bill/bill_sk2modellimitedcolision.vmdl
+# first person: 0 1 2 3
+agents/models/hmn_ag2/_versatility_arm/materials/hand_tex_male_png_70d57701.vtex
+agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex_male_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex_male_vmat_g_tdiffusefalloff_aa1e6fc8.vtex
+agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex_male_vmat_g_tmetalness_1081f06e.vtex
+agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex_male_vmat_g_tnormal_aed807f.vtex
+materials/default/default_mask_tga_cac76a2f.vtex
+agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex_male.vmat
+agents/models/hmn_ag2/left4dead/bill/bill_sk2modellimitedcolision/body_vmorf.vtex
+agents/models/hmn_ag2/left4dead/bill/materials/bill_body_cs2_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/hmn_ag2/left4dead/bill/materials/bill_body_cs2_vmat_g_tdiffusefalloff_aa1e6fc8.vtex
+agents/models/hmn_ag2/left4dead/bill/materials/bill_body_cs2_vmat_g_tmetalness_1081f06e.vtex
+agents/models/hmn_ag2/left4dead/bill/materials/bill_color_jpg_38ca1266.vtex
+agents/models/hmn_ag2/left4dead/bill/materials/bill_normal_jpg_793ab891.vtex
+agents/models/hmn_ag2/left4dead/bill/materials/bill_body_cs2.vmat
+agents/models/hmn_ag2/left4dead/bill/materials/bill_eye_cs2_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/hmn_ag2/left4dead/bill/materials/bill_eye_cs2_vmat_g_tdiffusefalloff_aa1e6fc8.vtex
+agents/models/hmn_ag2/left4dead/bill/materials/bill_eye_cs2_vmat_g_tmetalness_1081f06e.vtex
+agents/models/hmn_ag2/left4dead/bill/materials/bill_eye_cs2_vmat_g_tnormal_aed807f.vtex
+agents/models/hmn_ag2/left4dead/bill/materials/blue_iris_jpg_821167a6.vtex
+agents/models/hmn_ag2/left4dead/bill/materials/bill_eye_cs2.vmat
+agents/models/hmn_ag2/left4dead/bill/materials/bill_head_cs2_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/hmn_ag2/left4dead/bill/materials/bill_head_cs2_vmat_g_tdiffusefalloff_aa1e6fc8.vtex
+agents/models/hmn_ag2/left4dead/bill/materials/bill_head_cs2_vmat_g_tmetalness_1081f06e.vtex
+agents/models/hmn_ag2/left4dead/bill/materials/bill_head_jpg_734178a.vtex
+agents/models/hmn_ag2/left4dead/bill/materials/bill_head_cs2.vmat
+agents/models/hmn_ag2/left4dead/bill/materials/healthkit_cs2_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/hmn_ag2/left4dead/bill/materials/healthkit_cs2_vmat_g_tdiffusefalloff_aa1e6fc8.vtex
+agents/models/hmn_ag2/left4dead/bill/materials/healthkit_cs2_vmat_g_tmetalness_1081f06e.vtex
+agents/models/hmn_ag2/left4dead/bill/materials/w_eq_medkit_jpg_d9d700d6.vtex
+agents/models/hmn_ag2/left4dead/bill/materials/w_eq_medkit_nrm_jpg_a977665.vtex
+agents/models/hmn_ag2/left4dead/bill/materials/healthkit_cs2.vmat
+agents/models/hmn_ag2/left4dead/bill/bill_sk2modellimitedcolision.vmdl

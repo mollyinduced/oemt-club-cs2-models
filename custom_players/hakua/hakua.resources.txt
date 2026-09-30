@@ -1,0 +1,35 @@
+# cs2-model-converter: hakua, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/ub/hakua/hakua.vmdl
+# first person: 0 3 12 15
+characters/models/ub/hakua/tex/tx_hakua_sotai_png_2e450630.vtex
+characters/models/ub/hakua/vtex/body_vmat_g_tmetalness_40069da1.vtex
+characters/models/ub/hakua/vtex/body_vmat_g_tnormal_cbfddf8a.vtex
+characters/models/ub/hakua/vtex/body.vmat
+characters/models/exg/416/tex/tx_hakua_cloth_black_png_d9462ffe_png_2ec85753.vtex
+characters/models/ub/hakua/vtex/cloth_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/ub/hakua/vtex/cloth_vmat_g_tnormal_47660df.vtex
+characters/models/ub/hakua/vtex/cloth.vmat
+characters/models/ub/hakua/tex/tx_hakua_face_black_png_ae7a148b.vtex
+characters/models/ub/hakua/vtex/face_vmat_g_tmetalness_b70f8f59.vtex
+materials/default/default_normal_tga_5a869113.vtex
+characters/models/ub/hakua/vtex/face.vmat
+characters/models/ub/hakua/tex/tx_hakua_hair_black_png_e2869c67.vtex
+characters/models/ub/hakua/vtex/hair_vmat_g_tmetalness_503302c4.vtex
+characters/models/ub/hakua/vtex/hair_vmat_g_tnormal_53b47c48.vtex
+characters/models/ub/hakua/vtex/hair.vmat
+characters/models/ub/hakua/tex/tx_hakua_metal_png_7cc3c4a3.vtex
+characters/models/ub/hakua/vtex/metal_vmat_g_tnormal_53b47c48.vtex
+characters/models/ub/hakua/vtex/metal_vmat_g_tselfillummask_ff155607.vtex
+characters/models/ub/hakua/vtex/metal.vmat
+characters/models/ub/hakua/vtex/under_vmat_g_tcolor_7ab53e0a.vtex
+characters/models/ub/hakua/vtex/under_vmat_g_tmetalness_186644c.vtex
+characters/models/ub/hakua/vtex/under_vmat_g_tnormal_53b47c48.vtex
+characters/models/ub/hakua/vtex/under.vmat
+materials/characters/arms/arms_nail_png_6c9da8bc.vtex
+materials/characters/arms/arms_nail_vmat_g_tmetalness_cea5fc09_png_920cf645.vtex
+materials/characters/arms/arms_nail_vmat_g_tselfillummask_ff155607.vtex
+materials/default/stickers/squares_glitter_normal_tga_26be020f.vtex
+materials/characters/arms/arms_nail.vmat
+materials/characters/arms/body_arms_png_863a49d4.vtex
+materials/characters/arms/body_arms.vmat
+characters/models/ub/hakua/hakua.vmdl

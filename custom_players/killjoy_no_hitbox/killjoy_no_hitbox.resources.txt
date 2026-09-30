@@ -1,0 +1,20 @@
+# cs2-model-converter: killjoy_no_hitbox, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/poncikmarket/killjoy/killjoy_no_hitbox.vmdl
+# first person: 0 2 12 15
+agents/models/poncikmarket/killjoy/materials/tp_core_eye_df_png_948d44ed.vtex
+agents/models/poncikmarket/killjoy/materials/tp_core_eye_mi_vmat_g_tmetalness_b70f8f59_png_1ddc594.vtex
+agents/models/poncikmarket/killjoy/materials/tp_core_eye_mi_vmat_g_tnormal_47660df.vtex
+agents/models/poncikmarket/killjoy/materials/tp_core_eye_mi.vmat
+agents/models/poncikmarket/killjoy/materials/ctm_gsg9_visor_png_3e97cebc.vtex
+agents/models/poncikmarket/killjoy/materials/tp_killjoy_s0_glass_mi_vmat_g_tmetalness_b70f8f59_png_ad105a57.vtex
+agents/models/poncikmarket/killjoy/materials/tp_killjoy_s0_glass_mi_vmat_g_tnormal_47660df.vtex
+agents/models/poncikmarket/killjoy/materials/tp_killjoy_s0_glass_mi.vmat
+agents/models/poncikmarket/killjoy/materials/tp_killjoy_s0_hair_df_png_31110ba2.vtex
+agents/models/poncikmarket/killjoy/materials/tp_killjoy_s0_hair_mi_vmat_g_tmetalness_b70f8f59_png_fb701fbd.vtex
+agents/models/poncikmarket/killjoy/materials/tp_killjoy_s0_hair_nm_png_5b7f6d92.vtex
+agents/models/poncikmarket/killjoy/materials/tp_killjoy_s0_hair_mi.vmat
+agents/models/poncikmarket/killjoy/materials/tp_killjoy_s0_body_nm_png_4dc1add7.vtex
+agents/models/poncikmarket/killjoy/materials/tp_killjoy_s0_df_png_b2f325b.vtex
+agents/models/poncikmarket/killjoy/materials/tp_killjoy_s0_mi_vmat_g_tmetalness_b70f8f59_png_44fc4963.vtex
+agents/models/poncikmarket/killjoy/materials/tp_killjoy_s0_mi.vmat
+agents/models/poncikmarket/killjoy/killjoy_no_hitbox.vmdl

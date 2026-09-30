@@ -1,0 +1,24 @@
+# cs2-model-converter: kolasnik_3, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/invalid_kolasnik/kolasnik.vmdl
+characters/invalid_kolasnik/texture/koja_png_c49c7c0.vtex
+characters/invalid_kolasnik/texture/koja_vmat_g_tmetalness_b70f8f59.vtex
+characters/invalid_kolasnik/texture/koja.vmat
+characters/invalid_kolasnik/texture/low_albedo_png_8ad6c959.vtex
+characters/invalid_kolasnik/texture/low_albedo_vmat_g_tmetalness_b70f8f59.vtex
+characters/invalid_kolasnik/texture/low_albedo.vmat
+characters/invalid_kolasnik/texture/perchi_png_dd00f000.vtex
+characters/invalid_kolasnik/texture/perchi_vmat_g_tmetalness_b70f8f59.vtex
+characters/invalid_kolasnik/texture/perchi.vmat
+characters/invalid_kolasnik/texture/rm21-background-minty-17_png_f04eca9f.vtex
+characters/invalid_kolasnik/texture/rm21-background-minty-17_vmat_g_tmetalness_b70f8f59.vtex
+characters/invalid_kolasnik/texture/rm21-background-minty-17.vmat
+characters/invalid_kolasnik/texture/tm_jungle_raider_body_varianta_color_png_40d3c953.vtex
+characters/invalid_kolasnik/texture/tm_jungle_raider_body_varianta_color_vmat_g_tmetalness_b70f8f59.vtex
+characters/invalid_kolasnik/texture/tm_jungle_raider_body_varianta_color.vmat
+characters/invalid_kolasnik/texture/tm_jungle_raider_head_varianta_color_png_c8442495.vtex
+characters/invalid_kolasnik/texture/tm_jungle_raider_head_varianta_color_vmat_g_tmetalness_b70f8f59.vtex
+characters/invalid_kolasnik/texture/tm_jungle_raider_head_varianta_color.vmat
+characters/invalid_kolasnik/texture/tm_jungle_raider_pant_varianta_color_png_3286fcc5.vtex
+characters/invalid_kolasnik/texture/tm_jungle_raider_pant_varianta_color_vmat_g_tmetalness_b70f8f59.vtex
+characters/invalid_kolasnik/texture/tm_jungle_raider_pant_varianta_color.vmat
+characters/invalid_kolasnik/kolasnik.vmdl

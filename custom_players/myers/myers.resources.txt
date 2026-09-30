@@ -1,0 +1,13 @@
+# cs2-model-converter: the resources models/custom/myers/myers.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/myers/shape_body_bc_color_png_5e002e71.vtex
+materials/models/custom/myers/shape_body_bc.vmat
+materials/models/custom/myers/shape_hair_bc_color_png_8dd99c74.vtex
+materials/models/custom/myers/shape_hair_bc.vmat
+materials/models/custom/myers/shape_hands_color_png_cc875e39.vtex
+materials/models/custom/myers/shape_hands.vmat
+materials/models/custom/myers/shape_head_bc_color_png_c363e2b3.vtex
+materials/models/custom/myers/shape_head_bc.vmat
+materials/models/custom/myers/shape_skin_bc_color_png_a2d34128.vtex
+materials/models/custom/myers/shape_skin_bc.vmat
+models/custom/myers/myers.vmdl

@@ -1,0 +1,15 @@
+# cs2-model-converter: the resources models/custom/rochellev2/rochellev2.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/rochellev2/eyes_color_png_d25bf32e.vtex
+materials/models/custom/rochellev2/eyes_normal_png_210b67c0.vtex
+materials/models/custom/rochellev2/eyes.vmat
+materials/models/custom/rochellev2/producer_body_color_png_89643265.vtex
+materials/models/custom/rochellev2/producer_body.vmat
+materials/models/custom/rochellev2/producer_hair_color_png_2375eefd.vtex
+materials/models/custom/rochellev2/producer_hair.vmat
+materials/models/custom/rochellev2/producer_hair2_color_png_28a9b2bb.vtex
+materials/models/custom/rochellev2/producer_hair2.vmat
+materials/models/custom/rochellev2/producer_head_color_png_129db723.vtex
+materials/models/custom/rochellev2/producer_head_normal_png_2b1b085c.vtex
+materials/models/custom/rochellev2/producer_head.vmat
+models/custom/rochellev2/rochellev2.vmdl

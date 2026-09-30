@@ -1,0 +1,30 @@
+# cs2-model-converter: mp5sd_elysia_2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/mp5sd_elysia_2/mp5sd_elysia_2.vmdl
+# weapon: weapon_mp5sd
+# skeleton: animation/skeletons/weapons/mp5sd.vnmskel
+weapons/otakku/mp5sd/mp5sd_elysia/materials/aimprov2_mi_base_color_png_931b0a8e.vtex
+weapons/otakku/mp5sd/mp5sd_elysia/materials/aimprov2_mi_base_color_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/mp5sd/mp5sd_elysia/materials/aimprov2_mi_base_color_vmat_g_tselfillummask_ff155607.vtex
+weapons/otakku/mp5sd/mp5sd_elysia/materials/rds_normal_png_162bc19e.vtex
+weapons/otakku/mp5sd/mp5sd_elysia/materials/aimprov2_mi_base_color.vmat
+weapons/otakku/mp5sd/mp5sd_elysia/materials/clear_base_color_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/mp5sd/mp5sd_elysia/materials/clear_base_color_vmat_g_tnormal_ab72ac96.vtex
+weapons/otakku/mp5sd/mp5sd_elysia/materials/clear_base_color_vmat_g_tselfillummask_ff155607.vtex
+weapons/otakku/mp5sd/mp5sd_elysia/materials/red_dot_png_41f88dd.vtex
+weapons/otakku/mp5sd/mp5sd_elysia/materials/clear_base_color.vmat
+weapons/otakku/mp5sd/mp5sd_elysia/materials/mi_smg_mp5sd_body_base_color_png_280b6771.vtex
+weapons/otakku/mp5sd/mp5sd_elysia/materials/mi_smg_mp5sd_body_base_color_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/mp5sd/mp5sd_elysia/materials/mi_smg_mp5sd_body_base_color_vmat_g_tselfillummask_ff155607.vtex
+weapons/otakku/mp5sd/mp5sd_elysia/materials/mp5sd_main_normal_png_b5da69a0.vtex
+weapons/otakku/mp5sd/mp5sd_elysia/materials/mi_smg_mp5sd_body_base_color.vmat
+weapons/otakku/mp5sd/mp5sd_elysia/materials/mi_smg_mp5sd_mag_base_color_png_356b53fe.vtex
+weapons/otakku/mp5sd/mp5sd_elysia/materials/mi_smg_mp5sd_mag_base_color_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/mp5sd/mp5sd_elysia/materials/mi_smg_mp5sd_mag_base_color_vmat_g_tselfillummask_ff155607.vtex
+weapons/otakku/mp5sd/mp5sd_elysia/materials/mp5sd_mag_texmat_normal_png_cf902492.vtex
+weapons/otakku/mp5sd/mp5sd_elysia/materials/mi_smg_mp5sd_mag_base_color.vmat
+weapons/otakku/mp5sd/mp5sd_elysia/materials/sf660_main_normal_png_371a98a6.vtex
+weapons/otakku/mp5sd/mp5sd_elysia/materials/sf660_mi_base_color_png_7473f23b.vtex
+weapons/otakku/mp5sd/mp5sd_elysia/materials/sf660_mi_base_color_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/mp5sd/mp5sd_elysia/materials/sf660_mi_base_color_vmat_g_tselfillummask_ff155607.vtex
+weapons/otakku/mp5sd/mp5sd_elysia/materials/sf660_mi_base_color.vmat
+weapons/custom/mp5sd_elysia_2/mp5sd_elysia_2.vmdl

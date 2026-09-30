@@ -1,0 +1,39 @@
+# cs2-model-converter: pp-bizon_printstream_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/pp-bizon_printstream_ag2/pp-bizon_printstream_ag2.vmdl
+# weapon: weapon_bizon
+# skeleton: animation/skeletons/weapons/bizon.vnmskel
+weapons/models/pp-bizon_printstream/materials/barrel_00_00_00_png_8a31c17d.vtex
+weapons/models/pp-bizon_printstream/materials/barrel_00_00_00_vmat_g_tmetalness_c332409c.vtex
+weapons/models/pp-bizon_printstream/materials/barrel_n_00_00_00_png_4059398c.vtex
+weapons/models/pp-bizon_printstream/materials/barrel_00_00_00.vmat
+weapons/models/pp-bizon_printstream/materials/body_00_00_00_png_2983a3a5.vtex
+weapons/models/pp-bizon_printstream/materials/body_00_00_00_vmat_g_tmetalness_64da0ca4.vtex
+weapons/models/pp-bizon_printstream/materials/body_n_00_00_00_png_69e4ea9e.vtex
+weapons/models/pp-bizon_printstream/materials/body_s_00_00_00_png_d24b3569.vtex
+weapons/models/pp-bizon_printstream/materials/body_00_00_00.vmat
+weapons/models/pp-bizon_printstream/materials/front_00_00_00_png_a5880f1f.vtex
+weapons/models/pp-bizon_printstream/materials/front_00_00_00_vmat_g_tmetalness_64da0ca4.vtex
+weapons/models/pp-bizon_printstream/materials/front_n_00_00_00_png_24d0af18.vtex
+weapons/models/pp-bizon_printstream/materials/front_00_00_00.vmat
+weapons/models/pp-bizon_printstream/materials/grip_00_00_00_png_8b01b01e.vtex
+weapons/models/pp-bizon_printstream/materials/grip_00_00_00_vmat_g_tmetalness_8a7a7ff6.vtex
+weapons/models/pp-bizon_printstream/materials/grip_n_00_00_00_png_328d6310.vtex
+weapons/models/pp-bizon_printstream/materials/grip_00_00_00.vmat
+weapons/models/pp-bizon_printstream/materials/mag_00_00_00_png_8924e630.vtex
+weapons/models/pp-bizon_printstream/materials/mag_00_00_00_vmat_g_tmetalness_64da0ca4.vtex
+weapons/models/pp-bizon_printstream/materials/mag_n_00_00_00_png_d7d3b971.vtex
+weapons/models/pp-bizon_printstream/materials/mag_s_00_00_00_png_10ef45d8.vtex
+weapons/models/pp-bizon_printstream/materials/mag_00_00_00.vmat
+weapons/models/pp-bizon_printstream/materials/muzzle_00_00_00_png_c7dc63f.vtex
+weapons/models/pp-bizon_printstream/materials/muzzle_00_00_00_vmat_g_tmetalness_64da0ca4.vtex
+weapons/models/pp-bizon_printstream/materials/muzzle_n_00_00_00_png_1ad555fb.vtex
+weapons/models/pp-bizon_printstream/materials/muzzle_00_00_00.vmat
+weapons/models/pp-bizon_printstream/materials/peq_00_00_00_png_e6b2044e.vtex
+weapons/models/pp-bizon_printstream/materials/peq_00_00_00_vmat_g_tmetalness_64da0ca4.vtex
+weapons/models/pp-bizon_printstream/materials/peq_n_00_00_00_png_13addfbe.vtex
+weapons/models/pp-bizon_printstream/materials/peq_00_00_00.vmat
+weapons/models/pp-bizon_printstream/materials/stock_00_00_00_png_507d5125.vtex
+weapons/models/pp-bizon_printstream/materials/stock_00_00_00_vmat_g_tmetalness_64da0ca4.vtex
+weapons/models/pp-bizon_printstream/materials/stock_n_00_00_00_png_7838ec85.vtex
+weapons/models/pp-bizon_printstream/materials/stock_00_00_00.vmat
+weapons/custom/pp-bizon_printstream_ag2/pp-bizon_printstream_ag2.vmdl

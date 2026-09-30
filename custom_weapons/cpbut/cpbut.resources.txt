@@ -1,0 +1,16 @@
+# cs2-model-converter: cpbut, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/cpbut/cpbut.vmdl
+# weapon: weapon_knife_butterfly
+# skeleton: animation/skeletons/weapons/knife_butterfly.vnmskel
+weapons/models/knife/knife_butterfly/cpbut_materials/ao_png_e9d55643.vtex
+weapons/models/knife/knife_butterfly/cpbut_materials/melee_champions2_df_png_44df62b6.vtex
+weapons/models/knife/knife_butterfly/cpbut_materials/melee_champions2_nm_png_f973f6d.vtex
+weapons/models/knife/knife_butterfly/cpbut_materials/cpb1.vmat
+weapons/models/knife/knife_butterfly/cpbut_materials/cpb2_vmat_g_tcolor_2356dabe.vtex
+weapons/models/knife/knife_butterfly/cpbut_materials/cpb2_vmat_g_tselfillummask_ff155607.vtex
+weapons/models/knife/knife_butterfly/cpbut_materials/melee_champions2_crystal_nm_png_c38b6a63.vtex
+weapons/models/knife/knife_butterfly/cpbut_materials/cpb2.vmat
+weapons/models/knife/knife_butterfly/cpbut_materials/cpb3_vmat_g_tcolor_fc0c4aad.vtex
+weapons/models/knife/knife_butterfly/cpbut_materials/cpb3_vmat_g_tselfillummask_ff155607.vtex
+weapons/models/knife/knife_butterfly/cpbut_materials/cpb3.vmat
+weapons/custom/cpbut/cpbut.vmdl

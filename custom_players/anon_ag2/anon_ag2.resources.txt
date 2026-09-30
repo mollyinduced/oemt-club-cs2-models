@@ -1,0 +1,24 @@
+# cs2-model-converter: anon_ag2, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: phase2/characters/models/exg/ruiyiwelkin/anon_chihaya/anon_ag2.vmdl
+characters/models/exg/ruiyiwelkin/al_tashkent/metal_vmat_g_tcolor_7ab53e0a.vtex
+characters/models/exg/ruiyiwelkin/al_tashkent/metal_vmat_g_tmetalness_bd906efe.vtex
+characters/models/exg/ruiyiwelkin/al_tashkent/metal_vmat_g_tnormal_a1e47e21.vtex
+characters/models/exg/ruiyiwelkin/al_tashkent/metal.vmat
+characters/models/exg/ruiyiwelkin/al_tashkent/rbg_png_20a55aec.vtex
+characters/models/exg/ruiyiwelkin/al_tashkent/rbg_vmat_g_tnormal_53b47c48.vtex
+characters/models/exg/ruiyiwelkin/al_tashkent/rbg_vmat_g_tselfillummask_ff155607.vtex
+characters/models/exg/ruiyiwelkin/al_tashkent/rbg.vmat
+characters/models/exg/ruiyiwelkin/anon_chihaya/body_png_f4264ea1.vtex
+characters/models/exg/ruiyiwelkin/anon_chihaya/body_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/exg/ruiyiwelkin/anon_chihaya/body.vmat
+characters/models/exg/ruiyiwelkin/anon_chihaya/zhijia_png_7fedf83b.vtex
+characters/models/exg/ruiyiwelkin/anon_chihaya/zhijia_vmat_g_tnormal_e56bd506.vtex
+characters/models/exg/ruiyiwelkin/anon_chihaya/zhijia_vmat_g_tselfillummask_ff155607.vtex
+characters/models/exg/ruiyiwelkin/anon_chihaya/zhijia.vmat
+particles/ruiyiwelkin/models/anon_chihaya/pink_ring_1.vpcf
+particles/ruiyiwelkin/models/tacflare/star_arm.vtex
+particles/ruiyiwelkin/models/anon_chihaya/pink_ring_main.vpcf
+particles/ruiyiwelkin/models/anon_chihaya/right_sound_1.vpcf
+particles/ruiyiwelkin/models/anon_chihaya/right_sound_2.vpcf
+particles/ruiyiwelkin/models/anon_chihaya/right_sound_main.vpcf
+phase2/characters/models/exg/ruiyiwelkin/anon_chihaya/anon_ag2.vmdl

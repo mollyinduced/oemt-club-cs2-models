@@ -1,0 +1,6 @@
+# cs2-model-converter: scavenger_ag2, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: phase2/characters/models/s2ze/scavenger/scavenger_ag2.vmdl
+characters/models/exg/ruiyiwelkin/hunter_squad/glove_sporty_normal_png_a5748735.vtex
+characters/models/exg/ruiyiwelkin/hunter_squad/glove_sporty_png_5f4125bc.vtex
+characters/models/exg/ruiyiwelkin/hunter_squad/glove_o.vmat
+phase2/characters/models/s2ze/scavenger/scavenger_ag2.vmdl

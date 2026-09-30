@@ -1,0 +1,10 @@
+# cs2-model-converter: xuaguan_cord_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/xuaguan_cord_ag2/xuaguan_cord_ag2.vmdl
+# weapon: weapon_knife_cord
+# skeleton: animation/skeletons/weapons/knife_cord.vnmskel
+weapons/models/ub/xuanguan/materials/t_kn_springknife_skin_alpha 1_png_118c472d.vtex
+weapons/models/ub/xuanguan/materials/t_kn_springknife_skin_hyperdrive_d_png_84fcb510.vtex
+weapons/models/ub/xuanguan/materials/t_kn_springknife_skin_hyperdrive_em_png_16603000.vtex
+weapons/models/ub/xuanguan/materials/t_kn_springknife_skin_hyperdrive_n_png_1c2787c2.vtex
+weapons/models/ub/xuanguan/materials/xuanguan.vmat
+weapons/custom/xuaguan_cord_ag2/xuaguan_cord_ag2.vmdl

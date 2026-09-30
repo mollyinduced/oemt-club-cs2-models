@@ -1,0 +1,11 @@
+# cs2-model-converter: v_dfdddsc, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/v_dfdddsc/v_dfdddsc.vmdl
+# weapon: weapon_knife_butterfly
+# skeleton: animation/skeletons/weapons/knife_butterfly.vnmskel
+materials/models/exg26/2_png_2ccdefd5.vtex
+materials/models/exg26/2_png_85e3a7ca.vtex
+materials/models/exg26/2.vmat
+materials/models/exg26/melee_specops_df_png_8ecb0309.vtex
+materials/models/exg26/melee_specops_nm_png_14496a80.vtex
+materials/models/exg26/melee_specops_df.vmat
+weapons/custom/v_dfdddsc/v_dfdddsc.vmdl

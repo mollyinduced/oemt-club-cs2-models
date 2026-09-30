@@ -1,0 +1,9 @@
+# cs2-model-converter: killjoy_pink, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/nozb1/killjoy_player_model/killjoy_pink.vmdl
+# first person: 0 2 12 15
+characters/models/nozb1/killjoy_player_model/killjoy_pink/body_vmorf.vtex
+characters/models/nozb1/killjoy_player_model/materials/body_n_png_6ef5547a.vtex
+characters/models/nozb1/killjoy_player_model/materials/body_pink_png_c506c409.vtex
+characters/models/nozb1/killjoy_player_model/materials/killjoy_pink_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/killjoy_player_model/materials/killjoy_pink.vmat
+characters/models/nozb1/killjoy_player_model/killjoy_pink.vmdl

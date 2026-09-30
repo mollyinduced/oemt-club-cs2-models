@@ -1,0 +1,9 @@
+# cs2-model-converter: fsb, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/kolka/standoff/fsb.vmdl
+# first person: 0 1 2 3
+characters/kolka/standoff/fsb_d_png_481c4442.vtex
+characters/kolka/standoff/fsb_d_vmat_g_tmetalness_b70f8f59.vtex
+characters/kolka/standoff/fsb_n_png_4147d54d.vtex
+characters/kolka/standoff/fsb_d.vmat
+characters/kolka/standoff/fsb_arm.vmdl
+characters/kolka/standoff/fsb.vmdl

@@ -1,0 +1,5 @@
+# cs2-model-converter: the resources models/custom/alice_sk2modellimitedcolision/alice_sk2modellimitedcolision.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/alice_sk2modellimitedcolision/alice_cs2_color_png_8e38b3b6.vtex
+materials/models/custom/alice_sk2modellimitedcolision/alice_cs2.vmat
+models/custom/alice_sk2modellimitedcolision/alice_sk2modellimitedcolision.vmdl

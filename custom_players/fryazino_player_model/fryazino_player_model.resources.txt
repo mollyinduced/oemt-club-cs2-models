@@ -1,0 +1,16 @@
+# cs2-model-converter: the resources models/custom/fryazino_player_model/fryazino_player_model.vmdl needs, loaded in this order by the SDK
+materials/models/custom/fryazino_player_model/fryazino_boots_color_png_11ee5031.vtex
+materials/models/custom/fryazino_player_model/fryazino_boots.vmat
+materials/models/custom/fryazino_player_model/fryazino_eyes_color_png_603d87b.vtex
+materials/models/custom/fryazino_player_model/fryazino_eyes.vmat
+materials/models/custom/fryazino_player_model/fryazino_hair_color_png_92caeb71.vtex
+materials/models/custom/fryazino_player_model/fryazino_hair.vmat
+materials/models/custom/fryazino_player_model/fryazino_head_color_png_c303313b.vtex
+materials/models/custom/fryazino_player_model/fryazino_head.vmat
+materials/models/custom/fryazino_player_model/fryazino_jacket_color_png_a455c364.vtex
+materials/models/custom/fryazino_player_model/fryazino_jacket.vmat
+materials/models/custom/fryazino_player_model/fryazino_pants_color_png_6f1a99f8.vtex
+materials/models/custom/fryazino_player_model/fryazino_pants.vmat
+materials/models/custom/fryazino_player_model/fryazino_shirt_color_png_b599a7d3.vtex
+materials/models/custom/fryazino_player_model/fryazino_shirt.vmat
+models/custom/fryazino_player_model/fryazino_player_model.vmdl

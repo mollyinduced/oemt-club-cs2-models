@@ -1,0 +1,14 @@
+# cs2-model-converter: liziqiu, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/liziqiu/liziqiu.vmdl
+# weapon: weapon_hegrenade
+# skeleton: animation/skeletons/weapons/hegrenade.vnmskel
+weapons/models/exg/liziqiu/materials/liziqiu_vmat_g_tnormal_d52512a9.vtex
+weapons/models/exg/liziqiu/materials/liziqiu_vmat_g_tselfillummask_ff155607.vtex
+weapons/models/exg/liziqiu/materials/tex_04064_01j_1_def_png_5bfa4d57.vtex
+weapons/models/exg/liziqiu/materials/tex_04064_01j_1_msk_png_48585dd.vtex
+weapons/models/exg/liziqiu/materials/liziqiu.vmat
+weapons/models/exg/liziqiu/materials/liziqiu_eye_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/models/exg/liziqiu/materials/liziqiu_eye_vmat_g_tnormal_47660df.vtex
+weapons/models/exg/liziqiu/materials/liziqiu_eye_vmat_g_tselfillummask_ff155607.vtex
+weapons/models/exg/liziqiu/materials/liziqiu_eye.vmat
+weapons/custom/liziqiu/liziqiu.vmdl

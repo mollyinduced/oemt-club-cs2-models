@@ -1,0 +1,9 @@
+# cs2-model-converter: tralalero_player_model_4, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/ag2_pt/tralalero_player_model/tralalero_player_model.vmdl
+# first person: 0 2 12 15
+agents/models/ag2_pt/tralalero_player_model/materials/tralala_ao_png_197d3d79.vtex
+agents/models/ag2_pt/tralalero_player_model/materials/tralala_base_color_png_58e4a4dd.vtex
+agents/models/ag2_pt/tralalero_player_model/materials/tralala_n_png_2f84b249.vtex
+agents/models/ag2_pt/tralalero_player_model/materials/tralala_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2_pt/tralalero_player_model/materials/tralala.vmat
+agents/models/ag2_pt/tralalero_player_model/tralalero_player_model.vmdl

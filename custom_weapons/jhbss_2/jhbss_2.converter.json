@@ -1,0 +1,64 @@
+{
+ "converter": "2.3",
+ "made": "2026-09-29 23:45:53",
+ "name": "jhbss_2",
+ "mode": "rebuild",
+ "input": "C:\\Users\\mollyinduced\\Downloads\\models\\sanders_models_guns_skins_3411502180",
+ "model": "models/jhbss/jhbss.vmdl_c",
+ "kind": "CS2 weapon model from before AnimGraph2",
+ "weapon": "weapon_m249",
+ "options": {
+  "skin": 0,
+  "up": "auto",
+  "forward": "auto",
+  "rig": true,
+  "shader": "csgo_complex.vfx",
+  "texture_size": 4096,
+  "mode": "auto",
+  "jiggle": true,
+  "guess_jiggle": true,
+  "first_person": true,
+  "twist": true,
+  "arms": null,
+  "weapon": null,
+  "extra": [
+   "C:\\Users\\mollyinduced\\Downloads\\models\\homer_simpson_v3\\agents\\models\\otakku\\homer_simpson\\materials"
+  ],
+  "addon": "custom_models"
+ },
+ "stats": {
+  "triangles": 26366,
+  "bones": 38,
+  "on": "weapons/models/m249/weapon_mach_m249.vmdl",
+  "skeleton": "animation/skeletons/weapons/m249.vnmskel",
+  "moved": {
+   "r": [
+    -21.184,
+    4.838,
+    -1.816,
+    2.6
+   ]
+  },
+  "parts": {
+   "v_weapon_bullet16": "bullet16",
+   "v_weapon_bullet04": "bullet04",
+   "v_weapon_bullet05": "bullet05",
+   "v_weapon_bullet10": "bullet10",
+   "v_weapon_bullet13": "bullet13",
+   "v_weapon_bullet02": "bullet02",
+   "v_weapon_bullet01": "bullet01",
+   "v_weapon_bullet03": "bullet03",
+   "v_weapon_bullet15": "bullet15",
+   "v_weapon_bullet14": "bullet14",
+   "v_weapon_bullet07": "bullet07",
+   "v_weapon_bullet06": "bullet06",
+   "v_weapon_bullet08": "bullet08",
+   "v_weapon_bullet12": "bullet12",
+   "v_weapon_bullet09": "bullet09",
+   "v_weapon_bullet11": "bullet11",
+   "v_weapon_tophinge": "tophinge",
+   "v_weapon_ammobox": "ammobox"
+  },
+  "left_out": 0
+ }
+}

@@ -1,0 +1,17 @@
+# cs2-model-converter: amongus, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/reborn/amongus/amongus.vmdl
+# first person: 0 2 12 15
+agents/models/reborn/clone/materials/clonetrooper_jpg_reborn_png_f82ac5fc.vtex
+agents/models/reborn/clone/materials/clonetrooper_vmat_g_tmetalness_10974e8a.vtex
+agents/models/reborn/clone/materials/clonetrooper.vmat
+characters/models/madebyruzh/amongus/materials/cell_vmat_g_tcolor_6b6e411d.vtex
+characters/models/madebyruzh/amongus/materials/cell_vmat_g_tmetalness_10974e8a.vtex
+characters/models/madebyruzh/amongus/materials/cell.vmat
+characters/models/madebyruzh/amongus/materials/t_glass_tga_caf7a8f2.vtex
+characters/models/madebyruzh/amongus/materials/t_glass_vmat_g_tmetalness_10974e8a.vtex
+characters/models/madebyruzh/amongus/materials/t_glass_vmat_g_tnormal_ff91cb0e.vtex
+characters/models/madebyruzh/amongus/materials/t_glass.vmat
+characters/models/madebyruzh/amongus/materials/white_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/madebyruzh/amongus/materials/white_vmat_g_tnormal_2984f4a9.vtex
+characters/models/madebyruzh/amongus/materials/white.vmat
+agents/models/reborn/amongus/amongus.vmdl

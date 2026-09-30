@@ -1,0 +1,9 @@
+# cs2-model-converter: snowman_player_model, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/ag2/snowman_player_model/snowman_player_model.vmdl
+# first person: 0 2 12 15
+agents/models/ag2/snowman_player_model/materials/map_snowman3_001_ao_png_bc6713e4.vtex
+agents/models/ag2/snowman_player_model/materials/map_snowman3_001_basecolor_png_c91cae1.vtex
+agents/models/ag2/snowman_player_model/materials/map_snowman3_001_metallic_png_9535442c.vtex
+agents/models/ag2/snowman_player_model/materials/map_snowman3_001_normal_png_b7a23005.vtex
+agents/models/ag2/snowman_player_model/materials/snowman_body_mat.vmat
+agents/models/ag2/snowman_player_model/snowman_player_model.vmdl

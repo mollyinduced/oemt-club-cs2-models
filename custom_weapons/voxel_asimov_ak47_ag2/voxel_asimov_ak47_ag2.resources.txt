@@ -1,0 +1,9 @@
+# cs2-model-converter: voxel_asimov_ak47_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/voxel_asimov_ak47_ag2/voxel_asimov_ak47_ag2.vmdl
+# weapon: weapon_ak47
+# skeleton: animation/skeletons/weapons/ak47.vnmskel
+weapons/nozb1/voxel_pack/voxel_asimov_ak47/materials/outliner_vmat_g_tcolor_6b6e411d.vtex
+weapons/nozb1/voxel_pack/voxel_asimov_ak47/materials/outliner.vmat
+weapons/nozb1/voxel_pack/voxel_asimov_ak47/materials/voxel_asimov_ak47_png_d1917daa.vtex
+weapons/nozb1/voxel_pack/voxel_asimov_ak47/materials/voxel_asimov_ak47.vmat
+weapons/custom/voxel_asimov_ak47_ag2/voxel_asimov_ak47_ag2.vmdl

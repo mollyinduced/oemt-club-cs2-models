@@ -1,0 +1,10 @@
+# cs2-model-converter: moai_player_model, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/ag2_pt/moai_player_model/moai_player_model.vmdl
+# first person: 0 2 12 15
+agents/models/ag2_pt/moai_player_model/materials/moai_body_png_cd48dc68.vtex
+agents/models/ag2_pt/moai_player_model/materials/moai_body_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2_pt/moai_player_model/materials/moai_body.vmat
+agents/models/ag2_pt/moai_player_model/materials/moai_face_png_324aa6cc.vtex
+agents/models/ag2_pt/moai_player_model/materials/moai_face_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2_pt/moai_player_model/materials/moai_face.vmat
+agents/models/ag2_pt/moai_player_model/moai_player_model.vmdl

@@ -1,0 +1,8 @@
+# cs2-model-converter: w_rzbs, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/w_rzbs/w_rzbs.vmdl
+# weapon: weapon_knife_cord
+# skeleton: animation/skeletons/weapons/knife_cord.vnmskel
+materials/models/exg35/melee_anime_df_png_d707ddea.vtex
+materials/models/exg35/melee_anime_nm_png_ae76c7e1.vtex
+materials/models/exg35/melee_anime_df.vmat
+weapons/custom/w_rzbs/w_rzbs.vmdl

@@ -1,0 +1,9 @@
+# cs2-model-converter: train_minecraft_weapon_knife_karambit, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/train_minecraft_weapon_knife_karambit/train_minecraft_weapon_knife_karambit.vmdl
+# weapon: weapon_knife_karambit
+# skeleton: animation/skeletons/weapons/knife_karambit.vnmskel
+materials/kropsla/karambit/karambit_ao_png_c97490f7.vtex
+materials/kropsla/karambit/karambit_color_png_ade04c5f.vtex
+materials/kropsla/karambit/karambit_rough_png_4b88a487.vtex
+materials/kropsla/karambit/karambit_vanilla.vmat
+weapons/custom/train_minecraft_weapon_knife_karambit/train_minecraft_weapon_knife_karambit.vmdl

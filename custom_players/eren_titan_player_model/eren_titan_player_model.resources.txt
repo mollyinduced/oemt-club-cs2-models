@@ -1,0 +1,15 @@
+# cs2-model-converter: eren_titan_player_model, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/deti00ykh/eren_titan_player_model/eren_titan_player_model.vmdl
+# first person: 0 2 12 15
+characters/models/deti00ykh/eren_titan_player_model/eren_titan_player_model/arms_vmorf.vtex
+characters/models/deti00ykh/eren_titan_player_model/eren_titan_player_model/body_vmorf.vtex
+characters/models/deti00ykh/eren_titan_player_model/materials/l0goo_png_5ef58f5e.vtex
+characters/models/deti00ykh/eren_titan_player_model/materials/lgoos_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/deti00ykh/eren_titan_player_model/materials/lgoos.vmat
+characters/models/deti00ykh/eren_titan_player_model/materials/titan1_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/deti00ykh/eren_titan_player_model/materials/titan_d_png_a004fc6d.vtex
+characters/models/deti00ykh/eren_titan_player_model/materials/titan1.vmat
+characters/models/deti00ykh/eren_titan_player_model/materials/titan2face_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/deti00ykh/eren_titan_player_model/materials/titanfac_png_6a1338f3.vtex
+characters/models/deti00ykh/eren_titan_player_model/materials/titan2face.vmat
+characters/models/deti00ykh/eren_titan_player_model/eren_titan_player_model.vmdl

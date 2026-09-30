@@ -1,0 +1,13 @@
+# cs2-model-converter: an94, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/an94/an94.vmdl
+# weapon: weapon_ak47
+# skeleton: animation/skeletons/weapons/ak47.vnmskel
+weapons/models/ub/an94/materials/col_jpg_969831ae.vtex
+weapons/models/ub/an94/materials/ems_jpg_1ebc6b97.vtex
+weapons/models/ub/an94/materials/nml_jpg_971808b3.vtex
+weapons/models/ub/an94/materials/an941.vmat
+weapons/models/ub/an94/materials/an942_vmat_g_tnormal_53b47c48.vtex
+weapons/models/ub/an94/materials/anim_png_861bca1b.vtex
+weapons/models/ub/an94/materials/animx_png_6525194f.vtex
+weapons/models/ub/an94/materials/an942.vmat
+weapons/custom/an94/an94.vmdl

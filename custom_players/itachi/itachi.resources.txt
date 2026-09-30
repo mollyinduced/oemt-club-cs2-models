@@ -1,0 +1,19 @@
+# cs2-model-converter: itachi, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/reborn/itachi/itachi.vmdl
+# first person: 0 2 12 15
+agents/models/reborn/itachi/materials/eye1_jpg_5d4c67b8_png_ded0d673.vtex
+agents/models/reborn/itachi/materials/eye1_vmat_g_tnormal_53b47c48.vtex
+agents/models/reborn/itachi/materials/eye1.vmat
+agents/models/reborn/itachi/materials/eye2_jpg_5f9ac523_png_5792a236.vtex
+agents/models/reborn/itachi/materials/eye2_vmat_g_tnormal_53b47c48.vtex
+agents/models/reborn/itachi/materials/eye2.vmat
+agents/models/reborn/itachi/materials/main_jpg_e88cb5bc_png_9ee9281d.vtex
+agents/models/reborn/itachi/materials/main_vmat_g_tnormal_53b47c48.vtex
+agents/models/reborn/itachi/materials/main.vmat
+agents/models/reborn/itachi/materials/pain_mantle_jpg_896bebed_png_f5599f65.vtex
+agents/models/reborn/itachi/materials/pain_mantle_vmat_g_tnormal_53b47c48.vtex
+agents/models/reborn/itachi/materials/pain_mantle.vmat
+agents/models/reborn/itachi/materials/pain_path_jpg_3838bd35_png_6c086425.vtex
+agents/models/reborn/itachi/materials/pain_path_vmat_g_tnormal_53b47c48.vtex
+agents/models/reborn/itachi/materials/pain_path.vmat
+agents/models/reborn/itachi/itachi.vmdl

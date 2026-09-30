@@ -1,0 +1,8 @@
+# cs2-model-converter: pupsen_player_model_3, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/nozb1/pupsen_player_model/pupsen_player_model.vmdl
+# first person: 0 2 12 15
+characters/models/nozb1/pupsen_player_model/materials/pupsen_d_png_d9d224c5.vtex
+characters/models/nozb1/pupsen_player_model/materials/pupsen_mat_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/pupsen_player_model/materials/pupsen_mat.vmat
+characters/models/nozb1/pupsen_player_model/pupsen_player_model/body_vmorf.vtex
+characters/models/nozb1/pupsen_player_model/pupsen_player_model.vmdl

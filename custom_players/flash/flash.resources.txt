@@ -1,0 +1,17 @@
+# cs2-model-converter: flash, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/reborn/flash/flash.vmdl
+# first person: 0 2 12 15
+agents/models/reborn/deadpool/materials/aksesuar_vmat_g_tmetalness_10974e8a.vtex
+agents/models/reborn/flash/materials/dnm_leather_png_5fca6659_png_eed471a8.vtex
+agents/models/reborn/deadpool/materials/aksesuar.vmat
+agents/models/reborn/deadpool/materials/dnm_metal_bodyarmornw_vmat_g_tmetalness_10974e8a.vtex
+agents/models/reborn/flash/materials/eyesandmouth_diff_png_5eb68b67_png_91ed3518.vtex
+agents/models/reborn/flash/materials/eyesandmouth_norm_png_3e227dca_png_990cd9c0.vtex
+agents/models/reborn/deadpool/materials/dnm_metal_bodyarmornw.vmat
+agents/models/reborn/deadpool/materials/flash_a_diff_vmat_g_tmetalness_10974e8a.vtex
+agents/models/reborn/deadpool/materials/flash_a_diff_vmat_g_tnormal_53b47c48.vtex
+agents/models/reborn/flash/materials/flash_a_diff_jpg_reborn_png_6625502.vtex
+agents/models/reborn/deadpool/materials/flash_a_diff.vmat
+agents/models/reborn/deadpool/materials/glow_vmat_g_tselfillummask_ff155607.vtex
+agents/models/reborn/deadpool/materials/glow.vmat
+agents/models/reborn/flash/flash.vmdl

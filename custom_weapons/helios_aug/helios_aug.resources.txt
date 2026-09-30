@@ -1,0 +1,23 @@
+# cs2-model-converter: helios_aug, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/helios_aug/helios_aug.vmdl
+# weapon: weapon_aug
+# skeleton: animation/skeletons/weapons/aug.vnmskel
+weapons/otakku/aug/helios_aug/materials/error_png_e45573f4.vtex
+weapons/otakku/aug/helios_aug/materials/error.vmat
+weapons/otakku/aug/helios_aug/materials/mb_png_1df90784.vtex
+weapons/otakku/aug/helios_aug/materials/mb.vmat
+weapons/otakku/aug/helios_aug/materials/qxquan_png_39ae13c.vtex
+weapons/otakku/aug/helios_aug/materials/qxquan.vmat
+weapons/otakku/aug/helios_aug/materials/qxzq_png_515c1bcf.vtex
+weapons/otakku/aug/helios_aug/materials/qxzq.vmat
+weapons/otakku/aug/helios_aug/materials/qxmz_png_4691f70a.vtex
+weapons/otakku/aug/helios_aug/materials/shared_scope_lens_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/aug/helios_aug/materials/shared_scope_lens_vmat_g_tmetalness_d3a6c05d.vtex
+weapons/otakku/aug/helios_aug/materials/shared_scope_lens_vmat_g_tnormal_f8264e14.vtex
+weapons/otakku/aug/helios_aug/materials/shared_scope_lens.vmat
+weapons/otakku/aug/helios_aug/materials/wep_1stp_microwave_assault_rifle_d_png_705f3cd5.vtex
+weapons/otakku/aug/helios_aug/materials/wep_1stp_microwave_assault_rifle_d_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/aug/helios_aug/materials/wep_1stp_microwave_assault_rifle_d_vmat_g_tmetalness_c7943507.vtex
+weapons/otakku/aug/helios_aug/materials/wep_1stp_microwave_assault_rifle_n_png_f0b959c8.vtex
+weapons/otakku/aug/helios_aug/materials/wep_1stp_microwave_assault_rifle_d.vmat
+weapons/custom/helios_aug/helios_aug.vmdl

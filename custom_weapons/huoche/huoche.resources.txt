@@ -1,0 +1,50 @@
+# cs2-model-converter: huoche, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/huoche/huoche.vmdl
+# weapon: weapon_negev
+# skeleton: animation/skeletons/weapons/negev.vnmskel
+weapons/otakku/negev/huoche/materials/danlian_png_15f8def6.vtex
+weapons/otakku/negev/huoche/materials/danlian_png_cf24d3e4.vtex
+weapons/otakku/negev/huoche/materials/danlian_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/negev/huoche/materials/danlian_vmat_g_tnormal_2984f4a9.vtex
+weapons/otakku/negev/huoche/materials/danlian.vmat
+weapons/otakku/negev/huoche/materials/guang_body_png_268b798e.vtex
+weapons/otakku/negev/huoche/materials/guang_body_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/negev/huoche/materials/guang_body_vmat_g_tnormal_47660df.vtex
+weapons/otakku/negev/huoche/materials/guang_body_vmat_g_tselfillummask_554b633a.vtex
+weapons/otakku/negev/huoche/materials/guang_body.vmat
+weapons/otakku/negev/huoche/materials/guang_eyemouth_png_dd1b5e15.vtex
+weapons/otakku/negev/huoche/materials/guang_eyemouth_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/negev/huoche/materials/guang_eyemouth_vmat_g_tnormal_2984f4a9.vtex
+weapons/otakku/negev/huoche/materials/guang_eyemouth_vmat_g_tselfillummask_f01d52c8.vtex
+weapons/otakku/negev/huoche/materials/guang_eyemouth.vmat
+weapons/otakku/negev/huoche/materials/guang_face_png_5517bbc6.vtex
+weapons/otakku/negev/huoche/materials/guang_face_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/negev/huoche/materials/guang_face_vmat_g_tnormal_2984f4a9.vtex
+weapons/otakku/negev/huoche/materials/guang_face_vmat_g_tselfillummask_554b633a.vtex
+weapons/otakku/negev/huoche/materials/guang_face.vmat
+weapons/otakku/negev/huoche/materials/guang_hair_2_png_ca98dc4d.vtex
+weapons/otakku/negev/huoche/materials/guang_hair_2_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/negev/huoche/materials/guang_hair_2_vmat_g_tnormal_2984f4a9.vtex
+weapons/otakku/negev/huoche/materials/guang_hair_2_vmat_g_tselfillummask_f01d52c8.vtex
+weapons/otakku/negev/huoche/materials/guang_hair_2.vmat
+weapons/otakku/negev/huoche/materials/guang_halo_png_35141442.vtex
+weapons/otakku/negev/huoche/materials/guang_halo_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/negev/huoche/materials/guang_halo_vmat_g_tnormal_2984f4a9.vtex
+weapons/otakku/negev/huoche/materials/guang_halo_vmat_g_tselfillummask_ff155607.vtex
+weapons/otakku/negev/huoche/materials/guang_halo.vmat
+weapons/otakku/negev/huoche/materials/huoche_negev_dark_png_4ddd83a4.vtex
+weapons/otakku/negev/huoche/materials/huoche_negev_png_b9866f12.vtex
+weapons/otakku/negev/huoche/materials/huoche_negev_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/negev/huoche/materials/huoche_negev_vmat_g_tnormal_2984f4a9.vtex
+weapons/otakku/negev/huoche/materials/huoche_negev.vmat
+weapons/otakku/negev/huoche/materials/train_png_5df94dbd.vtex
+weapons/otakku/negev/huoche/materials/train_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/negev/huoche/materials/train_vmat_g_tnormal_2984f4a9.vtex
+weapons/otakku/negev/huoche/materials/train_vmat_g_tselfillummask_554b633a.vtex
+weapons/otakku/negev/huoche/materials/train.vmat
+weapons/otakku/negev/huoche/materials/wang_body_png_f0b50611.vtex
+weapons/otakku/negev/huoche/materials/wang_body_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/negev/huoche/materials/wang_body_vmat_g_tnormal_2984f4a9.vtex
+weapons/otakku/negev/huoche/materials/wang_body_vmat_g_tselfillummask_554b633a.vtex
+weapons/otakku/negev/huoche/materials/wang_body.vmat
+weapons/custom/huoche/huoche.vmdl

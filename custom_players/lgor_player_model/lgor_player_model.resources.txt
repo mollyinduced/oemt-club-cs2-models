@@ -1,0 +1,14 @@
+# cs2-model-converter: lgor_player_model, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/deti00ykh/lgor_player_model/lgor_player_model.vmdl
+# first person: 0 2 12 15
+agents/models/deti00ykh/lgor_player_model/lgor_player_model/body_vmorf.vtex
+agents/models/deti00ykh/lgor_player_model/materials/face_png_f67f3c2.vtex
+agents/models/deti00ykh/lgor_player_model/materials/face_vmat_g_tmetalness_b70f8f59.vtex
+agents/models/deti00ykh/lgor_player_model/materials/face.vmat
+agents/models/deti00ykh/lgor_player_model/materials/hair_png_2de86068.vtex
+agents/models/deti00ykh/lgor_player_model/materials/hair_vmat_g_tmetalness_b70f8f59.vtex
+agents/models/deti00ykh/lgor_player_model/materials/hair.vmat
+agents/models/deti00ykh/lgor_player_model/materials/main_png_d3ce701e.vtex
+agents/models/deti00ykh/lgor_player_model/materials/main_vmat_g_tmetalness_b70f8f59.vtex
+agents/models/deti00ykh/lgor_player_model/materials/main.vmat
+agents/models/deti00ykh/lgor_player_model/lgor_player_model.vmdl

@@ -1,0 +1,7 @@
+# cs2-model-converter: the resources models/custom/flamingo/flamingo.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/flamingo/t_flamingocountry_body_d_color_png_a933eae5.vtex
+materials/models/custom/flamingo/t_flamingocountry_body_d.vmat
+materials/models/custom/flamingo/t_flamingocountry_head_d_color_png_96ea8868.vtex
+materials/models/custom/flamingo/t_flamingocountry_head_d.vmat
+models/custom/flamingo/flamingo.vmdl

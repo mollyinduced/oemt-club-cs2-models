@@ -1,0 +1,17 @@
+# cs2-model-converter: itachi_uchiha_ct, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/otakku/itachi_uchiha_ct/itachi_uchiha_ct.vmdl
+# first person: 0 3 12 15
+characters/models/otakku/itachi_uchiha_ct/materials/itachi_base_vmat_g_tmetalness_b70f8f59_png_a5e64b51.vtex
+characters/models/otakku/itachi_uchiha_ct/materials/purple_png_d342b6f9.vtex
+materials/default/default_normal_tga_5a869113.vtex
+characters/models/otakku/itachi_uchiha_ct/materials/itachi_base.vmat
+characters/models/otakku/itachi_uchiha_ct/materials/itachi_bc_cloud_png_c1393431.vtex
+characters/models/otakku/itachi_uchiha_ct/materials/itachi_cloud_vmat_g_tmetalness_b70f8f59_png_780ea33.vtex
+characters/models/otakku/itachi_uchiha_ct/materials/itachi_cloud.vmat
+characters/models/otakku/itachi_uchiha_ct/materials/itachi_eyes_png_52bf2ce1.vtex
+characters/models/otakku/itachi_uchiha_ct/materials/itachi_eyes_vmat_g_tmetalness_b70f8f59_png_d6a456e4.vtex
+characters/models/otakku/itachi_uchiha_ct/materials/itachi_eyes.vmat
+characters/models/otakku/itachi_uchiha_ct/materials/itachi_sc_png_e354cfa1.vtex
+characters/models/otakku/itachi_uchiha_ct/materials/itachi_sc_vmat_g_tmetalness_b70f8f59_png_8f69602.vtex
+characters/models/otakku/itachi_uchiha_ct/materials/itachi_sc.vmat
+characters/models/otakku/itachi_uchiha_ct/itachi_uchiha_ct.vmdl

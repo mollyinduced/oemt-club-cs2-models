@@ -1,0 +1,9 @@
+# cs2-model-converter: the resources models/custom/pururut/pururut.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/pururut/body_c_color_png_a47d3c30.vtex
+materials/models/custom/pururut/body_c.vmat
+materials/models/custom/pururut/face_c_color_png_acd466c2.vtex
+materials/models/custom/pururut/face_c.vmat
+materials/models/custom/pururut/hair_c_color_png_e22185d7.vtex
+materials/models/custom/pururut/hair_c.vmat
+models/custom/pururut/pururut.vmdl

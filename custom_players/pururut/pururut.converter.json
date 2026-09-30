@@ -1,0 +1,51 @@
+{
+ "converter": "2.3",
+ "made": "2026-09-29 20:35:31",
+ "name": "pururut",
+ "mode": "rebuild",
+ "input": "C:\\Users\\mollyinduced\\Downloads\\models\\sanders_models_guns_skins_3411502180",
+ "model": "characters/fys/pururut/pururut.vmdl_c",
+ "kind": "Source 2 model, no AnimGraph2 (old CS2)",
+ "options": {
+  "skin": 0,
+  "up": "auto",
+  "forward": "auto",
+  "rig": true,
+  "shader": "csgo_complex.vfx",
+  "texture_size": 4096,
+  "mode": "auto",
+  "jiggle": true,
+  "guess_jiggle": true,
+  "first_person": true,
+  "twist": true,
+  "arms": null,
+  "weapon": null,
+  "extra": [
+   "C:\\Users\\mollyinduced\\Downloads\\models\\homer_simpson_v3\\agents\\models\\otakku\\homer_simpson\\materials"
+  ],
+  "addon": "custom_models"
+ },
+ "stats": {
+  "triangles": 14402,
+  "first_person_triangles": 2712,
+  "bones": 94,
+  "kept_bones": [
+   "hair1",
+   "hair_left",
+   "hair_right",
+   "hair2",
+   "hair3",
+   "hair4"
+  ],
+  "jiggle_bones": [
+   "hair1",
+   "hair2",
+   "hair3",
+   "hair4",
+   "hair_left",
+   "hair_right"
+  ],
+  "first_person": "characters/fys/pururut/pururut_arms.vmdl_c",
+  "materials": 3
+ }
+}

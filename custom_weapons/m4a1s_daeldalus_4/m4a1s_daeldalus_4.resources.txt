@@ -1,0 +1,14 @@
+# cs2-model-converter: m4a1s_daeldalus_4, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/m4a1s_daeldalus_4/m4a1s_daeldalus_4.vmdl
+# weapon: weapon_m4a1_silencer
+# skeleton: animation/skeletons/weapons/m4a1_silencer.vnmskel
+models/kolka/weapons/val_weapon2/daedalus/daedalus_emissive_mi_vmat_g_tselfillummask_ff155607.vtex
+models/kolka/weapons/val_weapon2/daedalus/self_png_2574c9a1.vtex
+models/kolka/weapons/val_weapon2/daedalus/daedalus_emissive_mi.vmat
+models/kolka/weapons/val_weapon2/daedalus/daedalus_orb_df_png_9d4b38a6.vtex
+models/kolka/weapons/val_weapon2/daedalus/daedalus_orb_nm_png_72ed61fe.vtex
+models/kolka/weapons/val_weapon2/daedalus/orb.vmat
+models/kolka/weapons/val_weapon2/daedalus_m4a1/carbine_daedalus_df_png_8fbfec31.vtex
+models/kolka/weapons/val_weapon2/daedalus_m4a1/carbine_daedalus_nm_png_c6bfb1a3.vtex
+models/kolka/weapons/val_weapon2/daedalus_m4a1/m4_dael.vmat
+weapons/custom/m4a1s_daeldalus_4/m4a1s_daeldalus_4.vmdl

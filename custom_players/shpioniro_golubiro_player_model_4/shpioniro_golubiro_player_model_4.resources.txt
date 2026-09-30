@@ -1,0 +1,16 @@
+# cs2-model-converter: shpioniro_golubiro_player_model_4, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/nozb1/shpioniro_golubiro_player_model/shpioniro_golubiro_player_model.vmdl
+# first person: 0 2 12 15
+characters/models/nozb1/shpioniro_golubiro_player_model/materials/fed2_low_fed2_basecolor_png_49a4f6af.vtex
+characters/models/nozb1/shpioniro_golubiro_player_model/materials/fed2_low_fed2_metallic_png_3d1080ac.vtex
+characters/models/nozb1/shpioniro_golubiro_player_model/materials/fed2_low_fed2_roughness_png_afed6a1a.vtex
+characters/models/nozb1/shpioniro_golubiro_player_model/materials/fed2.vmat
+characters/models/nozb1/shpioniro_golubiro_player_model/materials/glass_vmat_g_tcolor_5217e73f.vtex
+characters/models/nozb1/shpioniro_golubiro_player_model/materials/glass_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/shpioniro_golubiro_player_model/materials/glass.vmat
+characters/models/nozb1/shpioniro_golubiro_player_model/materials/shpioniro_base_color_png_e291ff33.vtex
+characters/models/nozb1/shpioniro_golubiro_player_model/materials/shpioniro_normal_opengl_png_57569ae0.vtex
+characters/models/nozb1/shpioniro_golubiro_player_model/materials/shpioniro_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/shpioniro_golubiro_player_model/materials/shpioniro.vmat
+characters/models/nozb1/shpioniro_golubiro_player_model/shpioniro_golubiro_player_model/body_vmorf.vtex
+characters/models/nozb1/shpioniro_golubiro_player_model/shpioniro_golubiro_player_model.vmdl

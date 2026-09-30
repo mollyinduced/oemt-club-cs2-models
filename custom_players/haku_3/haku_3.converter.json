@@ -1,0 +1,37 @@
+{
+ "converter": "2.3",
+ "made": "2026-09-30 01:26:17",
+ "name": "haku_3",
+ "mode": "as-is",
+ "input": "C:\\Users\\mollyinduced\\Downloads\\models\\onetake_addons_3525122933",
+ "model": "characters/models/exg/haku/haku.vmdl_c",
+ "kind": "CS2 model (AnimGraph2)",
+ "options": {
+  "skin": 0,
+  "up": "auto",
+  "forward": "auto",
+  "rig": true,
+  "shader": "csgo_complex.vfx",
+  "texture_size": 4096,
+  "mode": "auto",
+  "jiggle": true,
+  "guess_jiggle": true,
+  "first_person": true,
+  "twist": true,
+  "arms": null,
+  "weapon": null,
+  "extra": [
+   "C:\\Users\\mollyinduced\\Downloads\\models\\homer_simpson_v3\\agents\\models\\otakku\\homer_simpson\\materials"
+  ],
+  "addon": "custom_models"
+ },
+ "stats": {
+  "triangles": 40307,
+  "bones": 203,
+  "first_person": "its own",
+  "jiggle_bones": [
+   "nip_L_end_aqua",
+   "nip_R_end_aqua"
+  ]
+ }
+}

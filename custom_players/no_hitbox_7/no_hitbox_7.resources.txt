@@ -1,0 +1,17 @@
+# cs2-model-converter: no_hitbox_7, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/nozb1/hedgehog_player_model/no_hitbox.vmdl
+# first person: 0 2 12 15
+characters/models/nozb1/hedgehog_player_model/materials/chr_shadow_body01_dif_hd_png_3385eaf8.vtex
+characters/models/nozb1/hedgehog_player_model/materials/hedgegod_1.vmat
+characters/models/nozb1/hedgehog_player_model/materials/chr_shadow_cloth_dif_hd_png_c6efbab7.vtex
+characters/models/nozb1/hedgehog_player_model/materials/hedgegod_2_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/hedgehog_player_model/materials/hedgegod_2.vmat
+characters/models/nozb1/hedgehog_player_model/materials/chr_shadow_eye_dif_hd_png_8b00dd0.vtex
+characters/models/nozb1/hedgehog_player_model/materials/hedgegod_3.vmat
+characters/models/nozb1/hedgehog_player_model/materials/chr_shadow_fur_dif_hd_png_1da67224.vtex
+characters/models/nozb1/hedgehog_player_model/materials/hedgegod_4_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/hedgehog_player_model/materials/hedgegod_4.vmat
+characters/models/nozb1/hedgehog_player_model/materials/chr_shadow_shoes_dif_hd_png_395fdadc.vtex
+characters/models/nozb1/hedgehog_player_model/materials/hedgegod_5_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/hedgehog_player_model/materials/hedgegod_5.vmat
+characters/models/nozb1/hedgehog_player_model/no_hitbox.vmdl

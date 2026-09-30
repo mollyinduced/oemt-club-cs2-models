@@ -1,0 +1,31 @@
+# cs2-model-converter: robocosan, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/kolka/robocosan/robocosan.vmdl
+# first person: 0 2 12 15
+characters/models/kolka/robocosan/tex/body01_d_png_8fe634ba.vtex
+characters/models/kolka/robocosan/tex/body_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/kolka/robocosan/tex/body_vmat_g_tnormal_53b47c48.vtex
+characters/models/kolka/robocosan/tex/body.vmat
+characters/models/kolka/robocosan/tex/body2_vmat_g_tmetalness_10974e8a.vtex
+characters/models/kolka/robocosan/tex/body2_vmat_g_tnormal_53b47c48.vtex
+characters/models/kolka/robocosan/tex/subbody02_d_png_1b5bcd4.vtex
+characters/models/kolka/robocosan/tex/body2.vmat
+characters/models/kolka/robocosan/tex/face01_d_png_32e30ff0.vtex
+characters/models/kolka/robocosan/tex/face01_d_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/kolka/robocosan/tex/face01_d_vmat_g_tnormal_53b47c48.vtex
+characters/models/kolka/robocosan/tex/face01_d.vmat
+characters/models/kolka/robocosan/tex/hair06_d_png_c1b46aa5.vtex
+characters/models/kolka/robocosan/tex/hair_vmat_g_tmetalness_10974e8a.vtex
+characters/models/kolka/robocosan/tex/hair_vmat_g_tnormal_53b47c48.vtex
+characters/models/kolka/robocosan/tex/hair.vmat
+characters/models/kolka/robocosan/tex/hair2_vmat_g_tmetalness_10974e8a.vtex
+characters/models/kolka/robocosan/tex/hair2_vmat_g_tnormal_9bf2988b.vtex
+characters/models/kolka/robocosan/tex/subbody01_d_png_e6bea9a8.vtex
+characters/models/kolka/robocosan/tex/hair2.vmat
+characters/models/kolka/robocosan/tex/outer02_acc02_d_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/kolka/robocosan/tex/outer02_acc02_d_vmat_g_tnormal_53b47c48.vtex
+characters/models/kolka/robocosan/tex/outer02_acc02_d.vmat
+characters/models/kolka/robocosan/tex/outer02_acc04_d_png_eed46902.vtex
+characters/models/kolka/robocosan/tex/outer02_acc04_d_self_png_81aee0d1.vtex
+characters/models/kolka/robocosan/tex/outer02_acc04_d_vmat_g_tnormal_53b47c48.vtex
+characters/models/kolka/robocosan/tex/outer02_acc04_d.vmat
+characters/models/kolka/robocosan/robocosan.vmdl

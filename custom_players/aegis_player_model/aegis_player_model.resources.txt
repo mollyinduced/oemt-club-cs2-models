@@ -1,0 +1,10 @@
+# cs2-model-converter: aegis_player_model, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/nozb1/aegis_player_model/aegis_player_model.vmdl
+agents/models/nozb1/aegis_player_model/aegis_player_model/body_vmorf.vtex
+agents/models/nozb1/aegis_player_model/materials/body_png_74a32532.vtex
+agents/models/nozb1/aegis_player_model/materials/body_vmat_g_tmetalness_b70f8f59.vtex
+agents/models/nozb1/aegis_player_model/materials/body.vmat
+agents/models/nozb1/aegis_player_model/materials/face_png_ebc4781d.vtex
+agents/models/nozb1/aegis_player_model/materials/face_vmat_g_tmetalness_b70f8f59.vtex
+agents/models/nozb1/aegis_player_model/materials/face.vmat
+agents/models/nozb1/aegis_player_model/aegis_player_model.vmdl

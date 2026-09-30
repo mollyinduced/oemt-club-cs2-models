@@ -1,0 +1,11 @@
+# cs2-model-converter: the resources models/custom/muscular_doge_player_model/muscular_doge_player_model.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/muscular_doge_player_model/box_glove_color_png_f594820d.vtex
+materials/models/custom/muscular_doge_player_model/box_glove.vmat
+materials/models/custom/muscular_doge_player_model/muscular_doge_color_png_f86afef2.vtex
+materials/models/custom/muscular_doge_player_model/muscular_doge.vmat
+materials/models/custom/muscular_doge_player_model/shorts_color_png_ceb66150.vtex
+materials/models/custom/muscular_doge_player_model/shorts.vmat
+materials/models/custom/muscular_doge_player_model/slippers_color_png_3153b4a2.vtex
+materials/models/custom/muscular_doge_player_model/slippers.vmat
+models/custom/muscular_doge_player_model/muscular_doge_player_model.vmdl

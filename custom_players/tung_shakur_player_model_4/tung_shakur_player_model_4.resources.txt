@@ -1,0 +1,9 @@
+# cs2-model-converter: tung_shakur_player_model_4, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/ag2/tung_shakur_player_model/tung_shakur_player_model.vmdl
+# first person: 0 2 12 15
+agents/models/ag2/tung_shakur_player_model/materials/shakur_ao_png_8ed6515b.vtex
+agents/models/ag2/tung_shakur_player_model/materials/shakur_body_png_b2723ea9.vtex
+agents/models/ag2/tung_shakur_player_model/materials/shakur_body_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2/tung_shakur_player_model/materials/shakur_normal_png_2c7e0509.vtex
+agents/models/ag2/tung_shakur_player_model/materials/shakur_body.vmat
+agents/models/ag2/tung_shakur_player_model/tung_shakur_player_model.vmdl

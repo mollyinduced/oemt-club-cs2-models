@@ -1,0 +1,23 @@
+# cs2-model-converter: the resources models/custom/madara/madara.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/madara/armure_bas_color_png_195e9102.vtex
+materials/models/custom/madara/armure_bas.vmat
+materials/models/custom/madara/armure_haut_color_png_1832cc70.vtex
+materials/models/custom/madara/armure_haut.vmat
+materials/models/custom/madara/cheveux_color_png_fb84511.vtex
+materials/models/custom/madara/cheveux.vmat
+materials/models/custom/madara/face_color_png_6565ebc1.vtex
+materials/models/custom/madara/face.vmat
+materials/models/custom/madara/guitare_color_png_3d7b7b64.vtex
+materials/models/custom/madara/guitare.vmat
+materials/models/custom/madara/jupe_color_png_dc7058e5.vtex
+materials/models/custom/madara/jupe.vmat
+materials/models/custom/madara/pantalon_color_png_f3177793.vtex
+materials/models/custom/madara/pantalon.vmat
+materials/models/custom/madara/peau_color_png_88d643e6.vtex
+materials/models/custom/madara/peau.vmat
+materials/models/custom/madara/sharingan_color_png_1d9a3354.vtex
+materials/models/custom/madara/sharingan.vmat
+materials/models/custom/madara/veste_color_png_da297792.vtex
+materials/models/custom/madara/veste.vmat
+models/custom/madara/madara.vmdl

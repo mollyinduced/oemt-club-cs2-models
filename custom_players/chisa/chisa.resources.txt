@@ -1,0 +1,44 @@
+# cs2-model-converter: chisa, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/han/mc/chisa/chisa.vmdl
+# first person: 0 2 12 15
+agents/models/han/mc/chisa/mat/acc_vmat_g_tmetalness_aacddd3a_tga_9161717c.vtex
+agents/models/han/mc/chisa/mat/t_r2t1qianxiamd10011alpha_d_png_b08daa59_tga_bb22b05a.vtex
+agents/models/han/mc/chisa/mat/t_r2t1qianxiamd10011alpha_n_png_89491e5e_tga_7fc0945a.vtex
+agents/models/han/mc/chisa/mat/acc.vmat
+agents/models/han/mc/chisa/mat/acc_alpha_vmat_g_tmetalness_aacddd3a_tga_2670ce2c.vtex
+agents/models/han/mc/chisa/mat/t_r2t1qianxiamd10011alpha_d_png_64d2273c_tga_b1f40854.vtex
+agents/models/han/mc/chisa/mat/t_r2t1qianxiamd10011alpha_n_png_e12aaa40_tga_62ed17c0.vtex
+agents/models/han/mc/chisa/mat/acc_alpha.vmat
+agents/models/han/mc/chisa/mat/down_cloth_vmat_g_tmetalness_485eaff1_tga_b92e6f.vtex
+agents/models/han/mc/chisa/mat/t_r2t1qianxiamd10011down_d_png_463d722e_tga_b7a3f6b0.vtex
+agents/models/han/mc/chisa/mat/t_r2t1qianxiamd10011down_n_png_3949e595_tga_32a170ff.vtex
+agents/models/han/mc/chisa/mat/down_cloth.vmat
+agents/models/han/mc/chisa/mat/down_leather_vmat_g_tmetalness_ceebc9e2_tga_678dac88.vtex
+agents/models/han/mc/chisa/mat/t_r2t1qianxiamd10011down_n_png_f2b53fbf_tga_ca677e5d.vtex
+agents/models/han/mc/chisa/mat/down_leather.vmat
+agents/models/han/mc/chisa/mat/eye_vmat_g_tnormal_31e5bc20_tga_e2b86db8.vtex
+agents/models/han/mc/chisa/mat/t_r2t1qianxiamd10011eye_d_png_4fda826f_tga_d82cf1d2.vtex
+agents/models/han/mc/chisa/mat/eye.vmat
+agents/models/han/mc/chisa/mat/face_vmat_g_tmetalness_ceebc9e2_tga_602f5d1d.vtex
+agents/models/han/mc/chisa/mat/face_vmat_g_tnormal_31e5bc20_tga_e789be90.vtex
+agents/models/han/mc/chisa/mat/t_r2t1qianxiamd10011face_d_png_f4915812_tga_8b7e9f35.vtex
+agents/models/han/mc/chisa/mat/face.vmat
+agents/models/han/mc/chisa/mat/mi_bangs_vmat_g_tmetalness_75f87a35_tga_9768f553.vtex
+agents/models/han/mc/chisa/mat/t_r2t1qianxiamd10011bangs_d_png_ca08385d_tga_e7f6e81a.vtex
+agents/models/han/mc/chisa/mat/t_r2t1qianxiamd10011bangs_hm_png_b66da31d_tga_baf70796.vtex
+agents/models/han/mc/chisa/mat/mi_bangs.vmat
+agents/models/han/mc/chisa/mat/mi_hair_vmat_g_tmetalness_ceebc9e2_tga_6ab05e81.vtex
+agents/models/han/mc/chisa/mat/t_r2t1qianxiamd10011hair_d_png_49ed5d7b_tga_bb67bd5b.vtex
+agents/models/han/mc/chisa/mat/t_r2t1qianxiamd10011hair_hm_png_fe796ad0_tga_3feb8255.vtex
+agents/models/han/mc/chisa/mat/mi_hair.vmat
+agents/models/han/mc/chisa/mat/t_r2t1qianxiamd10011up_d_png_f04ddd1a_tga_da78172b.vtex
+agents/models/han/mc/chisa/mat/t_r2t1qianxiamd10011up_n_png_9d357fa3_tga_bd11eaad.vtex
+agents/models/han/mc/chisa/mat/up_cloth_vmat_g_tmetalness_485eaff1_tga_5868844f.vtex
+agents/models/han/mc/chisa/mat/up_cloth.vmat
+agents/models/han/mc/chisa/mat/t_r2t1qianxiamd10011up_n_png_3944933b_tga_9c5cdd8f.vtex
+agents/models/han/mc/chisa/mat/up_jacket_vmat_g_tmetalness_ceebc9e2_tga_84267366.vtex
+agents/models/han/mc/chisa/mat/up_jacket.vmat
+agents/models/han/mc/chisa/mat/white_vmat_g_tmetalness_1081f06e_tga_28a4d530.vtex
+agents/models/han/mc/chisa/mat/white_vmat_g_tnormal_15ef22cf_tga_f1a57f21.vtex
+agents/models/han/mc/chisa/mat/white.vmat
+agents/models/han/mc/chisa/chisa.vmdl

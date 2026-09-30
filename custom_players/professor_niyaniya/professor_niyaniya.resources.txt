@@ -1,0 +1,28 @@
+# cs2-model-converter: professor_niyaniya, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/exg/bot04/professor_niyaniya/professor_niyaniya.vmdl
+# first person: 0 1 2 3
+characters/models/exg/bot04/professor_niyaniya/cloth_vmat_g_tmetalness_10974e8a.vtex
+characters/models/exg/bot04/professor_niyaniya/tex/cloth_png_85a91c8a.vtex
+characters/models/exg/bot04/professor_niyaniya/tex/normal_png_a3ebad38.vtex
+characters/models/exg/bot04/professor_niyaniya/cloth.vmat
+characters/models/exg/bot04/professor_niyaniya/eye_vmat_g_tnormal_d5d48301.vtex
+characters/models/exg/bot04/professor_niyaniya/eye_vmat_g_tselfillummask_202f2aa9.vtex
+characters/models/exg/bot04/professor_niyaniya/tex/face_png_505bf6.vtex
+characters/models/exg/bot04/professor_niyaniya/eye.vmat
+characters/models/exg/bot04/professor_niyaniya/face_vmat_g_tmetalness_10974e8a.vtex
+characters/models/exg/bot04/professor_niyaniya/face_vmat_g_tnormal_53b47c48.vtex
+characters/models/exg/bot04/professor_niyaniya/face.vmat
+characters/models/exg/bot04/professor_niyaniya/hair_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/exg/bot04/professor_niyaniya/hair_vmat_g_tnormal_d5d48301.vtex
+characters/models/exg/bot04/professor_niyaniya/tex/hair_png_c36a5259.vtex
+characters/models/exg/bot04/professor_niyaniya/hair.vmat
+characters/models/exg/bot04/professor_niyaniya/halo_vmat_g_tcolor_a8240463.vtex
+characters/models/exg/bot04/professor_niyaniya/halo_vmat_g_tnormal_d5d48301.vtex
+characters/models/exg/bot04/professor_niyaniya/halo_vmat_g_tselfillummask_ff155607.vtex
+characters/models/exg/bot04/professor_niyaniya/halo.vmat
+characters/models/exg/bot04/professor_niyaniya/professor_niyaniya/face_vmorf.vtex
+characters/models/exg/bot04/professor_niyaniya/skin_vmat_g_tmetalness_10974e8a.vtex
+characters/models/exg/bot04/professor_niyaniya/skin_vmat_g_tnormal_53b47c48.vtex
+characters/models/exg/bot04/professor_niyaniya/tex/skin_png_d6bdbe7d.vtex
+characters/models/exg/bot04/professor_niyaniya/skin.vmat
+characters/models/exg/bot04/professor_niyaniya/professor_niyaniya.vmdl

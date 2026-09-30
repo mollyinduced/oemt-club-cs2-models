@@ -1,0 +1,45 @@
+# cs2-model-converter: tsukino_sk2modellimitedcolision, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/hmn_ag2/monster_hunter/tsukino/tsukino_sk2modellimitedcolision.vmdl
+# first person: 0 1 2 3
+agents/models/hmn_ag2/monster_hunter/tsukino/materials/body_jpg_305b8451.vtex
+agents/models/hmn_ag2/monster_hunter/tsukino/materials/tsukino_body_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/hmn_ag2/monster_hunter/tsukino/materials/tsukino_body_vmat_g_tmetalness_ee87d4b4.vtex
+agents/models/hmn_ag2/monster_hunter/tsukino/materials/tsukino_body_vmat_g_tnormal_aed807f.vtex
+agents/models/hmn_ag2/monster_hunter/tsukino/materials/tsukino_body.vmat
+agents/models/hmn_ag2/monster_hunter/tsukino/materials/cloak_jpg_c18074de.vtex
+agents/models/hmn_ag2/monster_hunter/tsukino/materials/tsukino_cloak_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/hmn_ag2/monster_hunter/tsukino/materials/tsukino_cloak_vmat_g_tmetalness_ee87d4b4.vtex
+agents/models/hmn_ag2/monster_hunter/tsukino/materials/tsukino_cloak_vmat_g_tnormal_aed807f.vtex
+agents/models/hmn_ag2/monster_hunter/tsukino/materials/tsukino_cloak.vmat
+agents/models/hmn_ag2/monster_hunter/tsukino/materials/eye_jpg_3bf5bcb9.vtex
+agents/models/hmn_ag2/monster_hunter/tsukino/materials/tsukino_eye_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/hmn_ag2/monster_hunter/tsukino/materials/tsukino_eye_vmat_g_tmetalness_ee87d4b4.vtex
+agents/models/hmn_ag2/monster_hunter/tsukino/materials/tsukino_eye_vmat_g_tnormal_aed807f.vtex
+agents/models/hmn_ag2/monster_hunter/tsukino/materials/tsukino_eye.vmat
+agents/models/hmn_ag2/monster_hunter/tsukino/materials/face_jpg_ee7bdcd7.vtex
+agents/models/hmn_ag2/monster_hunter/tsukino/materials/tsukino_face_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/hmn_ag2/monster_hunter/tsukino/materials/tsukino_face_vmat_g_tmetalness_ee87d4b4.vtex
+agents/models/hmn_ag2/monster_hunter/tsukino/materials/tsukino_face_vmat_g_tnormal_aed807f.vtex
+agents/models/hmn_ag2/monster_hunter/tsukino/materials/tsukino_face.vmat
+agents/models/hmn_ag2/monster_hunter/tsukino/materials/hair_jpg_41f9fee9.vtex
+agents/models/hmn_ag2/monster_hunter/tsukino/materials/tsukino_hair_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/hmn_ag2/monster_hunter/tsukino/materials/tsukino_hair_vmat_g_tmetalness_ee87d4b4.vtex
+agents/models/hmn_ag2/monster_hunter/tsukino/materials/tsukino_hair_vmat_g_tnormal_aed807f.vtex
+agents/models/hmn_ag2/monster_hunter/tsukino/materials/tsukino_hair.vmat
+agents/models/hmn_ag2/monster_hunter/tsukino/materials/head_jpg_bae5f8e9.vtex
+agents/models/hmn_ag2/monster_hunter/tsukino/materials/tsukino_head_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/hmn_ag2/monster_hunter/tsukino/materials/tsukino_head_vmat_g_tmetalness_ee87d4b4.vtex
+agents/models/hmn_ag2/monster_hunter/tsukino/materials/tsukino_head_vmat_g_tnormal_aed807f.vtex
+agents/models/hmn_ag2/monster_hunter/tsukino/materials/tsukino_head.vmat
+agents/models/hmn_ag2/monster_hunter/tsukino/materials/metal_jpg_3d286ffa.vtex
+agents/models/hmn_ag2/monster_hunter/tsukino/materials/tsukino_metal_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/hmn_ag2/monster_hunter/tsukino/materials/tsukino_metal_vmat_g_tmetalness_ee87d4b4.vtex
+agents/models/hmn_ag2/monster_hunter/tsukino/materials/tsukino_metal_vmat_g_tnormal_aed807f.vtex
+agents/models/hmn_ag2/monster_hunter/tsukino/materials/tsukino_metal.vmat
+agents/models/hmn_ag2/monster_hunter/tsukino/materials/mouth_jpg_e7386ae0.vtex
+agents/models/hmn_ag2/monster_hunter/tsukino/materials/tsukino_mouth_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/hmn_ag2/monster_hunter/tsukino/materials/tsukino_mouth_vmat_g_tmetalness_ee87d4b4.vtex
+agents/models/hmn_ag2/monster_hunter/tsukino/materials/tsukino_mouth_vmat_g_tnormal_aed807f.vtex
+agents/models/hmn_ag2/monster_hunter/tsukino/materials/tsukino_mouth.vmat
+agents/models/hmn_ag2/monster_hunter/tsukino/tsukino_sk2modellimitedcolision/body_vmorf.vtex
+agents/models/hmn_ag2/monster_hunter/tsukino/tsukino_sk2modellimitedcolision.vmdl

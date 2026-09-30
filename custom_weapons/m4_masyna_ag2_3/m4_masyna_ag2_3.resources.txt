@@ -1,0 +1,24 @@
+# cs2-model-converter: m4_masyna_ag2_3, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/m4_masyna_ag2_3/m4_masyna_ag2_3.vmdl
+# weapon: weapon_m4a1
+# skeleton: animation/skeletons/weapons/m4a4.vnmskel
+models/kolka/weapons/m4/animem4_vmat_g_tambientocclusion_9782fd5c.vtex
+models/kolka/weapons/m4/animem4_vmat_g_tnormal_53b47c48.vtex
+models/kolka/weapons/m4/animem4_vmat_g_tselfillummask_ff155607.vtex
+models/kolka/weapons/m4/asd2_00_00_00.tga_png_c46c21cc.vtex
+models/kolka/weapons/m4/animem4.vmat
+models/kolka/weapons/ak47/ammo_counter_type2_trans_png_b9a0c123.vtex
+models/kolka/weapons/ak47/ammo_counter_type2_trans_png_e752804b.vtex
+models/kolka/weapons/m4/count_vmat_g_tnormal_53b47c48.vtex
+models/kolka/weapons/m4/count.vmat
+models/kolka/weapons/m4/count2_vmat_g_tnormal_53b47c48.vtex
+models/kolka/weapons/m4/count2.vmat
+models/kolka/weapons/m4/count3_vmat_g_tnormal_53b47c48.vtex
+models/kolka/weapons/m4/count3.vmat
+models/kolka/weapons/m4/krug1_png_50c6e6fb.vtex
+models/kolka/weapons/m4/krug2_png_a2482774.vtex
+models/kolka/weapons/m4/krug.vmat
+models/kolka/weapons/m4/masuna_png_cdb8c465.vtex
+models/kolka/weapons/m4/masuna_trans2_png_15320390.vtex
+models/kolka/weapons/m4/masuna.vmat
+weapons/custom/m4_masyna_ag2_3/m4_masyna_ag2_3.vmdl

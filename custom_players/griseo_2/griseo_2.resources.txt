@@ -1,0 +1,5 @@
+# cs2-model-converter: the resources models/custom/griseo_2/griseo_2.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/griseo_2/griseo_textures_color_png_12918501.vtex
+materials/models/custom/griseo_2/griseo_textures.vmat
+models/custom/griseo_2/griseo_2.vmdl

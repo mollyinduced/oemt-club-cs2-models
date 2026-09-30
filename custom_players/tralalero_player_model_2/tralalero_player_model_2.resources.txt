@@ -1,0 +1,4 @@
+# cs2-model-converter: the resources models/custom/tralalero_player_model_2/tralalero_player_model_2.vmdl needs, loaded in this order by the SDK
+materials/models/custom/tralalero_player_model_2/tralala_color_png_a480d57a.vtex
+materials/models/custom/tralalero_player_model_2/tralala.vmat
+models/custom/tralalero_player_model_2/tralalero_player_model_2.vmdl

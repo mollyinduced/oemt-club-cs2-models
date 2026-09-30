@@ -1,0 +1,34 @@
+{
+ "converter": "2.3",
+ "made": "2026-09-30 01:40:19",
+ "name": "buzz_player_model",
+ "mode": "as-is",
+ "input": "C:\\Users\\mollyinduced\\Downloads\\models\\onetake_fun_addons_3681302735",
+ "model": "characters/models/nozb1/buzz_player_model/buzz_player_model.vmdl_c",
+ "kind": "CS2 model (AnimGraph2)",
+ "options": {
+  "skin": 0,
+  "up": "auto",
+  "forward": "auto",
+  "rig": true,
+  "shader": "csgo_complex.vfx",
+  "texture_size": 4096,
+  "mode": "auto",
+  "jiggle": true,
+  "guess_jiggle": true,
+  "first_person": true,
+  "twist": true,
+  "arms": null,
+  "weapon": null,
+  "extra": [
+   "C:\\Users\\mollyinduced\\Downloads\\models\\homer_simpson_v3\\agents\\models\\otakku\\homer_simpson\\materials"
+  ],
+  "addon": "custom_models"
+ },
+ "stats": {
+  "triangles": 20690,
+  "bones": 187,
+  "first_person": "its own",
+  "jiggle_bones": []
+ }
+}

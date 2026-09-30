@@ -1,0 +1,34 @@
+{
+ "converter": "2.3",
+ "made": "2026-09-30 01:35:24",
+ "name": "yoll_playermodel_ag2",
+ "mode": "as-is",
+ "input": "C:\\Users\\mollyinduced\\Downloads\\models\\onetake_addons_3525122933",
+ "model": "phase2/characters/models/ub/yoll/yoll_playermodel_ag2.vmdl_c",
+ "kind": "CS2 model (AnimGraph2)",
+ "options": {
+  "skin": 0,
+  "up": "auto",
+  "forward": "auto",
+  "rig": true,
+  "shader": "csgo_complex.vfx",
+  "texture_size": 4096,
+  "mode": "auto",
+  "jiggle": true,
+  "guess_jiggle": true,
+  "first_person": true,
+  "twist": true,
+  "arms": null,
+  "weapon": null,
+  "extra": [
+   "C:\\Users\\mollyinduced\\Downloads\\models\\homer_simpson_v3\\agents\\models\\otakku\\homer_simpson\\materials"
+  ],
+  "addon": "custom_models"
+ },
+ "stats": {
+  "triangles": 14838,
+  "bones": 91,
+  "first_person": "",
+  "jiggle_bones": []
+ }
+}

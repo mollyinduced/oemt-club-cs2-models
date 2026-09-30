@@ -1,0 +1,77 @@
+# cs2-model-converter: chiffon_coaster, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/exg/nimiki/chiffon_coaster/chiffon_coaster.vmdl
+# first person: 0 1 2 3
+characters/models/exg/nimiki/chiffon_coaster/chiffon_coaster/face1_vmorf.vtex
+characters/models/exg/nimiki/chiffon_coaster/chiffon_coaster/head_band_vmorf.vtex
+characters/models/exg/nimiki/chiffon_coaster/chiffon_coaster/headribbon_vmorf.vtex
+characters/models/exg/nimiki/chiffon_coaster/chiffon_coaster/maid_vmorf.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/body_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/result (2)_png_c868e25a.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/body.vmat
+characters/models/exg/nimiki/chiffon_coaster/materials/chiffon_body_png_59513f71.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/body_arms.vmat
+characters/models/exg/nimiki/chiffon_coaster/materials/chest badge_png_9a0a7172.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/card.vmat
+characters/models/exg/nimiki/chiffon_coaster/materials/cloth2_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/result (4)_png_45146458.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/cloth2.vmat
+characters/models/exg/nimiki/chiffon_coaster/materials/cloth3_maid_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/uv1_pink_png_eadaa9f1.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/cloth3_maid.vmat
+characters/models/exg/nimiki/chiffon_coaster/materials/cloth3_maid2_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/uv2_pink_png_762c0cc5.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/cloth3_maid2.vmat
+characters/models/exg/nimiki/chiffon_coaster/materials/nm04_uv3_color3_png_14c74675.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/demonwings.vmat
+characters/models/exg/nimiki/chiffon_coaster/materials/chiffon_face_png_bcb6f12f.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/eye texture_06_png_eae86a26.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/face.vmat
+characters/models/exg/nimiki/chiffon_coaster/materials/chiffon_face_effect_png_7d19d31.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/face_effect.vmat
+characters/models/exg/nimiki/chiffon_coaster/materials/pink_png_d38a57a6.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/pink_png_d95e58b1.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/fingers.vmat
+characters/models/exg/nimiki/chiffon_coaster/materials/flower2_vmat_g_tcolor_7ab53e0a.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/flower2_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/flower2_vmat_g_tnormal_53b47c48.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/flower2.vmat
+characters/models/exg/nimiki/chiffon_coaster/materials/gem_vmat_g_tselfillummask_ff155607.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/gem.vmat
+characters/models/exg/nimiki/chiffon_coaster/materials/cloth1_red_png_d15ec65c.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/hat_1.vmat
+characters/models/exg/nimiki/chiffon_coaster/materials/cloth3_red_png_f61e4945.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/hat_2.vmat
+characters/models/exg/nimiki/chiffon_coaster/materials/c (36)_png_7bfa6b8.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/c (36)_png_970480c2.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/holo.vmat
+characters/models/exg/nimiki/chiffon_coaster/materials/spring_cloth_modeling_0_kamikazari_png_1a8cc445.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/kamikazari.vmat
+characters/models/exg/nimiki/chiffon_coaster/materials/metal_vmat_g_tnormal_a1e47e21.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/metal.vmat
+characters/models/exg/nimiki/chiffon_coaster/materials/neko_png_a1cdcde4.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/neko.vmat
+characters/models/exg/nimiki/chiffon_coaster/materials/shoes_spring_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/spring_cloth_modeling_0_shose_png_ac526d52.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/shoes_spring.vmat
+characters/models/exg/nimiki/chiffon_coaster/materials/skirt_spring_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/skirt_spring_vmat_g_tnormal_53b47c48.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/spring_cloth_modeling_0_skirt_png_2c4be16d.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/skirt_spring.vmat
+characters/models/exg/nimiki/chiffon_coaster/materials/stocking_black_png_64191f50.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/stocking_black_vmat_g_tmetalness_21a4b175.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/stocking_black_vmat_g_tnormal_9580815e.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/stocking_black.vmat
+characters/models/exg/nimiki/chiffon_coaster/materials/stocking_white_png_c56ba4e8.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/stocking_white_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/stocking_white.vmat
+characters/models/exg/nimiki/chiffon_coaster/materials/spring_cloth_modeling_0_tops_png_f26c1205.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/tops_spring_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/tops_spring_vmat_g_tnormal_53b47c48.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/tops_spring.vmat
+characters/models/exg/nimiki/chiffon_coaster/materials/uv2_pink_png_4b2a96d6.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/transparent.vmat
+characters/models/exg/nimiki/chiffon_coaster/materials/wings_vmat_g_tcolor_e562fc56.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/wings_vmat_g_tnormal_53b47c48.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/wings_vmat_g_tselfillummask_ff155607.vtex
+characters/models/exg/nimiki/chiffon_coaster/materials/wings.vmat
+characters/models/exg/nimiki/chiffon_coaster/chiffon_coaster.vmdl

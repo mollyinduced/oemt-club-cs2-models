@@ -1,0 +1,4 @@
+# cs2-model-converter: the resources models/custom/wings_batman/wings_batman.vmdl needs, loaded in this order by the SDK
+materials/models/custom/wings_batman/batman_color_png_e540c6a9.vtex
+materials/models/custom/wings_batman/batman.vmat
+models/custom/wings_batman/wings_batman.vmdl

@@ -1,0 +1,21 @@
+# cs2-model-converter: the resources models/custom/no_hitbox_21/no_hitbox_21.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/no_hitbox_21/dress1_color_png_6a394f61.vtex
+materials/models/custom/no_hitbox_21/dress1.vmat
+materials/models/custom/no_hitbox_21/dress2_color_png_c27bc3cf.vtex
+materials/models/custom/no_hitbox_21/dress2.vmat
+materials/models/custom/no_hitbox_21/dress3_color_png_c6d5fcb8.vtex
+materials/models/custom/no_hitbox_21/dress3.vmat
+materials/models/custom/no_hitbox_21/eyes_color_png_f8f41a39.vtex
+materials/models/custom/no_hitbox_21/eyes.vmat
+materials/models/custom/no_hitbox_21/face_color_png_b61350ec.vtex
+materials/models/custom/no_hitbox_21/face.vmat
+materials/models/custom/no_hitbox_21/foot_color_png_e7ab8a62.vtex
+materials/models/custom/no_hitbox_21/foot.vmat
+materials/models/custom/no_hitbox_21/galst_color_png_d99973ca.vtex
+materials/models/custom/no_hitbox_21/galst.vmat
+materials/models/custom/no_hitbox_21/hair_color_png_be88630.vtex
+materials/models/custom/no_hitbox_21/hair.vmat
+materials/models/custom/no_hitbox_21/hand_color_png_e8994bd6.vtex
+materials/models/custom/no_hitbox_21/hand.vmat
+models/custom/no_hitbox_21/no_hitbox_21.vmdl

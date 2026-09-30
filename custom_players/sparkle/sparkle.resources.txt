@@ -1,0 +1,5 @@
+# cs2-model-converter: the resources models/custom/sparkle/sparkle.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/sparkle/sparkle_textures_color_png_191dca9d.vtex
+materials/models/custom/sparkle/sparkle_textures.vmat
+models/custom/sparkle/sparkle.vmdl

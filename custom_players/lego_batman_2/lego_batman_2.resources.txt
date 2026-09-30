@@ -1,0 +1,18 @@
+# cs2-model-converter: lego_batman_2, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/nozb1/lego_pack_player_model/lego_batman_player_model/lego_batman.vmdl
+# first person: 0 2 12 15
+characters/models/nozb1/lego_pack_player_model/lego_batman_player_model/materials/bbody_ao_png_dec07f65.vtex
+characters/models/nozb1/lego_pack_player_model/lego_batman_player_model/materials/bbody_png_e0fd0e3d.vtex
+characters/models/nozb1/lego_pack_player_model/lego_batman_player_model/materials/bbody_r_png_644121dd.vtex
+characters/models/nozb1/lego_pack_player_model/lego_batman_player_model/materials/bbody_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/lego_pack_player_model/lego_batman_player_model/materials/bbody.vmat
+characters/models/nozb1/lego_pack_player_model/lego_batman_player_model/materials/bcape_ao_png_ec63641e.vtex
+characters/models/nozb1/lego_pack_player_model/lego_batman_player_model/materials/bcape_bc_png_3bf88f6d.vtex
+characters/models/nozb1/lego_pack_player_model/lego_batman_player_model/materials/bcape_r_png_1995d72.vtex
+characters/models/nozb1/lego_pack_player_model/lego_batman_player_model/materials/bcape_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/lego_pack_player_model/lego_batman_player_model/materials/bcape.vmat
+characters/models/nozb1/lego_pack_player_model/lego_batman_player_model/materials/bhelmet_ao_png_b2b01905.vtex
+characters/models/nozb1/lego_pack_player_model/lego_batman_player_model/materials/bhelmet_bc_png_b4d2f0df.vtex
+characters/models/nozb1/lego_pack_player_model/lego_batman_player_model/materials/bhelmet_r_png_cf297da3.vtex
+characters/models/nozb1/lego_pack_player_model/lego_batman_player_model/materials/bhelmet.vmat
+characters/models/nozb1/lego_pack_player_model/lego_batman_player_model/lego_batman.vmdl

@@ -1,0 +1,29 @@
+# cs2-model-converter: silver_wolf_nohitbox, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/otakku/silver_wolf/silver_wolf_nohitbox.vmdl
+# first person: 0 2 12 15
+agents/models/otakku/silver_wolf/materials/silver_1_ao_png_add9f303.vtex
+agents/models/otakku/silver_wolf/materials/silver_1_normal_png_1456e36.vtex
+agents/models/otakku/silver_wolf/materials/silver_1_png_3c06d387.vtex
+agents/models/otakku/silver_wolf/materials/silver_1_vmat_g_tambientocclusion_dd98a23c.vtex
+agents/models/otakku/silver_wolf/materials/silver_1.vmat
+agents/models/otakku/silver_wolf/materials/silver_2_normal_png_f94f5f18.vtex
+agents/models/otakku/silver_wolf/materials/silver_2_png_7182c46c.vtex
+agents/models/otakku/silver_wolf/materials/silver_2_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/otakku/silver_wolf/materials/silver_2_vmat_g_tmetalness_b99de324.vtex
+agents/models/otakku/silver_wolf/materials/silver_2.vmat
+agents/models/otakku/silver_wolf/materials/silver_3_ao_png_7a712a28.vtex
+agents/models/otakku/silver_wolf/materials/silver_3_normal_png_8d533425.vtex
+agents/models/otakku/silver_wolf/materials/silver_3_png_5d1f3640.vtex
+agents/models/otakku/silver_wolf/materials/silver_3_vmat_g_tambientocclusion_dd98a23c.vtex
+agents/models/otakku/silver_wolf/materials/silver_3.vmat
+agents/models/otakku/silver_wolf/materials/silver_4_ao_png_5c0f5ccf.vtex
+agents/models/otakku/silver_wolf/materials/silver_4_normal_png_ade99111.vtex
+agents/models/otakku/silver_wolf/materials/silver_4_png_728de9f2.vtex
+agents/models/otakku/silver_wolf/materials/silver_4_vmat_g_tambientocclusion_dd98a23c.vtex
+agents/models/otakku/silver_wolf/materials/silver_4.vmat
+agents/models/otakku/silver_wolf/materials/silver_5_png_c3dea163.vtex
+agents/models/otakku/silver_wolf/materials/silver_5_vmat_g_tambientocclusion_dd98a23c.vtex
+agents/models/otakku/silver_wolf/materials/silver_5_vmat_g_tmetalness_b99de324.vtex
+agents/models/otakku/silver_wolf/materials/silver_5_vmat_g_tnormal_c89960f0.vtex
+agents/models/otakku/silver_wolf/materials/silver_5.vmat
+agents/models/otakku/silver_wolf/silver_wolf_nohitbox.vmdl

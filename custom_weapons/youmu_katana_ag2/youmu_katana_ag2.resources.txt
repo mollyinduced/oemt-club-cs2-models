@@ -1,0 +1,10 @@
+# cs2-model-converter: youmu_katana_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/youmu_katana_ag2/youmu_katana_ag2.vmdl
+# weapon: weapon_knife_css
+# skeleton: animation/skeletons/weapons/knife_css.vnmskel
+characters/models/youmu/tex/katana_normal_png_17b0e391.vtex
+characters/models/youmu/tex/katana_png_7d82df36.vtex
+characters/models/youmu/tex/katana_w_vmat_g_tambientocclusion_9782fd5c.vtex
+characters/models/youmu/tex/katana_w_vmat_g_tmetalness_2b989a24.vtex
+characters/models/youmu/tex/katana_w.vmat
+weapons/custom/youmu_katana_ag2/youmu_katana_ag2.vmdl

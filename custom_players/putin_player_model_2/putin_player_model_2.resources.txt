@@ -1,0 +1,14 @@
+# cs2-model-converter: putin_player_model_2, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/nozb1/putin_player_model/putin_player_model.vmdl
+# first person: 0 2 12 15
+characters/models/nozb1/putin_player_model/materials/putin01_mat_png_7416c311.vtex
+characters/models/nozb1/putin_player_model/materials/putin_mat_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/putin_player_model/materials/putin_mat_vmat_g_tnormal_d8bef0c1.vtex
+characters/models/nozb1/putin_player_model/materials/putin_mat.vmat
+characters/models/nozb1/putin_player_model/putin_player_model/body_vmorf.vtex
+characters/models/nozb1/putin_player_model/materials/arm_normal_png_8997eb7d.vtex
+characters/models/nozb1/putin_player_model/materials/arm_png_c1cd1eeb.vtex
+characters/models/nozb1/putin_player_model/materials/arm_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/putin_player_model/materials/arm.vmat
+characters/models/nozb1/putin_player_model/putin_pm_arm.vmdl
+characters/models/nozb1/putin_player_model/putin_player_model.vmdl

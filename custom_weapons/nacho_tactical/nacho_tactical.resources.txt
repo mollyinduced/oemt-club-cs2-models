@@ -1,0 +1,15 @@
+# cs2-model-converter: nacho_tactical, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/nacho_tactical/nacho_tactical.vmdl
+# weapon: weapon_knife_tactical
+# skeleton: animation/skeletons/weapons/knife_tactical.vnmskel
+weapons/otakku/knife/knife_tactical/nacho_tactical/materials/black_png_48a5915.vtex
+weapons/otakku/knife/knife_tactical/nacho_tactical/materials/black_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/knife/knife_tactical/nacho_tactical/materials/black_vmat_g_tmetalness_2b989a24.vtex
+weapons/otakku/knife/knife_tactical/nacho_tactical/materials/black_vmat_g_tnormal_f8264e14.vtex
+weapons/otakku/knife/knife_tactical/nacho_tactical/materials/black.vmat
+weapons/otakku/knife/knife_tactical/nacho_tactical/materials/weapon_vm_me_soscar_knife_d_png_bb5f4fb3.vtex
+weapons/otakku/knife/knife_tactical/nacho_tactical/materials/weapon_vm_me_soscar_knife_d_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/knife/knife_tactical/nacho_tactical/materials/weapon_vm_me_soscar_knife_d_vmat_g_tmetalness_b42daa12.vtex
+weapons/otakku/knife/knife_tactical/nacho_tactical/materials/weapon_vm_me_soscar_knife_n_png_d163af4e.vtex
+weapons/otakku/knife/knife_tactical/nacho_tactical/materials/weapon_vm_me_soscar_knife_d.vmat
+weapons/custom/nacho_tactical/nacho_tactical.vmdl

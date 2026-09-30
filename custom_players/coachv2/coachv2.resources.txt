@@ -1,0 +1,14 @@
+# cs2-model-converter: the resources models/custom/coachv2/coachv2.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/coachv2/coach_body_color_png_f0eca037.vtex
+materials/models/custom/coachv2/coach_body_normal_png_c4cadbe8.vtex
+materials/models/custom/coachv2/coach_body.vmat
+materials/models/custom/coachv2/coach_head_color_png_464e160e.vtex
+materials/models/custom/coachv2/coach_head_normal_png_9c88d8fd.vtex
+materials/models/custom/coachv2/coach_head.vmat
+materials/models/custom/coachv2/eyes_color_png_10850fe.vtex
+materials/models/custom/coachv2/eyes_normal_png_85c57847.vtex
+materials/models/custom/coachv2/eyes.vmat
+materials/models/custom/coachv2/producer_body_color_png_ca949157.vtex
+materials/models/custom/coachv2/producer_body.vmat
+models/custom/coachv2/coachv2.vmdl

@@ -1,0 +1,11 @@
+# cs2-model-converter: vct_lock_in_red_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/vct_lock_in_red_ag2/vct_lock_in_red_ag2.vmdl
+# weapon: weapon_knife_ursus
+# skeleton: animation/skeletons/weapons/knife_ursus.vnmskel
+weapons/phase2/poncikmarket/vct_lockin/v1/materials/melee_esportsinvitational_aem_png_3b6443b6.vtex
+weapons/phase2/poncikmarket/vct_lockin/v1/materials/melee_esportsinvitational_df_png_32d7d167.vtex
+weapons/phase2/poncikmarket/vct_lockin/v1/materials/poncik_selfillum_png_ca1f6d7d.vtex
+weapons/phase2/poncikmarket/vct_lockin/v3/materials/melee_esportsinvitational_v2_nm_png_99a9042f.vtex
+weapons/phase2/poncikmarket/vct_lockin/v3/materials/roughness_png_edf1313f.vtex
+weapons/phase2/poncikmarket/vct_lockin/v1/materials/1p_esportsinvitational_crystal_melee_mi.vmat
+weapons/custom/vct_lock_in_red_ag2/vct_lock_in_red_ag2.vmdl

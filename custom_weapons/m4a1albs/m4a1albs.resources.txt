@@ -1,0 +1,13 @@
+# cs2-model-converter: m4a1albs, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/m4a1albs/m4a1albs.vmdl
+# weapon: weapon_m4a1
+# skeleton: animation/skeletons/weapons/m4a4.vnmskel
+models/m4a1albs/3p_m4a1_anubis_manhua_a_png_3ce792a0.vtex
+models/m4a1albs/3p_m4a1_anubis_manhua_a_vmat_g_tselfillummask_ff155607.vtex
+models/m4a1albs/trans_m4a1_anubis_anyue_a_n_png_3c5b210d.vtex
+models/m4a1albs/3p_m4a1_anubis_manhua_a.vmat
+models/m4a1albs/3p_m4a1_anubis_manhua_b_png_1b5afde8.vtex
+models/m4a1albs/3p_m4a1_anubis_manhua_b_vmat_g_tselfillummask_ff155607.vtex
+models/m4a1albs/trans_m4a1_anubis_anyue_b_n_png_eb68475f.vtex
+models/m4a1albs/3p_m4a1_anubis_manhua_b.vmat
+weapons/custom/m4a1albs/m4a1albs.vmdl

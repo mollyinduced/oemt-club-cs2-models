@@ -1,0 +1,29 @@
+# cs2-model-converter: sarahoshikawa, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/kolka/sarahoshikawa/sarahoshikawa.vmdl
+# first person: 1 2 24 30
+characters/models/kolka/sarahoshikawa/mat/bhairtx_png_e62e3b1c.vtex
+characters/models/kolka/sarahoshikawa/mat/bhairtx_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/kolka/sarahoshikawa/mat/bhairtx_vmat_g_tnormal_53b47c48.vtex
+characters/models/kolka/sarahoshikawa/mat/bhairtx.vmat
+characters/models/kolka/sarahoshikawa/mat/eyetx_png_68b98b8f.vtex
+characters/models/kolka/sarahoshikawa/mat/eyetx_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/kolka/sarahoshikawa/mat/eyetx_vmat_g_tnormal_53b47c48.vtex
+characters/models/kolka/sarahoshikawa/mat/eyetx.vmat
+characters/models/kolka/sarahoshikawa/mat/fhairtx_png_630d4df7.vtex
+characters/models/kolka/sarahoshikawa/mat/fhairtx_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/kolka/sarahoshikawa/mat/fhairtx_vmat_g_tnormal_53b47c48.vtex
+characters/models/kolka/sarahoshikawa/mat/fhairtx.vmat
+characters/models/kolka/sarahoshikawa/mat/kaotx_png_dd9538f.vtex
+characters/models/kolka/sarahoshikawa/mat/kaotx_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/kolka/sarahoshikawa/mat/kaotx_vmat_g_tnormal_53b47c48.vtex
+characters/models/kolka/sarahoshikawa/mat/kaotx.vmat
+characters/models/kolka/sarahoshikawa/mat/pa_actx_png_89f58b59.vtex
+characters/models/kolka/sarahoshikawa/mat/pa_actx_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/kolka/sarahoshikawa/mat/pa_actx_vmat_g_tnormal_53b47c48.vtex
+characters/models/kolka/sarahoshikawa/mat/pa_actx.vmat
+characters/models/kolka/sarahoshikawa/mat/seetaatx_png_85c39528.vtex
+characters/models/kolka/sarahoshikawa/mat/seetaatx_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/kolka/sarahoshikawa/mat/seetaatx_vmat_g_tnormal_53b47c48.vtex
+characters/models/kolka/sarahoshikawa/mat/seetaatx.vmat
+characters/models/kolka/sarahoshikawa/sarahoshikawa_arms.vmdl
+characters/models/kolka/sarahoshikawa/sarahoshikawa.vmdl

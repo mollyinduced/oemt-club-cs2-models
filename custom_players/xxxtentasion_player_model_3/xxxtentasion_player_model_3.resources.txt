@@ -1,0 +1,27 @@
+# cs2-model-converter: xxxtentasion_player_model_3, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/ag2/xxxtentasion_player_model/xxxtentasion_player_model.vmdl
+# first person: 0 2 12 15
+agents/models/ag2/xxxtentasion_player_model/materials/arms_vmat_g_tmetalness_1081f06e.vtex
+agents/models/ag2/xxxtentasion_player_model/materials/bare_arm_png_59ca3dd6.vtex
+agents/models/ag2/xxxtentasion_player_model/materials/arms.vmat
+agents/models/ag2/xxxtentasion_player_model/materials/bodyup_vmat_g_tmetalness_1081f06e.vtex
+agents/models/ag2/xxxtentasion_player_model/materials/lv_0_normal_png_7c6cb219.vtex
+agents/models/ag2/xxxtentasion_player_model/materials/lv_0_png_253f3f03.vtex
+agents/models/ag2/xxxtentasion_player_model/materials/bodyup.vmat
+agents/models/ag2/xxxtentasion_player_model/materials/bodywr_vmat_g_tmetalness_1081f06e.vtex
+agents/models/ag2/xxxtentasion_player_model/materials/palace2_0_png_c277223.vtex
+agents/models/ag2/xxxtentasion_player_model/materials/bodywr.vmat
+agents/models/ag2/xxxtentasion_player_model/materials/boots_vmat_g_tmetalness_1081f06e.vtex
+agents/models/ag2/xxxtentasion_player_model/materials/suptempo_0_normal_png_3882aa71.vtex
+agents/models/ag2/xxxtentasion_player_model/materials/suptempo_0_png_ea936dac.vtex
+agents/models/ag2/xxxtentasion_player_model/materials/boots.vmat
+agents/models/ag2/xxxtentasion_player_model/materials/hair_diff_003_b_uni_png_62a0a381.vtex
+agents/models/ag2/xxxtentasion_player_model/materials/hair_vmat_g_tmetalness_1081f06e.vtex
+agents/models/ag2/xxxtentasion_player_model/materials/hair.vmat
+agents/models/ag2/xxxtentasion_player_model/materials/head_vmat_g_tmetalness_1081f06e.vtex
+agents/models/ag2/xxxtentasion_player_model/materials/tryface7_png_17de00ce.vtex
+agents/models/ag2/xxxtentasion_player_model/materials/head.vmat
+agents/models/ag2/xxxtentasion_player_model/materials/sock_vmat_g_tcolor_64dfd14c.vtex
+agents/models/ag2/xxxtentasion_player_model/materials/sock_vmat_g_tmetalness_1081f06e.vtex
+agents/models/ag2/xxxtentasion_player_model/materials/sock.vmat
+agents/models/ag2/xxxtentasion_player_model/xxxtentasion_player_model.vmdl

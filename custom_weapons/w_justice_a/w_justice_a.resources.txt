@@ -1,0 +1,13 @@
+# cs2-model-converter: w_justice_a, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/w_justice_a/w_justice_a.vmdl
+# weapon: weapon_m4a1_silencer
+# skeleton: animation/skeletons/weapons/m4a1_silencer.vnmskel
+models/weapons/exg/tokyocold/justice/justice1_vmat_g_tnormal_7810cd20.vtex
+models/weapons/exg/tokyocold/justice/justice1_vmat_g_tselfillummask_b6eb7098.vtex
+models/weapons/exg/tokyocold/justice/mat_2_d_tga_388716a4.vtex
+models/weapons/exg/tokyocold/justice/justice1.vmat
+models/weapons/exg/tokyocold/justice/justice2_vmat_g_tnormal_55a83d3c.vtex
+models/weapons/exg/tokyocold/justice/justice2_vmat_g_tselfillummask_b6eb7098.vtex
+models/weapons/exg/tokyocold/justice/mat_3_d_tga_8da1b976.vtex
+models/weapons/exg/tokyocold/justice/justice2.vmat
+weapons/custom/w_justice_a/w_justice_a.vmdl

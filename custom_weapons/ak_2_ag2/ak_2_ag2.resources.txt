@@ -1,0 +1,28 @@
+# cs2-model-converter: ak_2_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/ak_2_ag2/ak_2_ag2.vmdl
+# weapon: weapon_ak47
+# skeleton: animation/skeletons/weapons/ak47.vnmskel
+weapons/onetake/ak_2/materials/onetake_vmat_g_tcolor_7ab53e0a.vtex
+weapons/onetake/ak_2/materials/onetake_vmat_g_tselfillummask_ff155607.vtex
+weapons/onetake/ak_2/materials/onetake.vmat
+weapons/onetake/ak_2/materials/qs_ak1_normal_png_fb1208fd.vtex
+weapons/onetake/ak_2/materials/qs_ak1_png_174576ad.vtex
+weapons/onetake/ak_2/materials/qs_ak1_png_8c6ad9b9.vtex
+weapons/onetake/ak_2/materials/qsak1.vmat
+weapons/onetake/ak_2/materials/qs_ak2_normal_png_bb9c6ad.vtex
+weapons/onetake/ak_2/materials/qs_ak2_png_34fee2a.vtex
+weapons/onetake/ak_2/materials/qs_ak2_png_ef3ea4c2.vtex
+weapons/onetake/ak_2/materials/qsak2.vmat
+weapons/onetake/ak_2/materials/qs_ak3_normal_png_fcd0deab.vtex
+weapons/onetake/ak_2/materials/qs_ak3_png_3640bfe1.vtex
+weapons/onetake/ak_2/materials/qs_ak3_png_49f9a465.vtex
+weapons/onetake/ak_2/materials/qsak3.vmat
+weapons/onetake/ak_2/materials/qs_ak4_normal_png_82602fdf.vtex
+weapons/onetake/ak_2/materials/qs_ak4_png_22607b98.vtex
+weapons/onetake/ak_2/materials/qs_ak4_png_d0b02a80.vtex
+weapons/onetake/ak_2/materials/qsak4.vmat
+weapons/onetake/ak_2/materials/qs_ak5_normal_png_71faf093.vtex
+weapons/onetake/ak_2/materials/qs_ak5_png_63c28b7b.vtex
+weapons/onetake/ak_2/materials/qs_ak5_png_8215671d.vtex
+weapons/onetake/ak_2/materials/qsak5.vmat
+weapons/custom/ak_2_ag2/ak_2_ag2.vmdl

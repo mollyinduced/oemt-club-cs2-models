@@ -1,0 +1,13 @@
+# cs2-model-converter: w_shot_sawedoff, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/w_shot_sawedoff/w_shot_sawedoff.vmdl
+# weapon: weapon_sawedoff
+# skeleton: animation/skeletons/weapons/sawedoff.vnmskel
+materials/default/default_bentnormal_tga_2023e987.vtex
+materials/models/weapons/shared/shells/shotgun/shell_shotgun_color_tga_d8083f7c.vtex
+models/weapons/shared/shells/shotgun/shell_shotgun_vmat_g_tmetalness_b7e45cfc.vtex
+models/weapons/shared/shells/shotgun/shell_shotgun.vmat
+materials/models/weapons/w_models/w_shot_sawedoff/shot_sawedoff_01_color_tga_7a8816a2.vtex
+materials/models/weapons/w_models/w_shot_sawedoff/shot_sawedoff_01_exponent_metal_tga_4a48f5d1.vtex
+materials/models/weapons/w_models/w_shot_sawedoff/shot_sawedoff_01_rough_tga_eee1126e.vtex
+models/weapons/w_models/w_shot_sawedoff/shot_sawedoff_01.vmat
+weapons/custom/w_shot_sawedoff/w_shot_sawedoff.vmdl

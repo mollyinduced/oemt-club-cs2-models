@@ -1,0 +1,12 @@
+# cs2-model-converter: rezero_rem_player_model, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/nozb1/rezero_rem_player_model/rezero_rem_player_model.vmdl
+# first person: 0 2 12 15
+characters/models/nozb1/rezero_rem_player_model/materials/body_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/rezero_rem_player_model/materials/rezero_rem_diff_png_8aa6d9d7.vtex
+characters/models/nozb1/rezero_rem_player_model/materials/rezero_rem_norm_png_698cf1b6.vtex
+characters/models/nozb1/rezero_rem_player_model/materials/body.vmat
+characters/models/nozb1/rezero_rem_player_model/materials/hair_vmat_g_tcolor_2bc63fe0.vtex
+characters/models/nozb1/rezero_rem_player_model/materials/hair_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/rezero_rem_player_model/materials/hair.vmat
+characters/models/nozb1/rezero_rem_player_model/rezero_rem_player_model/body_vmorf.vtex
+characters/models/nozb1/rezero_rem_player_model/rezero_rem_player_model.vmdl

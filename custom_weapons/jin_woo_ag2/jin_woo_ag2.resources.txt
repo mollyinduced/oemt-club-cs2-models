@@ -1,0 +1,8 @@
+# cs2-model-converter: jin_woo_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/jin_woo_ag2/jin_woo_ag2.vmdl
+# weapon: weapon_knife_push
+# skeleton: animation/skeletons/weapons/knife_push.vnmskel
+weapons/phase2/poncikmarket/jin_woo/materials/1_jpg_57a380eb.vtex
+weapons/phase2/poncikmarket/jin_woo/materials/1_vmat_g_tselfillummask_ff155607.vtex
+weapons/phase2/poncikmarket/jin_woo/materials/1.vmat
+weapons/custom/jin_woo_ag2/jin_woo_ag2.vmdl

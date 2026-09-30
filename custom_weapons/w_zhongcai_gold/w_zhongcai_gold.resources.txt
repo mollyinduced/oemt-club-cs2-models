@@ -1,0 +1,25 @@
+# cs2-model-converter: w_zhongcai_gold, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/w_zhongcai_gold/w_zhongcai_gold.vmdl
+# weapon: weapon_knife_m9_bayonet
+# skeleton: animation/skeletons/weapons/knife_m9.vnmskel
+materials/models/custom_weapons/w_zhongcai_gold/1_color_png_5e12d00f.vtex
+characters/models/exg/doki/somemb/1.vmat
+materials/models/custom_weapons/w_zhongcai_gold/3_color_png_f819e8a1.vtex
+characters/models/exg/doki/somemb/3.vmat
+materials/models/custom_weapons/w_zhongcai_gold/4_color_png_19eedd5b.vtex
+characters/models/exg/doki/somemb/4.vmat
+materials/models/custom_weapons/w_zhongcai_gold/5_color_png_ad410cbf.vtex
+characters/models/exg/doki/somemb/5.vmat
+materials/models/custom_weapons/w_zhongcai_gold/7_color_png_abd7a686.vtex
+characters/models/exg/doki/somemb/7.vmat
+models/weapons/exg/tokyocold/zhongcai/$0b_knife_png_49e57776.vtex
+models/weapons/exg/tokyocold/zhongcai/0b_knifeb.vmat
+models/weapons/exg/tokyocold/zhongcai/summonknife_v_png_cdf27e55.vtex
+models/weapons/exg/tokyocold/zhongcai/summonknife_v_vmat_g_tnormal_a1e47e21.vtex
+models/weapons/exg/tokyocold/zhongcai/summonknife_v_vmat_g_tselfillummask_a5002b58.vtex
+models/weapons/exg/tokyocold/zhongcai/summonknife_v.vmat
+models/weapons/exg/tokyocold/zhongcai/summonknife_v_blade1_png_ea47fb1b.vtex
+models/weapons/exg/tokyocold/zhongcai/summonknife_v_bladeg_vmat_g_tnormal_a1e47e21.vtex
+models/weapons/exg/tokyocold/zhongcai/summonknife_v_bladeg_vmat_g_tselfillummask_dff3fb48.vtex
+models/weapons/exg/tokyocold/zhongcai/summonknife_v_bladeg.vmat
+weapons/custom/w_zhongcai_gold/w_zhongcai_gold.vmdl

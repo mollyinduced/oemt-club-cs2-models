@@ -1,0 +1,16 @@
+# cs2-model-converter: yui, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/fys/yui/yui.vmdl
+# first person: 0 3 12 15
+characters/fys/yui/materials/yui_textures_png_1fa11fb4.vtex
+characters/fys/yui/materials/yui_textures_rough_png_40066c99.vtex
+characters/fys/yui/materials/yui_textures_vmat_g_tambientocclusion_7bb8a525.vtex
+characters/fys/yui/materials/yui_textures_vmat_g_tmetalness_e14ea4e6_png_1346d30c.vtex
+characters/fys/yui/materials/yui_textures.vmat
+characters/models/exg/ruiyiwelkin/chiffon_star_dust/nail_png_fc84cd55.vtex
+characters/models/exg/ruiyiwelkin/chiffon_star_dust/nail_vmat_g_tmetalness_a50d9d0_png_b5820081.vtex
+characters/models/exg/ruiyiwelkin/chiffon_star_dust/nail_vmat_g_tselfillummask_393e0fe2.vtex
+materials/default/stickers/squares_glitter_normal_tga_26be020f.vtex
+characters/models/exg/ruiyiwelkin/chiffon_star_dust/nail.vmat
+materials/characters/arms/body_arms_png_863a49d4.vtex
+materials/characters/arms/body_arms.vmat
+characters/fys/yui/yui.vmdl

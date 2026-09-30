@@ -1,0 +1,37 @@
+# cs2-model-converter: v_ssg_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/v_ssg_ag2/v_ssg_ag2.vmdl
+# weapon: weapon_ssg08
+# skeleton: animation/skeletons/weapons/ssg08.vnmskel
+weapons/nozb1/luna_pack/v_ssg/materials/emiss_ssg_vmat_g_tcolor_7ab53e0a.vtex
+weapons/nozb1/luna_pack/v_ssg/materials/emiss_ssg_vmat_g_tselfillummask_ff155607.vtex
+weapons/nozb1/luna_pack/v_ssg/materials/emiss_ssg.vmat
+weapons/nozb1/luna_pack/v_ssg/materials/glass_vmat_g_tcolor_b7142710.vtex
+weapons/nozb1/luna_pack/v_ssg/materials/glass_vmat_g_tnormal_a1e47e21.vtex
+weapons/nozb1/luna_pack/v_ssg/materials/glass.vmat
+weapons/nozb1/luna_pack/v_ssg/materials/gn_leversniper_01_png_9d8533e8.vtex
+weapons/nozb1/luna_pack/v_ssg/materials/gn_ssg_1.vmat
+weapons/nozb1/luna_pack/v_ssg/materials/gn_leversniper_10_png_1dcb3b4d.vtex
+weapons/nozb1/luna_pack/v_ssg/materials/gn_ssg_10.vmat
+weapons/nozb1/luna_pack/v_ssg/materials/gn_leversniper_11_png_7dd3822f.vtex
+weapons/nozb1/luna_pack/v_ssg/materials/gn_ssg_11.vmat
+weapons/nozb1/luna_pack/v_ssg/materials/gn_leversniper_12_png_60a39910.vtex
+weapons/nozb1/luna_pack/v_ssg/materials/gn_ssg_12.vmat
+weapons/nozb1/luna_pack/v_ssg/materials/gn_leversniper_02_png_fe46dd9d.vtex
+weapons/nozb1/luna_pack/v_ssg/materials/gn_ssg_2.vmat
+weapons/nozb1/luna_pack/v_ssg/materials/gn_leversniper_03_png_c82427b8.vtex
+weapons/nozb1/luna_pack/v_ssg/materials/gn_ssg_3.vmat
+weapons/nozb1/luna_pack/v_ssg/materials/gn_leversniper_04_png_c704d26a.vtex
+weapons/nozb1/luna_pack/v_ssg/materials/gn_ssg_4.vmat
+weapons/nozb1/luna_pack/v_ssg/materials/gn_leversniper_05_png_361b7836.vtex
+weapons/nozb1/luna_pack/v_ssg/materials/gn_ssg_5.vmat
+weapons/nozb1/luna_pack/v_ssg/materials/gn_leversniper_06_png_a5e48ee7.vtex
+weapons/nozb1/luna_pack/v_ssg/materials/gn_ssg_6.vmat
+weapons/nozb1/luna_pack/v_ssg/materials/gn_leversniper_07_png_71799c34.vtex
+weapons/nozb1/luna_pack/v_ssg/materials/gn_ssg_7.vmat
+weapons/nozb1/luna_pack/v_ssg/materials/gn_leversniper_08_png_3763597a.vtex
+weapons/nozb1/luna_pack/v_ssg/materials/gn_ssg_8.vmat
+weapons/nozb1/luna_pack/v_ssg/materials/gn_leversniper_09_png_1a38c768.vtex
+weapons/nozb1/luna_pack/v_ssg/materials/gn_ssg_9.vmat
+weapons/nozb1/luna_pack/v_ssg/materials/leversniper_scope_png_9dcf6e2a.vtex
+weapons/nozb1/luna_pack/v_ssg/materials/scope.vmat
+weapons/custom/v_ssg_ag2/v_ssg_ag2.vmdl

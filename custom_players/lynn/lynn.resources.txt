@@ -1,0 +1,20 @@
+# cs2-model-converter: lynn, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/asmodeus/lynn/lynn.vmdl
+# first person: 0 1 2 3
+characters/models/asmodeus/lynn/lynn/body_vmorf.vtex
+characters/models/asmodeus/lynn/materials/lynn_acc_png_5090b45e.vtex
+characters/models/asmodeus/lynn/materials/lynn_acc_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/lynn/materials/lynn_acc.vmat
+characters/models/asmodeus/lynn/materials/lynn_body_png_c85aa2ab.vtex
+characters/models/asmodeus/lynn/materials/lynn_body_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/lynn/materials/lynn_body.vmat
+characters/models/asmodeus/lynn/materials/lynn_eye_png_91ab031d.vtex
+characters/models/asmodeus/lynn/materials/lynn_eye_png_c28e681d.vtex
+characters/models/asmodeus/lynn/materials/lynn_eye.vmat
+characters/models/asmodeus/lynn/materials/lynn_face_png_8f747a2c.vtex
+characters/models/asmodeus/lynn/materials/lynn_face_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/lynn/materials/lynn_face.vmat
+characters/models/asmodeus/lynn/materials/lynn_hair_png_36840f86.vtex
+characters/models/asmodeus/lynn/materials/lynn_hair_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/lynn/materials/lynn_hair.vmat
+characters/models/asmodeus/lynn/lynn.vmdl

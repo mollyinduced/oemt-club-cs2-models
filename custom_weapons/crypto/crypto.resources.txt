@@ -1,0 +1,13 @@
+# cs2-model-converter: crypto, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/crypto/crypto.vmdl
+# weapon: weapon_knife_butterfly
+# skeleton: animation/skeletons/weapons/knife_butterfly.vnmskel
+weapons/models/knife/knife_butterfly/materials/blade_2048x4096_basecolor_png_101fbbe0.vtex
+weapons/models/knife/knife_butterfly/materials/blade_2048x4096_emission_png_e621236e.vtex
+weapons/models/knife/knife_butterfly/materials/blade_2048x4096_normal_png_ed61b956.vtex
+weapons/models/knife/knife_butterfly/materials/crypto1.vmat
+weapons/models/knife/knife_butterfly/materials/handle4096x4096_basecolor_png_6b3056e6.vtex
+weapons/models/knife/knife_butterfly/materials/handle4096x4096_emission_png_f389d76a.vtex
+weapons/models/knife/knife_butterfly/materials/handle4096x4096_normal_png_41da24fe.vtex
+weapons/models/knife/knife_butterfly/materials/crypto2.vmat
+weapons/custom/crypto/crypto.vmdl

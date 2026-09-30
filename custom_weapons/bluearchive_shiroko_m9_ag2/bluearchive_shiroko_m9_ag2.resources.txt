@@ -1,0 +1,17 @@
+# cs2-model-converter: bluearchive_shiroko_m9_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/bluearchive_shiroko_m9_ag2/bluearchive_shiroko_m9_ag2.vmdl
+# weapon: weapon_knife_m9_bayonet
+# skeleton: animation/skeletons/weapons/knife_m9.vnmskel
+weapons/models/bluearchive_shiroko_m9/materials/lg_png_d2dee97d.vtex
+weapons/models/bluearchive_shiroko_m9/materials/shiroko_lg_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/models/bluearchive_shiroko_m9/materials/shiroko_lg_vmat_g_tnormal_d52512a9.vtex
+weapons/models/bluearchive_shiroko_m9/materials/shiroko_lg.vmat
+weapons/models/bluearchive_shiroko_m9/materials/knife_m9_bay_png_3b000b10.vtex
+weapons/models/bluearchive_shiroko_m9/materials/shiroko_m9_main_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/models/bluearchive_shiroko_m9/materials/shiroko_m9_main_vmat_g_tmetalness_2b3277b.vtex
+weapons/models/bluearchive_shiroko_m9/materials/shiroko_m9_main_vmat_g_tnormal_f8264e14.vtex
+weapons/models/bluearchive_shiroko_m9/materials/shiroko_m9_main.vmat
+weapons/models/bluearchive_shiroko_m9/materials/shiroko_mb_vmat_g_tcolor_7ab53e0a.vtex
+weapons/models/bluearchive_shiroko_m9/materials/shiroko_mb_vmat_g_tnormal_d52512a9.vtex
+weapons/models/bluearchive_shiroko_m9/materials/shiroko_mb.vmat
+weapons/custom/bluearchive_shiroko_m9_ag2/bluearchive_shiroko_m9_ag2.vmdl

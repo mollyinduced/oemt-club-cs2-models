@@ -1,0 +1,50 @@
+{
+ "converter": "2.3",
+ "made": "2026-09-29 23:55:55",
+ "name": "ak47_howl",
+ "mode": "rebuild",
+ "input": "C:\\Users\\mollyinduced\\Downloads\\models\\sanders_models_guns_skins_3411502180",
+ "model": "models/weapons/exg/tokyocold/ak47_howl/ak47_howl.vmdl_c",
+ "kind": "CS2 weapon model from before AnimGraph2",
+ "weapon": "weapon_ak47",
+ "options": {
+  "skin": 0,
+  "up": "auto",
+  "forward": "auto",
+  "rig": true,
+  "shader": "csgo_complex.vfx",
+  "texture_size": 4096,
+  "mode": "auto",
+  "jiggle": true,
+  "guess_jiggle": true,
+  "first_person": true,
+  "twist": true,
+  "arms": null,
+  "weapon": null,
+  "extra": [
+   "C:\\Users\\mollyinduced\\Downloads\\models\\homer_simpson_v3\\agents\\models\\otakku\\homer_simpson\\materials"
+  ],
+  "addon": "custom_models"
+ },
+ "stats": {
+  "triangles": 13443,
+  "bones": 7,
+  "on": "weapons/models/ak47/weapon_rif_ak47.vmdl",
+  "skeleton": "animation/skeletons/weapons/ak47.vnmskel",
+  "moved": {
+   "r": [
+    -0.0,
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "parts": {
+   "v_weapon_ak47_clip": "clip",
+   "v_weapon_ak47_trigger": "trigger",
+   "v_weapon_ak47_cliprelease": "cliprelease",
+   "v_weapon_ak47_bolt": "bolt"
+  },
+  "left_out": 0
+ }
+}

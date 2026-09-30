@@ -1,0 +1,11 @@
+# cs2-model-converter: the resources models/custom/tiara/tiara.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/tiara/acce_c_color_png_4e363b17.vtex
+materials/models/custom/tiara/acce_c.vmat
+materials/models/custom/tiara/base_00_color_png_200abbee.vtex
+materials/models/custom/tiara/base_00.vmat
+materials/models/custom/tiara/body_c_color_png_e5061b25.vtex
+materials/models/custom/tiara/body_c.vmat
+materials/models/custom/tiara/hair_c_color_png_4c971220.vtex
+materials/models/custom/tiara/hair_c.vmat
+models/custom/tiara/tiara.vmdl

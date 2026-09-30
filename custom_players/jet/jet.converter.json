@@ -1,0 +1,38 @@
+{
+ "converter": "2.3",
+ "made": "2026-09-29 22:06:52",
+ "name": "jet",
+ "mode": "as-is",
+ "input": "C:\\Users\\mollyinduced\\Downloads\\models\\deti00ykh_ru_files_3396529065",
+ "model": "characters/models/kolka/2025/jet/jet.vmdl_c",
+ "kind": "CS2 model (AnimGraph2)",
+ "options": {
+  "skin": 0,
+  "up": "auto",
+  "forward": "auto",
+  "rig": true,
+  "shader": "csgo_complex.vfx",
+  "texture_size": 4096,
+  "mode": "auto",
+  "jiggle": true,
+  "guess_jiggle": true,
+  "first_person": true,
+  "twist": true,
+  "arms": null,
+  "weapon": null,
+  "extra": [
+   "C:\\Users\\mollyinduced\\Downloads\\models\\homer_simpson_v3\\agents\\models\\otakku\\homer_simpson\\materials"
+  ],
+  "addon": "custom_models"
+ },
+ "stats": {
+  "triangles": 21392,
+  "bones": 118,
+  "first_person": "its own",
+  "jiggle_bones": [
+   "pelvis_001",
+   "pelvis_002",
+   "pelvis_003"
+  ]
+ }
+}

@@ -1,0 +1,36 @@
+# cs2-model-converter: moe_aegis_2, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/exg/ruiyiwelkin/moe_aegis/moe_aegis.vmdl
+# first person: 0 3 12 15
+characters/models/exg/ruiyiwelkin/moe_aegis/body_png_4c73c264.vtex
+characters/models/exg/ruiyiwelkin/moe_aegis/body_vmat_g_tmetalness_b70f8f59_png_80cc35be.vtex
+characters/models/exg/ruiyiwelkin/moe_aegis/body_vmat_g_tnormal_53b47c48_png_ff600d8d.vtex
+characters/models/exg/ruiyiwelkin/moe_aegis/body.vmat
+characters/models/exg/ruiyiwelkin/moe_aegis/cloth2_png_b535e0f8.vtex
+characters/models/exg/ruiyiwelkin/moe_aegis/cloth2_vmat_g_tmetalness_10974e8a_png_6c4996b5.vtex
+characters/models/exg/ruiyiwelkin/moe_aegis/cloth2_vmat_g_tnormal_53b47c48_png_2ffde368.vtex
+characters/models/exg/ruiyiwelkin/moe_aegis/cloth2.vmat
+characters/models/exg/ruiyiwelkin/moe_aegis/face_mask_png_2f589da4.vtex
+characters/models/exg/ruiyiwelkin/moe_aegis/face_png_8d3354f8.vtex
+characters/models/exg/ruiyiwelkin/moe_aegis/face_vmat_g_tnormal_5516693f_png_d492ce7e.vtex
+characters/models/exg/ruiyiwelkin/moe_aegis/face.vmat
+characters/models/exg/ruiyiwelkin/moe_aegis/hair_png_f5b4fc97.vtex
+characters/models/exg/ruiyiwelkin/moe_aegis/hair_vmat_g_tmetalness_b70f8f59_png_ab033851.vtex
+characters/models/exg/ruiyiwelkin/moe_aegis/hair_vmat_g_tnormal_53b47c48_png_f4591fdd.vtex
+characters/models/exg/ruiyiwelkin/moe_aegis/hair.vmat
+characters/models/exg/ruiyiwelkin/moe_aegis/hair_light_png_5bf53224.vtex
+characters/models/exg/ruiyiwelkin/moe_aegis/hiar_light_vmat_g_tnormal_53b47c48_png_da48327a.vtex
+characters/models/exg/ruiyiwelkin/moe_aegis/hiar_light_vmat_g_tselfillummask_ff155607.vtex
+characters/models/exg/ruiyiwelkin/moe_aegis/hiar_light.vmat
+characters/models/exg/ruiyiwelkin/moe_aegis/magic_ring_png_f246df3d.vtex
+characters/models/exg/ruiyiwelkin/moe_aegis/magic_ring_vmat_g_tselfillummask_ff155607.vtex
+materials/default/default_normal_tga_5a869113.vtex
+characters/models/exg/ruiyiwelkin/moe_aegis/magic_ring.vmat
+characters/models/exg/ruiyiwelkin/moe_aegis/metal_vmat_g_tcolor_7ab53e0a.vtex
+characters/models/exg/ruiyiwelkin/ppq/metal_vmat_g_tmetalness_bd906efe_png_25e649a8.vtex
+characters/models/exg/ruiyiwelkin/ppq/metal_vmat_g_tnormal_a1e47e21_png_fb44ac40.vtex
+characters/models/exg/ruiyiwelkin/moe_aegis/metal.vmat
+characters/models/exg/ruiyiwelkin/sakurarinhoshi/body_png_3104cf8d.vtex
+characters/models/exg/ruiyiwelkin/sakurarinhoshi/body_vmat_g_tmetalness_b70f8f59_png_f0d393bf.vtex
+characters/models/exg/ruiyiwelkin/sakurarinhoshi/body_vmat_g_tnormal_53b47c48_png_a3f1d6b4.vtex
+characters/models/exg/ruiyiwelkin/sakurarinhoshi/body.vmat
+characters/models/exg/ruiyiwelkin/moe_aegis/moe_aegis.vmdl

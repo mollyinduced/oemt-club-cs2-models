@@ -1,0 +1,12 @@
+# cs2-model-converter: usp_zaomeng_ag2_2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/usp_zaomeng_ag2_2/usp_zaomeng_ag2_2.vmdl
+# weapon: weapon_usp_silencer
+# skeleton: animation/skeletons/weapons/usp_silencer.vnmskel
+weapons/models/2en0w/ak47_zaomeng/materials/zaomengak_hud_ammo_png_8b029d54.vtex
+weapons/models/2en0w/ak47_zaomeng/materials/zaomengak_hud_ammo.vmat
+weapons/models/2en0w/m4a4_zaomeng/materials/zaomengm4a4_round_png_7bd55526.vtex
+weapons/models/2en0w/m4a4_zaomeng/materials/zaomengm4a4_round.vmat
+weapons/models/2en0w/usp_zaomeng/materials/usp_zaomeng_base_base_color_png_7e01e0d8.vtex
+weapons/models/2en0w/usp_zaomeng/materials/usp_zaomeng_vmat_g_tnormal_2984f4a9.vtex
+weapons/models/2en0w/usp_zaomeng/materials/usp_zaomeng.vmat
+weapons/custom/usp_zaomeng_ag2_2/usp_zaomeng_ag2_2.vmdl

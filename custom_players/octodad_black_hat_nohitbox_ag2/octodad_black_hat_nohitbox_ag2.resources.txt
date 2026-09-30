@@ -1,0 +1,8 @@
+# cs2-model-converter: octodad_black_hat_nohitbox_ag2, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: phase2/characters/models/otakku/octodad/octodad_black_hat_nohitbox_ag2.vmdl
+agents/characters/models/otakku/octodad/materials/black_c_png_9074042.vtex
+agents/characters/models/otakku/octodad/materials/black_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/characters/models/otakku/octodad/materials/black_vmat_g_tmetalness_b99de324.vtex
+agents/characters/models/otakku/octodad/materials/black_vmat_g_tnormal_2984f4a9.vtex
+characters/models/otakku/octodad/materials/black.vmat
+phase2/characters/models/otakku/octodad/octodad_black_hat_nohitbox_ag2.vmdl

@@ -1,0 +1,37 @@
+# cs2-model-converter: denia_red, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/asmodeus/denia_red/denia_red.vmdl
+# first person: 0 1 2 3
+characters/models/asmodeus/denia_red/denia_red/body_vmorf.vtex
+characters/models/asmodeus/denia_red/materials/deniared_arm_png_dc1198fe.vtex
+characters/models/asmodeus/denia_red/materials/deniared_arm_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/denia_red/materials/deniared_arm.vmat
+characters/models/asmodeus/denia_red/materials/deniared_bhair_png_960f45ee.vtex
+characters/models/asmodeus/denia_red/materials/deniared_bhair_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/denia_red/materials/deniared_bhair.vmat
+characters/models/asmodeus/denia_red/materials/deniared_cloth_png_a387cd26.vtex
+characters/models/asmodeus/denia_red/materials/deniared_cloth_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/denia_red/materials/deniared_cloth.vmat
+characters/models/asmodeus/denia_red/materials/deniared_down_png_2497465e.vtex
+characters/models/asmodeus/denia_red/materials/deniared_down_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/denia_red/materials/deniared_down.vmat
+characters/models/asmodeus/denia_red/materials/deniared_eye_png_1b429603.vtex
+characters/models/asmodeus/denia_red/materials/deniared_eye_png_465b2873.vtex
+characters/models/asmodeus/denia_red/materials/deniared_eye.vmat
+characters/models/asmodeus/denia_red/materials/deniared_eyeb.vmat
+characters/models/asmodeus/denia_red/materials/deniared_eyeh1_png_8d96cbab.vtex
+characters/models/asmodeus/denia_red/materials/deniared_eyeh1.vmat
+characters/models/asmodeus/denia_red/materials/deniared_eyeh1li_png_9aa3dc63.vtex
+characters/models/asmodeus/denia_red/materials/deniared_eyeh1li.vmat
+characters/models/asmodeus/denia_red/materials/deniared_face_png_22501f76.vtex
+characters/models/asmodeus/denia_red/materials/deniared_face_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/denia_red/materials/deniared_face.vmat
+characters/models/asmodeus/denia_red/materials/deniared_fhair_png_ec0f2307.vtex
+characters/models/asmodeus/denia_red/materials/deniared_fhair_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/denia_red/materials/deniared_fhair.vmat
+characters/models/asmodeus/denia_red/materials/deniared_fur_png_a8413296.vtex
+characters/models/asmodeus/denia_red/materials/deniared_fur_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/denia_red/materials/deniared_fur.vmat
+characters/models/asmodeus/denia_red/materials/deniared_up_png_4a521a9d.vtex
+characters/models/asmodeus/denia_red/materials/deniared_up_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/denia_red/materials/deniared_up.vmat
+characters/models/asmodeus/denia_red/denia_red.vmdl

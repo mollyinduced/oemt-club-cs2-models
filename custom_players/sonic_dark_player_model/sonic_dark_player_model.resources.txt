@@ -1,0 +1,9 @@
+# cs2-model-converter: the resources models/custom/sonic_dark_player_model/sonic_dark_player_model.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/sonic_dark_player_model/sonic_dark1_color_png_58fd4d7d.vtex
+materials/models/custom/sonic_dark_player_model/sonic_dark1.vmat
+materials/models/custom/sonic_dark_player_model/sonic_dark2_color_png_6b25233a.vtex
+materials/models/custom/sonic_dark_player_model/sonic_dark2.vmat
+materials/models/custom/sonic_dark_player_model/sonic_dark3_color_png_a5b0ee78.vtex
+materials/models/custom/sonic_dark_player_model/sonic_dark3.vmat
+models/custom/sonic_dark_player_model/sonic_dark_player_model.vmdl

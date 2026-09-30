@@ -1,0 +1,24 @@
+# cs2-model-converter: rgb_ak47, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/rgb_ak47/rgb_ak47.vmdl
+# weapon: weapon_ak47
+# skeleton: animation/skeletons/weapons/ak47.vnmskel
+weapons/otakku/ak47/rgb_ak47/materials/ak47_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/ak47/rgb_ak47/materials/ak47_vmat_g_tcolor_abac47b1.vtex
+weapons/otakku/ak47/rgb_ak47/materials/ak47_vmat_g_tmetalness_bf88ae37.vtex
+weapons/otakku/ak47/rgb_ak47/materials/ak47_vmat_g_tnormal_f8264e14.vtex
+weapons/otakku/ak47/rgb_ak47/materials/ak47.vmat
+weapons/otakku/ak47/rgb_ak47/materials/baidi_png_466d9928.vtex
+weapons/otakku/ak47/rgb_ak47/materials/baidi_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/ak47/rgb_ak47/materials/baidi_vmat_g_tmetalness_bf88ae37.vtex
+weapons/otakku/ak47/rgb_ak47/materials/baidi_vmat_g_tnormal_f8264e14.vtex
+weapons/otakku/ak47/rgb_ak47/materials/baidi.vmat
+weapons/otakku/ak47/rgb_ak47/materials/eyes_png_f211074f.vtex
+weapons/otakku/ak47/rgb_ak47/materials/eyes.vmat
+weapons/otakku/ak47/rgb_ak47/materials/guangpu_png_4a7c96b.vtex
+weapons/otakku/ak47/rgb_ak47/materials/guangpu.vmat
+weapons/otakku/ak47/rgb_ak47/materials/qiangshen_png_21b343db.vtex
+weapons/otakku/ak47/rgb_ak47/materials/qiangshen_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/otakku/ak47/rgb_ak47/materials/qiangshen_vmat_g_tmetalness_bf88ae37.vtex
+weapons/otakku/ak47/rgb_ak47/materials/qiangshen_vmat_g_tnormal_f8264e14.vtex
+weapons/otakku/ak47/rgb_ak47/materials/qiangshen.vmat
+weapons/custom/rgb_ak47/rgb_ak47.vmdl

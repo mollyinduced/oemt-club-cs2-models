@@ -1,0 +1,9 @@
+# cs2-model-converter: the resources models/custom/among_us_player_model/among_us_player_model.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/among_us_player_model/astranaut_mat_color_png_de6a8c9.vtex
+materials/models/custom/among_us_player_model/astranaut_mat.vmat
+materials/models/custom/among_us_player_model/backpack_mat_color_png_dec7e2c.vtex
+materials/models/custom/among_us_player_model/backpack_mat.vmat
+materials/models/custom/among_us_player_model/outliner_mat_color_png_27cf6430.vtex
+materials/models/custom/among_us_player_model/outliner_mat.vmat
+models/custom/among_us_player_model/among_us_player_model.vmdl

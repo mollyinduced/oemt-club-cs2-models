@@ -1,0 +1,9 @@
+# cs2-model-converter: voxel_asiimov_m4a1s_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/voxel_asiimov_m4a1s_ag2/voxel_asiimov_m4a1s_ag2.vmdl
+# weapon: weapon_m4a1_silencer
+# skeleton: animation/skeletons/weapons/m4a1_silencer.vnmskel
+weapons/nozb1/voxel_pack/voxel_asiimov_m4a1s/materials/outliners_vmat_g_tcolor_6b6e411d.vtex
+weapons/nozb1/voxel_pack/voxel_asiimov_m4a1s/materials/outliners.vmat
+weapons/nozb1/voxel_pack/voxel_asiimov_m4a1s/materials/voxel_asiimov_m4a1_ss_png_67fcc7f6.vtex
+weapons/nozb1/voxel_pack/voxel_asiimov_m4a1s/materials/voxel_asiimov_m4a1_s.vmat
+weapons/custom/voxel_asiimov_m4a1s_ag2/voxel_asiimov_m4a1s_ag2.vmdl

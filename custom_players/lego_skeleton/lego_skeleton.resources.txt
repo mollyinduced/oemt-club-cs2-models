@@ -1,0 +1,11 @@
+# cs2-model-converter: lego_skeleton, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/nozb1/lego_pack_player_model/lego_skeleton_player_model/lego_skeleton.vmdl
+# first person: 0 2 12 15
+characters/models/nozb1/lego_pack_player_model/lego_skeleton_player_model/materials/ao_body_png_1782b852.vtex
+characters/models/nozb1/lego_pack_player_model/lego_skeleton_player_model/materials/body_vmat_g_tcolor_64dfd14c.vtex
+characters/models/nozb1/lego_pack_player_model/lego_skeleton_player_model/materials/body_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/lego_pack_player_model/lego_skeleton_player_model/materials/body.vmat
+characters/models/nozb1/lego_pack_player_model/lego_skeleton_player_model/materials/b_face_new_png_96647608.vtex
+characters/models/nozb1/lego_pack_player_model/lego_skeleton_player_model/materials/face_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/lego_pack_player_model/lego_skeleton_player_model/materials/face.vmat
+characters/models/nozb1/lego_pack_player_model/lego_skeleton_player_model/lego_skeleton.vmdl

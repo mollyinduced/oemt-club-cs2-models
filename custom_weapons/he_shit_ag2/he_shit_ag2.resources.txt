@@ -1,0 +1,14 @@
+# cs2-model-converter: he_shit_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/he_shit_ag2/he_shit_ag2.vmdl
+# weapon: weapon_hegrenade
+# skeleton: animation/skeletons/weapons/hegrenade.vnmskel
+weapons/models/he_shit/materials/mb_vmat_g_tambientocclusion_2105c0a6.vtex
+weapons/models/he_shit/materials/mb_vmat_g_tcolor_6b6e411d.vtex
+weapons/models/he_shit/materials/mb_vmat_g_tnormal_59656961.vtex
+weapons/models/he_shit/materials/mb_vmat_g_tselfillummask_ff155607.vtex
+weapons/models/he_shit/materials/mb.vmat
+weapons/models/he_shit/materials/dog poop_basecolor_png_775ac197.vtex
+weapons/models/he_shit/materials/shit_vmat_g_tnormal_3a0c16c7.vtex
+weapons/models/he_shit/materials/shit_vmat_g_tselfillummask_ff155607.vtex
+weapons/models/he_shit/materials/shit.vmat
+weapons/custom/he_shit_ag2/he_shit_ag2.vmdl

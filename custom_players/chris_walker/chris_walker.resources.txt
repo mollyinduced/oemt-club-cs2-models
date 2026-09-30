@@ -1,0 +1,11 @@
+# cs2-model-converter: the resources models/custom/chris_walker/chris_walker.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/chris_walker/walker_bodyv2_color_png_a0ba81fe.vtex
+materials/models/custom/chris_walker/walker_bodyv2.vmat
+materials/models/custom/chris_walker/walker_eyes_color_png_41bf28be.vtex
+materials/models/custom/chris_walker/walker_eyes.vmat
+materials/models/custom/chris_walker/walker_facev2_color_png_56176e9e.vtex
+materials/models/custom/chris_walker/walker_facev2.vmat
+materials/models/custom/chris_walker/walker_lowerbodyv2_color_png_4df59dea.vtex
+materials/models/custom/chris_walker/walker_lowerbodyv2.vmat
+models/custom/chris_walker/chris_walker.vmdl

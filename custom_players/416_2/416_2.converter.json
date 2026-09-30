@@ -1,0 +1,66 @@
+{
+ "converter": "2.3",
+ "made": "2026-09-30 01:07:30",
+ "name": "416_2",
+ "mode": "rebuild",
+ "input": "C:\\Users\\mollyinduced\\Downloads\\models\\pridecs2_resource_pack_3507985179",
+ "model": "characters/models/exg/416/416.vmdl_c",
+ "kind": "Source 2 model, no AnimGraph2 (old CS2)",
+ "options": {
+  "skin": 0,
+  "up": "auto",
+  "forward": "auto",
+  "rig": true,
+  "shader": "csgo_complex.vfx",
+  "texture_size": 4096,
+  "mode": "auto",
+  "jiggle": true,
+  "guess_jiggle": true,
+  "first_person": true,
+  "twist": true,
+  "arms": null,
+  "weapon": null,
+  "extra": [
+   "C:\\Users\\mollyinduced\\Downloads\\models\\homer_simpson_v3\\agents\\models\\otakku\\homer_simpson\\materials"
+  ],
+  "addon": "custom_models"
+ },
+ "stats": {
+  "triangles": 50186,
+  "first_person_triangles": 0,
+  "bones": 105,
+  "kept_bones": [
+   "pelvis_m2",
+   "spine_0_m2",
+   "spine_1_m2",
+   "spine_3_m2",
+   "neck_0_m2",
+   "Bone0362_Chest_L_m2",
+   "Bone0364_Chest_R_m2",
+   "jiggle_primary",
+   "head_0_m2",
+   "HairA1_m2",
+   "HairB1_m2",
+   "HairC1_m2",
+   "HairD1_m2",
+   "HairE1_m2",
+   "HairC5_m2",
+   "HairC1_A4_m2",
+   "HairC1_B4_m2"
+  ],
+  "jiggle_bones": [
+   "jiggle_primary",
+   "HairA1_m2",
+   "HairB1_m2",
+   "HairC5_m2",
+   "HairC1_A4_m2",
+   "HairC1_B4_m2",
+   "HairD1_m2",
+   "HairE1_m2",
+   "Bone0362_Chest_L_m2",
+   "Bone0364_Chest_R_m2"
+  ],
+  "first_person": "",
+  "materials": 4
+ }
+}

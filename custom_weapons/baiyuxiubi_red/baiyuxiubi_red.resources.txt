@@ -1,0 +1,18 @@
+# cs2-model-converter: baiyuxiubi_red, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/baiyuxiubi_red/baiyuxiubi_red.vmdl
+# weapon: weapon_knife_karambit
+# skeleton: animation/skeletons/weapons/knife_karambit.vnmskel
+weapons/models/baiyuxiubi/baixiu_png_450bf5b6.vtex
+weapons/models/baiyuxiubi/baixiu_png_ad2c884c.vtex
+weapons/models/baiyuxiubi/baixiubi11_red_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/models/baiyuxiubi/baixiubi11_red_vmat_g_tnormal_2984f4a9.vtex
+weapons/models/baiyuxiubi/baixiubi11_red.vmat
+weapons/models/baiyuxiubi/mb1_vmat_g_tmask1_2b2ebb3f.vtex
+weapons/models/baiyuxiubi/rgb_png_4fb12d42.vtex
+weapons/models/baiyuxiubi/mb1.vmat
+weapons/models/baiyuxiubi/2x2 _png_61b1bae0.vtex
+weapons/models/baiyuxiubi/2x2 _png_aad4bc09.vtex
+weapons/models/baiyuxiubi/qq_red_vmat_g_tambientocclusion_2105c0a6.vtex
+weapons/models/baiyuxiubi/qq_red_vmat_g_tnormal_ab72ac96.vtex
+weapons/models/baiyuxiubi/qq_red.vmat
+weapons/custom/baiyuxiubi_red/baiyuxiubi_red.vmdl

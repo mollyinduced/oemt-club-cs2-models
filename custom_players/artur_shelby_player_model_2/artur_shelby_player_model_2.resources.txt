@@ -1,0 +1,36 @@
+# cs2-model-converter: artur_shelby_player_model_2, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/ag2/artur_shelby_player_model/artur_shelby_player_model.vmdl
+# first person: 0 2 12 15
+agents/models/ag2/artur_shelby_player_model/materials/arm_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2/artur_shelby_player_model/materials/arthur_shelby_hands_0_png_8539ad65.vtex
+agents/models/ag2/artur_shelby_player_model/materials/arm.vmat
+agents/models/ag2/artur_shelby_player_model/materials/arthur_shelby_lowr_0_png_375bb057.vtex
+agents/models/ag2/artur_shelby_player_model/materials/arthur_shelby_lowr_ao_png_3db904a4.vtex
+agents/models/ag2/artur_shelby_player_model/materials/arthur_shelby_lowr_normal_png_9b4f22b4.vtex
+agents/models/ag2/artur_shelby_player_model/materials/body_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2/artur_shelby_player_model/materials/body.vmat
+agents/models/ag2/artur_shelby_player_model/materials/arthur_shelby_acs_0_png_37d3e344.vtex
+agents/models/ag2/artur_shelby_player_model/materials/dress_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2/artur_shelby_player_model/materials/dress.vmat
+agents/models/ag2/artur_shelby_player_model/materials/arthur_shelby_eye_0_png_52da9be3.vtex
+agents/models/ag2/artur_shelby_player_model/materials/eye_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2/artur_shelby_player_model/materials/eye.vmat
+agents/models/ag2/artur_shelby_player_model/materials/arthur_shelby_face_0_png_5a48f8c7.vtex
+agents/models/ag2/artur_shelby_player_model/materials/face_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2/artur_shelby_player_model/materials/face.vmat
+agents/models/ag2/artur_shelby_player_model/materials/arthur_shelby_feet_0_png_c99bfb4.vtex
+agents/models/ag2/artur_shelby_player_model/materials/foot_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2/artur_shelby_player_model/materials/foot_vmat_g_tnormal_png_44e3291f.vtex
+agents/models/ag2/artur_shelby_player_model/materials/foot.vmat
+agents/models/ag2/artur_shelby_player_model/materials/arthur_shelby_teef_0_png_76224f38.vtex
+agents/models/ag2/artur_shelby_player_model/materials/galstuk_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2/artur_shelby_player_model/materials/galstuk.vmat
+agents/models/ag2/artur_shelby_player_model/materials/arthur_shelby_hair_0_png_64663acd.vtex
+agents/models/ag2/artur_shelby_player_model/materials/hair_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2/artur_shelby_player_model/materials/hair.vmat
+agents/models/ag2/artur_shelby_player_model/materials/arthur_shelby_jbib_diff_009_b_uni_0_png_e07670ba.vtex
+agents/models/ag2/artur_shelby_player_model/materials/arthur_shelby_jbib_diff_009_b_uni_ao_png_b6d88bee.vtex
+agents/models/ag2/artur_shelby_player_model/materials/arthur_shelby_jbib_diff_009_b_uni_normal_png_26539e5a.vtex
+agents/models/ag2/artur_shelby_player_model/materials/leg_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2/artur_shelby_player_model/materials/leg.vmat
+agents/models/ag2/artur_shelby_player_model/artur_shelby_player_model.vmdl

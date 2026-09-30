@@ -1,0 +1,13 @@
+# cs2-model-converter: the resources models/custom/boots_dummy/boots_dummy.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/boots_dummy/bare_arm_107_color_png_9939f44.vtex
+materials/models/custom/boots_dummy/bare_arm_107.vmat
+materials/models/custom/boots_dummy/glove_fingerless_color_png_6448324b.vtex
+materials/models/custom/boots_dummy/glove_fingerless.vmat
+materials/models/custom/boots_dummy/tm_jungle_raider_variante_head_color_png_d998b0f4.vtex
+materials/models/custom/boots_dummy/tm_jungle_raider_variante_head.vmat
+materials/models/custom/boots_dummy/tm_jungle_raider_variante_lower_color_png_68b5ef99.vtex
+materials/models/custom/boots_dummy/tm_jungle_raider_variante_lower.vmat
+materials/models/custom/boots_dummy/tm_jungle_raider_variante_upper_color_png_2761c137.vtex
+materials/models/custom/boots_dummy/tm_jungle_raider_variante_upper.vmat
+models/custom/boots_dummy/boots_dummy.vmdl

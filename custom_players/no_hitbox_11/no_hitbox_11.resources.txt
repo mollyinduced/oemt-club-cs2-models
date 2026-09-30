@@ -1,0 +1,18 @@
+# cs2-model-converter: no_hitbox_11, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/nozb1/no_smoke_cat_player_model/no_hitbox.vmdl
+# first person: 0 2 12 15
+characters/models/nozb1/no_smoke_cat_player_model/materials/cat_black_vmat_g_tcolor_6b6e411d.vtex
+characters/models/nozb1/no_smoke_cat_player_model/materials/cat_black_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/no_smoke_cat_player_model/materials/cat_black.vmat
+characters/models/nozb1/no_smoke_cat_player_model/materials/cat_sigarete_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/no_smoke_cat_player_model/materials/cigarette_png_465a5957.vtex
+characters/models/nozb1/no_smoke_cat_player_model/materials/cigarette_r_png_7340e292.vtex
+characters/models/nozb1/no_smoke_cat_player_model/materials/cat_sigarete.vmat
+characters/models/nozb1/no_smoke_cat_player_model/materials/cat_skin_vmat_g_tcolor_7ab53e0a.vtex
+characters/models/nozb1/no_smoke_cat_player_model/materials/cat_skin_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/no_smoke_cat_player_model/materials/cat_skin.vmat
+characters/models/nozb1/no_smoke_cat_player_model/materials/cat_smoke_vmat_g_tcolor_6bb027d5.vtex
+characters/models/nozb1/no_smoke_cat_player_model/materials/cat_smoke_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/no_smoke_cat_player_model/materials/cat_smoke.vmat
+characters/models/nozb1/no_smoke_cat_player_model/no_hitbox/body_vmorf.vtex
+characters/models/nozb1/no_smoke_cat_player_model/no_hitbox.vmdl

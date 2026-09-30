@@ -1,0 +1,35 @@
+# cs2-model-converter: saber_honkai_sk2modellimitedcolision, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/hmn_ag2/fate_series/saber_honkai/saber_honkai_sk2modellimitedcolision.vmdl
+# first person: 0 1 2 3
+agents/models/hmn_ag2/_versatility_arm/materials/hand_tex_png_9dffad3.vtex
+agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex_vmat_g_tmetalness_b99de324.vtex
+agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex_vmat_g_tnormal_aed807f.vtex
+agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex.vmat
+agents/models/hmn_ag2/fate_series/saber_honkai/materials/body_jpg_7c4a3fe4.vtex
+agents/models/hmn_ag2/fate_series/saber_honkai/materials/body_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/hmn_ag2/fate_series/saber_honkai/materials/body_vmat_g_tdiffusefalloff_aa1e6fc8.vtex
+agents/models/hmn_ag2/fate_series/saber_honkai/materials/body_vmat_g_tmetalness_1081f06e.vtex
+agents/models/hmn_ag2/fate_series/saber_honkai/materials/body_vmat_g_tnormal_aed807f.vtex
+materials/default/default_mask_tga_cac76a2f.vtex
+agents/models/hmn_ag2/fate_series/saber_honkai/materials/body.vmat
+agents/models/hmn_ag2/fate_series/saber_honkai/materials/clothes_jpg_e303057d.vtex
+agents/models/hmn_ag2/fate_series/saber_honkai/materials/clothes_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/hmn_ag2/fate_series/saber_honkai/materials/clothes_vmat_g_tdiffusefalloff_aa1e6fc8.vtex
+agents/models/hmn_ag2/fate_series/saber_honkai/materials/clothes_vmat_g_tmetalness_1081f06e.vtex
+agents/models/hmn_ag2/fate_series/saber_honkai/materials/clothes_vmat_g_tnormal_aed807f.vtex
+agents/models/hmn_ag2/fate_series/saber_honkai/materials/clothes.vmat
+agents/models/hmn_ag2/fate_series/saber_honkai/materials/face_jpg_69bfec16.vtex
+agents/models/hmn_ag2/fate_series/saber_honkai/materials/face_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/hmn_ag2/fate_series/saber_honkai/materials/face_vmat_g_tdiffusefalloff_aa1e6fc8.vtex
+agents/models/hmn_ag2/fate_series/saber_honkai/materials/face_vmat_g_tmetalness_1081f06e.vtex
+agents/models/hmn_ag2/fate_series/saber_honkai/materials/face_vmat_g_tnormal_aed807f.vtex
+agents/models/hmn_ag2/fate_series/saber_honkai/materials/face.vmat
+agents/models/hmn_ag2/fate_series/saber_honkai/materials/hair_jpg_b03901e3.vtex
+agents/models/hmn_ag2/fate_series/saber_honkai/materials/hair_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/hmn_ag2/fate_series/saber_honkai/materials/hair_vmat_g_tdiffusefalloff_aa1e6fc8.vtex
+agents/models/hmn_ag2/fate_series/saber_honkai/materials/hair_vmat_g_tmetalness_1081f06e.vtex
+agents/models/hmn_ag2/fate_series/saber_honkai/materials/hair_vmat_g_tnormal_aed807f.vtex
+agents/models/hmn_ag2/fate_series/saber_honkai/materials/hair.vmat
+agents/models/hmn_ag2/fate_series/saber_honkai/saber_honkai_sk2modellimitedcolision/body_vmorf.vtex
+agents/models/hmn_ag2/fate_series/saber_honkai/saber_honkai_sk2modellimitedcolision.vmdl

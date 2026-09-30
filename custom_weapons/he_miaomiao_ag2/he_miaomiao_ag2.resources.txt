@@ -1,0 +1,9 @@
+# cs2-model-converter: he_miaomiao_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/he_miaomiao_ag2/he_miaomiao_ag2.vmdl
+# weapon: weapon_hegrenade
+# skeleton: animation/skeletons/weapons/hegrenade.vnmskel
+phase2/weapons/exg/he_miaomiao/he_miaomiao_reda_vmat_g_tnormal_db396a5a.vtex
+phase2/weapons/exg/he_miaomiao/red_c_png_cf954f70.vtex
+phase2/weapons/exg/he_miaomiao/red_l_png_e077ce1.vtex
+phase2/weapons/exg/he_miaomiao/he_miaomiao_reda.vmat
+weapons/custom/he_miaomiao_ag2/he_miaomiao_ag2.vmdl

@@ -1,0 +1,7 @@
+# cs2-model-converter: the resources models/custom/santa_player_model_2/santa_player_model_2.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/santa_player_model_2/boneka_mat_color_png_88fa3e69.vtex
+materials/models/custom/santa_player_model_2/boneka_mat.vmat
+materials/models/custom/santa_player_model_2/santa_mat_color_png_e395def0.vtex
+materials/models/custom/santa_player_model_2/santa_mat.vmat
+models/custom/santa_player_model_2/santa_player_model_2.vmdl

@@ -1,0 +1,12 @@
+# cs2-model-converter: m9bayonet_ancient_d, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/m9bayonet_ancient_d/m9bayonet_ancient_d.vmdl
+# weapon: weapon_knife_m9_bayonet
+# skeleton: animation/skeletons/weapons/knife_m9.vnmskel
+models/kolka/standoff2/karam/color_tga_bec2891a.vtex
+models/kolka/standoff2/karam/color_vmat_g_tselfillummask_ff155607.vtex
+models/kolka/standoff2/karam/color.vmat
+models/kolka/standoff2/m9/m9_ao_png_c67a923.vtex
+models/kolka/standoff2/m9/m9_normal_png_75f87d04.vtex
+models/kolka/standoff2/m9/m9bayonet_ancient_d_png_8db2d04f.vtex
+models/kolka/standoff2/m9/m9bayonet_ancient_d.vmat
+weapons/custom/m9bayonet_ancient_d/m9bayonet_ancient_d.vmdl

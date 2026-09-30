@@ -1,0 +1,8 @@
+# cs2-model-converter: subway_jake_player_model_ag2, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: phase2/characters/models/nozb1/subway_jake_player_model/subway_jake_player_model_ag2.vmdl
+characters/models/nozb1/subway_jake_player_model/materials/body_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/subway_jake_player_model/materials/jake_normal_png_33002fa4.vtex
+characters/models/nozb1/subway_jake_player_model/materials/jake_png_bdacc82e.vtex
+characters/models/nozb1/subway_jake_player_model/materials/jake_specular_png_ecf059ff.vtex
+characters/models/nozb1/subway_jake_player_model/materials/body.vmat
+phase2/characters/models/nozb1/subway_jake_player_model/subway_jake_player_model_ag2.vmdl

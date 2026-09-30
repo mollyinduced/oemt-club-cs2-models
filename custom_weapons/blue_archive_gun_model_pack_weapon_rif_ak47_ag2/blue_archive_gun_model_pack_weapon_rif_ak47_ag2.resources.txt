@@ -1,0 +1,16 @@
+# cs2-model-converter: blue_archive_gun_model_pack_weapon_rif_ak47_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/blue_archive_gun_model_pack_weapon_rif_ak47_ag2/blue_archive_gun_model_pack_weapon_rif_ak47_ag2.vmdl
+# weapon: weapon_ak47
+# skeleton: animation/skeletons/weapons/ak47.vnmskel
+phase2/weapons/7ychu5/slot1/ba_ak_kokona/materials/ch0137_weapon_png_d3150205.vtex
+phase2/weapons/7ychu5/slot1/ba_ak_kokona/materials/default_obj_vmat_g_tmetalness_dfae0b86.vtex
+phase2/weapons/7ychu5/slot1/ba_ak_kokona/materials/default_obj.vmat
+phase2/weapons/7ychu5/slot1/ba_ak_kokona/materials/led_ammo_png_7340b5e5.vtex
+phase2/weapons/7ychu5/slot1/ba_ak_kokona/materials/led_ammo_png_cfc497ee.vtex
+phase2/weapons/7ychu5/slot1/ba_ak_kokona/materials/led_ammo_vmat_g_tnormal_53b47c48.vtex
+phase2/weapons/7ychu5/slot1/ba_ak_kokona/materials/led_ammo.vmat
+phase2/weapons/7ychu5/slot1/ba_ak_kokona/materials/led_ammo_10_vmat_g_tnormal_53b47c48.vtex
+phase2/weapons/7ychu5/slot1/ba_ak_kokona/materials/led_ammo_10.vmat
+phase2/weapons/7ychu5/slot1/ba_ak_kokona/materials/led_ammo_100_vmat_g_tnormal_53b47c48.vtex
+phase2/weapons/7ychu5/slot1/ba_ak_kokona/materials/led_ammo_100.vmat
+weapons/custom/blue_archive_gun_model_pack_weapon_rif_ak47_ag2/blue_archive_gun_model_pack_weapon_rif_ak47_ag2.vmdl

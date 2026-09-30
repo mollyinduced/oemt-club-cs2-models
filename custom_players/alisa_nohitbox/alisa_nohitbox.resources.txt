@@ -1,0 +1,39 @@
+# cs2-model-converter: alisa_nohitbox, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/otakku/alisa/alisa_nohitbox.vmdl
+# first person: 0 2 12 15
+agents/models/otakku/alisa/materials/body1_vmat_g_tambientocclusion_dd98a23c.vtex
+agents/models/otakku/alisa/materials/body1_vmat_g_tmetalness_b99de324.vtex
+agents/models/otakku/alisa/materials/body1_vmat_g_tnormal_5ec18b52.vtex
+agents/models/otakku/alisa/materials/tex_0015_0_png_47495101.vtex
+agents/models/otakku/alisa/materials/body1.vmat
+agents/models/otakku/alisa/materials/body2_vmat_g_tambientocclusion_dd98a23c.vtex
+agents/models/otakku/alisa/materials/body2_vmat_g_tmetalness_b99de324.vtex
+agents/models/otakku/alisa/materials/body2_vmat_g_tnormal_5ec18b52.vtex
+agents/models/otakku/alisa/materials/tex_0017_0_png_ff453c4b.vtex
+agents/models/otakku/alisa/materials/body2.vmat
+agents/models/otakku/alisa/materials/eyes_png_c3c6ba68.vtex
+agents/models/otakku/alisa/materials/eyes_vmat_g_tambientocclusion_dd98a23c.vtex
+agents/models/otakku/alisa/materials/eyes_vmat_g_tmetalness_b99de324.vtex
+agents/models/otakku/alisa/materials/eyes_vmat_g_tnormal_5ec18b52.vtex
+agents/models/otakku/alisa/materials/eyes.vmat
+agents/models/otakku/alisa/materials/face_vmat_g_tambientocclusion_dd98a23c.vtex
+agents/models/otakku/alisa/materials/face_vmat_g_tmetalness_b99de324.vtex
+agents/models/otakku/alisa/materials/face_vmat_g_tnormal_c89960f0.vtex
+agents/models/otakku/alisa/materials/tex_0018_0_png_eca16db6.vtex
+agents/models/otakku/alisa/materials/face.vmat
+agents/models/otakku/alisa/materials/hair_vmat_g_tambientocclusion_dd98a23c.vtex
+agents/models/otakku/alisa/materials/hair_vmat_g_tmetalness_b99de324.vtex
+agents/models/otakku/alisa/materials/hair_vmat_g_tnormal_5ec18b52.vtex
+agents/models/otakku/alisa/materials/tex_0019_0_png_ef3f9a17.vtex
+agents/models/otakku/alisa/materials/hair.vmat
+agents/models/otakku/alisa/materials/hat_vmat_g_tambientocclusion_dd98a23c.vtex
+agents/models/otakku/alisa/materials/hat_vmat_g_tmetalness_b99de324.vtex
+agents/models/otakku/alisa/materials/hat_vmat_g_tnormal_5ec18b52.vtex
+agents/models/otakku/alisa/materials/tex_0020_0_png_614daeec.vtex
+agents/models/otakku/alisa/materials/hat.vmat
+agents/models/otakku/alisa/materials/skin_vmat_g_tambientocclusion_dd98a23c.vtex
+agents/models/otakku/alisa/materials/skin_vmat_g_tmetalness_b99de324.vtex
+agents/models/otakku/alisa/materials/skin_vmat_g_tnormal_5ec18b52.vtex
+agents/models/otakku/alisa/materials/tex_0016_0_png_e7dfa4bf.vtex
+agents/models/otakku/alisa/materials/skin.vmat
+agents/models/otakku/alisa/alisa_nohitbox.vmdl

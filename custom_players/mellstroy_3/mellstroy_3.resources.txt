@@ -1,0 +1,21 @@
+# cs2-model-converter: the resources models/custom/mellstroy_3/mellstroy_3.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/mellstroy_3/accs_diff_000_b_uni_color_png_fd911eed.vtex
+materials/models/custom/mellstroy_3/accs_diff_000_b_uni.vmat
+materials/models/custom/mellstroy_3/cross01_color_png_23862281.vtex
+materials/models/custom/mellstroy_3/cross01.vmat
+materials/models/custom/mellstroy_3/eye_color_png_5cce3749.vtex
+materials/models/custom/mellstroy_3/eye.vmat
+materials/models/custom/mellstroy_3/head_color_png_cdbec2c0.vtex
+materials/models/custom/mellstroy_3/head.vmat
+materials/models/custom/mellstroy_3/lowr_diff_000_k_whi_color_png_3b05e163.vtex
+materials/models/custom/mellstroy_3/lowr_diff_000_k_whi.vmat
+materials/models/custom/mellstroy_3/p_lwrist_diff_000_a_color_png_aaac65a.vtex
+materials/models/custom/mellstroy_3/p_lwrist_diff_000_a.vmat
+materials/models/custom/mellstroy_3/teef_diff_019_a_uni_color_png_b2433353.vtex
+materials/models/custom/mellstroy_3/teef_diff_019_a_uni.vmat
+materials/models/custom/mellstroy_3/uppr_diff_004_e_whi_color_png_af59b0b2.vtex
+materials/models/custom/mellstroy_3/uppr_diff_004_e_whi.vmat
+materials/models/custom/mellstroy_3/uppr_diff_005_e_whi_color_png_31100e99.vtex
+materials/models/custom/mellstroy_3/uppr_diff_005_e_whi.vmat
+models/custom/mellstroy_3/mellstroy_3.vmdl

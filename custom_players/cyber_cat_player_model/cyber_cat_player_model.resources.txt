@@ -1,0 +1,9 @@
+# cs2-model-converter: the resources models/custom/cyber_cat_player_model/cyber_cat_player_model.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/cyber_cat_player_model/body_c_color_png_eaeccc4e.vtex
+materials/models/custom/cyber_cat_player_model/body_c.vmat
+materials/models/custom/cyber_cat_player_model/face_c4_color_png_6cbdbe97.vtex
+materials/models/custom/cyber_cat_player_model/face_c4.vmat
+materials/models/custom/cyber_cat_player_model/hair_c_color_png_5190fcc5.vtex
+materials/models/custom/cyber_cat_player_model/hair_c.vmat
+models/custom/cyber_cat_player_model/cyber_cat_player_model.vmdl

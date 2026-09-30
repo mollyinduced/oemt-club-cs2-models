@@ -1,0 +1,17 @@
+# cs2-model-converter: m4a4_kmomm, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/m4a4_kmomm/m4a4_kmomm.vmdl
+# weapon: weapon_m4a1
+# skeleton: animation/skeletons/weapons/m4a4.vnmskel
+models/weapons/exg/tokyocold/m4a4_kmomm/lower_receiver_d_tga_7ff56e81.vtex
+models/weapons/exg/tokyocold/m4a4_kmomm/lower_receiver_vmat_g_tambientocclusion_d2368501.vtex
+models/weapons/exg/tokyocold/m4a4_kmomm/lower_receiver_vmat_g_tselfillummask_24f4363.vtex
+models/weapons/exg/tokyocold/m4a4_kmomm/lower_receiver.vmat
+models/weapons/exg/tokyocold/m4a4_kmomm/m4a4_kmomm_mag_vmat_g_tambientocclusion_d2368501.vtex
+models/weapons/exg/tokyocold/m4a4_kmomm/m4a4_kmomm_mag_vmat_g_tselfillummask_24f4363.vtex
+models/weapons/exg/tokyocold/m4a4_kmomm/mag_d_tga_ee1175c9.vtex
+models/weapons/exg/tokyocold/m4a4_kmomm/m4a4_kmomm_mag.vmat
+models/weapons/exg/tokyocold/m4a4_kmomm/upper_receiver_d_tga_d4108718.vtex
+models/weapons/exg/tokyocold/m4a4_kmomm/upper_receiver_vmat_g_tambientocclusion_b7989b8f.vtex
+models/weapons/exg/tokyocold/m4a4_kmomm/upper_receiver_vmat_g_tselfillummask_24f4363.vtex
+models/weapons/exg/tokyocold/m4a4_kmomm/upper_receiver.vmat
+weapons/custom/m4a4_kmomm/m4a4_kmomm.vmdl

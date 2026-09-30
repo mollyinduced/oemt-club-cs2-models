@@ -1,0 +1,22 @@
+# cs2-model-converter: v_nemesis_m4a1, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/v_nemesis_m4a1/v_nemesis_m4a1.vmdl
+# weapon: weapon_m4a1
+# skeleton: animation/skeletons/weapons/m4a4.vnmskel
+models/weapons/dj_ammo/djammo_0_00l_vmat_g_tnormal_53b47c48.vtex
+models/weapons/dj_ammo/led_ammo_png_526694bf.vtex
+models/weapons/dj_ammo/led_ammo_png_5feeebe4.vtex
+models/weapons/dj_ammo/djammo_0_00l.vmat
+models/weapons/dj_ammo/djammo_0_00r_vmat_g_tnormal_53b47c48.vtex
+models/weapons/dj_ammo/djammo_0_00r.vmat
+models/weapons/dj_ammo/djammo_0_0l_vmat_g_tnormal_53b47c48.vtex
+models/weapons/dj_ammo/djammo_0_0l.vmat
+models/weapons/dj_ammo/djammo_0_0r_vmat_g_tnormal_53b47c48.vtex
+models/weapons/dj_ammo/djammo_0_0r.vmat
+models/weapons/exg/tokyocold/nemesis/ads_tga_1ca9e7de.vtex
+models/weapons/exg/tokyocold/nemesis/ads_vmat_g_tselfillummask_2439da44.vtex
+models/weapons/exg/tokyocold/nemesis/ads.vmat
+models/weapons/exg/tokyocold/nemesis/h1_tga_a3936e3f.vtex
+models/weapons/exg/tokyocold/nemesis/h1n_tga_f4cefd79.vtex
+models/weapons/exg/tokyocold/nemesis/nemesis_lgnd_v22_ophitman_main_emissivetexture_png_f5209163.vtex
+models/weapons/exg/tokyocold/nemesis/nemesis_lgnd_v22_ophitman_main.vmat
+weapons/custom/v_nemesis_m4a1/v_nemesis_m4a1.vmdl

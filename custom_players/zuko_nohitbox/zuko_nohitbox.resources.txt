@@ -1,0 +1,19 @@
+# cs2-model-converter: zuko_nohitbox, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/otakku/zuko/zuko_nohitbox.vmdl
+# first person: 0 2 12 15
+agents/models/otakku/zuko/materials/stevia_costume00_basecolor_png_aeac9310.vtex
+agents/models/otakku/zuko/materials/stevia_costume00_basecolor_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/otakku/zuko/materials/stevia_costume00_basecolor_vmat_g_tmetalness_b99de324.vtex
+agents/models/otakku/zuko/materials/stevia_costume00_basecolor_vmat_g_tnormal_2984f4a9.vtex
+agents/models/otakku/zuko/materials/stevia_costume00_basecolor.vmat
+agents/models/otakku/zuko/materials/stevia_expressions_basecolor_png_2841c40f.vtex
+agents/models/otakku/zuko/materials/stevia_expressions_basecolor_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/otakku/zuko/materials/stevia_expressions_basecolor_vmat_g_tmetalness_b99de324.vtex
+agents/models/otakku/zuko/materials/stevia_expressions_basecolor_vmat_g_tnormal_2984f4a9.vtex
+agents/models/otakku/zuko/materials/stevia_expressions_basecolor.vmat
+agents/models/otakku/zuko/materials/stevia_sword_basecolor_png_44651f21.vtex
+agents/models/otakku/zuko/materials/stevia_sword_basecolor_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/otakku/zuko/materials/stevia_sword_basecolor_vmat_g_tmetalness_b99de324.vtex
+agents/models/otakku/zuko/materials/stevia_sword_basecolor_vmat_g_tnormal_2984f4a9.vtex
+agents/models/otakku/zuko/materials/stevia_sword_basecolor.vmat
+agents/models/otakku/zuko/zuko_nohitbox.vmdl

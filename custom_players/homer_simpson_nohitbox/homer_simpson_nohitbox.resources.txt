@@ -1,0 +1,23 @@
+# cs2-model-converter: homer_simpson_nohitbox, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/otakku/homer_simpson/homer_simpson_nohitbox.vmdl
+# first person: 0 2 12 15
+agents/models/otakku/homer_simpson/materials/black_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/otakku/homer_simpson/materials/black_vmat_g_tcolor_20638b28.vtex
+agents/models/otakku/homer_simpson/materials/black_vmat_g_tmetalness_1081f06e.vtex
+agents/models/otakku/homer_simpson/materials/black_vmat_g_tnormal_5ec18b52.vtex
+agents/models/otakku/homer_simpson/materials/black.vmat
+agents/models/otakku/homer_simpson/materials/body_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/otakku/homer_simpson/materials/body_vmat_g_tmetalness_1081f06e.vtex
+agents/models/otakku/homer_simpson/materials/t_silentnovel_vane_body_cl_png_821e5f95.vtex
+agents/models/otakku/homer_simpson/materials/t_silentnovel_vane_body_dfl_png_c29ae77.vtex
+agents/models/otakku/homer_simpson/materials/t_silentnovel_vane_body_n_png_25b347a2.vtex
+agents/models/otakku/homer_simpson/materials/body.vmat
+agents/models/otakku/homer_simpson/materials/head_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/otakku/homer_simpson/materials/head_vmat_g_tmetalness_1081f06e.vtex
+agents/models/otakku/homer_simpson/materials/t_silentnovel_vane_head_cl_png_de3ae04e.vtex
+agents/models/otakku/homer_simpson/materials/t_silentnovel_vane_head_dfl_png_bfb53da6.vtex
+agents/models/otakku/homer_simpson/materials/t_silentnovel_vane_head_n_png_1a642090.vtex
+agents/models/otakku/homer_simpson/materials/head.vmat
+agents/models/otakku/homer_simpson/materials/outline_vmat_g_tcolor_20638b28.vtex
+agents/models/otakku/homer_simpson/materials/outline.vmat
+agents/models/otakku/homer_simpson/homer_simpson_nohitbox.vmdl

@@ -1,0 +1,5 @@
+# cs2-model-converter: the resources models/custom/no_hitbox_23/no_hitbox_23.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/no_hitbox_23/kopatel_mat_color_png_ec27bee2.vtex
+materials/models/custom/no_hitbox_23/kopatel_mat.vmat
+models/custom/no_hitbox_23/no_hitbox_23.vmdl

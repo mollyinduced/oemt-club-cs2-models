@@ -1,0 +1,9 @@
+# cs2-model-converter: the resources models/custom/marine_little_n_model/marine_little_n_model.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/marine_little_n_model/body_color_png_b6337a56.vtex
+materials/models/custom/marine_little_n_model/body.vmat
+materials/models/custom/marine_little_n_model/coat_color_png_6adc562e.vtex
+materials/models/custom/marine_little_n_model/coat.vmat
+materials/models/custom/marine_little_n_model/hair_color_png_245575a4.vtex
+materials/models/custom/marine_little_n_model/hair.vmat
+models/custom/marine_little_n_model/marine_little_n_model.vmdl

@@ -1,0 +1,31 @@
+# cs2-model-converter: galbrena, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/asmodeus/galbrena/galbrena.vmdl
+# first person: 0 1 2 3
+characters/models/asmodeus/galbrena/galbrena/body_vmorf.vtex
+characters/models/asmodeus/galbrena/materials/galbrena_bhair_png_c8dba0ce.vtex
+characters/models/asmodeus/galbrena/materials/galbrena_bhair_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/galbrena/materials/galbrena_bhair.vmat
+characters/models/asmodeus/galbrena/materials/galbrena_eye_png_3a6ea901.vtex
+characters/models/asmodeus/galbrena/materials/galbrena_eye_png_59f9ef8c.vtex
+characters/models/asmodeus/galbrena/materials/galbrena_eye.vmat
+characters/models/asmodeus/galbrena/materials/galbrena_eyeb_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/galbrena/materials/galbrena_eyeb.vmat
+characters/models/asmodeus/galbrena/materials/galbrena_eyehi_png_4fe2d913.vtex
+characters/models/asmodeus/galbrena/materials/galbrena_eyehi_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/galbrena/materials/galbrena_eyehi.vmat
+characters/models/asmodeus/galbrena/materials/galbrena_face_png_31ccd1b0.vtex
+characters/models/asmodeus/galbrena/materials/galbrena_face_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/galbrena/materials/galbrena_face.vmat
+characters/models/asmodeus/galbrena/materials/galbrena_fhair_png_c4472948.vtex
+characters/models/asmodeus/galbrena/materials/galbrena_fhair_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/galbrena/materials/galbrena_fhair.vmat
+characters/models/asmodeus/galbrena/materials/galbrena_upbody_png_6d199381.vtex
+characters/models/asmodeus/galbrena/materials/galbrena_upbody_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/galbrena/materials/galbrena_upbody.vmat
+characters/models/asmodeus/galbrena/materials/galbrena_upskin_png_4c939ee.vtex
+characters/models/asmodeus/galbrena/materials/galbrena_upskin_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/galbrena/materials/galbrena_upskin.vmat
+characters/models/asmodeus/galbrena/materials/galbrena_wing_png_3f00a0ce.vtex
+characters/models/asmodeus/galbrena/materials/galbrena_wing_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/galbrena/materials/galbrena_wing.vmat
+characters/models/asmodeus/galbrena/galbrena.vmdl

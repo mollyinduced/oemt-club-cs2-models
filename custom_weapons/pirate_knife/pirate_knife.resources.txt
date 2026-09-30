@@ -1,0 +1,10 @@
+# cs2-model-converter: pirate_knife, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/pirate_knife/pirate_knife.vmdl
+# weapon: weapon_knife_cord
+# skeleton: animation/skeletons/weapons/knife_cord.vnmskel
+weapons/nozb1/knife/pirate_knife/materials/base_color_normal_png_7198c488.vtex
+weapons/nozb1/knife/pirate_knife/materials/base_color_png_5a14bc26.vtex
+weapons/nozb1/knife/pirate_knife/materials/basecolor.vmat
+weapons/nozb1/knife/pirate_knife/materials/self_vmat_g_tselfillummask_ff155607.vtex
+weapons/nozb1/knife/pirate_knife/materials/self.vmat
+weapons/custom/pirate_knife/pirate_knife.vmdl

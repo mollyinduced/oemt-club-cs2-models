@@ -1,0 +1,13 @@
+# cs2-model-converter: nezuko_player_model, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/ag2_pt/nezuko_player_model/nezuko_player_model.vmdl
+# first person: 0 2 12 15
+agents/models/ag2_pt/nezuko_player_model/materials/nezuko_body_png_f94befbf.vtex
+agents/models/ag2_pt/nezuko_player_model/materials/nezuko_body_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2_pt/nezuko_player_model/materials/nezuko_normal_png_6db8333.vtex
+agents/models/ag2_pt/nezuko_player_model/materials/nezuko_body.vmat
+agents/models/ag2_pt/nezuko_player_model/materials/nezuko_head_png_c4f3c9ae.vtex
+agents/models/ag2_pt/nezuko_player_model/materials/nezuko_head_vmat_g_tmetalness_b99de324.vtex
+agents/models/ag2_pt/nezuko_player_model/materials/nezuko_head.vmat
+agents/models/ag2_pt/nezuko_player_model/materials/outliner_vmat_g_tcolor_6b6e411d.vtex
+agents/models/ag2_pt/nezuko_player_model/materials/outliner.vmat
+agents/models/ag2_pt/nezuko_player_model/nezuko_player_model.vmdl

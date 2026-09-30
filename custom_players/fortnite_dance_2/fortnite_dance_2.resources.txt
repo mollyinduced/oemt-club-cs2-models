@@ -1,0 +1,15 @@
+# cs2-model-converter: the resources models/custom/fortnite_dance_2/fortnite_dance_2.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/fortnite_dance_2/ctm_sas_body_color_png_551c9a0c.vtex
+materials/models/custom/fortnite_dance_2/ctm_sas_body.vmat
+materials/models/custom/fortnite_dance_2/ctm_sas_bodylegs_color_png_b9796c68.vtex
+materials/models/custom/fortnite_dance_2/ctm_sas_bodylegs.vmat
+materials/models/custom/fortnite_dance_2/ctm_sas_head_gasmask_color_png_d18efbc9.vtex
+materials/models/custom/fortnite_dance_2/ctm_sas_head_gasmask.vmat
+materials/models/custom/fortnite_dance_2/ctm_sas_lenses_color_png_d60b3f82.vtex
+materials/models/custom/fortnite_dance_2/ctm_sas_lenses.vmat
+materials/models/custom/fortnite_dance_2/glove_hardknuckle_black_color_png_8be9a625.vtex
+materials/models/custom/fortnite_dance_2/glove_hardknuckle_black.vmat
+materials/models/custom/fortnite_dance_2/w_eq_defuser_color_png_11753119.vtex
+materials/models/custom/fortnite_dance_2/w_eq_defuser.vmat
+models/custom/fortnite_dance_2/fortnite_dance_2.vmdl

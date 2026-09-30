@@ -1,0 +1,12 @@
+# cs2-model-converter: fire_raven_ak47, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/fire_raven_ak47/fire_raven_ak47.vmdl
+# weapon: weapon_ak47
+# skeleton: animation/skeletons/weapons/ak47.vnmskel
+phase2/weapons/models/abkam/fire_raven_ak47/fire_raven_ak47_ao_png_c8659448.vtex
+phase2/weapons/models/abkam/fire_raven_ak47/fire_raven_ak47_basecolor_png_a8a27cb9.vtex
+phase2/weapons/models/abkam/fire_raven_ak47/fire_raven_ak47_normalmap_png_744c13be.vtex
+phase2/weapons/models/abkam/fire_raven_ak47/1_fire_raven_ak47.vmat
+phase2/weapons/models/abkam/fire_raven_ak47/ice_png_22b59ba.vtex
+phase2/weapons/models/abkam/fire_raven_ak47/ice_png_9c0648b6.vtex
+phase2/weapons/models/abkam/fire_raven_ak47/2_fire_raven_ak47.vmat
+weapons/custom/fire_raven_ak47/fire_raven_ak47.vmdl

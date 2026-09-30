@@ -1,0 +1,27 @@
+# cs2-model-converter: m4a1s_aur1c, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/m4a1s_aur1c/m4a1s_aur1c.vmdl
+# weapon: weapon_m4a1_silencer
+# skeleton: animation/skeletons/weapons/m4a1_silencer.vnmskel
+weapons/models/m4a1s_aur1c/materials/material_0_base_color_em_png_c3db759c.vtex
+weapons/models/m4a1s_aur1c/materials/material_0_base_color_png_4180ea91.vtex
+weapons/models/m4a1s_aur1c/materials/material_0_normal_png_c5b59e9c.vtex
+weapons/models/m4a1s_aur1c/materials/body.vmat
+weapons/models/m4a1s_aur1c/materials/glass_vmat_g_tselfillummask_ff155607.vtex
+weapons/models/m4a1s_aur1c/materials/mi_ar_m4a1_skin_porsche_glass_base_color_png_21cca2a0.vtex
+weapons/models/m4a1s_aur1c/materials/glass.vmat
+weapons/models/m4a1s_aur1c/materials/7e94dbae734d410bb08584029397ce0b_png_f549f2df.vtex
+weapons/models/m4a1s_aur1c/materials/light1_vmat_g_tselfillummask_ff155607.vtex
+weapons/models/m4a1s_aur1c/materials/light1.vmat
+weapons/models/m4a1s_aur1c/materials/light2_vmat_g_tselfillummask_ff155607.vtex
+weapons/models/m4a1s_aur1c/materials/material_2_base_color_png_fe4403f7.vtex
+weapons/models/m4a1s_aur1c/materials/light2.vmat
+weapons/models/m4a1s_aur1c/materials/light3_vmat_g_tselfillummask_ff155607.vtex
+weapons/models/m4a1s_aur1c/materials/material_3_base_color_png_cb505b20.vtex
+weapons/models/m4a1s_aur1c/materials/light3.vmat
+weapons/models/m4a1s_aur1c/materials/loading_png_947d9701.vtex
+weapons/models/m4a1s_aur1c/materials/loading_png_e2826013.vtex
+weapons/models/m4a1s_aur1c/materials/loading.vmat
+weapons/models/m4a1s_aur1c/materials/mi_ar_silencer_musicbox_base_color_png_ef51ac09.vtex
+weapons/models/m4a1s_aur1c/materials/mi_ar_silencer_musicbox_normal_png_99cdf11a.vtex
+weapons/models/m4a1s_aur1c/materials/silencer.vmat
+weapons/custom/m4a1s_aur1c/m4a1s_aur1c.vmdl

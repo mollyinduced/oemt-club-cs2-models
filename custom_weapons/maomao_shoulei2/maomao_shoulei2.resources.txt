@@ -1,0 +1,11 @@
+# cs2-model-converter: maomao_shoulei2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/maomao_shoulei2/maomao_shoulei2.vmdl
+# weapon: weapon_hegrenade
+# skeleton: animation/skeletons/weapons/hegrenade.vnmskel
+weapons/models/tioplato/maomao_shoulei/materials/1/t_weap_michele_neko-bot_112_d_png_91bd5491.vtex
+weapons/models/tioplato/maomao_shoulei/materials/1/t_weap_michele_neko-bot_112_mask1_png_9448f624.vtex
+weapons/models/tioplato/maomao_shoulei/materials/1/t_weap_michele_neko-bot_112_n_png_c6572c67.vtex
+weapons/models/tioplato/maomao_shoulei/materials/1/1.vmat
+weapons/models/tioplato/maomao_shoulei/materials/transparense_vmat_g_tcolor_5a468a25.vtex
+weapons/models/tioplato/maomao_shoulei/materials/transparense.vmat
+weapons/custom/maomao_shoulei2/maomao_shoulei2.vmdl

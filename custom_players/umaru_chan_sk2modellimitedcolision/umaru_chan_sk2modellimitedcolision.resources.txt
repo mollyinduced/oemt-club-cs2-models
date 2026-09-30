@@ -1,0 +1,14 @@
+# cs2-model-converter: umaru_chan_sk2modellimitedcolision, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/hmn_ag2/himouto_umaru_chan/umaru_chan/umaru_chan_sk2modellimitedcolision.vmdl
+# first person: 0 1 2 3
+agents/models/hmn_ag2/_versatility_arm/materials/hand_tex_png_9dffad3.vtex
+agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex_vmat_g_tmetalness_b99de324.vtex
+agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex_vmat_g_tnormal_aed807f.vtex
+agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex.vmat
+agents/models/hmn_ag2/himouto_umaru_chan/umaru_chan/materials/umaru_jpg_cb0b0e71.vtex
+agents/models/hmn_ag2/himouto_umaru_chan/umaru_chan/materials/umaru_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/hmn_ag2/himouto_umaru_chan/umaru_chan/materials/umaru_vmat_g_tmetalness_ee87d4b4.vtex
+agents/models/hmn_ag2/himouto_umaru_chan/umaru_chan/materials/umaru_vmat_g_tnormal_aed807f.vtex
+agents/models/hmn_ag2/himouto_umaru_chan/umaru_chan/materials/umaru.vmat
+agents/models/hmn_ag2/himouto_umaru_chan/umaru_chan/umaru_chan_sk2modellimitedcolision.vmdl

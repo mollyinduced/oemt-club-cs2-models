@@ -1,0 +1,27 @@
+# cs2-model-converter: hoshino_swim_ag2, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: phase2/characters/models/exg/bot04/hoshino_swim/hoshino_swim_ag2.vmdl
+characters/models/exg/bot04/hoshino_swim/c00_body_vmat_g_tmetalness_10974e8a.vtex
+characters/models/exg/bot04/hoshino_swim/c00_body_vmat_g_tnormal_ce38f34.vtex
+characters/models/exg/bot04/hoshino_swim/tex/c00_body_c_png_3089fcae.vtex
+characters/models/exg/bot04/hoshino_swim/c00_body.vmat
+characters/models/exg/bot04/hoshino_swim/glass_vmat_g_tcolor_85b41b22.vtex
+characters/models/exg/bot04/hoshino_swim/glass_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/exg/bot04/hoshino_swim/glass_vmat_g_tnormal_a1e47e21.vtex
+characters/models/exg/bot04/hoshino_swim/glass.vmat
+characters/models/exg/bot04/hoshino_swim/image_vmat_g_tnormal_53b47c48.vtex
+characters/models/exg/bot04/hoshino_swim/image_vmat_g_tselfillummask_ff155607.vtex
+characters/models/exg/bot04/hoshino_swim/tex/watch_png_ffb3e6fc.vtex
+characters/models/exg/bot04/hoshino_swim/image.vmat
+characters/models/exg/bot04/hoshino_swim/metal_vmat_g_tcolor_d3f82bde.vtex
+characters/models/exg/bot04/hoshino_swim/metal_vmat_g_tmetalness_3bb3def4.vtex
+characters/models/exg/bot04/hoshino_swim/tex/metal_png_1a0a3861.vtex
+characters/models/exg/bot04/hoshino_swim/metal.vmat
+characters/models/exg/bot04/hoshino_swim/tex/nomal2_png_455109ad.vtex
+characters/models/exg/bot04/hoshino_swim/watch_vmat_g_tcolor_6b6e411d.vtex
+characters/models/exg/bot04/hoshino_swim/watch_vmat_g_tmetalness_1081f06e.vtex
+characters/models/exg/bot04/hoshino_swim/watch.vmat
+characters/models/exg/bot04/hoshino_swim/tex/yz_png_c1d95e08.vtex
+characters/models/exg/bot04/hoshino_swim/yz_vmat_g_tmetalness_10974e8a.vtex
+characters/models/exg/bot04/hoshino_swim/yz_vmat_g_tnormal_53b47c48.vtex
+characters/models/exg/bot04/hoshino_swim/yz.vmat
+phase2/characters/models/exg/bot04/hoshino_swim/hoshino_swim_ag2.vmdl

@@ -1,0 +1,41 @@
+# cs2-model-converter: maki_nohitbox, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/otakku/maki/maki_nohitbox.vmdl
+# first person: 0 2 12 15
+agents/models/otakku/maki/materials/bag_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/otakku/maki/materials/bag_vmat_g_tmetalness_1081f06e.vtex
+agents/models/otakku/maki/materials/bag_vmat_g_tnormal_d52512a9.vtex
+agents/models/otakku/maki/materials/rucksack_tex_png_bd8e111c.vtex
+agents/models/otakku/maki/materials/bag.vmat
+agents/models/otakku/maki/materials/body_tex_png_462d525f.vtex
+agents/models/otakku/maki/materials/body_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/otakku/maki/materials/body_vmat_g_tmetalness_1081f06e.vtex
+agents/models/otakku/maki/materials/body_vmat_g_tnormal_d52512a9.vtex
+agents/models/otakku/maki/materials/body.vmat
+agents/models/otakku/maki/materials/clorh_tex_png_52329233.vtex
+agents/models/otakku/maki/materials/cloth_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/otakku/maki/materials/cloth_vmat_g_tmetalness_1081f06e.vtex
+agents/models/otakku/maki/materials/cloth_vmat_g_tnormal_d52512a9.vtex
+agents/models/otakku/maki/materials/cloth.vmat
+agents/models/otakku/maki/materials/hair_tex_png_7287d9c4.vtex
+agents/models/otakku/maki/materials/hair_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/otakku/maki/materials/hair_vmat_g_tmetalness_1081f06e.vtex
+agents/models/otakku/maki/materials/hair_vmat_g_tnormal_d52512a9.vtex
+agents/models/otakku/maki/materials/hair.vmat
+agents/models/otakku/maki/materials/halo_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/otakku/maki/materials/halo_vmat_g_tcolor_f3418d1.vtex
+agents/models/otakku/maki/materials/halo_vmat_g_tmetalness_ee87d4b4.vtex
+agents/models/otakku/maki/materials/halo_vmat_g_tnormal_c7d146ff.vtex
+agents/models/otakku/maki/materials/halo_vmat_g_tselfillummask_ff155607.vtex
+agents/models/otakku/maki/materials/halo.vmat
+agents/models/otakku/maki/materials/halo_metal_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/otakku/maki/materials/halo_metal_vmat_g_tnormal_c7d146ff.vtex
+agents/models/otakku/maki/materials/matcap_metal1_png_1fc0b8dc.vtex
+agents/models/otakku/maki/materials/matcap_metal1_png_91757643.vtex
+agents/models/otakku/maki/materials/metal_tex_png_8eba00d2.vtex
+agents/models/otakku/maki/materials/halo_metal.vmat
+agents/models/otakku/maki/materials/clorh2_tex_png_c68908ac.vtex
+agents/models/otakku/maki/materials/legs_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/models/otakku/maki/materials/legs_vmat_g_tmetalness_1081f06e.vtex
+agents/models/otakku/maki/materials/legs_vmat_g_tnormal_d52512a9.vtex
+agents/models/otakku/maki/materials/legs.vmat
+agents/models/otakku/maki/maki_nohitbox.vmdl

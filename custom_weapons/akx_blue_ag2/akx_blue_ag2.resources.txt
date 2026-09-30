@@ -1,0 +1,9 @@
+# cs2-model-converter: akx_blue_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/akx_blue_ag2/akx_blue_ag2.vmdl
+# weapon: weapon_ak47
+# skeleton: animation/skeletons/weapons/ak47.vnmskel
+weapons/nozb1/vip/akx_blue/materials/a_emiss_png_cebc9196.vtex
+weapons/nozb1/vip/akx_blue/materials/a_normal_png_35ff66cb.vtex
+weapons/nozb1/vip/akx_blue/materials/a_png_dde5f4c1.vtex
+weapons/nozb1/vip/akx_blue/materials/aakx_mat.vmat
+weapons/custom/akx_blue_ag2/akx_blue_ag2.vmdl

@@ -1,0 +1,8 @@
+# cs2-model-converter: darth_vader_player_model_4, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: agents/models/ag2/darth_vader_player_model/darth_vader_player_model.vmdl
+# first person: 0 2 12 15
+agents/models/ag2/darth_vader_player_model/materials/body_ao_png_100e10e.vtex
+agents/models/ag2/darth_vader_player_model/materials/body_normal_png_82ea13c.vtex
+agents/models/ag2/darth_vader_player_model/materials/body_png_19d17df4.vtex
+agents/models/ag2/darth_vader_player_model/materials/body.vmat
+agents/models/ag2/darth_vader_player_model/darth_vader_player_model.vmdl

@@ -1,0 +1,10 @@
+# cs2-model-converter: m4_fool, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/m4_fool/m4_fool.vmdl
+# weapon: weapon_m4a1
+# skeleton: animation/skeletons/weapons/m4a4.vnmskel
+models/kolka/m4_fool/color_jpg_211ceab9.vtex
+models/kolka/m4_fool/fool_vmat_g_tambientocclusion_9782fd5c.vtex
+models/kolka/m4_fool/norm_jpg_f642bfe4.vtex
+models/kolka/m4_fool/self_tga_9084cf7e.vtex
+models/kolka/m4_fool/fool.vmat
+weapons/custom/m4_fool/m4_fool.vmdl

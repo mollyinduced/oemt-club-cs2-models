@@ -1,0 +1,14 @@
+# cs2-model-converter: karambit_prs, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/karambit_prs/karambit_prs.vmdl
+# weapon: weapon_knife_karambit
+# skeleton: animation/skeletons/weapons/knife_karambit.vnmskel
+weapons/models/karambit_prs/materials/karambit_prs_vmat_g_tselfillummask_47ca5647.vtex
+weapons/models/karambit_prs/materials/weapons_models_knife_knife_karambit_materials_weapon_knife_karambit.vmat_base_color_png_63d93fd6.vtex
+weapons/models/karambit_prs/materials/weapons_models_knife_knife_karambit_materials_weapon_knife_karambit.vmat_metallic_png_72a24394.vtex
+weapons/models/karambit_prs/materials/weapons_models_knife_knife_karambit_materials_weapon_knife_karambit.vmat_normal_directx_png_2fbc430b.vtex
+weapons/models/karambit_prs/materials/karambit_prs.vmat
+weapons/models/karambit_prs/materials/7e94dbae734d410bb08584029397ce0b_png_f8ec9205.vtex
+weapons/models/karambit_prs/materials/mb_vmat_g_tnormal_53b47c48.vtex
+weapons/models/karambit_prs/materials/mb_vmat_g_tselfillummask_ff155607.vtex
+weapons/models/karambit_prs/materials/mb.vmat
+weapons/custom/karambit_prs/karambit_prs.vmdl

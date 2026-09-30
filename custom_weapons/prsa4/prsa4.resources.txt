@@ -1,0 +1,8 @@
+# cs2-model-converter: prsa4, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/prsa4/prsa4.vmdl
+# weapon: weapon_m4a1
+# skeleton: animation/skeletons/weapons/m4a4.vnmskel
+weapons/models/ub/prsa4/materials/weapons_models_m4a4_materials_weapon_rif_m4a4.vmat_basecolor_srgb_png_47000864.vtex
+weapons/models/ub/prsa4/materials/weapons_models_m4a4_materials_weapon_rif_m4a4.vmat_normal_raw_png_75e26735.vtex
+weapons/models/ub/prsa4/materials/prsa4.vmat
+weapons/custom/prsa4/prsa4.vmdl

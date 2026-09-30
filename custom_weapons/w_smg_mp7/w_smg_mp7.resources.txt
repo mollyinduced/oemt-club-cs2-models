@@ -1,0 +1,10 @@
+# cs2-model-converter: w_smg_mp7, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/w_smg_mp7/w_smg_mp7.vmdl
+# weapon: weapon_mp7
+# skeleton: animation/skeletons/weapons/mp7.vnmskel
+materials/default/default_bentnormal_tga_2023e987.vtex
+materials/models/weapons/w_models/w_smg_mp7/smg_mp7_color_tga_2ee01322.vtex
+materials/models/weapons/w_models/w_smg_mp7/smg_mp7_exponent_metal_tga_428be533.vtex
+materials/models/weapons/w_models/w_smg_mp7/smg_mp7_rough_tga_ad0db7bb.vtex
+models/weapons/w_models/w_smg_mp7/smg_mp7.vmat
+weapons/custom/w_smg_mp7/w_smg_mp7.vmdl

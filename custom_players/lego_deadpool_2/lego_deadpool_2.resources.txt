@@ -1,0 +1,10 @@
+# cs2-model-converter: lego_deadpool_2, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/nozb1/lego_pack_player_model/lego_deadpool_player_model/lego_deadpool.vmdl
+# first person: 0 2 12 15
+characters/models/nozb1/lego_pack_player_model/lego_deadpool_player_model/materials/arm_complex_vmat_g_tnormal_36ba25b1.vtex
+characters/models/nozb1/lego_pack_player_model/lego_deadpool_player_model/materials/dbody_mat_png_bb819ed2.vtex
+characters/models/nozb1/lego_pack_player_model/lego_deadpool_player_model/materials/arm_complex.vmat
+characters/models/nozb1/lego_pack_player_model/lego_deadpool_player_model/materials/dbody_mat_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/nozb1/lego_pack_player_model/lego_deadpool_player_model/materials/dbody_normal_mat_png_d82ab9ce.vtex
+characters/models/nozb1/lego_pack_player_model/lego_deadpool_player_model/materials/dbody_mat.vmat
+characters/models/nozb1/lego_pack_player_model/lego_deadpool_player_model/lego_deadpool.vmdl

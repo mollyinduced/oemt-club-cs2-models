@@ -1,0 +1,37 @@
+# cs2-model-converter: yog_sothoth_ag2, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: phase2/characters/models/exg/yog_sothoth/yog_sothoth_ag2.vmdl
+characters/models/exg/ruiyiwelkin/ppq/bub_png_124910c1.vtex
+characters/models/exg/ruiyiwelkin/ppq/wuf_059_tga_e3b069a4.vtex
+characters/models/exg/ruiyiwelkin/ppq/beam.vmat
+characters/models/exg/ruiyiwelkin/ppq/body_png_c7315c85.vtex
+characters/models/exg/ruiyiwelkin/ppq/body_vmat_g_tmetalness_b70f8f59.vtex
+characters/models/exg/ruiyiwelkin/ppq/body_vmat_g_tnormal_39f35f01.vtex
+characters/models/exg/ruiyiwelkin/ppq/body.vmat
+characters/models/exg/ruiyiwelkin/ppq/eyeball1_png_b2181318.vtex
+characters/models/exg/ruiyiwelkin/ppq/eyeball1_vmat_g_tmetalness_fe7b4cfc.vtex
+characters/models/exg/ruiyiwelkin/ppq/eyeball1_vmat_g_tselfillummask_ff155607.vtex
+characters/models/exg/ruiyiwelkin/ppq/eyeball1.vmat
+characters/models/exg/ruiyiwelkin/ppq/light_vmat_g_tmetalness_80de26fd.vtex
+characters/models/exg/ruiyiwelkin/ppq/light_vmat_g_tselfillummask_ff155607.vtex
+characters/models/exg/ruiyiwelkin/ppq/rbg_png_f2735995.vtex
+characters/models/exg/ruiyiwelkin/ppq/light.vmat
+characters/models/exg/ruiyiwelkin/ppq/metal_vmat_g_tcolor_7ab53e0a.vtex
+characters/models/exg/ruiyiwelkin/ppq/metal_vmat_g_tmetalness_bd906efe.vtex
+characters/models/exg/ruiyiwelkin/ppq/metal_vmat_g_tnormal_a1e47e21.vtex
+characters/models/exg/ruiyiwelkin/ppq/metal.vmat
+characters/models/exg/ruiyiwelkin/ppq/metal_glod_vmat_g_tcolor_216bb413.vtex
+characters/models/exg/ruiyiwelkin/ppq/metal_glod_vmat_g_tmetalness_bd906efe.vtex
+characters/models/exg/ruiyiwelkin/ppq/metal_glod_vmat_g_tnormal_a1e47e21.vtex
+characters/models/exg/ruiyiwelkin/ppq/metal_glod.vmat
+characters/models/exg/ruiyiwelkin/ppq/outline_p_vmat_g_tcolor_64dfd14c.vtex
+characters/models/exg/ruiyiwelkin/ppq/outline_p_vmat_g_tnormal_a1e47e21.vtex
+characters/models/exg/ruiyiwelkin/ppq/outline_p_vmat_g_tselfillummask_ff155607.vtex
+characters/models/exg/ruiyiwelkin/ppq/outline_p.vmat
+characters/models/exg/ruiyiwelkin/ppq/rbb_n_png_6ca2d437.vtex
+characters/models/exg/ruiyiwelkin/ppq/rbb_png_d7836d22.vtex
+characters/models/exg/ruiyiwelkin/ppq/rbb_vmat_g_tmetalness_6be1084e.vtex
+characters/models/exg/ruiyiwelkin/ppq/rbb.vmat
+characters/models/exg/ruiyiwelkin/ppq/rbb_2_vmat_g_tmetalness_80de26fd.vtex
+characters/models/exg/ruiyiwelkin/ppq/rbb_2_vmat_g_tselfillummask_ff155607.vtex
+characters/models/exg/ruiyiwelkin/ppq/rbb_2.vmat
+phase2/characters/models/exg/yog_sothoth/yog_sothoth_ag2.vmdl

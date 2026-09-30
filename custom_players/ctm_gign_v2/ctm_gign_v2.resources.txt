@@ -1,0 +1,13 @@
+# cs2-model-converter: the resources models/custom/ctm_gign_v2/ctm_gign_v2.vmdl needs, loaded in this order by the SDK
+# first person: 0 2 12 15
+materials/models/custom/ctm_gign_v2/ctm_fbi_v2_head_variantb_color_png_e5799535.vtex
+materials/models/custom/ctm_gign_v2/ctm_fbi_v2_head_variantb.vmat
+materials/models/custom/ctm_gign_v2/ctm_gign_v2_upperbody_color_png_c4d0cc74.vtex
+materials/models/custom/ctm_gign_v2/ctm_gign_v2_upperbody.vmat
+materials/models/custom/ctm_gign_v2/ctm_swat_leader_pant_color_png_b45100b2.vtex
+materials/models/custom/ctm_gign_v2/ctm_swat_leader_pant.vmat
+materials/models/custom/ctm_gign_v2/ctm_swat_medic_headgear_color_png_b220e1b.vtex
+materials/models/custom/ctm_gign_v2/ctm_swat_medic_headgear.vmat
+materials/models/custom/ctm_gign_v2/glove_hardknuckle_black_color_png_bce6dc6a.vtex
+materials/models/custom/ctm_gign_v2/glove_hardknuckle_black.vmat
+models/custom/ctm_gign_v2/ctm_gign_v2.vmdl

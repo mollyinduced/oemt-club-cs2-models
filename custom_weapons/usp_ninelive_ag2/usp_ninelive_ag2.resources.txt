@@ -1,0 +1,20 @@
+# cs2-model-converter: usp_ninelive_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/usp_ninelive_ag2/usp_ninelive_ag2.vmdl
+# weapon: weapon_usp_silencer
+# skeleton: animation/skeletons/weapons/usp_silencer.vnmskel
+weapons/models/ub/ninelive/materials/ninelive_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/models/ub/ninelive/materials/t_ps_qsz193_skin_nine_lives_d_png_c7ea23b9.vtex
+weapons/models/ub/ninelive/materials/t_ps_qsz193_skin_nine_lives_mask_png_8b4ea46b.vtex
+weapons/models/ub/ninelive/materials/t_ps_qsz193_skin_nine_lives_n_png_480fb037.vtex
+weapons/models/ub/ninelive/materials/ninelive.vmat
+weapons/models/ub/ninelive/materials/t_ar_silencer_nine_lives_d_png_bbb5b9d6.vtex
+weapons/models/ub/ninelive/materials/t_ar_silencer_nine_lives_em_png_b28d588a.vtex
+weapons/models/ub/ninelive/materials/t_ar_silencer_nine_lives_n_png_3c144f76.vtex
+weapons/models/ub/ninelive/materials/t_ar_silencer_nine_lives_s1_png_29cd607a.vtex
+weapons/models/ub/ninelive/materials/ninelive_silencer.vmat
+weapons/models/ub/ninelive/materials/miaomiao2_png_a869fb9e.vtex
+weapons/models/ub/ninelive/materials/nivelivemao_vmat_g_tambientocclusion_9782fd5c.vtex
+weapons/models/ub/ninelive/materials/nivelivemao_vmat_g_tnormal_2984f4a9.vtex
+weapons/models/ub/ninelive/materials/nivelivemao_vmat_g_tselfillummask_769c2f8f.vtex
+weapons/models/ub/ninelive/materials/nivelivemao.vmat
+weapons/custom/usp_ninelive_ag2/usp_ninelive_ag2.vmdl

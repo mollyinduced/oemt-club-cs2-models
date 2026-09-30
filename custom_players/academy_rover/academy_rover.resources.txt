@@ -1,0 +1,29 @@
+# cs2-model-converter: academy_rover, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/asmodeus/academy_rover/academy_rover.vmdl
+# first person: 0 1 2 3
+characters/models/asmodeus/academy_rover/academy_rover/body_vmorf.vtex
+characters/models/asmodeus/academy_rover/materials/academy_rover_bhair_png_88cc6f8b.vtex
+characters/models/asmodeus/academy_rover/materials/academy_rover_bhair_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/academy_rover/materials/academy_rover_bhair.vmat
+characters/models/asmodeus/academy_rover/materials/academy_rover_body_png_ce3689cd.vtex
+characters/models/asmodeus/academy_rover/materials/academy_rover_body_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/academy_rover/materials/academy_rover_body.vmat
+characters/models/asmodeus/academy_rover/materials/academy_rover_cloth_png_4c796b8e.vtex
+characters/models/asmodeus/academy_rover/materials/academy_rover_cloth_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/academy_rover/materials/academy_rover_cloth.vmat
+characters/models/asmodeus/academy_rover/materials/academy_rover_eye_png_b8bdd237.vtex
+characters/models/asmodeus/academy_rover/materials/academy_rover_eye_png_bfd61633.vtex
+characters/models/asmodeus/academy_rover/materials/academy_rover_eye.vmat
+characters/models/asmodeus/academy_rover/materials/academy_rover_eyehi_png_f8c81e23.vtex
+characters/models/asmodeus/academy_rover/materials/academy_rover_eyehi_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/academy_rover/materials/academy_rover_eyehi.vmat
+characters/models/asmodeus/academy_rover/materials/academy_rover_eyehi2_png_867dce5a.vtex
+characters/models/asmodeus/academy_rover/materials/academy_rover_eyehi2_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/academy_rover/materials/academy_rover_eyehi2.vmat
+characters/models/asmodeus/academy_rover/materials/academy_rover_face_png_3eee823.vtex
+characters/models/asmodeus/academy_rover/materials/academy_rover_face_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/academy_rover/materials/academy_rover_face.vmat
+characters/models/asmodeus/academy_rover/materials/academy_rover_fhair_png_d7c85732.vtex
+characters/models/asmodeus/academy_rover/materials/academy_rover_fhair_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/academy_rover/materials/academy_rover_fhair.vmat
+characters/models/asmodeus/academy_rover/academy_rover.vmdl

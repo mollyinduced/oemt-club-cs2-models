@@ -1,0 +1,29 @@
+# cs2-model-converter: buling, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/asmodeus/buling/buling.vmdl
+# first person: 0 1 2 3
+characters/models/asmodeus/buling/buling/body_vmorf.vtex
+characters/models/asmodeus/buling/materials/buling_bhair_png_7ab441fc.vtex
+characters/models/asmodeus/buling/materials/buling_bhair_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/buling/materials/buling_bhair.vmat
+characters/models/asmodeus/buling/materials/buling_down_png_74370d3f.vtex
+characters/models/asmodeus/buling/materials/buling_down_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/buling/materials/buling_down.vmat
+characters/models/asmodeus/buling/materials/buling_eye_png_b687316c.vtex
+characters/models/asmodeus/buling/materials/buling_eye_png_eb8eb8e5.vtex
+characters/models/asmodeus/buling/materials/buling_eye.vmat
+characters/models/asmodeus/buling/materials/buling_eyehi_png_b400eca3.vtex
+characters/models/asmodeus/buling/materials/buling_eyehi_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/buling/materials/buling_eyehi.vmat
+characters/models/asmodeus/buling/materials/buling_face_png_eb0dc637.vtex
+characters/models/asmodeus/buling/materials/buling_face_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/buling/materials/buling_face.vmat
+characters/models/asmodeus/buling/materials/buling_fhair_png_1ea42e16.vtex
+characters/models/asmodeus/buling/materials/buling_fhair_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/buling/materials/buling_fhair.vmat
+characters/models/asmodeus/buling/materials/buling_metal_png_c54e2cc.vtex
+characters/models/asmodeus/buling/materials/buling_metal_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/buling/materials/buling_metal.vmat
+characters/models/asmodeus/buling/materials/buling_upbody_png_e9a652e3.vtex
+characters/models/asmodeus/buling/materials/buling_upbody_vmat_g_tmetalness_10974e8a.vtex
+characters/models/asmodeus/buling/materials/buling_upbody.vmat
+characters/models/asmodeus/buling/buling.vmdl

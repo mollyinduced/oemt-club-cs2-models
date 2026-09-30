@@ -1,0 +1,9 @@
+# cs2-model-converter: octodad_blue_nohitbox_2, installed as it is - the resources it needs, loaded in this order by the SDK
+# model: characters/models/otakku/octodad/octodad_blue_nohitbox.vmdl
+# first person: 0 2 12 15
+agents/characters/models/otakku/octodad/materials/blue_vmat_g_tambientocclusion_9782fd5c.vtex
+agents/characters/models/otakku/octodad/materials/blue_vmat_g_tmetalness_b99de324.vtex
+agents/characters/models/otakku/octodad/materials/blue_vmat_g_tnormal_2984f4a9.vtex
+agents/characters/models/otakku/octodad/materials/octodad_blue_png_e01ee4f1.vtex
+agents/characters/models/otakku/octodad/materials/blue.vmat
+characters/models/otakku/octodad/octodad_blue_nohitbox.vmdl

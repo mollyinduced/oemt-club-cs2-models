@@ -1,0 +1,8 @@
+# cs2-model-converter: ba_glock_kanna, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
+# model: weapons/custom/ba_glock_kanna/ba_glock_kanna.vmdl
+# weapon: weapon_glock
+# skeleton: animation/skeletons/weapons/glock18.vnmskel
+phase2/weapons/7ychu5/slot2/ba_glock_kanna/materials/default_obj_vmat_g_tmetalness_dfae0b86.vtex
+phase2/weapons/7ychu5/slot2/ba_glock_kanna/materials/glock_kanna_png_67bf76a3.vtex
+phase2/weapons/7ychu5/slot2/ba_glock_kanna/materials/default_obj.vmat
+weapons/custom/ba_glock_kanna/ba_glock_kanna.vmdl
