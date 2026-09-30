@@ -1,8 +1,0 @@
-# cs2-model-converter: the resources models/custom/lirili_larila_player_model_2/lirili_larila_player_model_2.vmdl needs, loaded in this order by the SDK
-materials/models/custom/lirili_larila_player_model_2/body_color_png_4b3a108.vtex
-materials/models/custom/lirili_larila_player_model_2/body.vmat
-materials/models/custom/lirili_larila_player_model_2/face_color_png_119f0280.vtex
-materials/models/custom/lirili_larila_player_model_2/face.vmat
-materials/models/custom/lirili_larila_player_model_2/hair_color_png_215999cb.vtex
-materials/models/custom/lirili_larila_player_model_2/hair.vmat
-models/custom/lirili_larila_player_model_2/lirili_larila_player_model_2.vmdl

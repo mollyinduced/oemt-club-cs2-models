@@ -1,9 +1,0 @@
-# cs2-model-converter: awm_sport_a, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/awm_sport_a/awm_sport_a.vmdl
-# weapon: weapon_awp
-# skeleton: animation/skeletons/weapons/awp.vnmskel
-models/kolkazadrot/standoff2/awm_sport_a_png_2d985385.vtex
-models/kolkazadrot/standoff2/awmf_m_png_bb4bf51a.vtex
-models/kolkazadrot/standoff2/awmf_n_png_99998ff2.vtex
-models/kolkazadrot/standoff2/awm_sport_a.vmat
-weapons/custom/awm_sport_a/awm_sport_a.vmdl

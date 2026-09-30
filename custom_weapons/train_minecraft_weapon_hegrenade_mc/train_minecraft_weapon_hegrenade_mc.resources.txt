@@ -1,9 +1,0 @@
-# cs2-model-converter: train_minecraft_weapon_hegrenade_mc, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/train_minecraft_weapon_hegrenade_mc/train_minecraft_weapon_hegrenade_mc.vmdl
-# weapon: weapon_hegrenade
-# skeleton: animation/skeletons/weapons/hegrenade.vnmskel
-materials/minecraft/hegrenade/he_normal_png_7bf51e52.vtex
-materials/minecraft/hegrenade/he_png_f08cd8c8.vtex
-materials/minecraft/hegrenade/he_rough_png_7bb3e4d6.vtex
-materials/minecraft/hegrenade/hegrenade.vmat
-weapons/custom/train_minecraft_weapon_hegrenade_mc/train_minecraft_weapon_hegrenade_mc.vmdl

@@ -1,9 +1,0 @@
-# cs2-model-converter: train_minecraft_weapon_incendiarygrenade_mc, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/train_minecraft_weapon_incendiarygrenade_mc/train_minecraft_weapon_incendiarygrenade_mc.vmdl
-# weapon: weapon_incgrenade
-# skeleton: animation/skeletons/weapons/incendiary.vnmskel
-materials/minecraft/incendiary/incendiary_png_c75bbca4.vtex
-materials/minecraft/incendiary/incendiary_rough_png_983df52f.vtex
-materials/minecraft/incendiary/incgrenade_vmat_g_tnormal_f8264e14.vtex
-materials/minecraft/incendiary/incgrenade.vmat
-weapons/custom/train_minecraft_weapon_incendiarygrenade_mc/train_minecraft_weapon_incendiarygrenade_mc.vmdl

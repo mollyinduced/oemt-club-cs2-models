@@ -1,8 +1,0 @@
-# cs2-model-converter: bacteria_player_model, installed as it is - the resources it needs, loaded in this order by the SDK
-# model: agents/models/deti00ykh/bacteria_player_model/bacteria_player_model.vmdl
-# first person: 0 2 12 15
-agents/models/deti00ykh/bacteria_player_model/materials/baka_vmat_g_tmetalness_b70f8f59.vtex
-agents/models/deti00ykh/bacteria_player_model/materials/image_0_png_584b2b7a.vtex
-agents/models/deti00ykh/bacteria_player_model/materials/image_2_png_ad0f45ae.vtex
-agents/models/deti00ykh/bacteria_player_model/materials/baka.vmat
-agents/models/deti00ykh/bacteria_player_model/bacteria_player_model.vmdl

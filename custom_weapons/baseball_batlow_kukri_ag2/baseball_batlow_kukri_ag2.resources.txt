@@ -1,8 +1,0 @@
-# cs2-model-converter: baseball_batlow_kukri_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/baseball_batlow_kukri_ag2/baseball_batlow_kukri_ag2.vmdl
-# weapon: weapon_knife_kukri
-# skeleton: animation/skeletons/weapons/knife_kukri.vnmskel
-weapons/nozb1/knife/baseball_batlow/materials/baseball_bat_1001_basecolor_png_24d8d4df.vtex
-weapons/nozb1/knife/baseball_batlow/materials/baseball_bat_1001_normal_png_b8023c20.vtex
-weapons/nozb1/knife/baseball_batlow/materials/baseball_bat.vmat
-weapons/custom/baseball_batlow_kukri_ag2/baseball_batlow_kukri_ag2.vmdl

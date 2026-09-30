@@ -1,9 +1,0 @@
-# cs2-model-converter: the resources models/custom/cyberconnecrt_swim_player_model/cyberconnecrt_swim_player_model.vmdl needs, loaded in this order by the SDK
-# first person: 0 2 12 15
-materials/models/custom/cyberconnecrt_swim_player_model/body_swimsuit_color_png_462bd0cd.vtex
-materials/models/custom/cyberconnecrt_swim_player_model/body_swimsuit.vmat
-materials/models/custom/cyberconnecrt_swim_player_model/face_c_color_png_e8ada77e.vtex
-materials/models/custom/cyberconnecrt_swim_player_model/face_c.vmat
-materials/models/custom/cyberconnecrt_swim_player_model/hair_swimsuit_color_png_4f34808.vtex
-materials/models/custom/cyberconnecrt_swim_player_model/hair_swimsuit.vmat
-models/custom/cyberconnecrt_swim_player_model/cyberconnecrt_swim_player_model.vmdl

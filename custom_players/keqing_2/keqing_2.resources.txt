@@ -1,7 +1,0 @@
-# cs2-model-converter: the resources models/custom/keqing_2/keqing_2.vmdl needs, loaded in this order by the SDK
-# first person: 0 2 12 15
-materials/models/custom/keqing_2/keqing_textures_color_png_2719b62d.vtex
-materials/models/custom/keqing_2/keqing_textures.vmat
-materials/models/custom/keqing_2/keqing_textures2_color_png_c8ba388d.vtex
-materials/models/custom/keqing_2/keqing_textures2.vmat
-models/custom/keqing_2/keqing_2.vmdl

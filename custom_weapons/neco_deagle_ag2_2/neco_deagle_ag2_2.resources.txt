@@ -1,8 +1,0 @@
-# cs2-model-converter: neco_deagle_ag2_2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/neco_deagle_ag2_2/neco_deagle_ag2_2.vmdl
-# weapon: weapon_deagle
-# skeleton: animation/skeletons/weapons/deagle.vnmskel
-weapons/nozb1/neco_deagle/materials/color_png_2e5da4e6.vtex
-weapons/nozb1/neco_deagle/materials/roughness_png_298879ba.vtex
-weapons/nozb1/neco_deagle/materials/neco_deagle.vmat
-weapons/custom/neco_deagle_ag2_2/neco_deagle_ag2_2.vmdl

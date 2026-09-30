@@ -1,7 +1,0 @@
-# cs2-model-converter: w_buster_cosmo, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/w_buster_cosmo/w_buster_cosmo.vmdl
-# weapon: weapon_knife_cord
-# skeleton: animation/skeletons/weapons/knife_cord.vnmskel
-models/weapons/exg/tokyocold/buster_cosmo/sword_png_c3cab96d.vtex
-models/weapons/exg/tokyocold/buster_cosmo/buster_cosmo.vmat
-weapons/custom/w_buster_cosmo/w_buster_cosmo.vmdl

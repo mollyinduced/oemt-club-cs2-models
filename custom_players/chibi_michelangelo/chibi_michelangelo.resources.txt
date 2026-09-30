@@ -1,8 +1,0 @@
-# cs2-model-converter: chibi_michelangelo, installed as it is - the resources it needs, loaded in this order by the SDK
-# model: agents/models/ag2_pt/chibi_michelangelo_player_model/chibi_michelangelo.vmdl
-# first person: 0 2 12 15
-agents/models/ag2_pt/chibi_michelangelo_player_model/materials/michelangelo_normal_png_2f37dbfd.vtex
-agents/models/ag2_pt/chibi_michelangelo_player_model/materials/michelangelo_png_1670a598.vtex
-agents/models/ag2_pt/chibi_michelangelo_player_model/materials/michelangelo_vmat_g_tmetalness_b99de324.vtex
-agents/models/ag2_pt/chibi_michelangelo_player_model/materials/michelangelo.vmat
-agents/models/ag2_pt/chibi_michelangelo_player_model/chibi_michelangelo.vmdl

@@ -1,5 +1,0 @@
-# cs2-model-converter: the resources models/custom/pupsen_player_model/pupsen_player_model.vmdl needs, loaded in this order by the SDK
-# first person: 0 2 12 15
-materials/models/custom/pupsen_player_model/pupsen_mat_color_png_fb91f936.vtex
-materials/models/custom/pupsen_player_model/pupsen_mat.vmat
-models/custom/pupsen_player_model/pupsen_player_model.vmdl

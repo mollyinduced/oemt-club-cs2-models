@@ -1,9 +1,0 @@
-# cs2-model-converter: reimu_m4a1_ag2_4, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/reimu_m4a1_ag2_4/reimu_m4a1_ag2_4.vmdl
-# weapon: weapon_m4a1_silencer
-# skeleton: animation/skeletons/weapons/m4a1_silencer.vnmskel
-models/jiye/reimu_m4a1/materials/mb.vmat
-models/jiye/reimu_m4a1/materials/m4_rif_m4a1_s_basecolor_png_8cc34594.vtex
-models/jiye/reimu_m4a1/materials/reimu_vmat_g_tselfillummask_f01d52c8.vtex
-models/jiye/reimu_m4a1/materials/reimu.vmat
-weapons/custom/reimu_m4a1_ag2_4/reimu_m4a1_ag2_4.vmdl

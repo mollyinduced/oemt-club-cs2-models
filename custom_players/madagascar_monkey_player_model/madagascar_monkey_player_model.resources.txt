@@ -1,5 +1,0 @@
-# cs2-model-converter: the resources models/custom/madagascar_monkey_player_model/madagascar_monkey_player_model.vmdl needs, loaded in this order by the SDK
-# first person: 0 2 12 15
-materials/models/custom/madagascar_monkey_player_model/monkey_madagaskar_mat_color_png_25f07f38.vtex
-materials/models/custom/madagascar_monkey_player_model/monkey_madagaskar_mat.vmat
-models/custom/madagascar_monkey_player_model/madagascar_monkey_player_model.vmdl

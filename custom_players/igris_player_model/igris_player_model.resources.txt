@@ -1,8 +1,0 @@
-# cs2-model-converter: igris_player_model, installed as it is - the resources it needs, loaded in this order by the SDK
-# model: agents/models/deti00ykh/igris_player_model/igris_player_model.vmdl
-# first person: 0 2 12 15
-agents/models/deti00ykh/igris_player_model/materials/igrisboss_body0_nm_png_e401f671.vtex
-agents/models/deti00ykh/igris_player_model/materials/mission_png_dc68b739.vtex
-agents/models/deti00ykh/igris_player_model/materials/shadowigris_body0_co_png_183368eb.vtex
-agents/models/deti00ykh/igris_player_model/materials/body.vmat
-agents/models/deti00ykh/igris_player_model/igris_player_model.vmdl

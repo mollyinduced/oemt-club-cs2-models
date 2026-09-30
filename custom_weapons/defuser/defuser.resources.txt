@@ -1,7 +1,0 @@
-# cs2-model-converter: defuser, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/defuser/defuser.vmdl
-# weapon: item_defuser
-materials/minecraft/defusekit/albedo_png_9cb485f7.vtex
-materials/minecraft/defusekit/roughness_png_52bbd62a.vtex
-materials/minecraft/defusekit/defusekit.vmat
-weapons/custom/defuser/defuser.vmdl

@@ -1,9 +1,0 @@
-# cs2-model-converter: train_minecraft_weapon_knife_butterfly, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/train_minecraft_weapon_knife_butterfly/train_minecraft_weapon_knife_butterfly.vmdl
-# weapon: weapon_knife_butterfly
-# skeleton: animation/skeletons/weapons/knife_butterfly.vnmskel
-materials/kropsla/butterfly/butterfly_ao_png_c971bd6.vtex
-materials/kropsla/butterfly/butterfly_color_png_a7922884.vtex
-materials/kropsla/butterfly/butterfly_rough_png_ce5ab86.vtex
-materials/kropsla/butterfly/butterfly_vanilla.vmat
-weapons/custom/train_minecraft_weapon_knife_butterfly/train_minecraft_weapon_knife_butterfly.vmdl

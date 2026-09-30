@@ -1,7 +1,0 @@
-# cs2-model-converter: clone, installed as it is - the resources it needs, loaded in this order by the SDK
-# model: agents/models/reborn/clone/clone.vmdl
-# first person: 0 2 12 15
-agents/models/reborn/clone/materials/clonetrooper_jpg_reborn_png_f82ac5fc.vtex
-agents/models/reborn/clone/materials/clonetrooper_vmat_g_tmetalness_10974e8a.vtex
-agents/models/reborn/clone/materials/clonetrooper.vmat
-agents/models/reborn/clone/clone.vmdl

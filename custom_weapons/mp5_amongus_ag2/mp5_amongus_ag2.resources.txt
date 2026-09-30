@@ -1,8 +1,0 @@
-# cs2-model-converter: mp5_amongus_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/mp5_amongus_ag2/mp5_amongus_ag2.vmdl
-# weapon: weapon_mp5sd
-# skeleton: animation/skeletons/weapons/mp5sd.vnmskel
-weapons/nozb1/vip/mp5_amongus/materials/amongt_normal_png_de8985cc.vtex
-weapons/nozb1/vip/mp5_amongus/materials/amongt_png_74ca5931.vtex
-weapons/nozb1/vip/mp5_amongus/materials/amongaa.vmat
-weapons/custom/mp5_amongus_ag2/mp5_amongus_ag2.vmdl

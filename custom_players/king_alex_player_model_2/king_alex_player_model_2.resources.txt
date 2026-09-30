@@ -1,9 +1,0 @@
-# cs2-model-converter: king_alex_player_model_2, installed as it is - the resources it needs, loaded in this order by the SDK
-# model: agents/models/ag2/king_alex_player_model/king_alex_player_model.vmdl
-# first person: 0 2 12 15
-agents/models/ag2/king_alex_player_model/materials/king_alex_mat_vmat_g_tmetalness_b99de324.vtex
-agents/models/ag2/king_alex_player_model/materials/t_alex_ao_png_ecff63c8.vtex
-agents/models/ag2/king_alex_player_model/materials/t_alex_normal_png_cb666fca.vtex
-agents/models/ag2/king_alex_player_model/materials/t_alex_png_2eca0600.vtex
-agents/models/ag2/king_alex_player_model/materials/king_alex_mat.vmat
-agents/models/ag2/king_alex_player_model/king_alex_player_model.vmdl

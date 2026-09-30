@@ -1,9 +1,0 @@
-# cs2-model-converter: ds_dog_player_model, installed as it is - the resources it needs, loaded in this order by the SDK
-# model: agents/models/ag2/ds_dog_player_model/ds_dog_player_model.vmdl
-# first person: 0 2 12 15
-agents/models/ag2/ds_dog_player_model/materials/itsme_dog_mat_vmat_g_tambientocclusion_9782fd5c.vtex
-agents/models/ag2/ds_dog_player_model/materials/itsme_dog_mat_vmat_g_tmetalness_c06397e1.vtex
-agents/models/ag2/ds_dog_player_model/materials/itsme_dog_normal_png_d65e8ec8.vtex
-agents/models/ag2/ds_dog_player_model/materials/itsme_dog_png_601fb284.vtex
-agents/models/ag2/ds_dog_player_model/materials/itsme_dog_mat.vmat
-agents/models/ag2/ds_dog_player_model/ds_dog_player_model.vmdl

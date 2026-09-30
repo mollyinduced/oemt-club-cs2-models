@@ -1,5 +1,0 @@
-# cs2-model-converter: the resources models/custom/king_julian_player_model/king_julian_player_model.vmdl needs, loaded in this order by the SDK
-# first person: 0 2 12 15
-materials/models/custom/king_julian_player_model/t_kingjulien_n_color_png_a2a49048.vtex
-materials/models/custom/king_julian_player_model/t_kingjulien_n.vmat
-models/custom/king_julian_player_model/king_julian_player_model.vmdl

@@ -1,3 +1,0 @@
-# cs2-model-converter: neco_arc_white_nohitbox_ag2, installed as it is - the resources it needs, loaded in this order by the SDK
-# model: phase2/characters/models/otakku/neco_arc2/neco_arc_white_nohitbox_ag2.vmdl
-phase2/characters/models/otakku/neco_arc2/neco_arc_white_nohitbox_ag2.vmdl

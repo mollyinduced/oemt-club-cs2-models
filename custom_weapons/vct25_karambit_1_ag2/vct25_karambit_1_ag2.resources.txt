@@ -1,9 +1,0 @@
-# cs2-model-converter: vct25_karambit_1_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/vct25_karambit_1_ag2/vct25_karambit_1_ag2.vmdl
-# weapon: weapon_knife_karambit
-# skeleton: animation/skeletons/weapons/knife_karambit.vnmskel
-weapons/phase2/poncikmarket/vct25_karambit/materials/melee_vct25season_aem_png_90f41be2.vtex
-weapons/phase2/poncikmarket/vct25_karambit/materials/melee_vct25season_df_png_381a881f.vtex
-weapons/phase2/poncikmarket/vct25_karambit/materials/melee_vct25season_mrs_png_363f9afd.vtex
-weapons/phase2/poncikmarket/vct25_karambit/materials/1.vmat
-weapons/custom/vct25_karambit_1_ag2/vct25_karambit_1_ag2.vmdl

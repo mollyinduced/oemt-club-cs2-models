@@ -1,9 +1,0 @@
-# cs2-model-converter: v_disanecctdj, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/v_disanecctdj/v_disanecctdj.vmdl
-# weapon: weapon_knife_t
-# skeleton: animation/skeletons/weapons/knife_default_t.vnmskel
-materials/models/exg9/vulcanu9_png_7e76ac22.vtex
-materials/models/exg9/vulcanus9_v_n_tga_4f6b8752.vtex
-materials/models/exg9/vulcanus9_v_tga_5c219920.vtex
-materials/models/exg9/vulcanus9_v.vmat
-weapons/custom/v_disanecctdj/v_disanecctdj.vmdl

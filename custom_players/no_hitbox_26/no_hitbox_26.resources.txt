@@ -1,6 +1,0 @@
-# cs2-model-converter: the resources models/custom/no_hitbox_26/no_hitbox_26.vmdl needs, loaded in this order by the SDK
-materials/models/custom/no_hitbox_26/body1_color_png_632b397d.vtex
-materials/models/custom/no_hitbox_26/body1.vmat
-materials/models/custom/no_hitbox_26/body2_color_png_3d1f7165.vtex
-materials/models/custom/no_hitbox_26/body2.vmat
-models/custom/no_hitbox_26/no_hitbox_26.vmdl

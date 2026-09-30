@@ -1,8 +1,0 @@
-# cs2-model-converter: ct_m2clown_player_model, installed as it is - the resources it needs, loaded in this order by the SDK
-# model: agents/models/ag2/m2clown_player_model/ct_m2clown_player_model.vmdl
-# first person: 0 2 12 15
-agents/models/ag2/m2clown_player_model/materials/body_ct_vmat_g_tmetalness_b70f8f59.vtex
-agents/models/ag2/m2clown_player_model/materials/clown_n5_png_57b9466f.vtex
-agents/models/ag2/m2clown_player_model/materials/ct_clown_d6_png_c26338dc.vtex
-agents/models/ag2/m2clown_player_model/materials/body_ct.vmat
-agents/models/ag2/m2clown_player_model/ct_m2clown_player_model.vmdl

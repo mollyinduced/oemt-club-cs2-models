@@ -1,9 +1,0 @@
-# cs2-model-converter: beast_deagle_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/beast_deagle_ag2/beast_deagle_ag2.vmdl
-# weapon: weapon_deagle
-# skeleton: animation/skeletons/weapons/deagle.vnmskel
-materials/memni4ik/deagle/beast/deserteagle_bornbeast_n_jpg_a98a8c77.vtex
-materials/memni4ik/deagle/beast/deserteagle_bornbeast_s_jpg_cd5b1ad8.vtex
-materials/memni4ik/deagle/beast/fs_jpg_b034ca8.vtex
-materials/memni4ik/deagle/beast/bd.vmat
-weapons/custom/beast_deagle_ag2/beast_deagle_ag2.vmdl

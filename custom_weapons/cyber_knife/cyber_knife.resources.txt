@@ -1,9 +1,0 @@
-# cs2-model-converter: cyber_knife, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/cyber_knife/cyber_knife.vmdl
-# weapon: weapon_knife_gypsy_jackknife
-# skeleton: animation/skeletons/weapons/knife_navaja.vnmskel
-materials/models/custom_weapons/cyber_knife/knife_color_png_66b22942.vtex
-weapons/kolkazadrot/knife/cyber_knife/knife.vmat
-materials/models/custom_weapons/cyber_knife/yellow_color_png_93f2282e.vtex
-weapons/kolkazadrot/knife/cyber_knife/yellow.vmat
-weapons/custom/cyber_knife/cyber_knife.vmdl

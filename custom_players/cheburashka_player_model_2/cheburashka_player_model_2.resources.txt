@@ -1,7 +1,0 @@
-# cs2-model-converter: the resources models/custom/cheburashka_player_model_2/cheburashka_player_model_2.vmdl needs, loaded in this order by the SDK
-# first person: 0 2 12 15
-materials/models/custom/cheburashka_player_model_2/body_color_png_a33636cb.vtex
-materials/models/custom/cheburashka_player_model_2/body.vmat
-materials/models/custom/cheburashka_player_model_2/head_color_png_99a69378.vtex
-materials/models/custom/cheburashka_player_model_2/head.vmat
-models/custom/cheburashka_player_model_2/cheburashka_player_model_2.vmdl

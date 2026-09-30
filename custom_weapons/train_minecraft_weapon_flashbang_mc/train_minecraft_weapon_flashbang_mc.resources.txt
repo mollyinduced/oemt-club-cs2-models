@@ -1,9 +1,0 @@
-# cs2-model-converter: train_minecraft_weapon_flashbang_mc, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/train_minecraft_weapon_flashbang_mc/train_minecraft_weapon_flashbang_mc.vmdl
-# weapon: weapon_flashbang
-# skeleton: animation/skeletons/weapons/flashbang.vnmskel
-materials/minecraft/flashbang/flash_png_2d881370.vtex
-materials/minecraft/flashbang/flash_rough_png_97c7fa32.vtex
-materials/minecraft/flashbang/flashbang_vmat_g_tnormal_f8264e14.vtex
-materials/minecraft/flashbang/flashbang.vmat
-weapons/custom/train_minecraft_weapon_flashbang_mc/train_minecraft_weapon_flashbang_mc.vmdl

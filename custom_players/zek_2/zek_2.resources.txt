@@ -1,5 +1,0 @@
-# cs2-model-converter: the resources models/custom/zek_2/zek_2.vmdl needs, loaded in this order by the SDK
-# first person: 0 2 12 15
-materials/models/custom/zek_2/body_color_png_5f4ade6e.vtex
-materials/models/custom/zek_2/body.vmat
-models/custom/zek_2/zek_2.vmdl

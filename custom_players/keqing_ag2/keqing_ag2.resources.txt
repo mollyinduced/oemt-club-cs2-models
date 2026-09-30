@@ -1,8 +1,0 @@
-# cs2-model-converter: keqing_ag2, installed as it is - the resources it needs, loaded in this order by the SDK
-# model: phase2/characters/maoling/genshin_impact/keqing/keqing_ag2.vmdl
-characters/maoling/genshin_impact/keqing/normal/materials/keqing_textures_png_a48fb972.vtex
-characters/maoling/genshin_impact/keqing/normal/materials/keqing_textures_vmat_g_tambientocclusion_97c31701.vtex
-characters/maoling/genshin_impact/keqing/normal/materials/keqing_textures_vmat_g_tmetalness_59ca0538_png_5cd6fcc8.vtex
-characters/maoling/genshin_impact/keqing/normal/materials/keqing_textures_vmat_g_tnormal_f8abdf59.vtex
-characters/maoling/genshin_impact/keqing/normal/materials/keqing_textures.vmat
-phase2/characters/maoling/genshin_impact/keqing/keqing_ag2.vmdl

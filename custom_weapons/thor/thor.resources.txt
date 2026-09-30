@@ -1,8 +1,0 @@
-# cs2-model-converter: thor, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/thor/thor.vmdl
-# weapon: weapon_awp
-# skeleton: animation/skeletons/weapons/awp.vnmskel
-weapons/maoling/awp/thor/sfsniper_n_tga_dc2957ab.vtex
-weapons/maoling/awp/thor/sfsniper_v_tga_b6ae22fe.vtex
-weapons/maoling/awp/thor/sfsniper_v.vmat
-weapons/custom/thor/thor.vmdl

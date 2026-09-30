@@ -1,8 +1,0 @@
-# cs2-model-converter: zek, installed as it is - the resources it needs, loaded in this order by the SDK
-# model: characters/models/kolka/fix_skins/zek.vmdl
-# first person: 0 1 2 3
-characters/models/kolka/zek/tex/00000018_n_tga_91e43f2a.vtex
-characters/models/kolka/zek/tex/00000018_tga_cbadfdad.vtex
-characters/models/kolka/zek/tex/body_vmat_g_tmetalness_b70f8f59.vtex
-characters/models/kolka/zek/tex/body.vmat
-characters/models/kolka/fix_skins/zek.vmdl

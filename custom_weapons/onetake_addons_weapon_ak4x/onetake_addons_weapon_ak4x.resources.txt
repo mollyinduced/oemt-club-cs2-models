@@ -1,9 +1,0 @@
-# cs2-model-converter: onetake_addons_weapon_ak4x, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/onetake_addons_weapon_ak4x/onetake_addons_weapon_ak4x.vmdl
-# weapon: weapon_ak47
-# skeleton: animation/skeletons/weapons/ak47.vnmskel
-weapons/nozb1/ak4x/materials/ak4x_diffuse_test_png_9d82a293.vtex
-weapons/nozb1/ak4x/materials/ak4x_glow_mask_png_f0878e13.vtex
-weapons/nozb1/ak4x/materials/ak4x_normal_map_png_68502c0e.vtex
-weapons/nozb1/ak4x/materials/ak4x_mat.vmat
-weapons/custom/onetake_addons_weapon_ak4x/onetake_addons_weapon_ak4x.vmdl

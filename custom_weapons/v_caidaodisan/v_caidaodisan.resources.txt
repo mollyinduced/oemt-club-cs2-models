@@ -1,9 +1,0 @@
-# cs2-model-converter: v_caidaodisan, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/v_caidaodisan/v_caidaodisan.vmdl
-# weapon: weapon_knife_t
-# skeleton: animation/skeletons/weapons/knife_default_t.vnmskel
-materials/models/exg6/hzknife_v_n_png_af86c52b.vtex
-materials/models/exg6/hzknife_v_upscayl_4x_realesrgan_general_x4_v3_png_e00d2543.vtex
-materials/models/exg6/hzknife_v_vmat_g_tselfillummask_ff155607.vtex
-materials/models/exg6/hzknife_v.vmat
-weapons/custom/v_caidaodisan/v_caidaodisan.vmdl

@@ -1,8 +1,0 @@
-# cs2-model-converter: wooden_sword_panda_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/wooden_sword_panda_ag2/wooden_sword_panda_ag2.vmdl
-# weapon: weapon_knife_m9_bayonet
-# skeleton: animation/skeletons/weapons/knife_m9.vnmskel
-weapons/phase2/poncikmarket/mc_panda/materials/wood_vmat_g_tmetalness_bc5b06f6_png_9b28e1b.vtex
-weapons/phase2/poncikmarket/mc_panda/materials/woodsword_basecolor_png_92cedb92.vtex
-weapons/phase2/poncikmarket/mc_panda/materials/wood.vmat
-weapons/custom/wooden_sword_panda_ag2/wooden_sword_panda_ag2.vmdl

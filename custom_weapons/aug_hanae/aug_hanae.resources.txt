@@ -1,9 +1,0 @@
-# cs2-model-converter: aug_hanae, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/aug_hanae/aug_hanae.vmdl
-# weapon: weapon_aug
-# skeleton: animation/skeletons/weapons/aug.vnmskel
-models/weapons/exg/7ychu5/aug_hanae/materials/aug_hanae_vmat_g_tnormal_53b47c48_png_80758dfe.vtex
-models/weapons/exg/7ychu5/aug_hanae/materials/aug_hanae_vmat_g_tselfillummask_861bc104.vtex
-models/weapons/exg/7ychu5/aug_hanae/materials/hanae_original_weapon_png_c37c0296.vtex
-models/weapons/exg/7ychu5/aug_hanae/materials/aug_hanae.vmat
-weapons/custom/aug_hanae/aug_hanae.vmdl

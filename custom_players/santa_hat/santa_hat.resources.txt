@@ -1,4 +1,0 @@
-# cs2-model-converter: the resources models/custom/santa_hat/santa_hat.vmdl needs, loaded in this order by the SDK
-materials/models/custom/santa_hat/santa_mat_color_png_6cec4512.vtex
-materials/models/custom/santa_hat/santa_mat.vmat
-models/custom/santa_hat/santa_hat.vmdl

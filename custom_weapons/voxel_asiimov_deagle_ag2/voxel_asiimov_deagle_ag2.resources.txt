@@ -1,9 +1,0 @@
-# cs2-model-converter: voxel_asiimov_deagle_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/voxel_asiimov_deagle_ag2/voxel_asiimov_deagle_ag2.vmdl
-# weapon: weapon_deagle
-# skeleton: animation/skeletons/weapons/deagle.vnmskel
-weapons/nozb1/voxel_pack/voxel_asiimov_deagle/materials/outliner_d_vmat_g_tcolor_6b6e411d.vtex
-weapons/nozb1/voxel_pack/voxel_asiimov_deagle/materials/outliner_d.vmat
-weapons/nozb1/voxel_pack/voxel_asiimov_deagle/materials/voxel_asiimov_deagle_png_734d0230.vtex
-weapons/nozb1/voxel_pack/voxel_asiimov_deagle/materials/voxel_deagle_asiimov.vmat
-weapons/custom/voxel_asiimov_deagle_ag2/voxel_asiimov_deagle_ag2.vmdl

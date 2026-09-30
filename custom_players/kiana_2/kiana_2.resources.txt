@@ -1,5 +1,0 @@
-# cs2-model-converter: the resources models/custom/kiana_2/kiana_2.vmdl needs, loaded in this order by the SDK
-# first person: 0 2 12 15
-materials/models/custom/kiana_2/kiana_textures_color_png_22f9c31f.vtex
-materials/models/custom/kiana_2/kiana_textures.vmat
-models/custom/kiana_2/kiana_2.vmdl

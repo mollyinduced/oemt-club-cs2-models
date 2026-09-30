@@ -1,7 +1,0 @@
-# cs2-model-converter: voxel_c4_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/voxel_c4_ag2/voxel_c4_ag2.vmdl
-# weapon: weapon_c4
-# skeleton: animation/skeletons/weapons/c4.vnmskel
-weapons/nozb1/voxel_pack/voxel_c4/materials/voxel_c4_png_4df48721.vtex
-weapons/nozb1/voxel_pack/voxel_c4/materials/voxel_c4.vmat
-weapons/custom/voxel_c4_ag2/voxel_c4_ag2.vmdl

@@ -1,9 +1,0 @@
-# cs2-model-converter: ak_shooter_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/ak_shooter_ag2/ak_shooter_ag2.vmdl
-# weapon: weapon_ak47
-# skeleton: animation/skeletons/weapons/ak47.vnmskel
-weapons/nozb1/vip/ak_shooter/materials/akshooter_emiss_png_8511442e.vtex
-weapons/nozb1/vip/ak_shooter/materials/akshooter_normal_png_9053b1c7.vtex
-weapons/nozb1/vip/ak_shooter/materials/akshooter_png_427f9208.vtex
-weapons/nozb1/vip/ak_shooter/materials/akshooter.vmat
-weapons/custom/ak_shooter_ag2/ak_shooter_ag2.vmdl

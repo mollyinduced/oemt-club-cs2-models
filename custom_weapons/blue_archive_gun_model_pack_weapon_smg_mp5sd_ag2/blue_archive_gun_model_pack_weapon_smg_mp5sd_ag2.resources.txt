@@ -1,8 +1,0 @@
-# cs2-model-converter: blue_archive_gun_model_pack_weapon_smg_mp5sd_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/blue_archive_gun_model_pack_weapon_smg_mp5sd_ag2/blue_archive_gun_model_pack_weapon_smg_mp5sd_ag2.vmdl
-# weapon: weapon_mp5sd
-# skeleton: animation/skeletons/weapons/mp5sd.vnmskel
-phase2/weapons/7ychu5/slot1/ba_mp5sd_yuuka/materials/default_obj_vmat_g_tmetalness_7ec6281b.vtex
-phase2/weapons/7ychu5/slot1/ba_mp5sd_yuuka/materials/yuuka_original_weapon_png_fda60a94.vtex
-phase2/weapons/7ychu5/slot1/ba_mp5sd_yuuka/materials/default_obj.vmat
-weapons/custom/blue_archive_gun_model_pack_weapon_smg_mp5sd_ag2/blue_archive_gun_model_pack_weapon_smg_mp5sd_ag2.vmdl

@@ -1,9 +1,0 @@
-# cs2-model-converter: v_m200, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/v_m200/v_m200.vmdl
-# weapon: weapon_awp
-# skeleton: animation/skeletons/weapons/awp.vnmskel
-models/weapons/exg/tokyocold/m200/408_cheyenne_512-n_tga_8b9d0f0d.vtex
-models/weapons/exg/tokyocold/m200/408_cheyenne_512_png_6ac19d6e.vtex
-models/weapons/exg/tokyocold/m200/m200_vmat_g_tselfillummask_662dd81a.vtex
-models/weapons/exg/tokyocold/m200/m200.vmat
-weapons/custom/v_m200/v_m200.vmdl

@@ -1,8 +1,0 @@
-# cs2-model-converter: haimian, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/haimian/haimian.vmdl
-# weapon: weapon_hegrenade
-# skeleton: animation/skeletons/weapons/hegrenade.vnmskel
-weapons/models/exg/haimian/materials/color_png_25621258.vtex
-weapons/models/exg/haimian/materials/normal_png_d110020d.vtex
-weapons/models/exg/haimian/materials/haimian.vmat
-weapons/custom/haimian/haimian.vmdl

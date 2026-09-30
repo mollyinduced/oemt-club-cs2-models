@@ -1,8 +1,0 @@
-# cs2-model-converter: royal_guard_ak47_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/royal_guard_ak47_ag2/royal_guard_ak47_ag2.vmdl
-# weapon: weapon_ak47
-# skeleton: animation/skeletons/weapons/ak47.vnmskel
-weapons/phase2/poncikmarket/royal_guard_ak47/materials/ak47_royalguard_d_png_6d42e4cb.vtex
-weapons/phase2/poncikmarket/royal_guard_ak47/materials/ak47_royalguard_n_png_507885e5.vtex
-weapons/phase2/poncikmarket/royal_guard_ak47/materials/1.vmat
-weapons/custom/royal_guard_ak47_ag2/royal_guard_ak47_ag2.vmdl

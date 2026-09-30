@@ -1,4 +1,0 @@
-# cs2-model-converter: the resources models/custom/wings_glider_majesty/wings_glider_majesty.vmdl needs, loaded in this order by the SDK
-materials/models/custom/wings_glider_majesty/majesty_color_png_b644acf7.vtex
-materials/models/custom/wings_glider_majesty/majesty.vmat
-models/custom/wings_glider_majesty/wings_glider_majesty.vmdl

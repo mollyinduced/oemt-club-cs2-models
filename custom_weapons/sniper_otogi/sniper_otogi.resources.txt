@@ -1,8 +1,0 @@
-# cs2-model-converter: sniper_otogi, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/sniper_otogi/sniper_otogi.vmdl
-# weapon: weapon_awp
-# skeleton: animation/skeletons/weapons/awp.vnmskel
-weapons/7ychu5/models/snip_awp/sniper_otogi/materials/ch0174_weapon_png_340606d1.vtex
-weapons/7ychu5/models/snip_awp/sniper_otogi/materials/sniper_otogi_vmat_g_tnormal_53b47c48.vtex
-weapons/7ychu5/models/snip_awp/sniper_otogi/materials/sniper_otogi.vmat
-weapons/custom/sniper_otogi/sniper_otogi.vmdl

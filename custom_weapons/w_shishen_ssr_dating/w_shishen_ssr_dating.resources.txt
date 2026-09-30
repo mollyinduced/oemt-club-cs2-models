@@ -1,9 +1,0 @@
-# cs2-model-converter: w_shishen_ssr_dating, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/w_shishen_ssr_dating/w_shishen_ssr_dating.vmdl
-# weapon: weapon_knife_cord
-# skeleton: animation/skeletons/weapons/knife_cord.vnmskel
-materials/models/custom_weapons/w_shishen_ssr_dating/phantomslasher_color_png_6cd417cb.vtex
-models/weapons/exg/shishen_color/phantomslasher.vmat
-materials/models/custom_weapons/w_shishen_ssr_dating/phantomslasher2_color_png_a11961c9.vtex
-models/weapons/exg/shishen_color/phantomslasher2.vmat
-weapons/custom/w_shishen_ssr_dating/w_shishen_ssr_dating.vmdl

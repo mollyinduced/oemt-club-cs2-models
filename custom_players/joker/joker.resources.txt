@@ -1,8 +1,0 @@
-# cs2-model-converter: joker, installed as it is - the resources it needs, loaded in this order by the SDK
-# model: agents/models/reborn/joker/joker.vmdl
-# first person: 0 2 12 15
-agents/models/reborn/joker/materials/joker_d_vmat_g_tmetalness_10974e8a.vtex
-agents/models/reborn/joker/materials/joker_d_vmat_g_tnormal_53b47c48.vtex
-agents/models/reborn/joker/materials/logo_reborn_png_b942a52f.vtex
-agents/models/reborn/joker/materials/joker_d.vmat
-agents/models/reborn/joker/joker.vmdl

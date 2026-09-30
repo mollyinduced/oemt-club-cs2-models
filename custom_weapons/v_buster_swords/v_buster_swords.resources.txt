@@ -1,9 +1,0 @@
-# cs2-model-converter: v_buster_swords, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/v_buster_swords/v_buster_swords.vmdl
-# weapon: weapon_knife_gypsy_jackknife
-# skeleton: animation/skeletons/weapons/knife_navaja.vnmskel
-materials/7ychu5/weapons/slot3/buster_sword/ragold_artifact_base01_emissivetexture_png_2fffa8c6.vtex
-materials/7ychu5/weapons/slot3/buster_sword/ragold_artifact_base01_normaltexture_png_8a72c285.vtex
-materials/7ychu5/weapons/slot3/buster_sword/ragold_artifact_base01_spectexture_png_d7353872.vtex
-materials/7ychu5/weapons/slot3/buster_sword/buster_sword.vmat
-weapons/custom/v_buster_swords/v_buster_swords.vmdl

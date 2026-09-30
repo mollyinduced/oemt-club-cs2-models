@@ -1,8 +1,0 @@
-# cs2-model-converter: the resources models/custom/luolixiong/luolixiong.vmdl needs, loaded in this order by the SDK
-materials/models/custom/luolixiong/heiwu_color_png_6f82cccc.vtex
-materials/models/custom/luolixiong/heiwu.vmat
-materials/models/custom/luolixiong/heiwu2_color_png_77fa4e76.vtex
-materials/models/custom/luolixiong/heiwu2.vmat
-materials/models/custom/luolixiong/huijing_color_png_c7be92ba.vtex
-materials/models/custom/luolixiong/huijing.vmat
-models/custom/luolixiong/luolixiong.vmdl

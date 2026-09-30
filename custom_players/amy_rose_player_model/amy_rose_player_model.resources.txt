@@ -1,9 +1,0 @@
-# cs2-model-converter: the resources models/custom/amy_rose_player_model/amy_rose_player_model.vmdl needs, loaded in this order by the SDK
-# first person: 0 2 12 15
-materials/models/custom/amy_rose_player_model/t_amybody_color_png_4456cf97.vtex
-materials/models/custom/amy_rose_player_model/t_amybody.vmat
-materials/models/custom/amy_rose_player_model/t_amygear_color_png_f6c0b0d5.vtex
-materials/models/custom/amy_rose_player_model/t_amygear.vmat
-materials/models/custom/amy_rose_player_model/t_amypupil_color_png_5a76e30b.vtex
-materials/models/custom/amy_rose_player_model/t_amypupil.vmat
-models/custom/amy_rose_player_model/amy_rose_player_model.vmdl

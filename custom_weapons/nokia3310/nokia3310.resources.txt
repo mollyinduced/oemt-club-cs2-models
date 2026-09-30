@@ -1,9 +1,0 @@
-# cs2-model-converter: nokia3310, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/nokia3310/nokia3310.vmdl
-# weapon: weapon_knife_canis
-# skeleton: animation/skeletons/weapons/knife_canis.vnmskel
-weapons/models/knife/knife_canis/materials/3310_png_100511bb.vtex
-weapons/models/knife/knife_canis/materials/3310ao_png_7657db0.vtex
-weapons/models/knife/knife_canis/materials/3310nrm_png_2488e118.vtex
-weapons/models/knife/knife_canis/materials/nokia.vmat
-weapons/custom/nokia3310/nokia3310.vmdl

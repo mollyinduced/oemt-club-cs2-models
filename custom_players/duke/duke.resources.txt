@@ -1,5 +1,0 @@
-# cs2-model-converter: the resources models/custom/duke/duke.vmdl needs, loaded in this order by the SDK
-# first person: 0 2 12 15
-materials/models/custom/duke/duke_color_png_b63a8370.vtex
-materials/models/custom/duke/duke.vmat
-models/custom/duke/duke.vmdl

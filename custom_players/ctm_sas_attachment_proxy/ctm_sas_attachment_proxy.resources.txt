@@ -1,5 +1,0 @@
-# cs2-model-converter: the resources models/custom/ctm_sas_attachment_proxy/ctm_sas_attachment_proxy.vmdl needs, loaded in this order by the SDK
-# first person: 0 2 12 15
-materials/models/custom/ctm_sas_attachment_proxy/glove_hardknuckle_black_color_png_7a54d955.vtex
-materials/models/custom/ctm_sas_attachment_proxy/glove_hardknuckle_black.vmat
-models/custom/ctm_sas_attachment_proxy/ctm_sas_attachment_proxy.vmdl

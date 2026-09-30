@@ -1,9 +1,0 @@
-# cs2-model-converter: the resources models/custom/miamoto_fr_player_model/miamoto_fr_player_model.vmdl needs, loaded in this order by the SDK
-# first person: 0 2 12 15
-materials/models/custom/miamoto_fr_player_model/body_color_png_e09d5b19.vtex
-materials/models/custom/miamoto_fr_player_model/body.vmat
-materials/models/custom/miamoto_fr_player_model/face_color_png_791b1d2c.vtex
-materials/models/custom/miamoto_fr_player_model/face.vmat
-materials/models/custom/miamoto_fr_player_model/hat_color_png_ef335c84.vtex
-materials/models/custom/miamoto_fr_player_model/hat.vmat
-models/custom/miamoto_fr_player_model/miamoto_fr_player_model.vmdl

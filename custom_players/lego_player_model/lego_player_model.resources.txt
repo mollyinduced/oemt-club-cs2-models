@@ -1,5 +1,0 @@
-# cs2-model-converter: the resources models/custom/lego_player_model/lego_player_model.vmdl needs, loaded in this order by the SDK
-# first person: 0 2 12 15
-materials/models/custom/lego_player_model/body_color_png_6abd08f.vtex
-materials/models/custom/lego_player_model/body.vmat
-models/custom/lego_player_model/lego_player_model.vmdl

@@ -1,8 +1,0 @@
-# cs2-model-converter: penis_weapon, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/penis_weapon/penis_weapon.vmdl
-# weapon: weapon_knife
-# skeleton: animation/skeletons/weapons/knife_default_ct.vnmskel
-models/kolka/penis/t_penis_male_nm_png_7ef7e830.vtex
-models/kolka/penis/t_penis_malewhite_bc_png_26e1c71f.vtex
-models/kolka/penis/penis.vmat
-weapons/custom/penis_weapon/penis_weapon.vmdl

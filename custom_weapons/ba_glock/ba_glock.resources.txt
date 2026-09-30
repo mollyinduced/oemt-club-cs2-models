@@ -1,8 +1,0 @@
-# cs2-model-converter: ba_glock, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/ba_glock/ba_glock.vmdl
-# weapon: weapon_glock
-# skeleton: animation/skeletons/weapons/glock18.vnmskel
-models/ba/material/512_png_c15650f2.vtex
-models/ba/material/01.vmat
-models/ba/material/black.vmat
-weapons/custom/ba_glock/ba_glock.vmdl

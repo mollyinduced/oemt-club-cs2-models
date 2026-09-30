@@ -1,8 +1,0 @@
-# cs2-model-converter: banana, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/banana/banana.vmdl
-# weapon: weapon_bayonet
-# skeleton: animation/skeletons/weapons/knife_bayonet.vnmskel
-weapons/models/knife/knife_bayonet/materials/banana_vmat_g_tmetalness_89f08b37.vtex
-weapons/models/knife/knife_bayonet/materials/diffuse_basecolor_png_9ccf765.vtex
-weapons/models/knife/knife_bayonet/materials/banana.vmat
-weapons/custom/banana/banana.vmdl

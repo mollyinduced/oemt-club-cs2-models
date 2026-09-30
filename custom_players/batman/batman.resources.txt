@@ -1,7 +1,0 @@
-# cs2-model-converter: the resources models/custom/batman/batman.vmdl needs, loaded in this order by the SDK
-# first person: 0 2 12 15
-materials/models/custom/batman/batman_color_png_bf41e7c0.vtex
-materials/models/custom/batman/batman.vmat
-materials/models/custom/batman/batman_eyelid_color_png_dfd29dc9.vtex
-materials/models/custom/batman/batman_eyelid.vmat
-models/custom/batman/batman.vmdl

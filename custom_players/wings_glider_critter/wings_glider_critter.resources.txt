@@ -1,4 +1,0 @@
-# cs2-model-converter: the resources models/custom/wings_glider_critter/wings_glider_critter.vmdl needs, loaded in this order by the SDK
-materials/models/custom/wings_glider_critter/g_c_color_png_4da03b78.vtex
-materials/models/custom/wings_glider_critter/g_c.vmat
-models/custom/wings_glider_critter/wings_glider_critter.vmdl

@@ -1,8 +1,0 @@
-# cs2-model-converter: prsak, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/prsak/prsak.vmdl
-# weapon: weapon_ak47
-# skeleton: animation/skeletons/weapons/ak47.vnmskel
-weapons/models/ub/prsak/materials/weapons_models_ak47_materials_weapon_rif_ak47.vmat_basecolor_srgb_png_2ccab5a.vtex
-weapons/models/ub/prsak/materials/weapons_models_ak47_materials_weapon_rif_ak47.vmat_normal_raw_png_cbec8b5a.vtex
-weapons/models/ub/prsak/materials/1.vmat
-weapons/custom/prsak/prsak.vmdl

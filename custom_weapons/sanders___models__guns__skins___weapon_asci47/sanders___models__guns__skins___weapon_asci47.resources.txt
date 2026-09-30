@@ -1,8 +1,0 @@
-# cs2-model-converter: sanders___models__guns__skins___weapon_asci47, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/sanders___models__guns__skins___weapon_asci47/sanders___models__guns__skins___weapon_asci47.vmdl
-# weapon: weapon_ak47
-# skeleton: animation/skeletons/weapons/ak47.vnmskel
-weapons/nozb1/asci47/materials/5sfg_lp_uv_basecolor_png_2c0bbb6c.vtex
-weapons/nozb1/asci47/materials/5sfg_lp_uv_normal_png_13136e67.vtex
-weapons/nozb1/asci47/materials/asci47_mat.vmat
-weapons/custom/sanders___models__guns__skins___weapon_asci47/sanders___models__guns__skins___weapon_asci47.vmdl

@@ -1,8 +1,0 @@
-# cs2-model-converter: rico_player_model, installed as it is - the resources it needs, loaded in this order by the SDK
-# model: agents/models/ag2/rico_player_model/rico_player_model.vmdl
-# first person: 0 2 12 15
-agents/models/ag2/rico_player_model/materials/rico_mat_vmat_g_tmetalness_b99de324.vtex
-agents/models/ag2/rico_player_model/materials/rico_normal_png_db36b058.vtex
-agents/models/ag2/rico_player_model/materials/rico_png_9f1a2aa1.vtex
-agents/models/ag2/rico_player_model/materials/rico_mat.vmat
-agents/models/ag2/rico_player_model/rico_player_model.vmdl

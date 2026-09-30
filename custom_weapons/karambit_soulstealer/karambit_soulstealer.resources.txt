@@ -1,7 +1,0 @@
-# cs2-model-converter: karambit_soulstealer, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/karambit_soulstealer/karambit_soulstealer.vmdl
-# weapon: weapon_knife_karambit
-# skeleton: animation/skeletons/weapons/knife_karambit.vnmskel
-materials/models/custom_weapons/karambit_soulstealer/melee_soulstealer2_df_color_png_81779bef.vtex
-weapons/kolkazadrot/knife/valorant_kerambit/melee_soulstealer2_df.vmat
-weapons/custom/karambit_soulstealer/karambit_soulstealer.vmdl

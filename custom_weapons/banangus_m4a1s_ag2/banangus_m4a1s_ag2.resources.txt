@@ -1,7 +1,0 @@
-# cs2-model-converter: banangus_m4a1s_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/banangus_m4a1s_ag2/banangus_m4a1s_ag2.vmdl
-# weapon: weapon_m4a1
-# skeleton: animation/skeletons/weapons/m4a4.vnmskel
-weapons/nozb1/banangus_m4a1s/materials/banangus_m4a1s_png_e6d0ec64.vtex
-weapons/nozb1/banangus_m4a1s/materials/banangus.vmat
-weapons/custom/banangus_m4a1s_ag2/banangus_m4a1s_ag2.vmdl

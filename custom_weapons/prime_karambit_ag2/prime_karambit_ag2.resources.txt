@@ -1,9 +1,0 @@
-# cs2-model-converter: prime_karambit_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/prime_karambit_ag2/prime_karambit_ag2.vmdl
-# weapon: weapon_knife_karambit
-# skeleton: animation/skeletons/weapons/knife_karambit.vnmskel
-weapons/phase2/poncikmarket/prime_karambit/materials/melee_hypebeast2_aem_png_5c8e6af.vtex
-weapons/phase2/poncikmarket/prime_karambit/materials/melee_hypebeast2_df_png_bf7f3da0.vtex
-weapons/phase2/poncikmarket/prime_karambit/materials/melee_hypebeast2_nm_png_512e19e6.vtex
-weapons/phase2/poncikmarket/prime_karambit/materials/1.vmat
-weapons/custom/prime_karambit_ag2/prime_karambit_ag2.vmdl

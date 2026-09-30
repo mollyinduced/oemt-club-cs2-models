@@ -1,9 +1,0 @@
-# cs2-model-converter: the resources models/custom/guard1_2/guard1_2.vmdl needs, loaded in this order by the SDK
-# first person: 0 2 12 15
-materials/models/custom/guard1_2/brown_eye01_an_d_color_png_aeb8aa57.vtex
-materials/models/custom/guard1_2/brown_eye01_an_d.vmat
-materials/models/custom/guard1_2/npc_ryall_head_d_color_png_d9359937.vtex
-materials/models/custom/guard1_2/npc_ryall_head_d.vmat
-materials/models/custom/guard1_2/police_body_d_color_png_7d879b53.vtex
-materials/models/custom/guard1_2/police_body_d.vmat
-models/custom/guard1_2/guard1_2.vmdl

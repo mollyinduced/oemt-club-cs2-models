@@ -1,9 +1,0 @@
-# cs2-model-converter: v_bhsfdsrc, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/v_bhsfdsrc/v_bhsfdsrc.vmdl
-# weapon: weapon_knife_t
-# skeleton: animation/skeletons/weapons/knife_default_t.vnmskel
-materials/models/exg17/$20@004dgaxeex_v_n_png_77687e7b.vtex
-materials/models/exg17/$20@004dgaxeex_v_png_d8a8ef7e.vtex
-materials/models/exg17/$20@004dgaxeex_v_tga_cdfa699f.vtex
-materials/models/exg17/dgaxeex_v.vmat
-weapons/custom/v_bhsfdsrc/v_bhsfdsrc.vmdl

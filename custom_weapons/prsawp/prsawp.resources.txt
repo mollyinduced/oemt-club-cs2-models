@@ -1,8 +1,0 @@
-# cs2-model-converter: prsawp, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/prsawp/prsawp.vmdl
-# weapon: weapon_awp
-# skeleton: animation/skeletons/weapons/awp.vnmskel
-weapons/models/ub/prsawp/materials/weapons_models_awp_materials_weapon_snip_awp.vmat_basecolor_srgb_png_f942574d.vtex
-weapons/models/ub/prsawp/materials/weapons_models_awp_materials_weapon_snip_awp.vmat_normal_raw_png_3b7424fc.vtex
-weapons/models/ub/prsawp/materials/1.vmat
-weapons/custom/prsawp/prsawp.vmdl

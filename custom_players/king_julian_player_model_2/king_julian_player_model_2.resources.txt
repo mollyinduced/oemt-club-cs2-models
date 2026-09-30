@@ -1,9 +1,0 @@
-# cs2-model-converter: king_julian_player_model_2, installed as it is - the resources it needs, loaded in this order by the SDK
-# model: agents/models/ag2/king_julian_player_model/king_julian_player_model.vmdl
-# first person: 0 2 12 15
-agents/models/ag2/king_julian_player_model/materials/t_kingjulien_arm_png_e70dbb25.vtex
-agents/models/ag2/king_julian_player_model/materials/t_kingjulien_n_png_120c1e5a.vtex
-agents/models/ag2/king_julian_player_model/materials/t_kingjulien_n_vmat_g_tmetalness_531be579.vtex
-agents/models/ag2/king_julian_player_model/materials/t_kingjulien_png_8a978b2c.vtex
-agents/models/ag2/king_julian_player_model/materials/t_kingjulien_n.vmat
-agents/models/ag2/king_julian_player_model/king_julian_player_model.vmdl

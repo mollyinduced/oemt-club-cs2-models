@@ -1,5 +1,0 @@
-# cs2-model-converter: the resources models/custom/chisato_sk2modellimitedcolision_2/chisato_sk2modellimitedcolision_2.vmdl needs, loaded in this order by the SDK
-# first person: 0 2 12 15
-materials/models/custom/chisato_sk2modellimitedcolision_2/chisato_cs2_color_png_4ffdbc8a.vtex
-materials/models/custom/chisato_sk2modellimitedcolision_2/chisato_cs2.vmat
-models/custom/chisato_sk2modellimitedcolision_2/chisato_sk2modellimitedcolision_2.vmdl

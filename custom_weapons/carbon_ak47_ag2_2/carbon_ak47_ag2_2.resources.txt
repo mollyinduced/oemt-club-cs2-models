@@ -1,8 +1,0 @@
-# cs2-model-converter: carbon_ak47_ag2_2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/carbon_ak47_ag2_2/carbon_ak47_ag2_2.vmdl
-# weapon: weapon_ak47
-# skeleton: animation/skeletons/weapons/ak47.vnmskel
-weapons/nozb1/carbon_fiber/carbon_ak47/materials/ak_carbon_fiber_normal_png_203b9613.vtex
-weapons/nozb1/carbon_fiber/carbon_ak47/materials/skin_carbon_fiber_png_cc2624c3.vtex
-weapons/nozb1/carbon_fiber/carbon_ak47/materials/carbon_ak.vmat
-weapons/custom/carbon_ak47_ag2_2/carbon_ak47_ag2_2.vmdl

@@ -1,9 +1,0 @@
-# cs2-model-converter: lego_xm1014_ag2_2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/lego_xm1014_ag2_2/lego_xm1014_ag2_2.vmdl
-# weapon: weapon_xm1014
-# skeleton: animation/skeletons/weapons/xm1014.vnmskel
-weapons/nozb1/lego_pack/lego_xm1014/materials/outliners_vmat_g_tcolor_6b6e411d.vtex
-weapons/nozb1/lego_pack/lego_xm1014/materials/outliners.vmat
-weapons/nozb1/lego_pack/lego_xm1014/materials/blockas1_v_png_e5c449e0.vtex
-weapons/nozb1/lego_pack/lego_xm1014/materials/xm1404lego.vmat
-weapons/custom/lego_xm1014_ag2_2/lego_xm1014_ag2_2.vmdl

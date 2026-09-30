@@ -1,5 +1,0 @@
-# cs2-model-converter: the resources models/custom/booba_player_model_ag2/booba_player_model_ag2.vmdl needs, loaded in this order by the SDK
-# first person: 0 2 12 15
-materials/models/custom/booba_player_model_ag2/body_color_png_137046b3.vtex
-materials/models/custom/booba_player_model_ag2/body.vmat
-models/custom/booba_player_model_ag2/booba_player_model_ag2.vmdl

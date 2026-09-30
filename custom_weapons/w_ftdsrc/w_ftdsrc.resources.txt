@@ -1,9 +1,0 @@
-# cs2-model-converter: w_ftdsrc, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/w_ftdsrc/w_ftdsrc.vmdl
-# weapon: weapon_knife_cord
-# skeleton: animation/skeletons/weapons/knife_cord.vnmskel
-materials/models/exg30/melee_ashen_df_png_88bee33e.vtex
-materials/models/exg30/melee_ashen_nm_png_2bcff82f.vtex
-materials/models/exg30/melee_ashn_df_png_6bfcb7b1.vtex
-materials/models/exg30/melee_ashen_df.vmat
-weapons/custom/w_ftdsrc/w_ftdsrc.vmdl

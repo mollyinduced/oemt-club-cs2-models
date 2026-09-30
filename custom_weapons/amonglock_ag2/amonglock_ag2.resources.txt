@@ -1,8 +1,0 @@
-# cs2-model-converter: amonglock_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/amonglock_ag2/amonglock_ag2.vmdl
-# weapon: weapon_glock
-# skeleton: animation/skeletons/weapons/glock18.vnmskel
-weapons/nozb1/amonglock/materials/amonglock_png_83f31c78.vtex
-weapons/nozb1/amonglock/materials/amonglock_vmat_g_tnormal_a1e47e21.vtex
-weapons/nozb1/amonglock/materials/amonglock.vmat
-weapons/custom/amonglock_ag2/amonglock_ag2.vmdl

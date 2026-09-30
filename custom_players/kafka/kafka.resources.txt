@@ -1,8 +1,0 @@
-# cs2-model-converter: kafka, installed as it is - the resources it needs, loaded in this order by the SDK
-# model: characters/maoling/star_rail/kafka/kafka.vmdl
-characters/maoling/star_rail/kafka/swimwear/materials/kafka_textures_png_1d3742b5.vtex
-characters/maoling/star_rail/kafka/swimwear/materials/kafka_textures_vmat_g_tambientocclusion_34608cfa.vtex
-characters/maoling/star_rail/kafka/swimwear/materials/kafka_textures_vmat_g_tmetalness_75f9dd7f_png_c3931031.vtex
-characters/maoling/star_rail/kafka/swimwear/materials/kafka_textures_vmat_g_tnormal_2a25a1b8.vtex
-characters/maoling/star_rail/kafka/swimwear/materials/kafka_textures.vmat
-characters/maoling/star_rail/kafka/kafka.vmdl

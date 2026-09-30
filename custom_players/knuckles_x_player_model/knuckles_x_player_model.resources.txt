@@ -1,5 +1,0 @@
-# cs2-model-converter: the resources models/custom/knuckles_x_player_model/knuckles_x_player_model.vmdl needs, loaded in this order by the SDK
-# first person: 0 2 12 15
-materials/models/custom/knuckles_x_player_model/knuckles_x_color_png_d7928ba.vtex
-materials/models/custom/knuckles_x_player_model/knuckles_x.vmat
-models/custom/knuckles_x_player_model/knuckles_x_player_model.vmdl

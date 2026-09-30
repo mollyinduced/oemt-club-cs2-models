@@ -1,5 +1,0 @@
-# cs2-model-converter: the resources models/custom/plankton_player_model/plankton_player_model.vmdl needs, loaded in this order by the SDK
-# first person: 0 2 12 15
-materials/models/custom/plankton_player_model/plankton_diff_color_png_ab12d5d6.vtex
-materials/models/custom/plankton_player_model/plankton_diff.vmat
-models/custom/plankton_player_model/plankton_player_model.vmdl

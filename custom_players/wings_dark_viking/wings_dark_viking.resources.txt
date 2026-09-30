@@ -1,4 +1,0 @@
-# cs2-model-converter: the resources models/custom/wings_dark_viking/wings_dark_viking.vmdl needs, loaded in this order by the SDK
-materials/models/custom/wings_dark_viking/d_vikinkg_color_png_91dbec70.vtex
-materials/models/custom/wings_dark_viking/d_vikinkg.vmat
-models/custom/wings_dark_viking/wings_dark_viking.vmdl

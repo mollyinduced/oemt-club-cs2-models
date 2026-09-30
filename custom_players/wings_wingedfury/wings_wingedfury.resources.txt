@@ -1,4 +1,0 @@
-# cs2-model-converter: the resources models/custom/wings_wingedfury/wings_wingedfury.vmdl needs, loaded in this order by the SDK
-materials/models/custom/wings_wingedfury/fury_color_png_f01bfaf1.vtex
-materials/models/custom/wings_wingedfury/fury.vmat
-models/custom/wings_wingedfury/wings_wingedfury.vmdl

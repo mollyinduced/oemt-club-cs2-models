@@ -1,5 +1,0 @@
-# cs2-model-converter: the resources models/custom/frontman_2/frontman_2.vmdl needs, loaded in this order by the SDK
-# first person: 0 2 12 15
-materials/models/custom/frontman_2/front_color_png_f3ee3229.vtex
-materials/models/custom/frontman_2/front.vmat
-models/custom/frontman_2/frontman_2.vmdl

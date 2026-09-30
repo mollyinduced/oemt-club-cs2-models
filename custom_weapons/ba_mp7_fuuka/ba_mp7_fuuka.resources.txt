@@ -1,8 +1,0 @@
-# cs2-model-converter: ba_mp7_fuuka, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/ba_mp7_fuuka/ba_mp7_fuuka.vmdl
-# weapon: weapon_mp7
-# skeleton: animation/skeletons/weapons/mp7.vnmskel
-phase2/weapons/7ychu5/slot1/ba_mp7_fuuka/materials/default_obj_vmat_g_tnormal_c56d2bc2.vtex
-phase2/weapons/7ychu5/slot1/ba_mp7_fuuka/materials/fuuka_original_weapon_png_4f284289.vtex
-phase2/weapons/7ychu5/slot1/ba_mp7_fuuka/materials/default_obj.vmat
-weapons/custom/ba_mp7_fuuka/ba_mp7_fuuka.vmdl

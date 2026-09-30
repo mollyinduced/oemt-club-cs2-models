@@ -1,9 +1,0 @@
-# cs2-model-converter: trailblazer_bat_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/trailblazer_bat_ag2/trailblazer_bat_ag2.vmdl
-# weapon: weapon_knife_m9_bayonet
-# skeleton: animation/skeletons/weapons/knife_m9.vnmskel
-weapons/models/hsr_trailblazer/materials/bat_normal_png_1d6521a7.vtex
-weapons/models/hsr_trailblazer/materials/bat_png_bf862043.vtex
-weapons/models/hsr_trailblazer/materials/bat_vmat_g_tmetalness_9f3b3c84.vtex
-weapons/models/hsr_trailblazer/materials/bat.vmat
-weapons/custom/trailblazer_bat_ag2/trailblazer_bat_ag2.vmdl

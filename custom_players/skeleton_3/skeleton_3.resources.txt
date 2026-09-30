@@ -1,9 +1,0 @@
-# cs2-model-converter: skeleton_3, installed as it is - the resources it needs, loaded in this order by the SDK
-# model: agents/models/ag2/skeletons_player_model/skeleton_player_model_3/skeleton_3.vmdl
-# first person: 0 2 12 15
-agents/models/ag2/skeletons_player_model/skeleton_player_model_3/materials/base_mat_ao_png_dfecee6c.vtex
-agents/models/ag2/skeletons_player_model/skeleton_player_model_3/materials/base_mat_normal_png_efe0a8fb.vtex
-agents/models/ag2/skeletons_player_model/skeleton_player_model_3/materials/base_mat_png_25ea6de3.vtex
-agents/models/ag2/skeletons_player_model/skeleton_player_model_3/materials/base_mat_vmat_g_tmetalness_b99de324.vtex
-agents/models/ag2/skeletons_player_model/skeleton_player_model_3/materials/base_mat.vmat
-agents/models/ag2/skeletons_player_model/skeleton_player_model_3/skeleton_3.vmdl

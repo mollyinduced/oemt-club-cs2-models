@@ -1,9 +1,0 @@
-# cs2-model-converter: kukri_banana_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/kukri_banana_ag2/kukri_banana_ag2.vmdl
-# weapon: weapon_knife_kukri
-# skeleton: animation/skeletons/weapons/knife_kukri.vnmskel
-weapons/models/kukri_banana/materials/bananalow_banana_albedotransparency_png_9049bb87.vtex
-weapons/models/kukri_banana/materials/bananalow_banana_normal_png_546c3d1e.vtex
-weapons/models/kukri_banana/materials/kukri_banana_vmat_g_tmetalness_3353f50.vtex
-weapons/models/kukri_banana/materials/kukri_banana.vmat
-weapons/custom/kukri_banana_ag2/kukri_banana_ag2.vmdl

@@ -1,7 +1,0 @@
-# cs2-model-converter: the resources models/custom/trump/trump.vmdl needs, loaded in this order by the SDK
-# first person: 0 2 12 15
-materials/models/custom/trump/bare_arm_133_color_png_1f381017.vtex
-materials/models/custom/trump/bare_arm_133.vmat
-materials/models/custom/trump/trump_color_png_6b843d94.vtex
-materials/models/custom/trump/trump.vmat
-models/custom/trump/trump.vmdl

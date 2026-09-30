@@ -1,9 +1,0 @@
-# cs2-model-converter: v_ftdsrc, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/v_ftdsrc/v_ftdsrc.vmdl
-# weapon: weapon_knife_stiletto
-# skeleton: animation/skeletons/weapons/knife_stiletto.vnmskel
-materials/models/exg30/melee_ashen_df_png_88bee33e.vtex
-materials/models/exg30/melee_ashen_nm_png_2bcff82f.vtex
-materials/models/exg30/melee_ashn_df_png_6bfcb7b1.vtex
-materials/models/exg30/melee_ashen_df.vmat
-weapons/custom/v_ftdsrc/v_ftdsrc.vmdl

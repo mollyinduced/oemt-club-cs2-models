@@ -1,9 +1,0 @@
-# cs2-model-converter: killjoy_green, installed as it is - the resources it needs, loaded in this order by the SDK
-# model: characters/models/nozb1/killjoy_player_model/killjoy_green.vmdl
-# first person: 0 2 12 15
-characters/models/nozb1/killjoy_player_model/killjoy_green/body_vmorf.vtex
-characters/models/nozb1/killjoy_player_model/materials/body_green_png_65a0e1fb.vtex
-characters/models/nozb1/killjoy_player_model/materials/body_n_png_6ef5547a.vtex
-characters/models/nozb1/killjoy_player_model/materials/killjoy_green_vmat_g_tmetalness_b70f8f59.vtex
-characters/models/nozb1/killjoy_player_model/materials/killjoy_green.vmat
-characters/models/nozb1/killjoy_player_model/killjoy_green.vmdl

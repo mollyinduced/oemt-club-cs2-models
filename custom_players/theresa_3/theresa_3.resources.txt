@@ -1,8 +1,0 @@
-# cs2-model-converter: theresa_3, installed as it is - the resources it needs, loaded in this order by the SDK
-# model: characters/maoling/honkai_impact/theresa/starlit/theresa.vmdl
-characters/maoling/honkai_impact/theresa/starlit/materials/theresa_textures_png_a7c806a8.vtex
-characters/maoling/honkai_impact/theresa/starlit/materials/theresa_textures_vmat_g_tambientocclusion_34608cfa.vtex
-characters/maoling/honkai_impact/theresa/starlit/materials/theresa_textures_vmat_g_tmetalness_619f99fe_png_55722071.vtex
-characters/maoling/honkai_impact/theresa/starlit/materials/theresa_textures_vmat_g_tnormal_2a25a1b8.vtex
-characters/maoling/honkai_impact/theresa/starlit/materials/theresa_textures.vmat
-characters/maoling/honkai_impact/theresa/starlit/theresa.vmdl

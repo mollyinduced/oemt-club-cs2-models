@@ -1,5 +1,0 @@
-# cs2-model-converter: the resources models/custom/longniang/longniang.vmdl needs, loaded in this order by the SDK
-# first person: 0 2 12 15
-materials/models/custom/longniang/longniang_textures_color_png_d6c9430f.vtex
-materials/models/custom/longniang/longniang_textures.vmat
-models/custom/longniang/longniang.vmdl

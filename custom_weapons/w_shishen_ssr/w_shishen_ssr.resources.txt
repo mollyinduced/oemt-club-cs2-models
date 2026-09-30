@@ -1,9 +1,0 @@
-# cs2-model-converter: w_shishen_ssr, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/w_shishen_ssr/w_shishen_ssr.vmdl
-# weapon: weapon_knife_cord
-# skeleton: animation/skeletons/weapons/knife_cord.vnmskel
-materials/models/custom_weapons/w_shishen_ssr/phantomslasher_color_png_3626054c.vtex
-models/weapons/exg/shishen_color/phantomslasher.vmat
-materials/models/custom_weapons/w_shishen_ssr/phantomslasher2_color_png_f5ea2f91.vtex
-models/weapons/exg/shishen_color/phantomslasher2.vmat
-weapons/custom/w_shishen_ssr/w_shishen_ssr.vmdl

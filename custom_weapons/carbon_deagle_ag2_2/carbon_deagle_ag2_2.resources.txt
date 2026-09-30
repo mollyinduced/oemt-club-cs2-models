@@ -1,8 +1,0 @@
-# cs2-model-converter: carbon_deagle_ag2_2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/carbon_deagle_ag2_2/carbon_deagle_ag2_2.vmdl
-# weapon: weapon_deagle
-# skeleton: animation/skeletons/weapons/deagle.vnmskel
-weapons/nozb1/carbon_fiber/carbon_deagle/materials/skin_carbon_fiber_deagle_normal_png_d07d821c.vtex
-weapons/nozb1/carbon_fiber/carbon_deagle/materials/skin_carbon_fiber_deagle_png_327f7bd0.vtex
-weapons/nozb1/carbon_fiber/carbon_deagle/materials/carbon_dealge.vmat
-weapons/custom/carbon_deagle_ag2_2/carbon_deagle_ag2_2.vmdl

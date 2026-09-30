@@ -1,4 +1,0 @@
-# cs2-model-converter: amongus_2, installed as it is - the resources it needs, loaded in this order by the SDK
-# model: agents/models/reborn/amongus/amongus.vmdl
-# first person: 0 2 12 15
-agents/models/reborn/amongus/amongus.vmdl

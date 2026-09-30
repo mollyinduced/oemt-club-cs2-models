@@ -1,9 +1,0 @@
-# cs2-model-converter: train_minecraft_weapon_knife_m9, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/train_minecraft_weapon_knife_m9/train_minecraft_weapon_knife_m9.vmdl
-# weapon: weapon_knife_m9_bayonet
-# skeleton: animation/skeletons/weapons/knife_m9.vnmskel
-materials/kropsla/m9/m9_ao_png_fcea019c.vtex
-materials/kropsla/m9/m9_color_png_8ad27b5.vtex
-materials/kropsla/m9/m9_rough_png_61ce6f9a.vtex
-materials/kropsla/m9/m9_vanilla.vmat
-weapons/custom/train_minecraft_weapon_knife_m9/train_minecraft_weapon_knife_m9.vmdl

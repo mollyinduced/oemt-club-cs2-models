@@ -1,8 +1,0 @@
-# cs2-model-converter: muscular, installed as it is - the resources it needs, loaded in this order by the SDK
-# model: agents/models/reborn/muscular/muscular.vmdl
-# first person: 0 1 2 3
-agents/models/reborn/muscular/materials/body_vmat_g_tmetalness_b70f8f59.vtex
-agents/models/reborn/muscular/materials/body_vmat_g_tnormal_53b47c48.vtex
-agents/models/reborn/muscular/materials/image_0_png_4c971256_png_454dd57d.vtex
-agents/models/reborn/muscular/materials/body.vmat
-agents/models/reborn/muscular/muscular.vmdl

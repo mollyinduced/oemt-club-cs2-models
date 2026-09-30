@@ -1,7 +1,0 @@
-# cs2-model-converter: v_flashbang_mita, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/v_flashbang_mita/v_flashbang_mita.vmdl
-# weapon: weapon_flashbang
-# skeleton: animation/skeletons/weapons/flashbang.vnmskel
-weapons/kaesar/hoshistar/flashbang_mita/materials/chibimitakind_png_28620dcc.vtex
-weapons/kaesar/hoshistar/flashbang_mita/materials/chibimitakind.vmat
-weapons/custom/v_flashbang_mita/v_flashbang_mita.vmdl

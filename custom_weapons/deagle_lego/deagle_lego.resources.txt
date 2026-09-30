@@ -1,8 +1,0 @@
-# cs2-model-converter: deagle_lego, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/deagle_lego/deagle_lego.vmdl
-# weapon: weapon_deagle
-# skeleton: animation/skeletons/weapons/deagle.vnmskel
-models/kolka/deagle/deagle_lego_png_620c14d2.vtex
-models/kolka/deagle/deagle_lego_vmat_g_tnormal_53b47c48.vtex
-models/kolka/deagle/deagle_lego.vmat
-weapons/custom/deagle_lego/deagle_lego.vmdl

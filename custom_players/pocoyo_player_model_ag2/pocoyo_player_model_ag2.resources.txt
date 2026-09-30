@@ -1,7 +1,0 @@
-# cs2-model-converter: the resources models/custom/pocoyo_player_model_ag2/pocoyo_player_model_ag2.vmdl needs, loaded in this order by the SDK
-# first person: 0 2 12 15
-materials/models/custom/pocoyo_player_model_ag2/body_color_png_71532e7b.vtex
-materials/models/custom/pocoyo_player_model_ag2/body.vmat
-materials/models/custom/pocoyo_player_model_ag2/hands_color_png_e8d53bb1.vtex
-materials/models/custom/pocoyo_player_model_ag2/hands.vmat
-models/custom/pocoyo_player_model_ag2/pocoyo_player_model_ag2.vmdl

@@ -1,8 +1,0 @@
-# cs2-model-converter: frontman, installed as it is - the resources it needs, loaded in this order by the SDK
-# model: characters/models/kolka/fix_skins/frontman.vmdl
-# first person: 0 1 2 3
-characters/models/kolka/yooma/frontman/mat/sg_frontman_basecolor_png_1e124f56.vtex
-characters/models/kolka/yooma/frontman/mat/sg_frontman_metallic_png_562218ea.vtex
-characters/models/kolka/yooma/frontman/mat/sg_frontman_normal_png_e1001ce6.vtex
-characters/models/kolka/yooma/frontman/front.vmat
-characters/models/kolka/fix_skins/frontman.vmdl

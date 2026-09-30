@@ -1,9 +1,0 @@
-# cs2-model-converter: the resources models/custom/chucky_player_model/chucky_player_model.vmdl needs, loaded in this order by the SDK
-# first person: 0 2 12 15
-materials/models/custom/chucky_player_model/chucky_gray_color_png_66eca625.vtex
-materials/models/custom/chucky_player_model/chucky_gray.vmat
-materials/models/custom/chucky_player_model/chucky_hair_color_png_e32e4ed1.vtex
-materials/models/custom/chucky_player_model/chucky_hair.vmat
-materials/models/custom/chucky_player_model/chuckybody_mat_color_png_8ae221d7.vtex
-materials/models/custom/chucky_player_model/chuckybody_mat.vmat
-models/custom/chucky_player_model/chucky_player_model.vmdl

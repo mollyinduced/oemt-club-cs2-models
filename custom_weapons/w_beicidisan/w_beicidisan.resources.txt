@@ -1,7 +1,0 @@
-# cs2-model-converter: w_beicidisan, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/w_beicidisan/w_beicidisan.vmdl
-# weapon: weapon_knife_butterfly
-# skeleton: animation/skeletons/weapons/knife_butterfly.vnmskel
-materials/models/custom_weapons/w_beicidisan/cso_knife_color_png_f3d7c2ed.vtex
-models/weapons/exg/tokyocold/beice_new/cso_knife.vmat
-weapons/custom/w_beicidisan/w_beicidisan.vmdl

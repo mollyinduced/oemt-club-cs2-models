@@ -1,9 +1,0 @@
-# cs2-model-converter: kawaii_space_player_model, installed as it is - the resources it needs, loaded in this order by the SDK
-# model: agents/models/ag2/kawaii_space_player_model/kawaii_space_player_model.vmdl
-# first person: 0 2 12 15
-agents/models/ag2/kawaii_space_player_model/materials/lambert2_albedo_png_28dd87cf.vtex
-agents/models/ag2/kawaii_space_player_model/materials/lambert2_ao_png_da7cb30.vtex
-agents/models/ag2/kawaii_space_player_model/materials/lambert2_metallic_png_1b3e2aab.vtex
-agents/models/ag2/kawaii_space_player_model/materials/lambert2_normal_png_2c0ed386.vtex
-agents/models/ag2/kawaii_space_player_model/materials/kawaii_spaceman.vmat
-agents/models/ag2/kawaii_space_player_model/kawaii_space_player_model.vmdl

@@ -1,5 +1,0 @@
-# cs2-model-converter: the resources models/custom/dark_teletubbe_player_model/dark_teletubbe_player_model.vmdl needs, loaded in this order by the SDK
-# first person: 0 2 12 15
-materials/models/custom/dark_teletubbe_player_model/dark_teletubbe_mat_color_png_48223f31.vtex
-materials/models/custom/dark_teletubbe_player_model/dark_teletubbe_mat.vmat
-models/custom/dark_teletubbe_player_model/dark_teletubbe_player_model.vmdl

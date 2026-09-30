@@ -1,7 +1,0 @@
-# cs2-model-converter: v_knife_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/v_knife_ag2/v_knife_ag2.vmdl
-# weapon: weapon_knife_outdoor
-# skeleton: animation/skeletons/weapons/knife_outdoor.vnmskel
-weapons/nozb1/luna_pack/v_knife/materials/melee_rabbit_png_d0d1b4ba.vtex
-weapons/nozb1/luna_pack/v_knife/materials/rabbit_mat.vmat
-weapons/custom/v_knife_ag2/v_knife_ag2.vmdl

@@ -1,9 +1,0 @@
-# cs2-model-converter: knuckles_x_player_model_2, installed as it is - the resources it needs, loaded in this order by the SDK
-# model: characters/models/nozb1/knuckles_x_player_model/knuckles_x_player_model.vmdl
-# first person: 0 2 12 15
-characters/models/nozb1/knuckles_x_player_model/knuckles_x_player_model/body_vmorf.vtex
-characters/models/nozb1/knuckles_x_player_model/materials/knuckles_x_vmat_g_tmetalness_b70f8f59.vtex
-characters/models/nozb1/knuckles_x_player_model/materials/knucklestvseries_d_png_403a75da.vtex
-characters/models/nozb1/knuckles_x_player_model/materials/knucklestvseries_n_png_47ab8930.vtex
-characters/models/nozb1/knuckles_x_player_model/materials/knuckles_x.vmat
-characters/models/nozb1/knuckles_x_player_model/knuckles_x_player_model.vmdl

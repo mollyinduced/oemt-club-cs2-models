@@ -1,9 +1,0 @@
-# cs2-model-converter: neco_green_2, installed as it is - the resources it needs, loaded in this order by the SDK
-# model: characters/models/nozb1/necoarc_player_model/neco_green.vmdl
-# first person: 0 2 12 15
-characters/models/nozb1/necoarc_player_model/materials/neco_green_png_53e92f6e.vtex
-characters/models/nozb1/necoarc_player_model/materials/green.vmat
-characters/models/nozb1/necoarc_player_model/materials/neco_blyat_vmat_g_tcolor_809ec856.vtex
-characters/models/nozb1/necoarc_player_model/materials/neco_blyat.vmat
-characters/models/nozb1/necoarc_player_model/neco_green/body_vmorf.vtex
-characters/models/nozb1/necoarc_player_model/neco_green.vmdl

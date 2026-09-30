@@ -1,8 +1,0 @@
-# cs2-model-converter: v_xbsss, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/v_xbsss/v_xbsss.vmdl
-# weapon: weapon_knife_stiletto
-# skeleton: animation/skeletons/weapons/knife_stiletto.vnmskel
-materials/models/exg31/melee_alien_df_png_e68c765c.vtex
-materials/models/exg31/melee_alien_nm_png_ed463e3.vtex
-materials/models/exg31/melee_alien.vmat
-weapons/custom/v_xbsss/v_xbsss.vmdl

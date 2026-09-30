@@ -1,9 +1,0 @@
-# cs2-model-converter: fierce_deity_nohitbox, installed as it is - the resources it needs, loaded in this order by the SDK
-# model: agents/characters/models/otakku/fierce_deity/fierce_deity_nohitbox.vmdl
-# first person: 0 2 12 15
-agents/characters/models/otakku/fierce_deity/materials/0_png_39c3bfd5.vtex
-agents/characters/models/otakku/fierce_deity/materials/1_png_a8120b5a.vtex
-agents/characters/models/otakku/fierce_deity/materials/1_vmat_g_tambientocclusion_9782fd5c.vtex
-agents/characters/models/otakku/fierce_deity/materials/1_vmat_g_tmetalness_b99de324.vtex
-agents/characters/models/otakku/fierce_deity/materials/1.vmat
-agents/characters/models/otakku/fierce_deity/fierce_deity_nohitbox.vmdl

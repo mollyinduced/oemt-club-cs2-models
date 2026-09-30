@@ -1,9 +1,0 @@
-# cs2-model-converter: champion_karambit_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/champion_karambit_ag2/champion_karambit_ag2.vmdl
-# weapon: weapon_knife_karambit
-# skeleton: animation/skeletons/weapons/knife_karambit.vnmskel
-weapons/phase2/poncikmarket/champion_karambit/materials/melee_champions_aem_png_46cd805f.vtex
-weapons/phase2/poncikmarket/champion_karambit/materials/melee_champions_df_png_6627e1b1.vtex
-weapons/phase2/poncikmarket/champion_karambit/materials/melee_champions_nm_png_9845088c.vtex
-weapons/phase2/poncikmarket/champion_karambit/materials/champion.vmat
-weapons/custom/champion_karambit_ag2/champion_karambit_ag2.vmdl

@@ -1,4 +1,0 @@
-# cs2-model-converter: the resources models/custom/wings_vampire/wings_vampire.vmdl needs, loaded in this order by the SDK
-materials/models/custom/wings_vampire/vampire_color_png_a0e8fe4c.vtex
-materials/models/custom/wings_vampire/vampire.vmat
-models/custom/wings_vampire/wings_vampire.vmdl

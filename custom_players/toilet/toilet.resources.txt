@@ -1,9 +1,0 @@
-# cs2-model-converter: toilet, installed as it is - the resources it needs, loaded in this order by the SDK
-# model: characters/invalid_toilet/toilet.vmdl
-characters/invalid_kolasnik/texture/perchi_png_dd00f000.vtex
-characters/invalid_kolasnik/texture/perchi_vmat_g_tmetalness_b70f8f59.vtex
-characters/invalid_kolasnik/texture/perchi.vmat
-characters/invalid_toilet/texture/toilet_v2_png_5e417121.vtex
-characters/invalid_toilet/texture/toilet_vmat_g_tmetalness_b70f8f59.vtex
-characters/invalid_toilet/texture/toilet.vmat
-characters/invalid_toilet/toilet.vmdl

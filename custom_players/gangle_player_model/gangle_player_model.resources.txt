@@ -1,9 +1,0 @@
-# cs2-model-converter: the resources models/custom/gangle_player_model/gangle_player_model.vmdl needs, loaded in this order by the SDK
-# first person: 0 2 12 15
-materials/models/custom/gangle_player_model/gangle_black_color_png_fff63c2.vtex
-materials/models/custom/gangle_player_model/gangle_black.vmat
-materials/models/custom/gangle_player_model/gangle_red_color_png_19d64cb5.vtex
-materials/models/custom/gangle_player_model/gangle_red.vmat
-materials/models/custom/gangle_player_model/gangle_white_color_png_ba2915bd.vtex
-materials/models/custom/gangle_player_model/gangle_white.vmat
-models/custom/gangle_player_model/gangle_player_model.vmdl

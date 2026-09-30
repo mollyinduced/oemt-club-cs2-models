@@ -1,8 +1,0 @@
-# cs2-model-converter: hypebeast_vandal, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/hypebeast_vandal/hypebeast_vandal.vmdl
-# weapon: weapon_ak47
-# skeleton: animation/skeletons/weapons/ak47.vnmskel
-models/weapon/kolka/orbitpremium/ak/prima/textures/ak_hypebeast_df_png_4f535710.vtex
-models/weapon/kolka/orbitpremium/ak/prima/textures/ak_hypebeast_nm_png_1bc45415.vtex
-models/weapon/kolka/orbitpremium/ak/prima/textures/hypebeast.vmat
-weapons/custom/hypebeast_vandal/hypebeast_vandal.vmdl

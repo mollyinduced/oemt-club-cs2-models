@@ -1,8 +1,0 @@
-# cs2-model-converter: putin_player_model_3, installed as it is - the resources it needs, loaded in this order by the SDK
-# model: agents/models/ag2/putin_player_model/putin_player_model.vmdl
-# first person: 0 2 12 15
-agents/models/ag2/putin_player_model/materials/putin01_mat_normal_png_312bf6ed.vtex
-agents/models/ag2/putin_player_model/materials/putin01_mat_png_fb0ab3cc.vtex
-agents/models/ag2/putin_player_model/materials/putin_mat_vmat_g_tmetalness_b99de324.vtex
-agents/models/ag2/putin_player_model/materials/putin_mat.vmat
-agents/models/ag2/putin_player_model/putin_player_model.vmdl

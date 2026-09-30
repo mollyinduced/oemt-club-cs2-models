@@ -1,8 +1,0 @@
-# cs2-model-converter: the resources models/custom/emosmile_player_model/emosmile_player_model.vmdl needs, loaded in this order by the SDK
-materials/models/custom/emosmile_player_model/emosmile_mat_1_color_png_d56b5280.vtex
-materials/models/custom/emosmile_player_model/emosmile_mat_1.vmat
-materials/models/custom/emosmile_player_model/emosmile_mat_2_color_png_5704ee4.vtex
-materials/models/custom/emosmile_player_model/emosmile_mat_2.vmat
-materials/models/custom/emosmile_player_model/outliner_color_png_9d77000d.vtex
-materials/models/custom/emosmile_player_model/outliner.vmat
-models/custom/emosmile_player_model/emosmile_player_model.vmdl

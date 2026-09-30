@@ -1,5 +1,0 @@
-# cs2-model-converter: the resources models/custom/guard_circle_2/guard_circle_2.vmdl needs, loaded in this order by the SDK
-# first person: 0 2 12 15
-materials/models/custom/guard_circle_2/triangle_color_png_93ff21de.vtex
-materials/models/custom/guard_circle_2/triangle.vmat
-models/custom/guard_circle_2/guard_circle_2.vmdl

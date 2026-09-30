@@ -1,9 +1,0 @@
-# cs2-model-converter: train_minecraft_weapon_c4_mc, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/train_minecraft_weapon_c4_mc/train_minecraft_weapon_c4_mc.vmdl
-# weapon: weapon_c4
-# skeleton: animation/skeletons/weapons/c4.vnmskel
-materials/minecraft/c4/c4_diffuse_png_e1938f27.vtex
-materials/minecraft/c4/c4_normal_png_a7ccaec1.vtex
-materials/minecraft/c4/c4_rough_png_d4cbae5f.vtex
-materials/minecraft/c4/weapon_c4.vmat
-weapons/custom/train_minecraft_weapon_c4_mc/train_minecraft_weapon_c4_mc.vmdl

@@ -1,9 +1,0 @@
-# cs2-model-converter: ct_mclown_player_model_3, installed as it is - the resources it needs, loaded in this order by the SDK
-# model: characters/models/nozb1/mclown_player_model/ct_mclown_player_model.vmdl
-# first person: 0 2 12 15
-characters/models/nozb1/mclown_player_model/ct_mclown_player_model/body_vmorf.vtex
-characters/models/nozb1/mclown_player_model/materials/clown_d3_png_f13e86f7.vtex
-characters/models/nozb1/mclown_player_model/materials/clown_n1_png_eb3a94b2.vtex
-characters/models/nozb1/mclown_player_model/materials/clown_s1_png_1b450ea0.vtex
-characters/models/nozb1/mclown_player_model/materials/body_ct.vmat
-characters/models/nozb1/mclown_player_model/ct_mclown_player_model.vmdl

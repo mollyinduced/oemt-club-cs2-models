@@ -1,7 +1,0 @@
-# cs2-model-converter: cso_skull3_solo_ag2, a weapon model installed as it is - the resources it needs, loaded in this order by the SDK
-# model: weapons/models/ub/cso_skull3_solo/cso_skull3_solo_ag2.vmdl
-# weapon: weapon_skull3
-weapons/models/ub/cso_skull3_solo/materials/v_skull3_png_b843d43b.vtex
-weapons/models/ub/cso_skull3_solo/materials/v_skull3_vmat_g_tmetalness_685c187c.vtex
-weapons/models/ub/cso_skull3_solo/materials/v_skull3.vmat
-weapons/models/ub/cso_skull3_solo/cso_skull3_solo_ag2.vmdl

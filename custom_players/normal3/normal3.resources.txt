@@ -1,8 +1,0 @@
-# cs2-model-converter: the resources models/custom/normal3/normal3.vmdl needs, loaded in this order by the SDK
-materials/models/custom/normal3/body_color_png_ff8f79a3.vtex
-materials/models/custom/normal3/body.vmat
-materials/models/custom/normal3/face_color_png_b8baed4.vtex
-materials/models/custom/normal3/face.vmat
-materials/models/custom/normal3/newyear_ikun_base_color_png_71d59110.vtex
-materials/models/custom/normal3/newyear_ikun_base.vmat
-models/custom/normal3/normal3.vmdl

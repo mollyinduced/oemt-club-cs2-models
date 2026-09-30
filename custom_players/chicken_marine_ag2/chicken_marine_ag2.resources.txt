@@ -1,3 +1,0 @@
-# cs2-model-converter: chicken_marine_ag2, installed as it is - the resources it needs, loaded in this order by the SDK
-# model: phase2/characters/models/otakku/chicken_marine/chicken_marine_ag2.vmdl
-phase2/characters/models/otakku/chicken_marine/chicken_marine_ag2.vmdl

@@ -1,8 +1,0 @@
-# cs2-model-converter: blue_archive_gun_model_pack_weapon_snip_awp_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/blue_archive_gun_model_pack_weapon_snip_awp_ag2/blue_archive_gun_model_pack_weapon_snip_awp_ag2.vmdl
-# weapon: weapon_awp
-# skeleton: animation/skeletons/weapons/awp.vnmskel
-phase2/weapons/7ychu5/slot1/ba_awp_otogi/materials/ch0174_weapon_png_24f0feef.vtex
-phase2/weapons/7ychu5/slot1/ba_awp_otogi/materials/default_obj_vmat_g_tnormal_c56d2bc2.vtex
-phase2/weapons/7ychu5/slot1/ba_awp_otogi/materials/default_obj.vmat
-weapons/custom/blue_archive_gun_model_pack_weapon_snip_awp_ag2/blue_archive_gun_model_pack_weapon_snip_awp_ag2.vmdl

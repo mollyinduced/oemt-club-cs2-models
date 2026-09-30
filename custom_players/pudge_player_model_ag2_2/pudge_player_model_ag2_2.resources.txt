@@ -1,7 +1,0 @@
-# cs2-model-converter: pudge_player_model_ag2_2, installed as it is - the resources it needs, loaded in this order by the SDK
-# model: phase2/characters/models/deti00ykh/pudge_player_model/pudge_player_model_ag2.vmdl
-characters/models/deti00ykh/pudge_player_model/materials/lef_armd_vmat_g_tmetalness_b70f8f59.vtex
-characters/models/deti00ykh/pudge_player_model/materials/pudge_arms_color_png_615c6ade.vtex
-characters/models/deti00ykh/pudge_player_model/materials/pudge_arms_normal_png_2919f12d.vtex
-characters/models/deti00ykh/pudge_player_model/materials/lef_armd.vmat
-phase2/characters/models/deti00ykh/pudge_player_model/pudge_player_model_ag2.vmdl

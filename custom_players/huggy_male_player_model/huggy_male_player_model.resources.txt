@@ -1,7 +1,0 @@
-# cs2-model-converter: the resources models/custom/huggy_male_player_model/huggy_male_player_model.vmdl needs, loaded in this order by the SDK
-# first person: 0 2 12 15
-materials/models/custom/huggy_male_player_model/huggy_1_color_png_943a7ee0.vtex
-materials/models/custom/huggy_male_player_model/huggy_1.vmat
-materials/models/custom/huggy_male_player_model/huggy_2_color_png_36ec75aa.vtex
-materials/models/custom/huggy_male_player_model/huggy_2.vmat
-models/custom/huggy_male_player_model/huggy_male_player_model.vmdl

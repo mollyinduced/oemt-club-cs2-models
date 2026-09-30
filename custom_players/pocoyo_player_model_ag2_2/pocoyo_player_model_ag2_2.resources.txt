@@ -1,8 +1,0 @@
-# cs2-model-converter: pocoyo_player_model_ag2_2, installed as it is - the resources it needs, loaded in this order by the SDK
-# model: phase2/characters/models/deti00ykh/pocoyo_player_model/pocoyo_player_model_ag2.vmdl
-characters/models/deti00ykh/pocoyo_player_model/materials/body_vmat_g_tmetalness_10974e8a.vtex
-characters/models/deti00ykh/pocoyo_player_model/materials/pocbody_png_705fdcae.vtex
-characters/models/deti00ykh/pocoyo_player_model/materials/body.vmat
-characters/models/deti00ykh/pocoyo_player_model/materials/poc_skin_png_4f88a7c.vtex
-characters/models/deti00ykh/pocoyo_player_model/materials/hands.vmat
-phase2/characters/models/deti00ykh/pocoyo_player_model/pocoyo_player_model_ag2.vmdl

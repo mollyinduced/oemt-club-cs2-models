@@ -1,9 +1,0 @@
-# cs2-model-converter: train_minecraft_weapon_decoy_mc, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/train_minecraft_weapon_decoy_mc/train_minecraft_weapon_decoy_mc.vmdl
-# weapon: weapon_decoy
-# skeleton: animation/skeletons/weapons/decoy.vnmskel
-materials/minecraft/decoy/decoy_png_b137f633.vtex
-materials/minecraft/decoy/decoy_vmat_g_tnormal_f8264e14.vtex
-materials/minecraft/flashbang/flash_rough_png_97c7fa32.vtex
-materials/minecraft/decoy/decoy.vmat
-weapons/custom/train_minecraft_weapon_decoy_mc/train_minecraft_weapon_decoy_mc.vmdl

@@ -1,9 +1,0 @@
-# cs2-model-converter: knife_lx_katana_ag2_3, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/knife_lx_katana_ag2_3/knife_lx_katana_ag2_3.vmdl
-# weapon: weapon_knife_cord
-# skeleton: animation/skeletons/weapons/knife_cord.vnmskel
-materials/memni4ik/knife/katana_lx/katana_n_png_d95526e.vtex
-materials/memni4ik/knife/katana_lx/katana_png_90be3c4c.vtex
-materials/memni4ik/knife/katana_lx/lx1_katana_vmat_g_tselfillummask_a5002b58.vtex
-materials/memni4ik/knife/katana_lx/lx1_katana.vmat
-weapons/custom/knife_lx_katana_ag2_3/knife_lx_katana_ag2_3.vmdl

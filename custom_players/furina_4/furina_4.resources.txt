@@ -1,5 +1,0 @@
-# cs2-model-converter: the resources models/custom/furina_4/furina_4.vmdl needs, loaded in this order by the SDK
-# first person: 0 2 12 15
-materials/models/custom/furina_4/furina_textures_color_png_5386b5da.vtex
-materials/models/custom/furina_4/furina_textures.vmat
-models/custom/furina_4/furina_4.vmdl

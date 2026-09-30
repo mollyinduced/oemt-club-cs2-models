@@ -1,8 +1,0 @@
-# cs2-model-converter: ak47_sayalotus_ag2_2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/ak47_sayalotus_ag2_2/ak47_sayalotus_ag2_2.vmdl
-# weapon: weapon_ak47
-# skeleton: animation/skeletons/weapons/ak47.vnmskel
-weapons/models/2en0w/ak47_sayalotus/materials/ak47_saya_basecolor_base_color_png_14f860ba.vtex
-weapons/models/2en0w/ak47_sayalotus/materials/ak47_sayalotus_base_vmat_g_tnormal_c513e11a.vtex
-weapons/models/2en0w/ak47_sayalotus/materials/ak47_sayalotus_base.vmat
-weapons/custom/ak47_sayalotus_ag2_2/ak47_sayalotus_ag2_2.vmdl

@@ -1,8 +1,0 @@
-# cs2-model-converter: ba_ump45_kurumi, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/ba_ump45_kurumi/ba_ump45_kurumi.vmdl
-# weapon: weapon_ump45
-# skeleton: animation/skeletons/weapons/ump45.vnmskel
-phase2/weapons/7ychu5/slot1/ba_ump45_kurumi/materials/ch0173_weapon_png_d48faef4.vtex
-phase2/weapons/7ychu5/slot1/ba_ump45_kurumi/materials/default_obj_vmat_g_tmetalness_7ec6281b.vtex
-phase2/weapons/7ychu5/slot1/ba_ump45_kurumi/materials/default_obj.vmat
-weapons/custom/ba_ump45_kurumi/ba_ump45_kurumi.vmdl

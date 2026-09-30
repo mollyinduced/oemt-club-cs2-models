@@ -1,8 +1,0 @@
-# cs2-model-converter: ba_g3sg1_midori, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/ba_g3sg1_midori/ba_g3sg1_midori.vmdl
-# weapon: weapon_g3sg1
-# skeleton: animation/skeletons/weapons/g3sg1.vnmskel
-phase2/weapons/7ychu5/slot1/ba_g3sg1_midori/materials/default_obj_vmat_g_tnormal_c56d2bc2.vtex
-phase2/weapons/7ychu5/slot1/ba_g3sg1_midori/materials/midori_original_weapon_png_c6e5033b.vtex
-phase2/weapons/7ychu5/slot1/ba_g3sg1_midori/materials/default_obj.vmat
-weapons/custom/ba_g3sg1_midori/ba_g3sg1_midori.vmdl

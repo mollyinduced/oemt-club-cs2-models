@@ -1,8 +1,0 @@
-# cs2-model-converter: blue_archive_gun_model_pack_weapon_rif_famas_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/blue_archive_gun_model_pack_weapon_rif_famas_ag2/blue_archive_gun_model_pack_weapon_rif_famas_ag2.vmdl
-# weapon: weapon_famas
-# skeleton: animation/skeletons/weapons/famas.vnmskel
-phase2/weapons/7ychu5/slot1/ba_famas_asuna/materials/asuna_original_weapon_png_70dee445.vtex
-phase2/weapons/7ychu5/slot1/ba_famas_asuna/materials/default_obj_vmat_g_tnormal_53b47c48.vtex
-phase2/weapons/7ychu5/slot1/ba_famas_asuna/materials/default_obj.vmat
-weapons/custom/blue_archive_gun_model_pack_weapon_rif_famas_ag2/blue_archive_gun_model_pack_weapon_rif_famas_ag2.vmdl

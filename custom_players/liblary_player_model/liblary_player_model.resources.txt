@@ -1,9 +1,0 @@
-# cs2-model-converter: liblary_player_model, installed as it is - the resources it needs, loaded in this order by the SDK
-# model: agents/models/deti00ykh/liblary_player_model/liblary_player_model.vmdl
-# first person: 0 2 12 15
-agents/models/deti00ykh/liblary_player_model/liblary_player_model/body_vmorf.vtex
-agents/models/deti00ykh/liblary_player_model/materials/body_vmat_g_tmetalness_b70f8f59.vtex
-agents/models/deti00ykh/liblary_player_model/materials/image_0_png_aa2894d1.vtex
-agents/models/deti00ykh/liblary_player_model/materials/image_3_png_7bb11d42.vtex
-agents/models/deti00ykh/liblary_player_model/materials/body.vmat
-agents/models/deti00ykh/liblary_player_model/liblary_player_model.vmdl

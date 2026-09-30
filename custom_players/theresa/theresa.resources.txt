@@ -1,5 +1,0 @@
-# cs2-model-converter: the resources models/custom/theresa/theresa.vmdl needs, loaded in this order by the SDK
-# first person: 0 2 12 15
-materials/models/custom/theresa/theresa_textures_color_png_7058fa09.vtex
-materials/models/custom/theresa/theresa_textures.vmat
-models/custom/theresa/theresa.vmdl

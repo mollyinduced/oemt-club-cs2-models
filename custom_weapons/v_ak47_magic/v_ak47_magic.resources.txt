@@ -1,9 +1,0 @@
-# cs2-model-converter: v_ak47_magic, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/v_ak47_magic/v_ak47_magic.vmdl
-# weapon: weapon_ak47
-# skeleton: animation/skeletons/weapons/ak47.vnmskel
-models/weapons/exg/tokyocold/ak47_prin/ak47_prin_normal_tga_84e30e43.vtex
-models/weapons/exg/tokyocold/ak47_prin/ak47_prin_tga_f046816d.vtex
-models/weapons/exg/tokyocold/ak47_prin/ak47_prin_vmat_g_tselfillummask_6bc3c458.vtex
-models/weapons/exg/tokyocold/ak47_prin/ak47_prin.vmat
-weapons/custom/v_ak47_magic/v_ak47_magic.vmdl

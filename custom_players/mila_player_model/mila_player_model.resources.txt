@@ -1,7 +1,0 @@
-# cs2-model-converter: the resources models/custom/mila_player_model/mila_player_model.vmdl needs, loaded in this order by the SDK
-# first person: 0 2 12 15
-materials/models/custom/mila_player_model/mila_m_color_png_439fec74.vtex
-materials/models/custom/mila_player_model/mila_m.vmat
-materials/models/custom/mila_player_model/mila_wing_color_png_ffc77c24.vtex
-materials/models/custom/mila_player_model/mila_wing.vmat
-models/custom/mila_player_model/mila_player_model.vmdl

@@ -1,8 +1,0 @@
-# cs2-model-converter: ba_m4a4_chihiro, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/ba_m4a4_chihiro/ba_m4a4_chihiro.vmdl
-# weapon: weapon_m4a1
-# skeleton: animation/skeletons/weapons/m4a4.vnmskel
-phase2/weapons/7ychu5/slot1/ba_m4a4_chihiro/materials/ch0160_weapon_png_d8eff1e2.vtex
-phase2/weapons/7ychu5/slot1/ba_m4a4_chihiro/materials/default_obj_vmat_g_tmetalness_dfae0b86.vtex
-phase2/weapons/7ychu5/slot1/ba_m4a4_chihiro/materials/default_obj.vmat
-weapons/custom/ba_m4a4_chihiro/ba_m4a4_chihiro.vmdl

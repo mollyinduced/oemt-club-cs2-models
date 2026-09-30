@@ -1,9 +1,0 @@
-# cs2-model-converter: kanatli_hancer_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/kanatli_hancer_ag2/kanatli_hancer_ag2.vmdl
-# weapon: weapon_knife_m9_bayonet
-# skeleton: animation/skeletons/weapons/knife_m9.vnmskel
-weapons/phase2/poncikmarket/kanatli_hancer/materials/image_0_jpg_c8bfb872.vtex
-weapons/phase2/poncikmarket/kanatli_hancer/materials/image_1_jpg_ef3c0884.vtex
-weapons/phase2/poncikmarket/kanatli_hancer/materials/image_2_jpg_bff1da2b.vtex
-weapons/phase2/poncikmarket/kanatli_hancer/materials/1.vmat
-weapons/custom/kanatli_hancer_ag2/kanatli_hancer_ag2.vmdl

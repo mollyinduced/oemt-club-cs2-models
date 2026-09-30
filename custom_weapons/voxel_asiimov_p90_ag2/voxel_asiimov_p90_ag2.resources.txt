@@ -1,9 +1,0 @@
-# cs2-model-converter: voxel_asiimov_p90_ag2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/voxel_asiimov_p90_ag2/voxel_asiimov_p90_ag2.vmdl
-# weapon: weapon_p90
-# skeleton: animation/skeletons/weapons/p90.vnmskel
-weapons/nozb1/voxel_pack/voxel_asiimov_p90/materials/outlienrs_vmat_g_tcolor_6b6e411d.vtex
-weapons/nozb1/voxel_pack/voxel_asiimov_p90/materials/outlienrs.vmat
-weapons/nozb1/voxel_pack/voxel_asiimov_p90/materials/voxel_asiimov_p90_png_17f3a510.vtex
-weapons/nozb1/voxel_pack/voxel_asiimov_p90/materials/voxel_asiimov_p90.vmat
-weapons/custom/voxel_asiimov_p90_ag2/voxel_asiimov_p90_ag2.vmdl

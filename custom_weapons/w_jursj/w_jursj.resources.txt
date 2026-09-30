@@ -1,8 +1,0 @@
-# cs2-model-converter: w_jursj, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/w_jursj/w_jursj.vmdl
-# weapon: weapon_knife_cord
-# skeleton: animation/skeletons/weapons/knife_cord.vnmskel
-materials/models/exg18/cutter_v_n_png_41e2dd15.vtex
-materials/models/exg18/cutter_v_png_48ecc383.vtex
-materials/models/exg18/cutter_v.vmat
-weapons/custom/w_jursj/w_jursj.vmdl

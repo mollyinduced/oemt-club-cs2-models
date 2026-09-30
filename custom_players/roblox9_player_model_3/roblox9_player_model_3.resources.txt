@@ -1,7 +1,0 @@
-# cs2-model-converter: roblox9_player_model_3, installed as it is - the resources it needs, loaded in this order by the SDK
-# model: characters/models/nozb1/roblox9_player_model/roblox9_player_model.vmdl
-# first person: 0 2 12 15
-characters/models/nozb1/roblox9_player_model/materials/rob9_material_png_d91a7b78.vtex
-characters/models/nozb1/roblox9_player_model/materials/rob9_nl_png_d4dfd815.vtex
-characters/models/nozb1/roblox9_player_model/materials/rob9_mat_body.vmat
-characters/models/nozb1/roblox9_player_model/roblox9_player_model.vmdl

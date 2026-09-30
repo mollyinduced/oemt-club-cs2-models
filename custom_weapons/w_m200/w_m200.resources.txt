@@ -1,7 +1,0 @@
-# cs2-model-converter: w_m200, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/w_m200/w_m200.vmdl
-# weapon: weapon_awp
-# skeleton: animation/skeletons/weapons/awp.vnmskel
-models/weapons/exg/tokyocold/m200/b_tga_db6aeee2.vtex
-models/weapons/exg/tokyocold/m200/wm200.vmat
-weapons/custom/w_m200/w_m200.vmdl

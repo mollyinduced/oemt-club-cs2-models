@@ -1,9 +1,0 @@
-# cs2-model-converter: train_minecraft_weapon_knife_ursus, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/train_minecraft_weapon_knife_ursus/train_minecraft_weapon_knife_ursus.vmdl
-# weapon: weapon_knife_ursus
-# skeleton: animation/skeletons/weapons/knife_ursus.vnmskel
-materials/kropsla/sword/sword_ao_png_c387b71.vtex
-materials/kropsla/sword/sword_color_png_8b1d58e1.vtex
-materials/kropsla/sword/sword_rough_png_7b969e41.vtex
-materials/kropsla/sword/sword_wood.vmat
-weapons/custom/train_minecraft_weapon_knife_ursus/train_minecraft_weapon_knife_ursus.vmdl

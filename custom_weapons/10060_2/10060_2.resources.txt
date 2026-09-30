@@ -1,9 +1,0 @@
-# cs2-model-converter: 10060_2, a weapon model rebuilt onto today's skeleton - the resources it needs, loaded in this order by the SDK
-# model: weapons/custom/10060_2/10060_2.vmdl
-# weapon: weapon_knife_karambit
-# skeleton: animation/skeletons/weapons/knife_karambit.vnmskel
-phase2/weapons/exg/kb_print_ag2/karam_print_png_7140a60a.vtex
-phase2/weapons/exg/kb_print_ag2/kb_print_vmat_g_tmetalness_1266e6d4.vtex
-phase2/weapons/exg/kb_print_ag2/kb_print_vmat_g_tselfillummask_6fe33f99.vtex
-phase2/weapons/exg/kb_print_ag2/kb_print.vmat
-weapons/custom/10060_2/10060_2.vmdl
